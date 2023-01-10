@@ -15,4 +15,3 @@ col_data = df_data.columns = ['id', 'Clump Thickness', 'Uniformity of Cell Size'
 df_data['Bare Nuclei'] = df_data['Bare Nuclei'].replace('?',0).astype(int)
 df_data['Class'] = df_data['Class'].replace({2:0, 4:1})
 print(df_data)
-print(df_data)
