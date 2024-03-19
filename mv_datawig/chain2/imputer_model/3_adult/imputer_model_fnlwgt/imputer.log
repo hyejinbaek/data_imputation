@@ -1,0 +1,1120 @@
+2024-03-19 17:20:44,460 [INFO]  
+========== start: fit model
+2024-03-19 17:20:44,460 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:20:44,884 [INFO]  Epoch[0] Batch [0-733]	Speed: 27793.45 samples/sec	cross-entropy=0.385859	fnlwgt-accuracy=3.287466
+2024-03-19 17:20:45,289 [INFO]  Epoch[0] Train-cross-entropy=0.124110
+2024-03-19 17:20:45,289 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.202186
+2024-03-19 17:20:45,289 [INFO]  Epoch[0] Time cost=0.828
+2024-03-19 17:20:45,290 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:20:45,327 [INFO]  Epoch[0] Validation-cross-entropy=0.066981
+2024-03-19 17:20:45,327 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:20:45,734 [INFO]  Epoch[1] Batch [0-733]	Speed: 28900.33 samples/sec	cross-entropy=0.021841	fnlwgt-accuracy=3.287466
+2024-03-19 17:20:46,138 [INFO]  Epoch[1] Train-cross-entropy=0.096958
+2024-03-19 17:20:46,139 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.202186
+2024-03-19 17:20:46,139 [INFO]  Epoch[1] Time cost=0.811
+2024-03-19 17:20:46,140 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:20:46,177 [INFO]  Epoch[1] Validation-cross-entropy=0.085991
+2024-03-19 17:20:46,177 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:20:46,590 [INFO]  Epoch[2] Batch [0-733]	Speed: 28448.57 samples/sec	cross-entropy=0.013332	fnlwgt-accuracy=3.287466
+2024-03-19 17:20:46,994 [INFO]  Epoch[2] Train-cross-entropy=0.030536
+2024-03-19 17:20:46,994 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.202186
+2024-03-19 17:20:46,994 [INFO]  Epoch[2] Time cost=0.817
+2024-03-19 17:20:46,995 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:20:47,032 [INFO]  Epoch[2] Validation-cross-entropy=0.007557
+2024-03-19 17:20:47,032 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:20:47,454 [INFO]  Epoch[3] Batch [0-733]	Speed: 27860.07 samples/sec	cross-entropy=0.037730	fnlwgt-accuracy=3.287466
+2024-03-19 17:20:47,860 [INFO]  Epoch[3] Train-cross-entropy=0.010184
+2024-03-19 17:20:47,860 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.202186
+2024-03-19 17:20:47,860 [INFO]  Epoch[3] Time cost=0.827
+2024-03-19 17:20:47,861 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:20:47,898 [INFO]  Epoch[3] Validation-cross-entropy=0.012897
+2024-03-19 17:20:47,898 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:20:48,307 [INFO]  Epoch[4] Batch [0-733]	Speed: 28778.95 samples/sec	cross-entropy=0.010847	fnlwgt-accuracy=3.287466
+2024-03-19 17:20:48,719 [INFO]  Epoch[4] Train-cross-entropy=0.024739
+2024-03-19 17:20:48,719 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.202186
+2024-03-19 17:20:48,719 [INFO]  Epoch[4] Time cost=0.821
+2024-03-19 17:20:48,721 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:20:48,768 [INFO]  Epoch[4] Validation-cross-entropy=0.018931
+2024-03-19 17:20:48,768 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:20:48,768 [INFO]  
+========== done (4.308060646057129 s) fit model
+2024-03-19 17:22:08,986 [INFO]  
+========== start: fit model
+2024-03-19 17:22:08,986 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:22:09,419 [INFO]  Epoch[0] Batch [0-733]	Speed: 27216.36 samples/sec	cross-entropy=0.350812	fnlwgt-accuracy=0.000000
+2024-03-19 17:22:09,839 [INFO]  Epoch[0] Train-cross-entropy=0.186592
+2024-03-19 17:22:09,839 [INFO]  Epoch[0] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:22:09,840 [INFO]  Epoch[0] Time cost=0.853
+2024-03-19 17:22:09,841 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:22:09,879 [INFO]  Epoch[0] Validation-cross-entropy=0.043119
+2024-03-19 17:22:09,879 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:22:10,316 [INFO]  Epoch[1] Batch [0-733]	Speed: 26897.16 samples/sec	cross-entropy=0.015833	fnlwgt-accuracy=0.000000
+2024-03-19 17:22:10,746 [INFO]  Epoch[1] Train-cross-entropy=0.031585
+2024-03-19 17:22:10,746 [INFO]  Epoch[1] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:22:10,746 [INFO]  Epoch[1] Time cost=0.867
+2024-03-19 17:22:10,748 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:22:10,794 [INFO]  Epoch[1] Validation-cross-entropy=0.055476
+2024-03-19 17:22:10,794 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:22:11,262 [INFO]  Epoch[2] Batch [0-733]	Speed: 25096.58 samples/sec	cross-entropy=0.081701	fnlwgt-accuracy=0.000000
+2024-03-19 17:22:11,688 [INFO]  Epoch[2] Train-cross-entropy=0.002869
+2024-03-19 17:22:11,689 [INFO]  Epoch[2] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:22:11,689 [INFO]  Epoch[2] Time cost=0.895
+2024-03-19 17:22:11,690 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:22:11,728 [INFO]  Epoch[2] Validation-cross-entropy=0.035278
+2024-03-19 17:22:11,728 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:22:12,155 [INFO]  Epoch[3] Batch [0-733]	Speed: 27503.57 samples/sec	cross-entropy=0.024456	fnlwgt-accuracy=0.000000
+2024-03-19 17:22:12,590 [INFO]  Epoch[3] Train-cross-entropy=0.005765
+2024-03-19 17:22:12,590 [INFO]  Epoch[3] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:22:12,590 [INFO]  Epoch[3] Time cost=0.862
+2024-03-19 17:22:12,592 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:22:12,630 [INFO]  Epoch[3] Validation-cross-entropy=0.111967
+2024-03-19 17:22:12,630 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:22:13,057 [INFO]  Epoch[4] Batch [0-733]	Speed: 27536.94 samples/sec	cross-entropy=0.020972	fnlwgt-accuracy=0.000000
+2024-03-19 17:22:13,486 [INFO]  Epoch[4] Train-cross-entropy=0.008753
+2024-03-19 17:22:13,486 [INFO]  Epoch[4] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:22:13,486 [INFO]  Epoch[4] Time cost=0.856
+2024-03-19 17:22:13,488 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:22:13,525 [INFO]  Epoch[4] Validation-cross-entropy=0.426288
+2024-03-19 17:22:13,526 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:22:13,526 [INFO]  
+========== done (4.539807558059692 s) fit model
+2024-03-19 17:24:06,071 [INFO]  
+========== start: fit model
+2024-03-19 17:24:06,071 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:24:06,500 [INFO]  Epoch[0] Batch [0-733]	Speed: 27488.05 samples/sec	cross-entropy=0.519642	fnlwgt-accuracy=3.151226
+2024-03-19 17:24:06,996 [INFO]  Epoch[0] Train-cross-entropy=0.052494
+2024-03-19 17:24:06,996 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.240437
+2024-03-19 17:24:06,996 [INFO]  Epoch[0] Time cost=0.924
+2024-03-19 17:24:06,998 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:24:07,046 [INFO]  Epoch[0] Validation-cross-entropy=0.035183
+2024-03-19 17:24:07,046 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:24:07,501 [INFO]  Epoch[1] Batch [0-733]	Speed: 25807.81 samples/sec	cross-entropy=0.080803	fnlwgt-accuracy=3.151226
+2024-03-19 17:24:07,927 [INFO]  Epoch[1] Train-cross-entropy=0.020790
+2024-03-19 17:24:07,927 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.240437
+2024-03-19 17:24:07,927 [INFO]  Epoch[1] Time cost=0.881
+2024-03-19 17:24:07,929 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:24:07,966 [INFO]  Epoch[1] Validation-cross-entropy=0.015590
+2024-03-19 17:24:07,966 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:24:08,412 [INFO]  Epoch[2] Batch [0-733]	Speed: 26333.12 samples/sec	cross-entropy=0.016024	fnlwgt-accuracy=3.151226
+2024-03-19 17:24:08,875 [INFO]  Epoch[2] Train-cross-entropy=0.016623
+2024-03-19 17:24:08,875 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.240437
+2024-03-19 17:24:08,875 [INFO]  Epoch[2] Time cost=0.909
+2024-03-19 17:24:08,877 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:24:08,931 [INFO]  Epoch[2] Validation-cross-entropy=0.023856
+2024-03-19 17:24:08,931 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:24:09,356 [INFO]  Epoch[3] Batch [0-733]	Speed: 27618.66 samples/sec	cross-entropy=0.036432	fnlwgt-accuracy=3.151226
+2024-03-19 17:24:09,769 [INFO]  Epoch[3] Train-cross-entropy=0.026068
+2024-03-19 17:24:09,769 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.240437
+2024-03-19 17:24:09,769 [INFO]  Epoch[3] Time cost=0.839
+2024-03-19 17:24:09,771 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:24:09,808 [INFO]  Epoch[3] Validation-cross-entropy=0.004748
+2024-03-19 17:24:09,808 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:24:10,222 [INFO]  Epoch[4] Batch [0-733]	Speed: 28411.14 samples/sec	cross-entropy=0.010745	fnlwgt-accuracy=3.151226
+2024-03-19 17:24:10,647 [INFO]  Epoch[4] Train-cross-entropy=0.015811
+2024-03-19 17:24:10,647 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.240437
+2024-03-19 17:24:10,648 [INFO]  Epoch[4] Time cost=0.839
+2024-03-19 17:24:10,649 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:24:10,686 [INFO]  Epoch[4] Validation-cross-entropy=0.016509
+2024-03-19 17:24:10,686 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:24:10,686 [INFO]  
+========== done (4.61522364616394 s) fit model
+2024-03-19 17:24:50,450 [INFO]  
+========== start: fit model
+2024-03-19 17:24:50,451 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:24:50,870 [INFO]  Epoch[0] Batch [0-733]	Speed: 28132.42 samples/sec	cross-entropy=0.251694	fnlwgt-accuracy=3.238420
+2024-03-19 17:24:51,284 [INFO]  Epoch[0] Train-cross-entropy=0.019249
+2024-03-19 17:24:51,284 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.240437
+2024-03-19 17:24:51,284 [INFO]  Epoch[0] Time cost=0.832
+2024-03-19 17:24:51,286 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:24:51,323 [INFO]  Epoch[0] Validation-cross-entropy=0.009112
+2024-03-19 17:24:51,323 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:24:51,808 [INFO]  Epoch[1] Batch [0-733]	Speed: 24228.85 samples/sec	cross-entropy=0.015598	fnlwgt-accuracy=3.238420
+2024-03-19 17:24:52,219 [INFO]  Epoch[1] Train-cross-entropy=0.020564
+2024-03-19 17:24:52,219 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.240437
+2024-03-19 17:24:52,219 [INFO]  Epoch[1] Time cost=0.896
+2024-03-19 17:24:52,221 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:24:52,258 [INFO]  Epoch[1] Validation-cross-entropy=0.013429
+2024-03-19 17:24:52,258 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:24:52,669 [INFO]  Epoch[2] Batch [0-733]	Speed: 28624.03 samples/sec	cross-entropy=0.009247	fnlwgt-accuracy=3.238420
+2024-03-19 17:24:53,077 [INFO]  Epoch[2] Train-cross-entropy=0.018139
+2024-03-19 17:24:53,077 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.240437
+2024-03-19 17:24:53,077 [INFO]  Epoch[2] Time cost=0.819
+2024-03-19 17:24:53,079 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:24:53,116 [INFO]  Epoch[2] Validation-cross-entropy=0.005254
+2024-03-19 17:24:53,116 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:24:53,526 [INFO]  Epoch[3] Batch [0-733]	Speed: 28662.52 samples/sec	cross-entropy=0.002617	fnlwgt-accuracy=3.238420
+2024-03-19 17:24:53,933 [INFO]  Epoch[3] Train-cross-entropy=0.011655
+2024-03-19 17:24:53,933 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.240437
+2024-03-19 17:24:53,933 [INFO]  Epoch[3] Time cost=0.817
+2024-03-19 17:24:53,935 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:24:53,972 [INFO]  Epoch[3] Validation-cross-entropy=0.014966
+2024-03-19 17:24:53,972 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:24:54,419 [INFO]  Epoch[4] Batch [0-733]	Speed: 26258.75 samples/sec	cross-entropy=0.003262	fnlwgt-accuracy=3.238420
+2024-03-19 17:24:54,830 [INFO]  Epoch[4] Train-cross-entropy=0.011747
+2024-03-19 17:24:54,831 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.240437
+2024-03-19 17:24:54,831 [INFO]  Epoch[4] Time cost=0.859
+2024-03-19 17:24:54,832 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:24:54,874 [INFO]  Epoch[4] Validation-cross-entropy=0.002827
+2024-03-19 17:24:54,874 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:24:54,874 [INFO]  
+========== done (4.42336630821228 s) fit model
+2024-03-19 17:25:55,466 [INFO]  
+========== start: fit model
+2024-03-19 17:25:55,466 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:25:55,880 [INFO]  Epoch[0] Batch [0-733]	Speed: 28441.85 samples/sec	cross-entropy=0.126514	fnlwgt-accuracy=3.235695
+2024-03-19 17:25:56,290 [INFO]  Epoch[0] Train-cross-entropy=0.000620
+2024-03-19 17:25:56,290 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.263661
+2024-03-19 17:25:56,290 [INFO]  Epoch[0] Time cost=0.823
+2024-03-19 17:25:56,291 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:25:56,327 [INFO]  Epoch[0] Validation-cross-entropy=0.000266
+2024-03-19 17:25:56,327 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:25:56,746 [INFO]  Epoch[1] Batch [0-733]	Speed: 28060.15 samples/sec	cross-entropy=0.009190	fnlwgt-accuracy=3.235695
+2024-03-19 17:25:57,227 [INFO]  Epoch[1] Train-cross-entropy=0.001875
+2024-03-19 17:25:57,227 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.263661
+2024-03-19 17:25:57,227 [INFO]  Epoch[1] Time cost=0.899
+2024-03-19 17:25:57,228 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:25:57,265 [INFO]  Epoch[1] Validation-cross-entropy=0.000634
+2024-03-19 17:25:57,265 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:25:57,678 [INFO]  Epoch[2] Batch [0-733]	Speed: 28410.67 samples/sec	cross-entropy=0.014147	fnlwgt-accuracy=3.235695
+2024-03-19 17:25:58,087 [INFO]  Epoch[2] Train-cross-entropy=0.006867
+2024-03-19 17:25:58,087 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.263661
+2024-03-19 17:25:58,087 [INFO]  Epoch[2] Time cost=0.823
+2024-03-19 17:25:58,089 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:25:58,125 [INFO]  Epoch[2] Validation-cross-entropy=0.000590
+2024-03-19 17:25:58,125 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:25:58,536 [INFO]  Epoch[3] Batch [0-733]	Speed: 28583.51 samples/sec	cross-entropy=0.001074	fnlwgt-accuracy=3.235695
+2024-03-19 17:25:58,945 [INFO]  Epoch[3] Train-cross-entropy=0.020579
+2024-03-19 17:25:58,945 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.263661
+2024-03-19 17:25:58,945 [INFO]  Epoch[3] Time cost=0.820
+2024-03-19 17:25:58,947 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:25:58,983 [INFO]  Epoch[3] Validation-cross-entropy=0.000306
+2024-03-19 17:25:58,983 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:25:59,393 [INFO]  Epoch[4] Batch [0-733]	Speed: 28656.65 samples/sec	cross-entropy=0.000393	fnlwgt-accuracy=3.235695
+2024-03-19 17:25:59,800 [INFO]  Epoch[4] Train-cross-entropy=0.005654
+2024-03-19 17:25:59,800 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.263661
+2024-03-19 17:25:59,800 [INFO]  Epoch[4] Time cost=0.818
+2024-03-19 17:25:59,802 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:25:59,838 [INFO]  Epoch[4] Validation-cross-entropy=0.000323
+2024-03-19 17:25:59,838 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:25:59,838 [INFO]  
+========== done (4.372191429138184 s) fit model
+2024-03-19 17:27:43,738 [INFO]  
+========== start: fit model
+2024-03-19 17:27:43,738 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:27:44,164 [INFO]  Epoch[0] Batch [0-733]	Speed: 27705.37 samples/sec	cross-entropy=0.270642	fnlwgt-accuracy=3.178474
+2024-03-19 17:27:44,593 [INFO]  Epoch[0] Train-cross-entropy=0.024749
+2024-03-19 17:27:44,594 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.269126
+2024-03-19 17:27:44,594 [INFO]  Epoch[0] Time cost=0.854
+2024-03-19 17:27:44,595 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:27:44,633 [INFO]  Epoch[0] Validation-cross-entropy=0.018465
+2024-03-19 17:27:44,633 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:27:45,048 [INFO]  Epoch[1] Batch [0-733]	Speed: 28317.85 samples/sec	cross-entropy=0.027015	fnlwgt-accuracy=3.178474
+2024-03-19 17:27:45,460 [INFO]  Epoch[1] Train-cross-entropy=0.009109
+2024-03-19 17:27:45,460 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.269126
+2024-03-19 17:27:45,460 [INFO]  Epoch[1] Time cost=0.827
+2024-03-19 17:27:45,461 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:27:45,499 [INFO]  Epoch[1] Validation-cross-entropy=0.008773
+2024-03-19 17:27:45,499 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:27:45,911 [INFO]  Epoch[2] Batch [0-733]	Speed: 28491.81 samples/sec	cross-entropy=0.024525	fnlwgt-accuracy=3.178474
+2024-03-19 17:27:46,330 [INFO]  Epoch[2] Train-cross-entropy=0.005101
+2024-03-19 17:27:46,330 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.269126
+2024-03-19 17:27:46,330 [INFO]  Epoch[2] Time cost=0.831
+2024-03-19 17:27:46,332 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:27:46,369 [INFO]  Epoch[2] Validation-cross-entropy=0.008793
+2024-03-19 17:27:46,370 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:27:46,783 [INFO]  Epoch[3] Batch [0-733]	Speed: 28403.94 samples/sec	cross-entropy=0.019824	fnlwgt-accuracy=3.178474
+2024-03-19 17:27:47,227 [INFO]  Epoch[3] Train-cross-entropy=0.002017
+2024-03-19 17:27:47,227 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.269126
+2024-03-19 17:27:47,227 [INFO]  Epoch[3] Time cost=0.857
+2024-03-19 17:27:47,228 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:27:47,268 [INFO]  Epoch[3] Validation-cross-entropy=0.002669
+2024-03-19 17:27:47,268 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:27:47,685 [INFO]  Epoch[4] Batch [0-733]	Speed: 28222.98 samples/sec	cross-entropy=0.010335	fnlwgt-accuracy=3.178474
+2024-03-19 17:27:48,096 [INFO]  Epoch[4] Train-cross-entropy=0.003914
+2024-03-19 17:27:48,096 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.269126
+2024-03-19 17:27:48,096 [INFO]  Epoch[4] Time cost=0.828
+2024-03-19 17:27:48,098 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:27:48,136 [INFO]  Epoch[4] Validation-cross-entropy=0.000459
+2024-03-19 17:27:48,136 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:27:48,136 [INFO]  
+========== done (4.397745609283447 s) fit model
+2024-03-19 17:29:03,680 [INFO]  
+========== start: fit model
+2024-03-19 17:29:03,680 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:29:04,103 [INFO]  Epoch[0] Batch [0-733]	Speed: 27869.97 samples/sec	cross-entropy=0.346792	fnlwgt-accuracy=3.200272
+2024-03-19 17:29:04,518 [INFO]  Epoch[0] Train-cross-entropy=0.037899
+2024-03-19 17:29:04,518 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.293716
+2024-03-19 17:29:04,518 [INFO]  Epoch[0] Time cost=0.837
+2024-03-19 17:29:04,520 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:29:04,559 [INFO]  Epoch[0] Validation-cross-entropy=0.120338
+2024-03-19 17:29:04,559 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:29:04,995 [INFO]  Epoch[1] Batch [0-733]	Speed: 26908.85 samples/sec	cross-entropy=0.161275	fnlwgt-accuracy=3.200272
+2024-03-19 17:29:05,418 [INFO]  Epoch[1] Train-cross-entropy=0.070690
+2024-03-19 17:29:05,418 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.293716
+2024-03-19 17:29:05,418 [INFO]  Epoch[1] Time cost=0.860
+2024-03-19 17:29:05,420 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:29:05,461 [INFO]  Epoch[1] Validation-cross-entropy=0.023585
+2024-03-19 17:29:05,461 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:29:05,879 [INFO]  Epoch[2] Batch [0-733]	Speed: 28146.15 samples/sec	cross-entropy=0.011407	fnlwgt-accuracy=3.200272
+2024-03-19 17:29:06,289 [INFO]  Epoch[2] Train-cross-entropy=0.015203
+2024-03-19 17:29:06,289 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.293716
+2024-03-19 17:29:06,289 [INFO]  Epoch[2] Time cost=0.828
+2024-03-19 17:29:06,290 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:29:06,328 [INFO]  Epoch[2] Validation-cross-entropy=0.034669
+2024-03-19 17:29:06,328 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:29:06,740 [INFO]  Epoch[3] Batch [0-733]	Speed: 28545.48 samples/sec	cross-entropy=0.046199	fnlwgt-accuracy=3.200272
+2024-03-19 17:29:07,162 [INFO]  Epoch[3] Train-cross-entropy=0.008272
+2024-03-19 17:29:07,162 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.293716
+2024-03-19 17:29:07,162 [INFO]  Epoch[3] Time cost=0.833
+2024-03-19 17:29:07,163 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:29:07,204 [INFO]  Epoch[3] Validation-cross-entropy=0.015215
+2024-03-19 17:29:07,204 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:29:07,663 [INFO]  Epoch[4] Batch [0-733]	Speed: 25635.16 samples/sec	cross-entropy=0.018788	fnlwgt-accuracy=3.200272
+2024-03-19 17:29:08,131 [INFO]  Epoch[4] Train-cross-entropy=0.012196
+2024-03-19 17:29:08,131 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.293716
+2024-03-19 17:29:08,131 [INFO]  Epoch[4] Time cost=0.927
+2024-03-19 17:29:08,132 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:29:08,170 [INFO]  Epoch[4] Validation-cross-entropy=0.003430
+2024-03-19 17:29:08,170 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:29:08,170 [INFO]  
+========== done (4.4906744956970215 s) fit model
+2024-03-19 17:31:00,572 [INFO]  
+========== start: fit model
+2024-03-19 17:31:00,572 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:31:00,999 [INFO]  Epoch[0] Batch [0-733]	Speed: 27650.35 samples/sec	cross-entropy=0.532054	fnlwgt-accuracy=3.267030
+2024-03-19 17:31:01,421 [INFO]  Epoch[0] Train-cross-entropy=0.054495
+2024-03-19 17:31:01,421 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.251366
+2024-03-19 17:31:01,421 [INFO]  Epoch[0] Time cost=0.848
+2024-03-19 17:31:01,423 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:31:01,462 [INFO]  Epoch[0] Validation-cross-entropy=0.067493
+2024-03-19 17:31:01,462 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:31:01,878 [INFO]  Epoch[1] Batch [0-733]	Speed: 28260.49 samples/sec	cross-entropy=0.046083	fnlwgt-accuracy=3.267030
+2024-03-19 17:31:02,296 [INFO]  Epoch[1] Train-cross-entropy=0.030608
+2024-03-19 17:31:02,297 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.251366
+2024-03-19 17:31:02,297 [INFO]  Epoch[1] Time cost=0.834
+2024-03-19 17:31:02,298 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:31:02,345 [INFO]  Epoch[1] Validation-cross-entropy=0.028654
+2024-03-19 17:31:02,345 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:31:02,782 [INFO]  Epoch[2] Batch [0-733]	Speed: 26879.34 samples/sec	cross-entropy=0.037492	fnlwgt-accuracy=3.267030
+2024-03-19 17:31:03,200 [INFO]  Epoch[2] Train-cross-entropy=0.012017
+2024-03-19 17:31:03,201 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.251366
+2024-03-19 17:31:03,201 [INFO]  Epoch[2] Time cost=0.856
+2024-03-19 17:31:03,202 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:31:03,242 [INFO]  Epoch[2] Validation-cross-entropy=0.013553
+2024-03-19 17:31:03,242 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:31:03,661 [INFO]  Epoch[3] Batch [0-733]	Speed: 28028.50 samples/sec	cross-entropy=0.019881	fnlwgt-accuracy=3.267030
+2024-03-19 17:31:04,082 [INFO]  Epoch[3] Train-cross-entropy=0.016451
+2024-03-19 17:31:04,082 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.251366
+2024-03-19 17:31:04,082 [INFO]  Epoch[3] Time cost=0.840
+2024-03-19 17:31:04,084 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:31:04,123 [INFO]  Epoch[3] Validation-cross-entropy=0.004864
+2024-03-19 17:31:04,123 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:31:04,541 [INFO]  Epoch[4] Batch [0-733]	Speed: 28099.91 samples/sec	cross-entropy=0.012591	fnlwgt-accuracy=3.267030
+2024-03-19 17:31:04,960 [INFO]  Epoch[4] Train-cross-entropy=0.015376
+2024-03-19 17:31:04,960 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.251366
+2024-03-19 17:31:04,960 [INFO]  Epoch[4] Time cost=0.837
+2024-03-19 17:31:04,962 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:31:05,001 [INFO]  Epoch[4] Validation-cross-entropy=0.002329
+2024-03-19 17:31:05,001 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:31:05,001 [INFO]  
+========== done (4.428343772888184 s) fit model
+2024-03-19 17:31:30,548 [INFO]  
+========== start: fit model
+2024-03-19 17:31:30,548 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:31:30,966 [INFO]  Epoch[0] Batch [0-733]	Speed: 28189.07 samples/sec	cross-entropy=0.073573	fnlwgt-accuracy=3.230245
+2024-03-19 17:31:31,377 [INFO]  Epoch[0] Train-cross-entropy=0.006635
+2024-03-19 17:31:31,377 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.181694
+2024-03-19 17:31:31,377 [INFO]  Epoch[0] Time cost=0.828
+2024-03-19 17:31:31,379 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:31:31,415 [INFO]  Epoch[0] Validation-cross-entropy=0.013334
+2024-03-19 17:31:31,415 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:31:31,921 [INFO]  Epoch[1] Batch [0-733]	Speed: 23210.95 samples/sec	cross-entropy=0.004832	fnlwgt-accuracy=3.230245
+2024-03-19 17:31:32,417 [INFO]  Epoch[1] Train-cross-entropy=0.009271
+2024-03-19 17:31:32,417 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.181694
+2024-03-19 17:31:32,417 [INFO]  Epoch[1] Time cost=1.002
+2024-03-19 17:31:32,419 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:31:32,455 [INFO]  Epoch[1] Validation-cross-entropy=0.026012
+2024-03-19 17:31:32,455 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:31:32,913 [INFO]  Epoch[2] Batch [0-733]	Speed: 25641.11 samples/sec	cross-entropy=0.008572	fnlwgt-accuracy=3.230245
+2024-03-19 17:31:33,366 [INFO]  Epoch[2] Train-cross-entropy=0.004863
+2024-03-19 17:31:33,366 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.181694
+2024-03-19 17:31:33,366 [INFO]  Epoch[2] Time cost=0.911
+2024-03-19 17:31:33,367 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:31:33,403 [INFO]  Epoch[2] Validation-cross-entropy=0.000757
+2024-03-19 17:31:33,404 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:31:33,833 [INFO]  Epoch[3] Batch [0-733]	Speed: 27376.69 samples/sec	cross-entropy=0.027997	fnlwgt-accuracy=3.230245
+2024-03-19 17:31:34,308 [INFO]  Epoch[3] Train-cross-entropy=0.000295
+2024-03-19 17:31:34,308 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.181694
+2024-03-19 17:31:34,308 [INFO]  Epoch[3] Time cost=0.904
+2024-03-19 17:31:34,309 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:31:34,345 [INFO]  Epoch[3] Validation-cross-entropy=0.000107
+2024-03-19 17:31:34,345 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:31:34,808 [INFO]  Epoch[4] Batch [0-733]	Speed: 25370.60 samples/sec	cross-entropy=0.000175	fnlwgt-accuracy=3.230245
+2024-03-19 17:31:35,343 [INFO]  Epoch[4] Train-cross-entropy=0.012352
+2024-03-19 17:31:35,343 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.181694
+2024-03-19 17:31:35,343 [INFO]  Epoch[4] Time cost=0.998
+2024-03-19 17:31:35,344 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:31:35,391 [INFO]  Epoch[4] Validation-cross-entropy=0.000073
+2024-03-19 17:31:35,391 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:31:35,391 [INFO]  
+========== done (4.842751741409302 s) fit model
+2024-03-19 17:33:37,670 [INFO]  
+========== start: fit model
+2024-03-19 17:33:37,670 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:33:38,111 [INFO]  Epoch[0] Batch [0-733]	Speed: 26741.24 samples/sec	cross-entropy=0.572422	fnlwgt-accuracy=3.237057
+2024-03-19 17:33:38,527 [INFO]  Epoch[0] Train-cross-entropy=0.049700
+2024-03-19 17:33:38,527 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.243169
+2024-03-19 17:33:38,527 [INFO]  Epoch[0] Time cost=0.856
+2024-03-19 17:33:38,529 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:33:38,568 [INFO]  Epoch[0] Validation-cross-entropy=0.041935
+2024-03-19 17:33:38,568 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:33:39,017 [INFO]  Epoch[1] Batch [0-733]	Speed: 26134.46 samples/sec	cross-entropy=0.060854	fnlwgt-accuracy=3.237057
+2024-03-19 17:33:39,436 [INFO]  Epoch[1] Train-cross-entropy=0.022188
+2024-03-19 17:33:39,436 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.243169
+2024-03-19 17:33:39,436 [INFO]  Epoch[1] Time cost=0.868
+2024-03-19 17:33:39,438 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:33:39,476 [INFO]  Epoch[1] Validation-cross-entropy=0.026362
+2024-03-19 17:33:39,476 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:33:39,887 [INFO]  Epoch[2] Batch [0-733]	Speed: 28548.51 samples/sec	cross-entropy=0.049895	fnlwgt-accuracy=3.237057
+2024-03-19 17:33:40,305 [INFO]  Epoch[2] Train-cross-entropy=0.014434
+2024-03-19 17:33:40,306 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.243169
+2024-03-19 17:33:40,306 [INFO]  Epoch[2] Time cost=0.830
+2024-03-19 17:33:40,307 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:33:40,346 [INFO]  Epoch[2] Validation-cross-entropy=0.005877
+2024-03-19 17:33:40,346 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:33:40,757 [INFO]  Epoch[3] Batch [0-733]	Speed: 28537.99 samples/sec	cross-entropy=0.022148	fnlwgt-accuracy=3.237057
+2024-03-19 17:33:41,169 [INFO]  Epoch[3] Train-cross-entropy=0.016516
+2024-03-19 17:33:41,170 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.243169
+2024-03-19 17:33:41,170 [INFO]  Epoch[3] Time cost=0.824
+2024-03-19 17:33:41,171 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:33:41,210 [INFO]  Epoch[3] Validation-cross-entropy=0.005698
+2024-03-19 17:33:41,210 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:33:41,621 [INFO]  Epoch[4] Batch [0-733]	Speed: 28571.58 samples/sec	cross-entropy=0.013155	fnlwgt-accuracy=3.237057
+2024-03-19 17:33:42,032 [INFO]  Epoch[4] Train-cross-entropy=0.025308
+2024-03-19 17:33:42,032 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.243169
+2024-03-19 17:33:42,032 [INFO]  Epoch[4] Time cost=0.823
+2024-03-19 17:33:42,034 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:33:42,072 [INFO]  Epoch[4] Validation-cross-entropy=0.002268
+2024-03-19 17:33:42,072 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:33:42,072 [INFO]  
+========== done (4.402389049530029 s) fit model
+2024-03-19 17:35:10,529 [INFO]  
+========== start: fit model
+2024-03-19 17:35:10,529 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:35:10,972 [INFO]  Epoch[0] Batch [0-733]	Speed: 26600.56 samples/sec	cross-entropy=0.579859	fnlwgt-accuracy=3.245232
+2024-03-19 17:35:11,390 [INFO]  Epoch[0] Train-cross-entropy=0.040096
+2024-03-19 17:35:11,390 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.219945
+2024-03-19 17:35:11,390 [INFO]  Epoch[0] Time cost=0.860
+2024-03-19 17:35:11,391 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:35:11,430 [INFO]  Epoch[0] Validation-cross-entropy=0.034477
+2024-03-19 17:35:11,430 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:35:11,847 [INFO]  Epoch[1] Batch [0-733]	Speed: 28180.57 samples/sec	cross-entropy=0.030203	fnlwgt-accuracy=3.245232
+2024-03-19 17:35:12,280 [INFO]  Epoch[1] Train-cross-entropy=0.025478
+2024-03-19 17:35:12,280 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.219945
+2024-03-19 17:35:12,280 [INFO]  Epoch[1] Time cost=0.850
+2024-03-19 17:35:12,281 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:35:12,319 [INFO]  Epoch[1] Validation-cross-entropy=0.021759
+2024-03-19 17:35:12,320 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:35:12,736 [INFO]  Epoch[2] Batch [0-733]	Speed: 28235.62 samples/sec	cross-entropy=0.048640	fnlwgt-accuracy=3.245232
+2024-03-19 17:35:13,152 [INFO]  Epoch[2] Train-cross-entropy=0.016954
+2024-03-19 17:35:13,152 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.219945
+2024-03-19 17:35:13,152 [INFO]  Epoch[2] Time cost=0.832
+2024-03-19 17:35:13,153 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:35:13,192 [INFO]  Epoch[2] Validation-cross-entropy=0.009942
+2024-03-19 17:35:13,192 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:35:13,637 [INFO]  Epoch[3] Batch [0-733]	Speed: 26392.40 samples/sec	cross-entropy=0.026886	fnlwgt-accuracy=3.245232
+2024-03-19 17:35:14,049 [INFO]  Epoch[3] Train-cross-entropy=0.007048
+2024-03-19 17:35:14,050 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.219945
+2024-03-19 17:35:14,050 [INFO]  Epoch[3] Time cost=0.858
+2024-03-19 17:35:14,051 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:35:14,089 [INFO]  Epoch[3] Validation-cross-entropy=0.028414
+2024-03-19 17:35:14,089 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:35:14,501 [INFO]  Epoch[4] Batch [0-733]	Speed: 28537.07 samples/sec	cross-entropy=0.034930	fnlwgt-accuracy=3.245232
+2024-03-19 17:35:14,913 [INFO]  Epoch[4] Train-cross-entropy=0.003883
+2024-03-19 17:35:14,913 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.219945
+2024-03-19 17:35:14,913 [INFO]  Epoch[4] Time cost=0.824
+2024-03-19 17:35:14,914 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:35:14,958 [INFO]  Epoch[4] Validation-cross-entropy=0.003900
+2024-03-19 17:35:14,958 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:35:14,958 [INFO]  
+========== done (4.429677248001099 s) fit model
+2024-03-19 17:36:18,717 [INFO]  
+========== start: fit model
+2024-03-19 17:36:18,717 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:36:19,181 [INFO]  Epoch[0] Batch [0-733]	Speed: 25409.41 samples/sec	cross-entropy=0.536075	fnlwgt-accuracy=0.000000
+2024-03-19 17:36:19,596 [INFO]  Epoch[0] Train-cross-entropy=0.072137
+2024-03-19 17:36:19,596 [INFO]  Epoch[0] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:36:19,596 [INFO]  Epoch[0] Time cost=0.878
+2024-03-19 17:36:19,597 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:36:19,636 [INFO]  Epoch[0] Validation-cross-entropy=0.019492
+2024-03-19 17:36:19,636 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:36:20,101 [INFO]  Epoch[1] Batch [0-733]	Speed: 25290.85 samples/sec	cross-entropy=0.039213	fnlwgt-accuracy=0.000000
+2024-03-19 17:36:20,516 [INFO]  Epoch[1] Train-cross-entropy=0.012517
+2024-03-19 17:36:20,516 [INFO]  Epoch[1] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:36:20,516 [INFO]  Epoch[1] Time cost=0.880
+2024-03-19 17:36:20,517 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:36:20,568 [INFO]  Epoch[1] Validation-cross-entropy=0.007348
+2024-03-19 17:36:20,568 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:36:21,017 [INFO]  Epoch[2] Batch [0-733]	Speed: 26209.68 samples/sec	cross-entropy=0.032407	fnlwgt-accuracy=0.000000
+2024-03-19 17:36:21,441 [INFO]  Epoch[2] Train-cross-entropy=0.006951
+2024-03-19 17:36:21,441 [INFO]  Epoch[2] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:36:21,441 [INFO]  Epoch[2] Time cost=0.872
+2024-03-19 17:36:21,443 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:36:21,493 [INFO]  Epoch[2] Validation-cross-entropy=0.004271
+2024-03-19 17:36:21,493 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:36:21,905 [INFO]  Epoch[3] Batch [0-733]	Speed: 28511.76 samples/sec	cross-entropy=0.025721	fnlwgt-accuracy=0.000000
+2024-03-19 17:36:22,323 [INFO]  Epoch[3] Train-cross-entropy=0.011521
+2024-03-19 17:36:22,323 [INFO]  Epoch[3] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:36:22,323 [INFO]  Epoch[3] Time cost=0.830
+2024-03-19 17:36:22,325 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:36:22,364 [INFO]  Epoch[3] Validation-cross-entropy=0.005734
+2024-03-19 17:36:22,364 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:36:22,775 [INFO]  Epoch[4] Batch [0-733]	Speed: 28582.13 samples/sec	cross-entropy=0.015035	fnlwgt-accuracy=0.000000
+2024-03-19 17:36:23,186 [INFO]  Epoch[4] Train-cross-entropy=0.007324
+2024-03-19 17:36:23,186 [INFO]  Epoch[4] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:36:23,186 [INFO]  Epoch[4] Time cost=0.822
+2024-03-19 17:36:23,188 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:36:23,227 [INFO]  Epoch[4] Validation-cross-entropy=0.003222
+2024-03-19 17:36:23,227 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:36:23,227 [INFO]  
+========== done (4.510279417037964 s) fit model
+2024-03-19 17:37:42,379 [INFO]  
+========== start: fit model
+2024-03-19 17:37:42,379 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:37:42,796 [INFO]  Epoch[0] Batch [0-733]	Speed: 28277.74 samples/sec	cross-entropy=0.464953	fnlwgt-accuracy=3.339237
+2024-03-19 17:37:43,279 [INFO]  Epoch[0] Train-cross-entropy=0.068608
+2024-03-19 17:37:43,279 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.224044
+2024-03-19 17:37:43,279 [INFO]  Epoch[0] Time cost=0.899
+2024-03-19 17:37:43,280 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:37:43,322 [INFO]  Epoch[0] Validation-cross-entropy=0.030208
+2024-03-19 17:37:43,322 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:37:43,769 [INFO]  Epoch[1] Batch [0-733]	Speed: 26284.62 samples/sec	cross-entropy=0.086260	fnlwgt-accuracy=3.339237
+2024-03-19 17:37:44,224 [INFO]  Epoch[1] Train-cross-entropy=0.018668
+2024-03-19 17:37:44,225 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.224044
+2024-03-19 17:37:44,225 [INFO]  Epoch[1] Time cost=0.903
+2024-03-19 17:37:44,226 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:37:44,265 [INFO]  Epoch[1] Validation-cross-entropy=0.017109
+2024-03-19 17:37:44,265 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:37:44,676 [INFO]  Epoch[2] Batch [0-733]	Speed: 28617.72 samples/sec	cross-entropy=0.047455	fnlwgt-accuracy=3.339237
+2024-03-19 17:37:45,085 [INFO]  Epoch[2] Train-cross-entropy=0.013543
+2024-03-19 17:37:45,085 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.224044
+2024-03-19 17:37:45,086 [INFO]  Epoch[2] Time cost=0.820
+2024-03-19 17:37:45,087 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:37:45,126 [INFO]  Epoch[2] Validation-cross-entropy=0.008074
+2024-03-19 17:37:45,126 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:37:45,537 [INFO]  Epoch[3] Batch [0-733]	Speed: 28606.39 samples/sec	cross-entropy=0.036194	fnlwgt-accuracy=3.339237
+2024-03-19 17:37:45,946 [INFO]  Epoch[3] Train-cross-entropy=0.013121
+2024-03-19 17:37:45,946 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.224044
+2024-03-19 17:37:45,946 [INFO]  Epoch[3] Time cost=0.820
+2024-03-19 17:37:45,948 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:37:45,987 [INFO]  Epoch[3] Validation-cross-entropy=0.003763
+2024-03-19 17:37:45,987 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:37:46,406 [INFO]  Epoch[4] Batch [0-733]	Speed: 28005.74 samples/sec	cross-entropy=0.017478	fnlwgt-accuracy=3.339237
+2024-03-19 17:37:46,816 [INFO]  Epoch[4] Train-cross-entropy=0.004856
+2024-03-19 17:37:46,816 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.224044
+2024-03-19 17:37:46,816 [INFO]  Epoch[4] Time cost=0.829
+2024-03-19 17:37:46,817 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:37:46,857 [INFO]  Epoch[4] Validation-cross-entropy=0.003846
+2024-03-19 17:37:46,857 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:37:46,857 [INFO]  
+========== done (4.478667736053467 s) fit model
+2024-03-19 17:39:02,012 [INFO]  
+========== start: fit model
+2024-03-19 17:39:02,012 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:39:02,542 [INFO]  Epoch[0] Batch [0-733]	Speed: 22250.07 samples/sec	cross-entropy=0.587613	fnlwgt-accuracy=3.207084
+2024-03-19 17:39:02,966 [INFO]  Epoch[0] Train-cross-entropy=0.107007
+2024-03-19 17:39:02,966 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.263661
+2024-03-19 17:39:02,966 [INFO]  Epoch[0] Time cost=0.953
+2024-03-19 17:39:02,968 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:39:03,007 [INFO]  Epoch[0] Validation-cross-entropy=0.013125
+2024-03-19 17:39:03,007 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:39:03,426 [INFO]  Epoch[1] Batch [0-733]	Speed: 28010.61 samples/sec	cross-entropy=0.012209	fnlwgt-accuracy=3.207084
+2024-03-19 17:39:03,843 [INFO]  Epoch[1] Train-cross-entropy=0.012819
+2024-03-19 17:39:03,843 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.263661
+2024-03-19 17:39:03,843 [INFO]  Epoch[1] Time cost=0.836
+2024-03-19 17:39:03,844 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:39:03,884 [INFO]  Epoch[1] Validation-cross-entropy=0.009843
+2024-03-19 17:39:03,884 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:39:04,320 [INFO]  Epoch[2] Batch [0-733]	Speed: 26955.80 samples/sec	cross-entropy=0.092783	fnlwgt-accuracy=3.207084
+2024-03-19 17:39:04,733 [INFO]  Epoch[2] Train-cross-entropy=0.010701
+2024-03-19 17:39:04,733 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.263661
+2024-03-19 17:39:04,733 [INFO]  Epoch[2] Time cost=0.849
+2024-03-19 17:39:04,735 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:39:04,790 [INFO]  Epoch[2] Validation-cross-entropy=0.005807
+2024-03-19 17:39:04,790 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:39:05,208 [INFO]  Epoch[3] Batch [0-733]	Speed: 28096.55 samples/sec	cross-entropy=0.005505	fnlwgt-accuracy=3.207084
+2024-03-19 17:39:05,619 [INFO]  Epoch[3] Train-cross-entropy=0.008544
+2024-03-19 17:39:05,619 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.263661
+2024-03-19 17:39:05,619 [INFO]  Epoch[3] Time cost=0.829
+2024-03-19 17:39:05,621 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:39:05,662 [INFO]  Epoch[3] Validation-cross-entropy=0.004996
+2024-03-19 17:39:05,662 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:39:06,098 [INFO]  Epoch[4] Batch [0-733]	Speed: 26978.09 samples/sec	cross-entropy=0.017894	fnlwgt-accuracy=3.207084
+2024-03-19 17:39:06,513 [INFO]  Epoch[4] Train-cross-entropy=0.020764
+2024-03-19 17:39:06,513 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.263661
+2024-03-19 17:39:06,513 [INFO]  Epoch[4] Time cost=0.851
+2024-03-19 17:39:06,515 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:39:06,561 [INFO]  Epoch[4] Validation-cross-entropy=0.002490
+2024-03-19 17:39:06,561 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:39:06,561 [INFO]  
+========== done (4.548882722854614 s) fit model
+2024-03-19 17:39:56,471 [INFO]  
+========== start: fit model
+2024-03-19 17:39:56,471 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:39:56,891 [INFO]  Epoch[0] Batch [0-733]	Speed: 28066.81 samples/sec	cross-entropy=0.152842	fnlwgt-accuracy=0.000000
+2024-03-19 17:39:57,308 [INFO]  Epoch[0] Train-cross-entropy=0.004859
+2024-03-19 17:39:57,308 [INFO]  Epoch[0] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:39:57,308 [INFO]  Epoch[0] Time cost=0.836
+2024-03-19 17:39:57,309 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:39:57,346 [INFO]  Epoch[0] Validation-cross-entropy=0.009033
+2024-03-19 17:39:57,346 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:39:57,837 [INFO]  Epoch[1] Batch [0-733]	Speed: 23944.63 samples/sec	cross-entropy=0.014319	fnlwgt-accuracy=0.000000
+2024-03-19 17:39:58,252 [INFO]  Epoch[1] Train-cross-entropy=0.031282
+2024-03-19 17:39:58,252 [INFO]  Epoch[1] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:39:58,252 [INFO]  Epoch[1] Time cost=0.906
+2024-03-19 17:39:58,253 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:39:58,290 [INFO]  Epoch[1] Validation-cross-entropy=0.004643
+2024-03-19 17:39:58,290 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:39:58,706 [INFO]  Epoch[2] Batch [0-733]	Speed: 28257.18 samples/sec	cross-entropy=0.002721	fnlwgt-accuracy=0.000000
+2024-03-19 17:39:59,116 [INFO]  Epoch[2] Train-cross-entropy=0.015102
+2024-03-19 17:39:59,116 [INFO]  Epoch[2] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:39:59,116 [INFO]  Epoch[2] Time cost=0.826
+2024-03-19 17:39:59,118 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:39:59,154 [INFO]  Epoch[2] Validation-cross-entropy=0.002079
+2024-03-19 17:39:59,154 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:39:59,567 [INFO]  Epoch[3] Batch [0-733]	Speed: 28470.90 samples/sec	cross-entropy=0.001132	fnlwgt-accuracy=0.000000
+2024-03-19 17:39:59,979 [INFO]  Epoch[3] Train-cross-entropy=0.018317
+2024-03-19 17:39:59,979 [INFO]  Epoch[3] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:39:59,979 [INFO]  Epoch[3] Time cost=0.825
+2024-03-19 17:39:59,981 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:40:00,017 [INFO]  Epoch[3] Validation-cross-entropy=0.002369
+2024-03-19 17:40:00,017 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:40:00,430 [INFO]  Epoch[4] Batch [0-733]	Speed: 28454.86 samples/sec	cross-entropy=0.001445	fnlwgt-accuracy=0.000000
+2024-03-19 17:40:00,842 [INFO]  Epoch[4] Train-cross-entropy=0.005344
+2024-03-19 17:40:00,842 [INFO]  Epoch[4] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:40:00,842 [INFO]  Epoch[4] Time cost=0.825
+2024-03-19 17:40:00,843 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:40:00,880 [INFO]  Epoch[4] Validation-cross-entropy=0.000448
+2024-03-19 17:40:00,880 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:40:00,880 [INFO]  
+========== done (4.409001111984253 s) fit model
+2024-03-19 17:41:44,515 [INFO]  
+========== start: fit model
+2024-03-19 17:41:44,515 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:41:44,954 [INFO]  Epoch[0] Batch [0-733]	Speed: 27083.36 samples/sec	cross-entropy=0.343245	fnlwgt-accuracy=3.299728
+2024-03-19 17:41:45,370 [INFO]  Epoch[0] Train-cross-entropy=0.034127
+2024-03-19 17:41:45,370 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.289617
+2024-03-19 17:41:45,370 [INFO]  Epoch[0] Time cost=0.854
+2024-03-19 17:41:45,372 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:41:45,410 [INFO]  Epoch[0] Validation-cross-entropy=0.055630
+2024-03-19 17:41:45,410 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:41:45,826 [INFO]  Epoch[1] Batch [0-733]	Speed: 28248.45 samples/sec	cross-entropy=0.021355	fnlwgt-accuracy=3.299728
+2024-03-19 17:41:46,248 [INFO]  Epoch[1] Train-cross-entropy=0.030820
+2024-03-19 17:41:46,248 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.289617
+2024-03-19 17:41:46,248 [INFO]  Epoch[1] Time cost=0.838
+2024-03-19 17:41:46,250 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:41:46,290 [INFO]  Epoch[1] Validation-cross-entropy=0.028224
+2024-03-19 17:41:46,290 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:41:46,723 [INFO]  Epoch[2] Batch [0-733]	Speed: 27171.14 samples/sec	cross-entropy=0.010318	fnlwgt-accuracy=3.299728
+2024-03-19 17:41:47,133 [INFO]  Epoch[2] Train-cross-entropy=0.019814
+2024-03-19 17:41:47,133 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.289617
+2024-03-19 17:41:47,133 [INFO]  Epoch[2] Time cost=0.843
+2024-03-19 17:41:47,135 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:41:47,173 [INFO]  Epoch[2] Validation-cross-entropy=0.010885
+2024-03-19 17:41:47,173 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:41:47,612 [INFO]  Epoch[3] Batch [0-733]	Speed: 26807.00 samples/sec	cross-entropy=0.010517	fnlwgt-accuracy=3.299728
+2024-03-19 17:41:48,037 [INFO]  Epoch[3] Train-cross-entropy=0.024374
+2024-03-19 17:41:48,037 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.289617
+2024-03-19 17:41:48,037 [INFO]  Epoch[3] Time cost=0.863
+2024-03-19 17:41:48,038 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:41:48,077 [INFO]  Epoch[3] Validation-cross-entropy=0.003619
+2024-03-19 17:41:48,077 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:41:48,526 [INFO]  Epoch[4] Batch [0-733]	Speed: 26164.20 samples/sec	cross-entropy=0.002002	fnlwgt-accuracy=3.299728
+2024-03-19 17:41:48,937 [INFO]  Epoch[4] Train-cross-entropy=0.035804
+2024-03-19 17:41:48,937 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.289617
+2024-03-19 17:41:48,937 [INFO]  Epoch[4] Time cost=0.860
+2024-03-19 17:41:48,939 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:41:48,977 [INFO]  Epoch[4] Validation-cross-entropy=0.002094
+2024-03-19 17:41:48,978 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:41:48,978 [INFO]  
+========== done (4.462375164031982 s) fit model
+2024-03-19 17:43:26,433 [INFO]  
+========== start: fit model
+2024-03-19 17:43:26,433 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:43:26,926 [INFO]  Epoch[0] Batch [0-733]	Speed: 23910.96 samples/sec	cross-entropy=0.376556	fnlwgt-accuracy=0.000000
+2024-03-19 17:43:27,353 [INFO]  Epoch[0] Train-cross-entropy=0.059903
+2024-03-19 17:43:27,353 [INFO]  Epoch[0] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:43:27,353 [INFO]  Epoch[0] Time cost=0.919
+2024-03-19 17:43:27,355 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:43:27,394 [INFO]  Epoch[0] Validation-cross-entropy=0.042391
+2024-03-19 17:43:27,394 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:43:27,811 [INFO]  Epoch[1] Batch [0-733]	Speed: 28208.45 samples/sec	cross-entropy=0.041291	fnlwgt-accuracy=0.000000
+2024-03-19 17:43:28,227 [INFO]  Epoch[1] Train-cross-entropy=0.035189
+2024-03-19 17:43:28,227 [INFO]  Epoch[1] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:43:28,227 [INFO]  Epoch[1] Time cost=0.832
+2024-03-19 17:43:28,228 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:43:28,268 [INFO]  Epoch[1] Validation-cross-entropy=0.028276
+2024-03-19 17:43:28,268 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:43:28,685 [INFO]  Epoch[2] Batch [0-733]	Speed: 28180.09 samples/sec	cross-entropy=0.011377	fnlwgt-accuracy=0.000000
+2024-03-19 17:43:29,105 [INFO]  Epoch[2] Train-cross-entropy=0.024322
+2024-03-19 17:43:29,105 [INFO]  Epoch[2] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:43:29,105 [INFO]  Epoch[2] Time cost=0.837
+2024-03-19 17:43:29,107 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:43:29,146 [INFO]  Epoch[2] Validation-cross-entropy=0.021173
+2024-03-19 17:43:29,146 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:43:29,563 [INFO]  Epoch[3] Batch [0-733]	Speed: 28183.74 samples/sec	cross-entropy=0.025466	fnlwgt-accuracy=0.000000
+2024-03-19 17:43:29,978 [INFO]  Epoch[3] Train-cross-entropy=0.019795
+2024-03-19 17:43:29,978 [INFO]  Epoch[3] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:43:29,978 [INFO]  Epoch[3] Time cost=0.832
+2024-03-19 17:43:29,980 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:43:30,019 [INFO]  Epoch[3] Validation-cross-entropy=0.020335
+2024-03-19 17:43:30,019 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:43:30,435 [INFO]  Epoch[4] Batch [0-733]	Speed: 28258.60 samples/sec	cross-entropy=0.014460	fnlwgt-accuracy=0.000000
+2024-03-19 17:43:30,849 [INFO]  Epoch[4] Train-cross-entropy=0.014513
+2024-03-19 17:43:30,849 [INFO]  Epoch[4] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:43:30,849 [INFO]  Epoch[4] Time cost=0.830
+2024-03-19 17:43:30,851 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:43:30,890 [INFO]  Epoch[4] Validation-cross-entropy=0.001806
+2024-03-19 17:43:30,890 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:43:30,890 [INFO]  
+========== done (4.45672607421875 s) fit model
+2024-03-19 17:44:56,051 [INFO]  
+========== start: fit model
+2024-03-19 17:44:56,051 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:44:56,477 [INFO]  Epoch[0] Batch [0-733]	Speed: 27672.61 samples/sec	cross-entropy=0.751160	fnlwgt-accuracy=0.000000
+2024-03-19 17:44:56,888 [INFO]  Epoch[0] Train-cross-entropy=0.086807
+2024-03-19 17:44:56,888 [INFO]  Epoch[0] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:44:56,888 [INFO]  Epoch[0] Time cost=0.836
+2024-03-19 17:44:56,889 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:44:56,927 [INFO]  Epoch[0] Validation-cross-entropy=0.087649
+2024-03-19 17:44:56,927 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:44:57,345 [INFO]  Epoch[1] Batch [0-733]	Speed: 28138.32 samples/sec	cross-entropy=0.059447	fnlwgt-accuracy=0.000000
+2024-03-19 17:44:57,757 [INFO]  Epoch[1] Train-cross-entropy=0.022657
+2024-03-19 17:44:57,757 [INFO]  Epoch[1] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:44:57,757 [INFO]  Epoch[1] Time cost=0.829
+2024-03-19 17:44:57,758 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:44:57,796 [INFO]  Epoch[1] Validation-cross-entropy=0.058142
+2024-03-19 17:44:57,797 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:44:58,292 [INFO]  Epoch[2] Batch [0-733]	Speed: 23712.65 samples/sec	cross-entropy=0.048180	fnlwgt-accuracy=0.000000
+2024-03-19 17:44:58,849 [INFO]  Epoch[2] Train-cross-entropy=0.021598
+2024-03-19 17:44:58,849 [INFO]  Epoch[2] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:44:58,849 [INFO]  Epoch[2] Time cost=1.053
+2024-03-19 17:44:58,851 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:44:58,900 [INFO]  Epoch[2] Validation-cross-entropy=0.030032
+2024-03-19 17:44:58,901 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:44:59,445 [INFO]  Epoch[3] Batch [0-733]	Speed: 21563.32 samples/sec	cross-entropy=0.019448	fnlwgt-accuracy=0.000000
+2024-03-19 17:45:00,065 [INFO]  Epoch[3] Train-cross-entropy=0.020080
+2024-03-19 17:45:00,065 [INFO]  Epoch[3] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:45:00,065 [INFO]  Epoch[3] Time cost=1.165
+2024-03-19 17:45:00,067 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:45:00,134 [INFO]  Epoch[3] Validation-cross-entropy=0.036617
+2024-03-19 17:45:00,134 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:45:01,054 [INFO]  Epoch[4] Batch [0-733]	Speed: 12765.65 samples/sec	cross-entropy=0.014863	fnlwgt-accuracy=0.000000
+2024-03-19 17:45:01,938 [INFO]  Epoch[4] Train-cross-entropy=0.020578
+2024-03-19 17:45:01,942 [INFO]  Epoch[4] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:45:01,942 [INFO]  Epoch[4] Time cost=1.808
+2024-03-19 17:45:01,944 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:45:02,272 [INFO]  Epoch[4] Validation-cross-entropy=0.029682
+2024-03-19 17:45:02,272 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:45:02,273 [INFO]  
+========== done (6.221359968185425 s) fit model
+2024-03-19 17:46:50,814 [INFO]  
+========== start: fit model
+2024-03-19 17:46:50,814 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:46:51,754 [INFO]  Epoch[0] Batch [0-733]	Speed: 12558.65 samples/sec	cross-entropy=0.427120	fnlwgt-accuracy=3.215259
+2024-03-19 17:46:52,559 [INFO]  Epoch[0] Train-cross-entropy=0.097303
+2024-03-19 17:46:52,559 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.372951
+2024-03-19 17:46:52,559 [INFO]  Epoch[0] Time cost=1.744
+2024-03-19 17:46:52,561 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:46:52,629 [INFO]  Epoch[0] Validation-cross-entropy=0.013809
+2024-03-19 17:46:52,629 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:46:53,446 [INFO]  Epoch[1] Batch [0-733]	Speed: 14388.77 samples/sec	cross-entropy=0.034172	fnlwgt-accuracy=3.215259
+2024-03-19 17:46:54,202 [INFO]  Epoch[1] Train-cross-entropy=0.040527
+2024-03-19 17:46:54,203 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.372951
+2024-03-19 17:46:54,203 [INFO]  Epoch[1] Time cost=1.574
+2024-03-19 17:46:54,205 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:46:54,442 [INFO]  Epoch[1] Validation-cross-entropy=0.005600
+2024-03-19 17:46:54,443 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:46:55,405 [INFO]  Epoch[2] Batch [0-733]	Speed: 12198.31 samples/sec	cross-entropy=0.027824	fnlwgt-accuracy=3.215259
+2024-03-19 17:46:56,197 [INFO]  Epoch[2] Train-cross-entropy=0.030111
+2024-03-19 17:46:56,198 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.372951
+2024-03-19 17:46:56,198 [INFO]  Epoch[2] Time cost=1.755
+2024-03-19 17:46:56,200 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:46:56,267 [INFO]  Epoch[2] Validation-cross-entropy=0.009553
+2024-03-19 17:46:56,267 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:46:57,079 [INFO]  Epoch[3] Batch [0-733]	Speed: 14469.76 samples/sec	cross-entropy=0.010129	fnlwgt-accuracy=3.215259
+2024-03-19 17:46:57,927 [INFO]  Epoch[3] Train-cross-entropy=0.017929
+2024-03-19 17:46:57,928 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.372951
+2024-03-19 17:46:57,928 [INFO]  Epoch[3] Time cost=1.660
+2024-03-19 17:46:57,929 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:46:57,999 [INFO]  Epoch[3] Validation-cross-entropy=0.020183
+2024-03-19 17:46:57,999 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:46:58,874 [INFO]  Epoch[4] Batch [0-733]	Speed: 13429.14 samples/sec	cross-entropy=0.023495	fnlwgt-accuracy=3.215259
+2024-03-19 17:46:59,722 [INFO]  Epoch[4] Train-cross-entropy=0.017136
+2024-03-19 17:46:59,722 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.372951
+2024-03-19 17:46:59,722 [INFO]  Epoch[4] Time cost=1.724
+2024-03-19 17:46:59,725 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:46:59,864 [INFO]  Epoch[4] Validation-cross-entropy=0.003805
+2024-03-19 17:46:59,864 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:46:59,864 [INFO]  
+========== done (9.049972772598267 s) fit model
+2024-03-19 17:50:25,244 [INFO]  
+========== start: fit model
+2024-03-19 17:50:25,245 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:50:26,182 [INFO]  Epoch[0] Batch [0-733]	Speed: 12849.53 samples/sec	cross-entropy=0.703889	fnlwgt-accuracy=0.000000
+2024-03-19 17:50:27,056 [INFO]  Epoch[0] Train-cross-entropy=0.078578
+2024-03-19 17:50:27,057 [INFO]  Epoch[0] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:50:27,057 [INFO]  Epoch[0] Time cost=1.811
+2024-03-19 17:50:27,059 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:50:27,178 [INFO]  Epoch[0] Validation-cross-entropy=0.037546
+2024-03-19 17:50:27,178 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:50:28,063 [INFO]  Epoch[1] Batch [0-733]	Speed: 13287.13 samples/sec	cross-entropy=0.030389	fnlwgt-accuracy=0.000000
+2024-03-19 17:50:28,920 [INFO]  Epoch[1] Train-cross-entropy=0.033002
+2024-03-19 17:50:28,920 [INFO]  Epoch[1] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:50:28,920 [INFO]  Epoch[1] Time cost=1.741
+2024-03-19 17:50:28,922 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:50:28,989 [INFO]  Epoch[1] Validation-cross-entropy=0.012336
+2024-03-19 17:50:28,989 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:50:29,804 [INFO]  Epoch[2] Batch [0-733]	Speed: 14425.23 samples/sec	cross-entropy=0.030941	fnlwgt-accuracy=0.000000
+2024-03-19 17:50:30,615 [INFO]  Epoch[2] Train-cross-entropy=0.016285
+2024-03-19 17:50:30,616 [INFO]  Epoch[2] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:50:30,616 [INFO]  Epoch[2] Time cost=1.626
+2024-03-19 17:50:30,619 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:50:30,731 [INFO]  Epoch[2] Validation-cross-entropy=0.011092
+2024-03-19 17:50:30,731 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:50:31,694 [INFO]  Epoch[3] Batch [0-733]	Speed: 12204.63 samples/sec	cross-entropy=0.034860	fnlwgt-accuracy=0.000000
+2024-03-19 17:50:32,806 [INFO]  Epoch[3] Train-cross-entropy=0.008216
+2024-03-19 17:50:32,807 [INFO]  Epoch[3] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:50:32,807 [INFO]  Epoch[3] Time cost=2.076
+2024-03-19 17:50:32,808 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:50:32,888 [INFO]  Epoch[3] Validation-cross-entropy=0.003613
+2024-03-19 17:50:32,888 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:50:33,730 [INFO]  Epoch[4] Batch [0-733]	Speed: 13941.23 samples/sec	cross-entropy=0.016019	fnlwgt-accuracy=0.000000
+2024-03-19 17:50:34,565 [INFO]  Epoch[4] Train-cross-entropy=0.012403
+2024-03-19 17:50:34,565 [INFO]  Epoch[4] Train-fnlwgt-accuracy=0.000000
+2024-03-19 17:50:34,565 [INFO]  Epoch[4] Time cost=1.677
+2024-03-19 17:50:34,567 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:50:34,641 [INFO]  Epoch[4] Validation-cross-entropy=0.002667
+2024-03-19 17:50:34,641 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:50:34,641 [INFO]  
+========== done (9.39650273323059 s) fit model
+2024-03-19 17:52:15,123 [INFO]  
+========== start: fit model
+2024-03-19 17:52:15,124 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:52:16,039 [INFO]  Epoch[0] Batch [0-733]	Speed: 12883.94 samples/sec	cross-entropy=0.212409	fnlwgt-accuracy=3.307902
+2024-03-19 17:52:16,878 [INFO]  Epoch[0] Train-cross-entropy=0.066022
+2024-03-19 17:52:16,878 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.192623
+2024-03-19 17:52:16,878 [INFO]  Epoch[0] Time cost=1.753
+2024-03-19 17:52:16,880 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:52:16,988 [INFO]  Epoch[0] Validation-cross-entropy=0.047648
+2024-03-19 17:52:16,989 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:52:17,956 [INFO]  Epoch[1] Batch [0-733]	Speed: 12137.87 samples/sec	cross-entropy=0.091107	fnlwgt-accuracy=3.307902
+2024-03-19 17:52:18,816 [INFO]  Epoch[1] Train-cross-entropy=0.011196
+2024-03-19 17:52:18,816 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.192623
+2024-03-19 17:52:18,816 [INFO]  Epoch[1] Time cost=1.827
+2024-03-19 17:52:18,818 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:52:18,917 [INFO]  Epoch[1] Validation-cross-entropy=0.008386
+2024-03-19 17:52:18,918 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:52:19,747 [INFO]  Epoch[2] Batch [0-733]	Speed: 14159.91 samples/sec	cross-entropy=0.082220	fnlwgt-accuracy=3.307902
+2024-03-19 17:52:20,357 [INFO]  Epoch[2] Train-cross-entropy=0.011908
+2024-03-19 17:52:20,357 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.192623
+2024-03-19 17:52:20,357 [INFO]  Epoch[2] Time cost=1.439
+2024-03-19 17:52:20,359 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:52:20,428 [INFO]  Epoch[2] Validation-cross-entropy=0.008518
+2024-03-19 17:52:20,429 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:52:21,322 [INFO]  Epoch[3] Batch [0-733]	Speed: 13153.19 samples/sec	cross-entropy=0.025431	fnlwgt-accuracy=3.307902
+2024-03-19 17:52:22,331 [INFO]  Epoch[3] Train-cross-entropy=0.014546
+2024-03-19 17:52:22,331 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.192623
+2024-03-19 17:52:22,331 [INFO]  Epoch[3] Time cost=1.903
+2024-03-19 17:52:22,333 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:52:22,405 [INFO]  Epoch[3] Validation-cross-entropy=0.006986
+2024-03-19 17:52:22,405 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:52:23,250 [INFO]  Epoch[4] Batch [0-733]	Speed: 13902.82 samples/sec	cross-entropy=0.014737	fnlwgt-accuracy=3.307902
+2024-03-19 17:52:24,139 [INFO]  Epoch[4] Train-cross-entropy=0.027137
+2024-03-19 17:52:24,139 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.192623
+2024-03-19 17:52:24,139 [INFO]  Epoch[4] Time cost=1.734
+2024-03-19 17:52:24,141 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:52:24,229 [INFO]  Epoch[4] Validation-cross-entropy=0.003006
+2024-03-19 17:52:24,230 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:52:24,230 [INFO]  
+========== done (9.106332302093506 s) fit model
+2024-03-19 17:53:36,467 [INFO]  
+========== start: fit model
+2024-03-19 17:53:36,467 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:53:37,636 [INFO]  Epoch[0] Batch [0-733]	Speed: 10114.48 samples/sec	cross-entropy=0.032827	fnlwgt-accuracy=3.222071
+2024-03-19 17:53:38,616 [INFO]  Epoch[0] Train-cross-entropy=0.014825
+2024-03-19 17:53:38,616 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.204918
+2024-03-19 17:53:38,616 [INFO]  Epoch[0] Time cost=2.148
+2024-03-19 17:53:38,618 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:53:38,691 [INFO]  Epoch[0] Validation-cross-entropy=0.000014
+2024-03-19 17:53:38,692 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:53:39,708 [INFO]  Epoch[1] Batch [0-733]	Speed: 11558.41 samples/sec	cross-entropy=0.063053	fnlwgt-accuracy=3.222071
+2024-03-19 17:53:40,805 [INFO]  Epoch[1] Train-cross-entropy=0.000423
+2024-03-19 17:53:40,805 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.204918
+2024-03-19 17:53:40,805 [INFO]  Epoch[1] Time cost=2.113
+2024-03-19 17:53:40,807 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:53:40,874 [INFO]  Epoch[1] Validation-cross-entropy=0.000630
+2024-03-19 17:53:40,875 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:53:41,758 [INFO]  Epoch[2] Batch [0-733]	Speed: 13297.19 samples/sec	cross-entropy=0.000517	fnlwgt-accuracy=3.222071
+2024-03-19 17:53:42,640 [INFO]  Epoch[2] Train-cross-entropy=0.001636
+2024-03-19 17:53:42,640 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.204918
+2024-03-19 17:53:42,640 [INFO]  Epoch[2] Time cost=1.766
+2024-03-19 17:53:42,642 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:53:42,706 [INFO]  Epoch[2] Validation-cross-entropy=0.000012
+2024-03-19 17:53:42,706 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:53:43,585 [INFO]  Epoch[3] Batch [0-733]	Speed: 13369.03 samples/sec	cross-entropy=0.045166	fnlwgt-accuracy=3.222071
+2024-03-19 17:53:44,489 [INFO]  Epoch[3] Train-cross-entropy=0.000574
+2024-03-19 17:53:44,489 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.204918
+2024-03-19 17:53:44,489 [INFO]  Epoch[3] Time cost=1.783
+2024-03-19 17:53:44,491 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:53:44,556 [INFO]  Epoch[3] Validation-cross-entropy=0.000021
+2024-03-19 17:53:44,556 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:53:45,234 [INFO]  Epoch[4] Batch [0-733]	Speed: 17336.75 samples/sec	cross-entropy=0.004461	fnlwgt-accuracy=3.222071
+2024-03-19 17:53:46,109 [INFO]  Epoch[4] Train-cross-entropy=0.000534
+2024-03-19 17:53:46,109 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.204918
+2024-03-19 17:53:46,109 [INFO]  Epoch[4] Time cost=1.553
+2024-03-19 17:53:46,112 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:53:46,174 [INFO]  Epoch[4] Validation-cross-entropy=0.000026
+2024-03-19 17:53:46,175 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:53:46,175 [INFO]  
+========== done (9.707617044448853 s) fit model
+2024-03-19 17:57:19,444 [INFO]  
+========== start: fit model
+2024-03-19 17:57:19,445 [WARNING]  Already bound, ignoring bind()
+2024-03-19 17:57:20,239 [INFO]  Epoch[0] Batch [0-733]	Speed: 14806.51 samples/sec	cross-entropy=0.313054	fnlwgt-accuracy=3.272480
+2024-03-19 17:57:21,082 [INFO]  Epoch[0] Train-cross-entropy=0.031434
+2024-03-19 17:57:21,082 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.237705
+2024-03-19 17:57:21,082 [INFO]  Epoch[0] Time cost=1.637
+2024-03-19 17:57:21,084 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 17:57:21,158 [INFO]  Epoch[0] Validation-cross-entropy=0.019178
+2024-03-19 17:57:21,158 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:57:22,095 [INFO]  Epoch[1] Batch [0-733]	Speed: 12557.11 samples/sec	cross-entropy=0.019677	fnlwgt-accuracy=3.272480
+2024-03-19 17:57:23,159 [INFO]  Epoch[1] Train-cross-entropy=0.017536
+2024-03-19 17:57:23,159 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.237705
+2024-03-19 17:57:23,159 [INFO]  Epoch[1] Time cost=2.000
+2024-03-19 17:57:23,161 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 17:57:23,243 [INFO]  Epoch[1] Validation-cross-entropy=0.015500
+2024-03-19 17:57:23,243 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:57:24,203 [INFO]  Epoch[2] Batch [0-733]	Speed: 12245.49 samples/sec	cross-entropy=0.013304	fnlwgt-accuracy=3.272480
+2024-03-19 17:57:25,048 [INFO]  Epoch[2] Train-cross-entropy=0.015690
+2024-03-19 17:57:25,049 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.237705
+2024-03-19 17:57:25,049 [INFO]  Epoch[2] Time cost=1.805
+2024-03-19 17:57:25,051 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 17:57:25,125 [INFO]  Epoch[2] Validation-cross-entropy=0.016853
+2024-03-19 17:57:25,125 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:57:25,929 [INFO]  Epoch[3] Batch [0-733]	Speed: 14609.37 samples/sec	cross-entropy=0.018844	fnlwgt-accuracy=3.272480
+2024-03-19 17:57:26,818 [INFO]  Epoch[3] Train-cross-entropy=0.008645
+2024-03-19 17:57:26,819 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.237705
+2024-03-19 17:57:26,819 [INFO]  Epoch[3] Time cost=1.694
+2024-03-19 17:57:26,821 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 17:57:26,915 [INFO]  Epoch[3] Validation-cross-entropy=0.010083
+2024-03-19 17:57:26,915 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:57:27,787 [INFO]  Epoch[4] Batch [0-733]	Speed: 13462.49 samples/sec	cross-entropy=0.008985	fnlwgt-accuracy=3.272480
+2024-03-19 17:57:28,485 [INFO]  Epoch[4] Train-cross-entropy=0.009117
+2024-03-19 17:57:28,485 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.237705
+2024-03-19 17:57:28,486 [INFO]  Epoch[4] Time cost=1.571
+2024-03-19 17:57:28,488 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 17:57:28,553 [INFO]  Epoch[4] Validation-cross-entropy=0.002936
+2024-03-19 17:57:28,554 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 17:57:28,554 [INFO]  
+========== done (9.109299182891846 s) fit model
+2024-03-19 18:01:08,028 [INFO]  
+========== start: fit model
+2024-03-19 18:01:08,028 [WARNING]  Already bound, ignoring bind()
+2024-03-19 18:01:08,943 [INFO]  Epoch[0] Batch [0-733]	Speed: 12873.70 samples/sec	cross-entropy=0.403651	fnlwgt-accuracy=0.000000
+2024-03-19 18:01:09,758 [INFO]  Epoch[0] Train-cross-entropy=0.056398
+2024-03-19 18:01:09,758 [INFO]  Epoch[0] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:09,758 [INFO]  Epoch[0] Time cost=1.729
+2024-03-19 18:01:09,760 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 18:01:09,826 [INFO]  Epoch[0] Validation-cross-entropy=0.067799
+2024-03-19 18:01:09,826 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:10,498 [INFO]  Epoch[1] Batch [0-733]	Speed: 17483.32 samples/sec	cross-entropy=0.041954	fnlwgt-accuracy=0.000000
+2024-03-19 18:01:11,372 [INFO]  Epoch[1] Train-cross-entropy=0.030395
+2024-03-19 18:01:11,372 [INFO]  Epoch[1] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:11,372 [INFO]  Epoch[1] Time cost=1.546
+2024-03-19 18:01:11,375 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 18:01:11,470 [INFO]  Epoch[1] Validation-cross-entropy=0.044940
+2024-03-19 18:01:11,471 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:12,480 [INFO]  Epoch[2] Batch [0-733]	Speed: 11639.76 samples/sec	cross-entropy=0.027291	fnlwgt-accuracy=0.000000
+2024-03-19 18:01:13,307 [INFO]  Epoch[2] Train-cross-entropy=0.023979
+2024-03-19 18:01:13,307 [INFO]  Epoch[2] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:13,307 [INFO]  Epoch[2] Time cost=1.836
+2024-03-19 18:01:13,309 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 18:01:13,378 [INFO]  Epoch[2] Validation-cross-entropy=0.007076
+2024-03-19 18:01:13,378 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:14,266 [INFO]  Epoch[3] Batch [0-733]	Speed: 13224.66 samples/sec	cross-entropy=0.031735	fnlwgt-accuracy=0.000000
+2024-03-19 18:01:15,061 [INFO]  Epoch[3] Train-cross-entropy=0.010220
+2024-03-19 18:01:15,061 [INFO]  Epoch[3] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:15,061 [INFO]  Epoch[3] Time cost=1.683
+2024-03-19 18:01:15,063 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 18:01:15,128 [INFO]  Epoch[3] Validation-cross-entropy=0.035009
+2024-03-19 18:01:15,128 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:16,142 [INFO]  Epoch[4] Batch [0-733]	Speed: 11584.13 samples/sec	cross-entropy=0.023447	fnlwgt-accuracy=0.000000
+2024-03-19 18:01:17,132 [INFO]  Epoch[4] Train-cross-entropy=0.006440
+2024-03-19 18:01:17,133 [INFO]  Epoch[4] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:17,133 [INFO]  Epoch[4] Time cost=2.005
+2024-03-19 18:01:17,136 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 18:01:17,201 [INFO]  Epoch[4] Validation-cross-entropy=0.008782
+2024-03-19 18:01:17,201 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:17,201 [INFO]  
+========== done (9.173476457595825 s) fit model
+2024-03-19 18:01:48,177 [INFO]  
+========== start: fit model
+2024-03-19 18:01:48,177 [WARNING]  Already bound, ignoring bind()
+2024-03-19 18:01:48,963 [INFO]  Epoch[0] Batch [0-733]	Speed: 15720.42 samples/sec	cross-entropy=0.080039	fnlwgt-accuracy=0.000000
+2024-03-19 18:01:49,777 [INFO]  Epoch[0] Train-cross-entropy=0.001018
+2024-03-19 18:01:49,777 [INFO]  Epoch[0] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:49,777 [INFO]  Epoch[0] Time cost=1.599
+2024-03-19 18:01:49,779 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 18:01:49,843 [INFO]  Epoch[0] Validation-cross-entropy=0.001441
+2024-03-19 18:01:49,843 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:50,709 [INFO]  Epoch[1] Batch [0-733]	Speed: 13570.72 samples/sec	cross-entropy=0.018010	fnlwgt-accuracy=0.000000
+2024-03-19 18:01:51,520 [INFO]  Epoch[1] Train-cross-entropy=0.006084
+2024-03-19 18:01:51,520 [INFO]  Epoch[1] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:51,520 [INFO]  Epoch[1] Time cost=1.677
+2024-03-19 18:01:51,522 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 18:01:51,608 [INFO]  Epoch[1] Validation-cross-entropy=0.004368
+2024-03-19 18:01:51,609 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:52,715 [INFO]  Epoch[2] Batch [0-733]	Speed: 10614.22 samples/sec	cross-entropy=0.022681	fnlwgt-accuracy=0.000000
+2024-03-19 18:01:53,737 [INFO]  Epoch[2] Train-cross-entropy=0.002519
+2024-03-19 18:01:53,737 [INFO]  Epoch[2] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:53,737 [INFO]  Epoch[2] Time cost=2.128
+2024-03-19 18:01:53,740 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 18:01:53,819 [INFO]  Epoch[2] Validation-cross-entropy=0.007927
+2024-03-19 18:01:53,819 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:54,666 [INFO]  Epoch[3] Batch [0-733]	Speed: 13878.38 samples/sec	cross-entropy=0.003896	fnlwgt-accuracy=0.000000
+2024-03-19 18:01:55,573 [INFO]  Epoch[3] Train-cross-entropy=0.088658
+2024-03-19 18:01:55,573 [INFO]  Epoch[3] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:55,573 [INFO]  Epoch[3] Time cost=1.754
+2024-03-19 18:01:55,576 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 18:01:55,639 [INFO]  Epoch[3] Validation-cross-entropy=0.000168
+2024-03-19 18:01:55,639 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:56,568 [INFO]  Epoch[4] Batch [0-733]	Speed: 12644.21 samples/sec	cross-entropy=0.000116	fnlwgt-accuracy=0.000000
+2024-03-19 18:01:57,443 [INFO]  Epoch[4] Train-cross-entropy=0.000195
+2024-03-19 18:01:57,444 [INFO]  Epoch[4] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:57,444 [INFO]  Epoch[4] Time cost=1.804
+2024-03-19 18:01:57,446 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 18:01:57,534 [INFO]  Epoch[4] Validation-cross-entropy=0.000075
+2024-03-19 18:01:57,534 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:01:57,534 [INFO]  
+========== done (9.357293605804443 s) fit model
+2024-03-19 18:06:18,793 [INFO]  
+========== start: fit model
+2024-03-19 18:06:18,793 [WARNING]  Already bound, ignoring bind()
+2024-03-19 18:06:19,688 [INFO]  Epoch[0] Batch [0-733]	Speed: 13226.67 samples/sec	cross-entropy=0.509364	fnlwgt-accuracy=0.000000
+2024-03-19 18:06:20,582 [INFO]  Epoch[0] Train-cross-entropy=0.087015
+2024-03-19 18:06:20,583 [INFO]  Epoch[0] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:06:20,583 [INFO]  Epoch[0] Time cost=1.789
+2024-03-19 18:06:20,585 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 18:06:20,650 [INFO]  Epoch[0] Validation-cross-entropy=0.284890
+2024-03-19 18:06:20,650 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:06:21,606 [INFO]  Epoch[1] Batch [0-733]	Speed: 12293.75 samples/sec	cross-entropy=0.036750	fnlwgt-accuracy=0.000000
+2024-03-19 18:06:22,493 [INFO]  Epoch[1] Train-cross-entropy=0.032137
+2024-03-19 18:06:22,493 [INFO]  Epoch[1] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:06:22,493 [INFO]  Epoch[1] Time cost=1.842
+2024-03-19 18:06:22,495 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 18:06:22,603 [INFO]  Epoch[1] Validation-cross-entropy=0.154863
+2024-03-19 18:06:22,603 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:06:23,453 [INFO]  Epoch[2] Batch [0-733]	Speed: 13828.83 samples/sec	cross-entropy=0.022220	fnlwgt-accuracy=0.000000
+2024-03-19 18:06:24,521 [INFO]  Epoch[2] Train-cross-entropy=0.013242
+2024-03-19 18:06:24,521 [INFO]  Epoch[2] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:06:24,521 [INFO]  Epoch[2] Time cost=1.918
+2024-03-19 18:06:24,523 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 18:06:24,592 [INFO]  Epoch[2] Validation-cross-entropy=0.042343
+2024-03-19 18:06:24,592 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:06:25,285 [INFO]  Epoch[3] Batch [0-733]	Speed: 16934.10 samples/sec	cross-entropy=0.022941	fnlwgt-accuracy=0.000000
+2024-03-19 18:06:26,091 [INFO]  Epoch[3] Train-cross-entropy=0.011677
+2024-03-19 18:06:26,091 [INFO]  Epoch[3] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:06:26,091 [INFO]  Epoch[3] Time cost=1.499
+2024-03-19 18:06:26,093 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 18:06:26,165 [INFO]  Epoch[3] Validation-cross-entropy=0.005433
+2024-03-19 18:06:26,165 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:06:27,017 [INFO]  Epoch[4] Batch [0-733]	Speed: 13800.21 samples/sec	cross-entropy=0.010222	fnlwgt-accuracy=0.000000
+2024-03-19 18:06:27,990 [INFO]  Epoch[4] Train-cross-entropy=0.019111
+2024-03-19 18:06:27,990 [INFO]  Epoch[4] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:06:27,990 [INFO]  Epoch[4] Time cost=1.824
+2024-03-19 18:06:27,992 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 18:06:28,066 [INFO]  Epoch[4] Validation-cross-entropy=0.003800
+2024-03-19 18:06:28,066 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:06:28,067 [INFO]  
+========== done (9.274063110351562 s) fit model
+2024-03-19 18:06:57,956 [INFO]  
+========== start: fit model
+2024-03-19 18:06:57,956 [WARNING]  Already bound, ignoring bind()
+2024-03-19 18:06:58,628 [INFO]  Epoch[0] Batch [0-733]	Speed: 17520.97 samples/sec	cross-entropy=0.145917	fnlwgt-accuracy=0.000000
+2024-03-19 18:06:59,620 [INFO]  Epoch[0] Train-cross-entropy=0.000009
+2024-03-19 18:06:59,620 [INFO]  Epoch[0] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:06:59,620 [INFO]  Epoch[0] Time cost=1.663
+2024-03-19 18:06:59,622 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 18:06:59,686 [INFO]  Epoch[0] Validation-cross-entropy=0.000007
+2024-03-19 18:06:59,686 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:07:00,724 [INFO]  Epoch[1] Batch [0-733]	Speed: 11317.74 samples/sec	cross-entropy=0.025297	fnlwgt-accuracy=0.000000
+2024-03-19 18:07:01,530 [INFO]  Epoch[1] Train-cross-entropy=0.000391
+2024-03-19 18:07:01,531 [INFO]  Epoch[1] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:07:01,531 [INFO]  Epoch[1] Time cost=1.844
+2024-03-19 18:07:01,533 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 18:07:01,597 [INFO]  Epoch[1] Validation-cross-entropy=0.000102
+2024-03-19 18:07:01,598 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:07:03,232 [INFO]  Epoch[2] Batch [0-733]	Speed: 7181.18 samples/sec	cross-entropy=0.015785	fnlwgt-accuracy=0.000000
+2024-03-19 18:07:04,083 [INFO]  Epoch[2] Train-cross-entropy=0.078031
+2024-03-19 18:07:04,083 [INFO]  Epoch[2] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:07:04,083 [INFO]  Epoch[2] Time cost=2.485
+2024-03-19 18:07:04,085 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 18:07:04,149 [INFO]  Epoch[2] Validation-cross-entropy=0.000888
+2024-03-19 18:07:04,150 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:07:05,051 [INFO]  Epoch[3] Batch [0-733]	Speed: 13030.37 samples/sec	cross-entropy=0.000112	fnlwgt-accuracy=0.000000
+2024-03-19 18:07:05,943 [INFO]  Epoch[3] Train-cross-entropy=0.001130
+2024-03-19 18:07:05,943 [INFO]  Epoch[3] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:07:05,943 [INFO]  Epoch[3] Time cost=1.794
+2024-03-19 18:07:05,945 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 18:07:06,009 [INFO]  Epoch[3] Validation-cross-entropy=0.000035
+2024-03-19 18:07:06,009 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:07:06,896 [INFO]  Epoch[4] Batch [0-733]	Speed: 13245.24 samples/sec	cross-entropy=0.000072	fnlwgt-accuracy=0.000000
+2024-03-19 18:07:07,622 [INFO]  Epoch[4] Train-cross-entropy=0.002992
+2024-03-19 18:07:07,623 [INFO]  Epoch[4] Train-fnlwgt-accuracy=0.000000
+2024-03-19 18:07:07,623 [INFO]  Epoch[4] Time cost=1.614
+2024-03-19 18:07:07,624 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 18:07:07,705 [INFO]  Epoch[4] Validation-cross-entropy=0.029517
+2024-03-19 18:07:07,706 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:07:07,706 [INFO]  
+========== done (9.749940156936646 s) fit model
+2024-03-19 18:09:40,959 [INFO]  
+========== start: fit model
+2024-03-19 18:09:40,959 [WARNING]  Already bound, ignoring bind()
+2024-03-19 18:09:42,003 [INFO]  Epoch[0] Batch [0-733]	Speed: 11285.09 samples/sec	cross-entropy=0.041040	fnlwgt-accuracy=3.276567
+2024-03-19 18:09:42,772 [INFO]  Epoch[0] Train-cross-entropy=0.000481
+2024-03-19 18:09:42,773 [INFO]  Epoch[0] Train-fnlwgt-accuracy=3.140710
+2024-03-19 18:09:42,773 [INFO]  Epoch[0] Time cost=1.813
+2024-03-19 18:09:42,775 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0000.params"
+2024-03-19 18:09:42,824 [INFO]  Epoch[0] Validation-cross-entropy=0.000107
+2024-03-19 18:09:42,824 [INFO]  Epoch[0] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:09:43,656 [INFO]  Epoch[1] Batch [0-733]	Speed: 14111.15 samples/sec	cross-entropy=0.041270	fnlwgt-accuracy=3.276567
+2024-03-19 18:09:44,442 [INFO]  Epoch[1] Train-cross-entropy=0.001859
+2024-03-19 18:09:44,442 [INFO]  Epoch[1] Train-fnlwgt-accuracy=3.140710
+2024-03-19 18:09:44,442 [INFO]  Epoch[1] Time cost=1.617
+2024-03-19 18:09:44,444 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0001.params"
+2024-03-19 18:09:44,508 [INFO]  Epoch[1] Validation-cross-entropy=0.000311
+2024-03-19 18:09:44,508 [INFO]  Epoch[1] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:09:45,750 [INFO]  Epoch[2] Batch [0-733]	Speed: 9452.84 samples/sec	cross-entropy=0.002747	fnlwgt-accuracy=3.276567
+2024-03-19 18:09:46,432 [INFO]  Epoch[2] Train-cross-entropy=0.000154
+2024-03-19 18:09:46,432 [INFO]  Epoch[2] Train-fnlwgt-accuracy=3.140710
+2024-03-19 18:09:46,432 [INFO]  Epoch[2] Time cost=1.924
+2024-03-19 18:09:46,434 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0002.params"
+2024-03-19 18:09:46,489 [INFO]  Epoch[2] Validation-cross-entropy=0.000013
+2024-03-19 18:09:46,489 [INFO]  Epoch[2] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:09:47,321 [INFO]  Epoch[3] Batch [0-733]	Speed: 14122.28 samples/sec	cross-entropy=0.055732	fnlwgt-accuracy=3.276567
+2024-03-19 18:09:48,019 [INFO]  Epoch[3] Train-cross-entropy=0.000108
+2024-03-19 18:09:48,019 [INFO]  Epoch[3] Train-fnlwgt-accuracy=3.140710
+2024-03-19 18:09:48,019 [INFO]  Epoch[3] Time cost=1.531
+2024-03-19 18:09:48,021 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0003.params"
+2024-03-19 18:09:48,084 [INFO]  Epoch[3] Validation-cross-entropy=0.000080
+2024-03-19 18:09:48,084 [INFO]  Epoch[3] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:09:48,790 [INFO]  Epoch[4] Batch [0-733]	Speed: 16651.00 samples/sec	cross-entropy=0.003249	fnlwgt-accuracy=3.276567
+2024-03-19 18:09:49,642 [INFO]  Epoch[4] Train-cross-entropy=0.000219
+2024-03-19 18:09:49,642 [INFO]  Epoch[4] Train-fnlwgt-accuracy=3.140710
+2024-03-19 18:09:49,642 [INFO]  Epoch[4] Time cost=1.558
+2024-03-19 18:09:49,644 [INFO]  Saved checkpoint to "./imputer_model/3_adult/imputer_model_fnlwgt/model-0004.params"
+2024-03-19 18:09:49,692 [INFO]  Epoch[4] Validation-cross-entropy=0.010587
+2024-03-19 18:09:49,693 [INFO]  Epoch[4] Validation-fnlwgt-accuracy=0.000000
+2024-03-19 18:09:49,693 [INFO]  
+========== done (8.733946084976196 s) fit model
