@@ -1,0 +1,680 @@
+2024-03-24 17:43:52,968 [INFO]  
+========== start: fit model
+2024-03-24 17:43:52,968 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:43:53,105 [INFO]  Epoch[0] Batch [0-104]	Speed: 12476.17 samples/sec	cross-entropy=8.754861	char_freq_1-accuracy=3.476190
+2024-03-24 17:43:53,225 [INFO]  Epoch[0] Train-cross-entropy=2.214658
+2024-03-24 17:43:53,226 [INFO]  Epoch[0] Train-char_freq_1-accuracy=2.862745
+2024-03-24 17:43:53,226 [INFO]  Epoch[0] Time cost=0.256
+2024-03-24 17:43:53,229 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 17:43:53,240 [INFO]  Epoch[0] Validation-cross-entropy=3.562454
+2024-03-24 17:43:53,240 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:43:53,363 [INFO]  Epoch[1] Batch [0-104]	Speed: 13721.32 samples/sec	cross-entropy=1.325403	char_freq_1-accuracy=3.476190
+2024-03-24 17:43:53,484 [INFO]  Epoch[1] Train-cross-entropy=1.084461
+2024-03-24 17:43:53,484 [INFO]  Epoch[1] Train-char_freq_1-accuracy=2.862745
+2024-03-24 17:43:53,485 [INFO]  Epoch[1] Time cost=0.244
+2024-03-24 17:43:53,487 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 17:43:53,499 [INFO]  Epoch[1] Validation-cross-entropy=1.550657
+2024-03-24 17:43:53,499 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:43:53,622 [INFO]  Epoch[2] Batch [0-104]	Speed: 13622.04 samples/sec	cross-entropy=1.104415	char_freq_1-accuracy=3.476190
+2024-03-24 17:43:53,747 [INFO]  Epoch[2] Train-cross-entropy=0.507427
+2024-03-24 17:43:53,747 [INFO]  Epoch[2] Train-char_freq_1-accuracy=2.862745
+2024-03-24 17:43:53,747 [INFO]  Epoch[2] Time cost=0.248
+2024-03-24 17:43:53,750 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 17:43:53,761 [INFO]  Epoch[2] Validation-cross-entropy=1.004134
+2024-03-24 17:43:53,761 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:43:53,897 [INFO]  Epoch[3] Batch [0-104]	Speed: 12390.39 samples/sec	cross-entropy=0.590461	char_freq_1-accuracy=3.476190
+2024-03-24 17:43:54,016 [INFO]  Epoch[3] Train-cross-entropy=0.342478
+2024-03-24 17:43:54,016 [INFO]  Epoch[3] Train-char_freq_1-accuracy=2.862745
+2024-03-24 17:43:54,016 [INFO]  Epoch[3] Time cost=0.255
+2024-03-24 17:43:54,019 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 17:43:54,030 [INFO]  Epoch[3] Validation-cross-entropy=1.530431
+2024-03-24 17:43:54,030 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:43:54,211 [INFO]  Epoch[4] Batch [0-104]	Speed: 9289.88 samples/sec	cross-entropy=0.622867	char_freq_1-accuracy=3.476190
+2024-03-24 17:43:54,324 [INFO]  Epoch[4] Train-cross-entropy=0.532210
+2024-03-24 17:43:54,324 [INFO]  Epoch[4] Train-char_freq_1-accuracy=2.862745
+2024-03-24 17:43:54,324 [INFO]  Epoch[4] Time cost=0.294
+2024-03-24 17:43:54,327 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 17:43:54,338 [INFO]  Epoch[4] Validation-cross-entropy=0.759139
+2024-03-24 17:43:54,338 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:43:54,338 [INFO]  
+========== done (1.3705518245697021 s) fit model
+2024-03-24 17:45:40,977 [INFO]  
+========== start: fit model
+2024-03-24 17:45:40,977 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:45:41,252 [INFO]  Epoch[0] Batch [0-104]	Speed: 13452.07 samples/sec	cross-entropy=6.784596	char_freq_1-accuracy=3.238095
+2024-03-24 17:45:41,393 [INFO]  Epoch[0] Train-cross-entropy=2.174000
+2024-03-24 17:45:41,394 [INFO]  Epoch[0] Train-char_freq_1-accuracy=3.068627
+2024-03-24 17:45:41,394 [INFO]  Epoch[0] Time cost=0.416
+2024-03-24 17:45:41,397 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 17:45:41,408 [INFO]  Epoch[0] Validation-cross-entropy=1.082844
+2024-03-24 17:45:41,408 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:45:41,530 [INFO]  Epoch[1] Batch [0-104]	Speed: 13795.12 samples/sec	cross-entropy=1.277785	char_freq_1-accuracy=3.238095
+2024-03-24 17:45:41,650 [INFO]  Epoch[1] Train-cross-entropy=1.205678
+2024-03-24 17:45:41,650 [INFO]  Epoch[1] Train-char_freq_1-accuracy=3.068627
+2024-03-24 17:45:41,650 [INFO]  Epoch[1] Time cost=0.242
+2024-03-24 17:45:41,653 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 17:45:41,665 [INFO]  Epoch[1] Validation-cross-entropy=0.561624
+2024-03-24 17:45:41,665 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:45:41,785 [INFO]  Epoch[2] Batch [0-104]	Speed: 13960.60 samples/sec	cross-entropy=0.637175	char_freq_1-accuracy=3.238095
+2024-03-24 17:45:41,904 [INFO]  Epoch[2] Train-cross-entropy=0.321258
+2024-03-24 17:45:41,904 [INFO]  Epoch[2] Train-char_freq_1-accuracy=3.068627
+2024-03-24 17:45:41,904 [INFO]  Epoch[2] Time cost=0.239
+2024-03-24 17:45:41,907 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 17:45:41,918 [INFO]  Epoch[2] Validation-cross-entropy=0.266360
+2024-03-24 17:45:41,918 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:45:42,040 [INFO]  Epoch[3] Batch [0-104]	Speed: 13746.13 samples/sec	cross-entropy=0.555483	char_freq_1-accuracy=3.238095
+2024-03-24 17:45:42,158 [INFO]  Epoch[3] Train-cross-entropy=0.499622
+2024-03-24 17:45:42,158 [INFO]  Epoch[3] Train-char_freq_1-accuracy=3.068627
+2024-03-24 17:45:42,158 [INFO]  Epoch[3] Time cost=0.240
+2024-03-24 17:45:42,161 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 17:45:42,172 [INFO]  Epoch[3] Validation-cross-entropy=0.365803
+2024-03-24 17:45:42,172 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:45:42,293 [INFO]  Epoch[4] Batch [0-104]	Speed: 13979.14 samples/sec	cross-entropy=0.698081	char_freq_1-accuracy=3.238095
+2024-03-24 17:45:42,631 [INFO]  Epoch[4] Train-cross-entropy=0.341972
+2024-03-24 17:45:42,631 [INFO]  Epoch[4] Train-char_freq_1-accuracy=3.068627
+2024-03-24 17:45:42,631 [INFO]  Epoch[4] Time cost=0.459
+2024-03-24 17:45:42,633 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 17:45:42,643 [INFO]  Epoch[4] Validation-cross-entropy=0.328290
+2024-03-24 17:45:42,644 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:45:42,644 [INFO]  
+========== done (1.6673474311828613 s) fit model
+2024-03-24 17:47:26,931 [INFO]  
+========== start: fit model
+2024-03-24 17:47:26,931 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:47:27,110 [INFO]  Epoch[0] Batch [0-104]	Speed: 10045.77 samples/sec	cross-entropy=4.287455	char_freq_1-accuracy=3.219048
+2024-03-24 17:47:27,268 [INFO]  Epoch[0] Train-cross-entropy=1.499313
+2024-03-24 17:47:27,268 [INFO]  Epoch[0] Train-char_freq_1-accuracy=3.225490
+2024-03-24 17:47:27,268 [INFO]  Epoch[0] Time cost=0.336
+2024-03-24 17:47:27,270 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 17:47:27,280 [INFO]  Epoch[0] Validation-cross-entropy=4.544575
+2024-03-24 17:47:27,280 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:47:27,400 [INFO]  Epoch[1] Batch [0-104]	Speed: 14074.08 samples/sec	cross-entropy=0.657675	char_freq_1-accuracy=3.219048
+2024-03-24 17:47:27,519 [INFO]  Epoch[1] Train-cross-entropy=0.818083
+2024-03-24 17:47:27,519 [INFO]  Epoch[1] Train-char_freq_1-accuracy=3.225490
+2024-03-24 17:47:27,519 [INFO]  Epoch[1] Time cost=0.239
+2024-03-24 17:47:27,522 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 17:47:27,534 [INFO]  Epoch[1] Validation-cross-entropy=0.543572
+2024-03-24 17:47:27,534 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:47:27,638 [INFO]  Epoch[2] Batch [0-104]	Speed: 16217.86 samples/sec	cross-entropy=0.470591	char_freq_1-accuracy=3.219048
+2024-03-24 17:47:27,720 [INFO]  Epoch[2] Train-cross-entropy=1.559629
+2024-03-24 17:47:27,720 [INFO]  Epoch[2] Train-char_freq_1-accuracy=3.225490
+2024-03-24 17:47:27,720 [INFO]  Epoch[2] Time cost=0.186
+2024-03-24 17:47:27,723 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 17:47:27,732 [INFO]  Epoch[2] Validation-cross-entropy=3.440469
+2024-03-24 17:47:27,732 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:47:27,835 [INFO]  Epoch[3] Batch [0-104]	Speed: 16334.15 samples/sec	cross-entropy=1.246397	char_freq_1-accuracy=3.219048
+2024-03-24 17:47:27,916 [INFO]  Epoch[3] Train-cross-entropy=1.811658
+2024-03-24 17:47:27,916 [INFO]  Epoch[3] Train-char_freq_1-accuracy=3.225490
+2024-03-24 17:47:27,916 [INFO]  Epoch[3] Time cost=0.184
+2024-03-24 17:47:27,918 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 17:47:27,949 [INFO]  Epoch[3] Validation-cross-entropy=2.367888
+2024-03-24 17:47:27,949 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:47:28,068 [INFO]  Epoch[4] Batch [0-104]	Speed: 14237.35 samples/sec	cross-entropy=0.839540	char_freq_1-accuracy=3.219048
+2024-03-24 17:47:28,178 [INFO]  Epoch[4] Train-cross-entropy=0.380052
+2024-03-24 17:47:28,178 [INFO]  Epoch[4] Train-char_freq_1-accuracy=3.225490
+2024-03-24 17:47:28,178 [INFO]  Epoch[4] Time cost=0.229
+2024-03-24 17:47:28,181 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 17:47:28,199 [INFO]  Epoch[4] Validation-cross-entropy=0.772292
+2024-03-24 17:47:28,199 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:47:28,199 [INFO]  
+========== done (1.2687077522277832 s) fit model
+2024-03-24 17:49:15,503 [INFO]  
+========== start: fit model
+2024-03-24 17:49:15,503 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:49:15,693 [INFO]  Epoch[0] Batch [0-104]	Speed: 10061.43 samples/sec	cross-entropy=3.967401	char_freq_1-accuracy=0.000000
+2024-03-24 17:49:15,824 [INFO]  Epoch[0] Train-cross-entropy=1.189111
+2024-03-24 17:49:15,825 [INFO]  Epoch[0] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:49:15,825 [INFO]  Epoch[0] Time cost=0.320
+2024-03-24 17:49:15,827 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 17:49:15,838 [INFO]  Epoch[0] Validation-cross-entropy=1.926783
+2024-03-24 17:49:15,838 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:49:16,043 [INFO]  Epoch[1] Batch [0-104]	Speed: 8170.82 samples/sec	cross-entropy=0.692657	char_freq_1-accuracy=0.000000
+2024-03-24 17:49:16,157 [INFO]  Epoch[1] Train-cross-entropy=0.656408
+2024-03-24 17:49:16,157 [INFO]  Epoch[1] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:49:16,157 [INFO]  Epoch[1] Time cost=0.319
+2024-03-24 17:49:16,159 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 17:49:16,171 [INFO]  Epoch[1] Validation-cross-entropy=1.144778
+2024-03-24 17:49:16,171 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:49:16,289 [INFO]  Epoch[2] Batch [0-104]	Speed: 14247.15 samples/sec	cross-entropy=0.635645	char_freq_1-accuracy=0.000000
+2024-03-24 17:49:16,412 [INFO]  Epoch[2] Train-cross-entropy=0.479496
+2024-03-24 17:49:16,412 [INFO]  Epoch[2] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:49:16,412 [INFO]  Epoch[2] Time cost=0.241
+2024-03-24 17:49:16,414 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 17:49:16,425 [INFO]  Epoch[2] Validation-cross-entropy=0.793198
+2024-03-24 17:49:16,425 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:49:16,549 [INFO]  Epoch[3] Batch [0-104]	Speed: 13632.69 samples/sec	cross-entropy=0.492245	char_freq_1-accuracy=0.000000
+2024-03-24 17:49:16,685 [INFO]  Epoch[3] Train-cross-entropy=0.215189
+2024-03-24 17:49:16,685 [INFO]  Epoch[3] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:49:16,685 [INFO]  Epoch[3] Time cost=0.260
+2024-03-24 17:49:16,687 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 17:49:16,698 [INFO]  Epoch[3] Validation-cross-entropy=1.141798
+2024-03-24 17:49:16,698 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:49:16,822 [INFO]  Epoch[4] Batch [0-104]	Speed: 13524.45 samples/sec	cross-entropy=0.591717	char_freq_1-accuracy=0.000000
+2024-03-24 17:49:16,948 [INFO]  Epoch[4] Train-cross-entropy=0.378204
+2024-03-24 17:49:16,948 [INFO]  Epoch[4] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:49:16,948 [INFO]  Epoch[4] Time cost=0.250
+2024-03-24 17:49:16,951 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 17:49:16,979 [INFO]  Epoch[4] Validation-cross-entropy=0.770291
+2024-03-24 17:49:16,979 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:49:16,980 [INFO]  
+========== done (1.4766356945037842 s) fit model
+2024-03-24 17:51:03,759 [INFO]  
+========== start: fit model
+2024-03-24 17:51:03,759 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:51:03,879 [INFO]  Epoch[0] Batch [0-104]	Speed: 14393.23 samples/sec	cross-entropy=5.883819	char_freq_1-accuracy=3.504762
+2024-03-24 17:51:03,971 [INFO]  Epoch[0] Train-cross-entropy=1.663777
+2024-03-24 17:51:03,971 [INFO]  Epoch[0] Train-char_freq_1-accuracy=2.950980
+2024-03-24 17:51:03,971 [INFO]  Epoch[0] Time cost=0.210
+2024-03-24 17:51:03,972 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 17:51:03,980 [INFO]  Epoch[0] Validation-cross-entropy=1.911061
+2024-03-24 17:51:03,980 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:51:04,097 [INFO]  Epoch[1] Batch [0-104]	Speed: 14339.18 samples/sec	cross-entropy=0.881651	char_freq_1-accuracy=3.504762
+2024-03-24 17:51:04,211 [INFO]  Epoch[1] Train-cross-entropy=1.293812
+2024-03-24 17:51:04,212 [INFO]  Epoch[1] Train-char_freq_1-accuracy=2.950980
+2024-03-24 17:51:04,212 [INFO]  Epoch[1] Time cost=0.231
+2024-03-24 17:51:04,213 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 17:51:04,225 [INFO]  Epoch[1] Validation-cross-entropy=4.648094
+2024-03-24 17:51:04,225 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:51:04,342 [INFO]  Epoch[2] Batch [0-104]	Speed: 14309.04 samples/sec	cross-entropy=0.960784	char_freq_1-accuracy=3.504762
+2024-03-24 17:51:04,457 [INFO]  Epoch[2] Train-cross-entropy=0.428257
+2024-03-24 17:51:04,457 [INFO]  Epoch[2] Train-char_freq_1-accuracy=2.950980
+2024-03-24 17:51:04,457 [INFO]  Epoch[2] Time cost=0.232
+2024-03-24 17:51:04,459 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 17:51:04,471 [INFO]  Epoch[2] Validation-cross-entropy=0.573666
+2024-03-24 17:51:04,471 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:51:04,589 [INFO]  Epoch[3] Batch [0-104]	Speed: 14297.00 samples/sec	cross-entropy=0.191003	char_freq_1-accuracy=3.504762
+2024-03-24 17:51:04,705 [INFO]  Epoch[3] Train-cross-entropy=0.169775
+2024-03-24 17:51:04,705 [INFO]  Epoch[3] Train-char_freq_1-accuracy=2.950980
+2024-03-24 17:51:04,706 [INFO]  Epoch[3] Time cost=0.235
+2024-03-24 17:51:04,708 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 17:51:04,719 [INFO]  Epoch[3] Validation-cross-entropy=0.600716
+2024-03-24 17:51:04,720 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:51:04,837 [INFO]  Epoch[4] Batch [0-104]	Speed: 14378.35 samples/sec	cross-entropy=0.229468	char_freq_1-accuracy=3.504762
+2024-03-24 17:51:04,985 [INFO]  Epoch[4] Train-cross-entropy=0.255512
+2024-03-24 17:51:04,986 [INFO]  Epoch[4] Train-char_freq_1-accuracy=2.950980
+2024-03-24 17:51:04,986 [INFO]  Epoch[4] Time cost=0.266
+2024-03-24 17:51:04,987 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 17:51:04,999 [INFO]  Epoch[4] Validation-cross-entropy=0.475228
+2024-03-24 17:51:04,999 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:51:04,999 [INFO]  
+========== done (1.2402317523956299 s) fit model
+2024-03-24 17:52:51,979 [INFO]  
+========== start: fit model
+2024-03-24 17:52:51,980 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:52:52,112 [INFO]  Epoch[0] Batch [0-104]	Speed: 13959.79 samples/sec	cross-entropy=6.893844	char_freq_1-accuracy=3.247619
+2024-03-24 17:52:52,233 [INFO]  Epoch[0] Train-cross-entropy=1.204650
+2024-03-24 17:52:52,233 [INFO]  Epoch[0] Train-char_freq_1-accuracy=3.058824
+2024-03-24 17:52:52,233 [INFO]  Epoch[0] Time cost=0.252
+2024-03-24 17:52:52,236 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 17:52:52,247 [INFO]  Epoch[0] Validation-cross-entropy=0.824324
+2024-03-24 17:52:52,248 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:52:52,373 [INFO]  Epoch[1] Batch [0-104]	Speed: 13455.90 samples/sec	cross-entropy=1.329300	char_freq_1-accuracy=3.247619
+2024-03-24 17:52:52,495 [INFO]  Epoch[1] Train-cross-entropy=0.465102
+2024-03-24 17:52:52,495 [INFO]  Epoch[1] Train-char_freq_1-accuracy=3.058824
+2024-03-24 17:52:52,495 [INFO]  Epoch[1] Time cost=0.247
+2024-03-24 17:52:52,498 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 17:52:52,509 [INFO]  Epoch[1] Validation-cross-entropy=0.519292
+2024-03-24 17:52:52,510 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:52:52,641 [INFO]  Epoch[2] Batch [0-104]	Speed: 12798.42 samples/sec	cross-entropy=0.955047	char_freq_1-accuracy=3.247619
+2024-03-24 17:52:52,757 [INFO]  Epoch[2] Train-cross-entropy=0.548656
+2024-03-24 17:52:52,757 [INFO]  Epoch[2] Train-char_freq_1-accuracy=3.058824
+2024-03-24 17:52:52,757 [INFO]  Epoch[2] Time cost=0.247
+2024-03-24 17:52:52,759 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 17:52:52,770 [INFO]  Epoch[2] Validation-cross-entropy=0.648051
+2024-03-24 17:52:52,770 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:52:52,867 [INFO]  Epoch[3] Batch [0-104]	Speed: 17347.86 samples/sec	cross-entropy=0.593994	char_freq_1-accuracy=3.247619
+2024-03-24 17:52:52,969 [INFO]  Epoch[3] Train-cross-entropy=0.358466
+2024-03-24 17:52:52,969 [INFO]  Epoch[3] Train-char_freq_1-accuracy=3.058824
+2024-03-24 17:52:52,969 [INFO]  Epoch[3] Time cost=0.199
+2024-03-24 17:52:52,971 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 17:52:52,982 [INFO]  Epoch[3] Validation-cross-entropy=0.440735
+2024-03-24 17:52:52,983 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:52:53,078 [INFO]  Epoch[4] Batch [0-104]	Speed: 17626.46 samples/sec	cross-entropy=0.630721	char_freq_1-accuracy=3.247619
+2024-03-24 17:52:53,169 [INFO]  Epoch[4] Train-cross-entropy=0.283821
+2024-03-24 17:52:53,170 [INFO]  Epoch[4] Train-char_freq_1-accuracy=3.058824
+2024-03-24 17:52:53,170 [INFO]  Epoch[4] Time cost=0.187
+2024-03-24 17:52:53,171 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 17:52:53,179 [INFO]  Epoch[4] Validation-cross-entropy=0.389701
+2024-03-24 17:52:53,179 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:52:53,179 [INFO]  
+========== done (1.1994397640228271 s) fit model
+2024-03-24 17:54:40,881 [INFO]  
+========== start: fit model
+2024-03-24 17:54:40,881 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:54:41,135 [INFO]  Epoch[0] Batch [0-104]	Speed: 13135.74 samples/sec	cross-entropy=5.656629	char_freq_1-accuracy=0.000000
+2024-03-24 17:54:41,255 [INFO]  Epoch[0] Train-cross-entropy=1.562215
+2024-03-24 17:54:41,255 [INFO]  Epoch[0] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:54:41,255 [INFO]  Epoch[0] Time cost=0.373
+2024-03-24 17:54:41,258 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 17:54:41,269 [INFO]  Epoch[0] Validation-cross-entropy=2.039789
+2024-03-24 17:54:41,269 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:54:41,392 [INFO]  Epoch[1] Batch [0-104]	Speed: 13696.44 samples/sec	cross-entropy=0.666263	char_freq_1-accuracy=0.000000
+2024-03-24 17:54:41,512 [INFO]  Epoch[1] Train-cross-entropy=1.914238
+2024-03-24 17:54:41,512 [INFO]  Epoch[1] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:54:41,512 [INFO]  Epoch[1] Time cost=0.243
+2024-03-24 17:54:41,515 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 17:54:41,526 [INFO]  Epoch[1] Validation-cross-entropy=0.666945
+2024-03-24 17:54:41,526 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:54:41,650 [INFO]  Epoch[2] Batch [0-104]	Speed: 13589.90 samples/sec	cross-entropy=0.431709	char_freq_1-accuracy=0.000000
+2024-03-24 17:54:41,771 [INFO]  Epoch[2] Train-cross-entropy=1.295255
+2024-03-24 17:54:41,771 [INFO]  Epoch[2] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:54:41,771 [INFO]  Epoch[2] Time cost=0.244
+2024-03-24 17:54:41,774 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 17:54:41,785 [INFO]  Epoch[2] Validation-cross-entropy=0.538738
+2024-03-24 17:54:41,785 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:54:41,908 [INFO]  Epoch[3] Batch [0-104]	Speed: 13688.27 samples/sec	cross-entropy=0.326899	char_freq_1-accuracy=0.000000
+2024-03-24 17:54:42,028 [INFO]  Epoch[3] Train-cross-entropy=0.418003
+2024-03-24 17:54:42,028 [INFO]  Epoch[3] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:54:42,028 [INFO]  Epoch[3] Time cost=0.243
+2024-03-24 17:54:42,031 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 17:54:42,042 [INFO]  Epoch[3] Validation-cross-entropy=0.301515
+2024-03-24 17:54:42,042 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:54:42,174 [INFO]  Epoch[4] Batch [0-104]	Speed: 12770.03 samples/sec	cross-entropy=0.156393	char_freq_1-accuracy=0.000000
+2024-03-24 17:54:42,293 [INFO]  Epoch[4] Train-cross-entropy=0.213081
+2024-03-24 17:54:42,293 [INFO]  Epoch[4] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:54:42,293 [INFO]  Epoch[4] Time cost=0.251
+2024-03-24 17:54:42,296 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 17:54:42,307 [INFO]  Epoch[4] Validation-cross-entropy=0.229804
+2024-03-24 17:54:42,307 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:54:42,308 [INFO]  
+========== done (1.4267795085906982 s) fit model
+2024-03-24 17:56:30,770 [INFO]  
+========== start: fit model
+2024-03-24 17:56:30,770 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:56:30,965 [INFO]  Epoch[0] Batch [0-104]	Speed: 8929.82 samples/sec	cross-entropy=11.527880	char_freq_1-accuracy=0.000000
+2024-03-24 17:56:31,144 [INFO]  Epoch[0] Train-cross-entropy=2.580219
+2024-03-24 17:56:31,144 [INFO]  Epoch[0] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:56:31,144 [INFO]  Epoch[0] Time cost=0.372
+2024-03-24 17:56:31,146 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 17:56:31,157 [INFO]  Epoch[0] Validation-cross-entropy=4.871907
+2024-03-24 17:56:31,157 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:56:31,379 [INFO]  Epoch[1] Batch [0-104]	Speed: 7546.58 samples/sec	cross-entropy=0.829053	char_freq_1-accuracy=0.000000
+2024-03-24 17:56:31,519 [INFO]  Epoch[1] Train-cross-entropy=0.843642
+2024-03-24 17:56:31,519 [INFO]  Epoch[1] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:56:31,519 [INFO]  Epoch[1] Time cost=0.363
+2024-03-24 17:56:31,522 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 17:56:31,534 [INFO]  Epoch[1] Validation-cross-entropy=3.670479
+2024-03-24 17:56:31,534 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:56:31,690 [INFO]  Epoch[2] Batch [0-104]	Speed: 10763.62 samples/sec	cross-entropy=0.660301	char_freq_1-accuracy=0.000000
+2024-03-24 17:56:31,810 [INFO]  Epoch[2] Train-cross-entropy=0.408964
+2024-03-24 17:56:31,810 [INFO]  Epoch[2] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:56:31,810 [INFO]  Epoch[2] Time cost=0.276
+2024-03-24 17:56:31,812 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 17:56:31,824 [INFO]  Epoch[2] Validation-cross-entropy=0.948026
+2024-03-24 17:56:31,824 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:56:31,945 [INFO]  Epoch[3] Batch [0-104]	Speed: 13987.32 samples/sec	cross-entropy=0.375950	char_freq_1-accuracy=0.000000
+2024-03-24 17:56:32,060 [INFO]  Epoch[3] Train-cross-entropy=0.550216
+2024-03-24 17:56:32,061 [INFO]  Epoch[3] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:56:32,061 [INFO]  Epoch[3] Time cost=0.237
+2024-03-24 17:56:32,063 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 17:56:32,075 [INFO]  Epoch[3] Validation-cross-entropy=3.579424
+2024-03-24 17:56:32,075 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:56:32,196 [INFO]  Epoch[4] Batch [0-104]	Speed: 13964.51 samples/sec	cross-entropy=0.990632	char_freq_1-accuracy=0.000000
+2024-03-24 17:56:32,436 [INFO]  Epoch[4] Train-cross-entropy=0.719513
+2024-03-24 17:56:32,436 [INFO]  Epoch[4] Train-char_freq_1-accuracy=0.000000
+2024-03-24 17:56:32,437 [INFO]  Epoch[4] Time cost=0.361
+2024-03-24 17:56:32,439 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 17:56:32,450 [INFO]  Epoch[4] Validation-cross-entropy=2.200310
+2024-03-24 17:56:32,450 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:56:32,451 [INFO]  
+========== done (1.6803257465362549 s) fit model
+2024-03-24 17:58:21,444 [INFO]  
+========== start: fit model
+2024-03-24 17:58:21,444 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:58:21,589 [INFO]  Epoch[0] Batch [0-104]	Speed: 11726.60 samples/sec	cross-entropy=5.105714	char_freq_1-accuracy=3.361905
+2024-03-24 17:58:21,693 [INFO]  Epoch[0] Train-cross-entropy=1.837334
+2024-03-24 17:58:21,694 [INFO]  Epoch[0] Train-char_freq_1-accuracy=3.068627
+2024-03-24 17:58:21,694 [INFO]  Epoch[0] Time cost=0.248
+2024-03-24 17:58:21,697 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 17:58:21,708 [INFO]  Epoch[0] Validation-cross-entropy=3.639955
+2024-03-24 17:58:21,708 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:58:21,831 [INFO]  Epoch[1] Batch [0-104]	Speed: 13686.29 samples/sec	cross-entropy=1.007980	char_freq_1-accuracy=3.361905
+2024-03-24 17:58:21,950 [INFO]  Epoch[1] Train-cross-entropy=0.668162
+2024-03-24 17:58:21,950 [INFO]  Epoch[1] Train-char_freq_1-accuracy=3.068627
+2024-03-24 17:58:21,950 [INFO]  Epoch[1] Time cost=0.242
+2024-03-24 17:58:21,952 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 17:58:21,963 [INFO]  Epoch[1] Validation-cross-entropy=1.553458
+2024-03-24 17:58:21,963 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:58:22,090 [INFO]  Epoch[2] Batch [0-104]	Speed: 13310.48 samples/sec	cross-entropy=0.529033	char_freq_1-accuracy=3.361905
+2024-03-24 17:58:22,208 [INFO]  Epoch[2] Train-cross-entropy=0.353880
+2024-03-24 17:58:22,208 [INFO]  Epoch[2] Train-char_freq_1-accuracy=3.068627
+2024-03-24 17:58:22,208 [INFO]  Epoch[2] Time cost=0.244
+2024-03-24 17:58:22,210 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 17:58:22,221 [INFO]  Epoch[2] Validation-cross-entropy=0.709905
+2024-03-24 17:58:22,221 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:58:22,374 [INFO]  Epoch[3] Batch [0-104]	Speed: 10995.65 samples/sec	cross-entropy=0.250820	char_freq_1-accuracy=3.361905
+2024-03-24 17:58:22,496 [INFO]  Epoch[3] Train-cross-entropy=0.831854
+2024-03-24 17:58:22,496 [INFO]  Epoch[3] Train-char_freq_1-accuracy=3.068627
+2024-03-24 17:58:22,496 [INFO]  Epoch[3] Time cost=0.275
+2024-03-24 17:58:22,498 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 17:58:22,511 [INFO]  Epoch[3] Validation-cross-entropy=8.579253
+2024-03-24 17:58:22,511 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:58:22,636 [INFO]  Epoch[4] Batch [0-104]	Speed: 13524.24 samples/sec	cross-entropy=1.069449	char_freq_1-accuracy=3.361905
+2024-03-24 17:58:22,759 [INFO]  Epoch[4] Train-cross-entropy=1.545546
+2024-03-24 17:58:22,759 [INFO]  Epoch[4] Train-char_freq_1-accuracy=3.068627
+2024-03-24 17:58:22,759 [INFO]  Epoch[4] Time cost=0.248
+2024-03-24 17:58:22,761 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 17:58:22,773 [INFO]  Epoch[4] Validation-cross-entropy=7.610368
+2024-03-24 17:58:22,773 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 17:58:22,773 [INFO]  
+========== done (1.3287642002105713 s) fit model
+2024-03-24 18:00:14,979 [INFO]  
+========== start: fit model
+2024-03-24 18:00:14,979 [WARNING]  Already bound, ignoring bind()
+2024-03-24 18:00:15,113 [INFO]  Epoch[0] Batch [0-104]	Speed: 12782.99 samples/sec	cross-entropy=5.018540	char_freq_1-accuracy=3.095238
+2024-03-24 18:00:15,209 [INFO]  Epoch[0] Train-cross-entropy=0.748131
+2024-03-24 18:00:15,209 [INFO]  Epoch[0] Train-char_freq_1-accuracy=3.147059
+2024-03-24 18:00:15,209 [INFO]  Epoch[0] Time cost=0.229
+2024-03-24 18:00:15,211 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 18:00:15,218 [INFO]  Epoch[0] Validation-cross-entropy=0.668712
+2024-03-24 18:00:15,218 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:00:15,310 [INFO]  Epoch[1] Batch [0-104]	Speed: 18298.93 samples/sec	cross-entropy=1.021314	char_freq_1-accuracy=3.095238
+2024-03-24 18:00:15,401 [INFO]  Epoch[1] Train-cross-entropy=0.947198
+2024-03-24 18:00:15,401 [INFO]  Epoch[1] Train-char_freq_1-accuracy=3.147059
+2024-03-24 18:00:15,401 [INFO]  Epoch[1] Time cost=0.183
+2024-03-24 18:00:15,403 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 18:00:15,413 [INFO]  Epoch[1] Validation-cross-entropy=2.055617
+2024-03-24 18:00:15,413 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:00:15,500 [INFO]  Epoch[2] Batch [0-104]	Speed: 19404.63 samples/sec	cross-entropy=1.135325	char_freq_1-accuracy=3.095238
+2024-03-24 18:00:15,587 [INFO]  Epoch[2] Train-cross-entropy=0.575301
+2024-03-24 18:00:15,587 [INFO]  Epoch[2] Train-char_freq_1-accuracy=3.147059
+2024-03-24 18:00:15,587 [INFO]  Epoch[2] Time cost=0.174
+2024-03-24 18:00:15,589 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 18:00:15,598 [INFO]  Epoch[2] Validation-cross-entropy=0.727833
+2024-03-24 18:00:15,598 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:00:15,686 [INFO]  Epoch[3] Batch [0-104]	Speed: 19197.22 samples/sec	cross-entropy=0.410657	char_freq_1-accuracy=3.095238
+2024-03-24 18:00:15,774 [INFO]  Epoch[3] Train-cross-entropy=0.262997
+2024-03-24 18:00:15,774 [INFO]  Epoch[3] Train-char_freq_1-accuracy=3.147059
+2024-03-24 18:00:15,774 [INFO]  Epoch[3] Time cost=0.176
+2024-03-24 18:00:15,776 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 18:00:15,786 [INFO]  Epoch[3] Validation-cross-entropy=0.254256
+2024-03-24 18:00:15,786 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:00:15,861 [INFO]  Epoch[4] Batch [0-104]	Speed: 22358.66 samples/sec	cross-entropy=0.410785	char_freq_1-accuracy=3.095238
+2024-03-24 18:00:15,943 [INFO]  Epoch[4] Train-cross-entropy=0.387880
+2024-03-24 18:00:15,943 [INFO]  Epoch[4] Train-char_freq_1-accuracy=3.147059
+2024-03-24 18:00:15,943 [INFO]  Epoch[4] Time cost=0.157
+2024-03-24 18:00:15,945 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 18:00:15,958 [INFO]  Epoch[4] Validation-cross-entropy=0.290049
+2024-03-24 18:00:15,959 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:00:15,959 [INFO]  
+========== done (0.9792776107788086 s) fit model
+2024-03-24 18:02:05,979 [INFO]  
+========== start: fit model
+2024-03-24 18:02:05,979 [WARNING]  Already bound, ignoring bind()
+2024-03-24 18:02:06,101 [INFO]  Epoch[0] Batch [0-104]	Speed: 14050.22 samples/sec	cross-entropy=8.834563	char_freq_1-accuracy=0.000000
+2024-03-24 18:02:06,217 [INFO]  Epoch[0] Train-cross-entropy=0.724511
+2024-03-24 18:02:06,217 [INFO]  Epoch[0] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:02:06,217 [INFO]  Epoch[0] Time cost=0.237
+2024-03-24 18:02:06,219 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 18:02:06,230 [INFO]  Epoch[0] Validation-cross-entropy=1.732142
+2024-03-24 18:02:06,230 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:02:06,349 [INFO]  Epoch[1] Batch [0-104]	Speed: 14070.33 samples/sec	cross-entropy=0.989538	char_freq_1-accuracy=0.000000
+2024-03-24 18:02:06,516 [INFO]  Epoch[1] Train-cross-entropy=0.444355
+2024-03-24 18:02:06,517 [INFO]  Epoch[1] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:02:06,517 [INFO]  Epoch[1] Time cost=0.287
+2024-03-24 18:02:06,519 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 18:02:06,531 [INFO]  Epoch[1] Validation-cross-entropy=0.499683
+2024-03-24 18:02:06,531 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:02:06,649 [INFO]  Epoch[2] Batch [0-104]	Speed: 14233.78 samples/sec	cross-entropy=1.054321	char_freq_1-accuracy=0.000000
+2024-03-24 18:02:06,802 [INFO]  Epoch[2] Train-cross-entropy=0.566650
+2024-03-24 18:02:06,802 [INFO]  Epoch[2] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:02:06,802 [INFO]  Epoch[2] Time cost=0.270
+2024-03-24 18:02:06,804 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 18:02:06,814 [INFO]  Epoch[2] Validation-cross-entropy=0.400517
+2024-03-24 18:02:06,814 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:02:06,932 [INFO]  Epoch[3] Batch [0-104]	Speed: 14335.91 samples/sec	cross-entropy=0.755397	char_freq_1-accuracy=0.000000
+2024-03-24 18:02:07,046 [INFO]  Epoch[3] Train-cross-entropy=0.355274
+2024-03-24 18:02:07,047 [INFO]  Epoch[3] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:02:07,047 [INFO]  Epoch[3] Time cost=0.232
+2024-03-24 18:02:07,049 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 18:02:07,063 [INFO]  Epoch[3] Validation-cross-entropy=0.285063
+2024-03-24 18:02:07,063 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:02:07,181 [INFO]  Epoch[4] Batch [0-104]	Speed: 14312.51 samples/sec	cross-entropy=0.714910	char_freq_1-accuracy=0.000000
+2024-03-24 18:02:07,296 [INFO]  Epoch[4] Train-cross-entropy=0.514659
+2024-03-24 18:02:07,296 [INFO]  Epoch[4] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:02:07,296 [INFO]  Epoch[4] Time cost=0.233
+2024-03-24 18:02:07,299 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 18:02:07,310 [INFO]  Epoch[4] Validation-cross-entropy=0.356906
+2024-03-24 18:02:07,310 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:02:07,310 [INFO]  
+========== done (1.3312373161315918 s) fit model
+2024-03-24 18:03:51,455 [INFO]  
+========== start: fit model
+2024-03-24 18:03:51,455 [WARNING]  Already bound, ignoring bind()
+2024-03-24 18:03:51,613 [INFO]  Epoch[0] Batch [0-104]	Speed: 13843.58 samples/sec	cross-entropy=7.521920	char_freq_1-accuracy=0.000000
+2024-03-24 18:03:51,741 [INFO]  Epoch[0] Train-cross-entropy=2.281751
+2024-03-24 18:03:51,741 [INFO]  Epoch[0] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:03:51,741 [INFO]  Epoch[0] Time cost=0.285
+2024-03-24 18:03:51,743 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 18:03:51,754 [INFO]  Epoch[0] Validation-cross-entropy=0.657912
+2024-03-24 18:03:51,754 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:03:51,931 [INFO]  Epoch[1] Batch [0-104]	Speed: 9516.08 samples/sec	cross-entropy=0.839389	char_freq_1-accuracy=0.000000
+2024-03-24 18:03:52,050 [INFO]  Epoch[1] Train-cross-entropy=0.625976
+2024-03-24 18:03:52,050 [INFO]  Epoch[1] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:03:52,050 [INFO]  Epoch[1] Time cost=0.295
+2024-03-24 18:03:52,052 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 18:03:52,064 [INFO]  Epoch[1] Validation-cross-entropy=0.648124
+2024-03-24 18:03:52,064 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:03:52,201 [INFO]  Epoch[2] Batch [0-104]	Speed: 12217.03 samples/sec	cross-entropy=0.609476	char_freq_1-accuracy=0.000000
+2024-03-24 18:03:52,348 [INFO]  Epoch[2] Train-cross-entropy=0.398498
+2024-03-24 18:03:52,348 [INFO]  Epoch[2] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:03:52,348 [INFO]  Epoch[2] Time cost=0.284
+2024-03-24 18:03:52,351 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 18:03:52,363 [INFO]  Epoch[2] Validation-cross-entropy=0.284505
+2024-03-24 18:03:52,363 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:03:52,489 [INFO]  Epoch[3] Batch [0-104]	Speed: 13849.43 samples/sec	cross-entropy=0.405895	char_freq_1-accuracy=0.000000
+2024-03-24 18:03:52,608 [INFO]  Epoch[3] Train-cross-entropy=0.295306
+2024-03-24 18:03:52,609 [INFO]  Epoch[3] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:03:52,609 [INFO]  Epoch[3] Time cost=0.246
+2024-03-24 18:03:52,612 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 18:03:52,623 [INFO]  Epoch[3] Validation-cross-entropy=0.231822
+2024-03-24 18:03:52,624 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:03:52,748 [INFO]  Epoch[4] Batch [0-104]	Speed: 13522.41 samples/sec	cross-entropy=0.294850	char_freq_1-accuracy=0.000000
+2024-03-24 18:03:52,867 [INFO]  Epoch[4] Train-cross-entropy=0.306087
+2024-03-24 18:03:52,867 [INFO]  Epoch[4] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:03:52,867 [INFO]  Epoch[4] Time cost=0.243
+2024-03-24 18:03:52,870 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 18:03:52,882 [INFO]  Epoch[4] Validation-cross-entropy=0.414308
+2024-03-24 18:03:52,882 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:03:52,883 [INFO]  
+========== done (1.428058385848999 s) fit model
+2024-03-24 18:05:39,314 [INFO]  
+========== start: fit model
+2024-03-24 18:05:39,314 [WARNING]  Already bound, ignoring bind()
+2024-03-24 18:05:39,438 [INFO]  Epoch[0] Batch [0-104]	Speed: 13759.24 samples/sec	cross-entropy=10.319802	char_freq_1-accuracy=0.000000
+2024-03-24 18:05:39,554 [INFO]  Epoch[0] Train-cross-entropy=1.313772
+2024-03-24 18:05:39,554 [INFO]  Epoch[0] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:05:39,555 [INFO]  Epoch[0] Time cost=0.240
+2024-03-24 18:05:39,557 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 18:05:39,569 [INFO]  Epoch[0] Validation-cross-entropy=1.622412
+2024-03-24 18:05:39,569 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:05:39,689 [INFO]  Epoch[1] Batch [0-104]	Speed: 14048.07 samples/sec	cross-entropy=0.865899	char_freq_1-accuracy=0.000000
+2024-03-24 18:05:39,802 [INFO]  Epoch[1] Train-cross-entropy=1.377350
+2024-03-24 18:05:39,802 [INFO]  Epoch[1] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:05:39,802 [INFO]  Epoch[1] Time cost=0.233
+2024-03-24 18:05:39,803 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 18:05:39,810 [INFO]  Epoch[1] Validation-cross-entropy=3.576106
+2024-03-24 18:05:39,810 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:05:39,875 [INFO]  Epoch[2] Batch [0-104]	Speed: 25985.81 samples/sec	cross-entropy=0.522413	char_freq_1-accuracy=0.000000
+2024-03-24 18:05:39,933 [INFO]  Epoch[2] Train-cross-entropy=0.778997
+2024-03-24 18:05:39,933 [INFO]  Epoch[2] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:05:39,933 [INFO]  Epoch[2] Time cost=0.122
+2024-03-24 18:05:39,934 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 18:05:39,940 [INFO]  Epoch[2] Validation-cross-entropy=1.276505
+2024-03-24 18:05:39,940 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:05:40,049 [INFO]  Epoch[3] Batch [0-104]	Speed: 15340.75 samples/sec	cross-entropy=0.718941	char_freq_1-accuracy=0.000000
+2024-03-24 18:05:40,162 [INFO]  Epoch[3] Train-cross-entropy=0.698017
+2024-03-24 18:05:40,162 [INFO]  Epoch[3] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:05:40,162 [INFO]  Epoch[3] Time cost=0.222
+2024-03-24 18:05:40,164 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 18:05:40,172 [INFO]  Epoch[3] Validation-cross-entropy=0.577771
+2024-03-24 18:05:40,172 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:05:40,254 [INFO]  Epoch[4] Batch [0-104]	Speed: 20334.95 samples/sec	cross-entropy=0.243889	char_freq_1-accuracy=0.000000
+2024-03-24 18:05:40,380 [INFO]  Epoch[4] Train-cross-entropy=0.342646
+2024-03-24 18:05:40,380 [INFO]  Epoch[4] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:05:40,380 [INFO]  Epoch[4] Time cost=0.209
+2024-03-24 18:05:40,382 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 18:05:40,394 [INFO]  Epoch[4] Validation-cross-entropy=1.265498
+2024-03-24 18:05:40,394 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:05:40,394 [INFO]  
+========== done (1.079923152923584 s) fit model
+2024-03-24 18:07:28,340 [INFO]  
+========== start: fit model
+2024-03-24 18:07:28,340 [WARNING]  Already bound, ignoring bind()
+2024-03-24 18:07:28,478 [INFO]  Epoch[0] Batch [0-104]	Speed: 12446.63 samples/sec	cross-entropy=11.164173	char_freq_1-accuracy=3.047619
+2024-03-24 18:07:28,559 [INFO]  Epoch[0] Train-cross-entropy=1.494584
+2024-03-24 18:07:28,559 [INFO]  Epoch[0] Train-char_freq_1-accuracy=3.264706
+2024-03-24 18:07:28,560 [INFO]  Epoch[0] Time cost=0.219
+2024-03-24 18:07:28,562 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 18:07:28,573 [INFO]  Epoch[0] Validation-cross-entropy=1.610208
+2024-03-24 18:07:28,574 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:07:28,693 [INFO]  Epoch[1] Batch [0-104]	Speed: 14119.52 samples/sec	cross-entropy=1.596330	char_freq_1-accuracy=3.047619
+2024-03-24 18:07:28,762 [INFO]  Epoch[1] Train-cross-entropy=0.679426
+2024-03-24 18:07:28,762 [INFO]  Epoch[1] Train-char_freq_1-accuracy=3.264706
+2024-03-24 18:07:28,762 [INFO]  Epoch[1] Time cost=0.188
+2024-03-24 18:07:28,765 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 18:07:28,774 [INFO]  Epoch[1] Validation-cross-entropy=0.720867
+2024-03-24 18:07:28,774 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:07:28,844 [INFO]  Epoch[2] Batch [0-104]	Speed: 24199.64 samples/sec	cross-entropy=0.811864	char_freq_1-accuracy=3.047619
+2024-03-24 18:07:28,965 [INFO]  Epoch[2] Train-cross-entropy=0.384471
+2024-03-24 18:07:28,965 [INFO]  Epoch[2] Train-char_freq_1-accuracy=3.264706
+2024-03-24 18:07:28,965 [INFO]  Epoch[2] Time cost=0.191
+2024-03-24 18:07:28,968 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 18:07:28,978 [INFO]  Epoch[2] Validation-cross-entropy=1.256375
+2024-03-24 18:07:28,978 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:07:29,099 [INFO]  Epoch[3] Batch [0-104]	Speed: 13995.45 samples/sec	cross-entropy=1.026828	char_freq_1-accuracy=3.047619
+2024-03-24 18:07:29,215 [INFO]  Epoch[3] Train-cross-entropy=0.520614
+2024-03-24 18:07:29,215 [INFO]  Epoch[3] Train-char_freq_1-accuracy=3.264706
+2024-03-24 18:07:29,215 [INFO]  Epoch[3] Time cost=0.237
+2024-03-24 18:07:29,217 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 18:07:29,229 [INFO]  Epoch[3] Validation-cross-entropy=1.130108
+2024-03-24 18:07:29,229 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:07:29,347 [INFO]  Epoch[4] Batch [0-104]	Speed: 14251.72 samples/sec	cross-entropy=0.679136	char_freq_1-accuracy=3.047619
+2024-03-24 18:07:29,468 [INFO]  Epoch[4] Train-cross-entropy=0.287305
+2024-03-24 18:07:29,468 [INFO]  Epoch[4] Train-char_freq_1-accuracy=3.264706
+2024-03-24 18:07:29,468 [INFO]  Epoch[4] Time cost=0.239
+2024-03-24 18:07:29,471 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 18:07:29,481 [INFO]  Epoch[4] Validation-cross-entropy=0.659470
+2024-03-24 18:07:29,481 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:07:29,482 [INFO]  
+========== done (1.141775369644165 s) fit model
+2024-03-24 18:09:14,279 [INFO]  
+========== start: fit model
+2024-03-24 18:09:14,279 [WARNING]  Already bound, ignoring bind()
+2024-03-24 18:09:14,407 [INFO]  Epoch[0] Batch [0-104]	Speed: 13382.63 samples/sec	cross-entropy=6.307295	char_freq_1-accuracy=0.000000
+2024-03-24 18:09:14,529 [INFO]  Epoch[0] Train-cross-entropy=0.911006
+2024-03-24 18:09:14,529 [INFO]  Epoch[0] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:09:14,529 [INFO]  Epoch[0] Time cost=0.249
+2024-03-24 18:09:14,531 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 18:09:14,543 [INFO]  Epoch[0] Validation-cross-entropy=1.283791
+2024-03-24 18:09:14,543 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:09:14,669 [INFO]  Epoch[1] Batch [0-104]	Speed: 13379.37 samples/sec	cross-entropy=1.291987	char_freq_1-accuracy=0.000000
+2024-03-24 18:09:14,790 [INFO]  Epoch[1] Train-cross-entropy=0.692782
+2024-03-24 18:09:14,791 [INFO]  Epoch[1] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:09:14,791 [INFO]  Epoch[1] Time cost=0.248
+2024-03-24 18:09:14,794 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 18:09:14,806 [INFO]  Epoch[1] Validation-cross-entropy=0.669242
+2024-03-24 18:09:14,806 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:09:14,932 [INFO]  Epoch[2] Batch [0-104]	Speed: 13320.84 samples/sec	cross-entropy=1.161322	char_freq_1-accuracy=0.000000
+2024-03-24 18:09:15,063 [INFO]  Epoch[2] Train-cross-entropy=0.561995
+2024-03-24 18:09:15,063 [INFO]  Epoch[2] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:09:15,063 [INFO]  Epoch[2] Time cost=0.257
+2024-03-24 18:09:15,066 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 18:09:15,078 [INFO]  Epoch[2] Validation-cross-entropy=0.669525
+2024-03-24 18:09:15,078 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:09:15,205 [INFO]  Epoch[3] Batch [0-104]	Speed: 13272.26 samples/sec	cross-entropy=0.360043	char_freq_1-accuracy=0.000000
+2024-03-24 18:09:15,326 [INFO]  Epoch[3] Train-cross-entropy=0.208367
+2024-03-24 18:09:15,326 [INFO]  Epoch[3] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:09:15,326 [INFO]  Epoch[3] Time cost=0.247
+2024-03-24 18:09:15,328 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 18:09:15,339 [INFO]  Epoch[3] Validation-cross-entropy=0.366149
+2024-03-24 18:09:15,339 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:09:15,462 [INFO]  Epoch[4] Batch [0-104]	Speed: 13695.69 samples/sec	cross-entropy=0.542547	char_freq_1-accuracy=0.000000
+2024-03-24 18:09:15,583 [INFO]  Epoch[4] Train-cross-entropy=0.426062
+2024-03-24 18:09:15,583 [INFO]  Epoch[4] Train-char_freq_1-accuracy=0.000000
+2024-03-24 18:09:15,583 [INFO]  Epoch[4] Time cost=0.244
+2024-03-24 18:09:15,586 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 18:09:15,598 [INFO]  Epoch[4] Validation-cross-entropy=0.283694
+2024-03-24 18:09:15,598 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:09:15,598 [INFO]  
+========== done (1.319582462310791 s) fit model
+2024-03-24 18:11:00,576 [INFO]  
+========== start: fit model
+2024-03-24 18:11:00,577 [WARNING]  Already bound, ignoring bind()
+2024-03-24 18:11:00,766 [INFO]  Epoch[0] Batch [0-104]	Speed: 12103.64 samples/sec	cross-entropy=7.719698	char_freq_1-accuracy=3.190476
+2024-03-24 18:11:00,887 [INFO]  Epoch[0] Train-cross-entropy=1.467853
+2024-03-24 18:11:00,887 [INFO]  Epoch[0] Train-char_freq_1-accuracy=3.156863
+2024-03-24 18:11:00,887 [INFO]  Epoch[0] Time cost=0.310
+2024-03-24 18:11:00,890 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 18:11:00,911 [INFO]  Epoch[0] Validation-cross-entropy=0.646424
+2024-03-24 18:11:00,911 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:11:01,037 [INFO]  Epoch[1] Batch [0-104]	Speed: 13373.19 samples/sec	cross-entropy=1.034510	char_freq_1-accuracy=3.190476
+2024-03-24 18:11:01,159 [INFO]  Epoch[1] Train-cross-entropy=0.539771
+2024-03-24 18:11:01,160 [INFO]  Epoch[1] Train-char_freq_1-accuracy=3.156863
+2024-03-24 18:11:01,160 [INFO]  Epoch[1] Time cost=0.248
+2024-03-24 18:11:01,163 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 18:11:01,299 [INFO]  Epoch[1] Validation-cross-entropy=0.468997
+2024-03-24 18:11:01,299 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:11:01,421 [INFO]  Epoch[2] Batch [0-104]	Speed: 13745.18 samples/sec	cross-entropy=0.746715	char_freq_1-accuracy=3.190476
+2024-03-24 18:11:01,552 [INFO]  Epoch[2] Train-cross-entropy=0.357731
+2024-03-24 18:11:01,552 [INFO]  Epoch[2] Train-char_freq_1-accuracy=3.156863
+2024-03-24 18:11:01,552 [INFO]  Epoch[2] Time cost=0.253
+2024-03-24 18:11:01,555 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 18:11:01,566 [INFO]  Epoch[2] Validation-cross-entropy=0.297229
+2024-03-24 18:11:01,566 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:11:01,691 [INFO]  Epoch[3] Batch [0-104]	Speed: 13494.49 samples/sec	cross-entropy=0.784233	char_freq_1-accuracy=3.190476
+2024-03-24 18:11:01,811 [INFO]  Epoch[3] Train-cross-entropy=0.454167
+2024-03-24 18:11:01,811 [INFO]  Epoch[3] Train-char_freq_1-accuracy=3.156863
+2024-03-24 18:11:01,811 [INFO]  Epoch[3] Time cost=0.245
+2024-03-24 18:11:01,813 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 18:11:01,823 [INFO]  Epoch[3] Validation-cross-entropy=0.207688
+2024-03-24 18:11:01,823 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:11:01,946 [INFO]  Epoch[4] Batch [0-104]	Speed: 13670.36 samples/sec	cross-entropy=0.824470	char_freq_1-accuracy=3.190476
+2024-03-24 18:11:02,067 [INFO]  Epoch[4] Train-cross-entropy=0.468865
+2024-03-24 18:11:02,067 [INFO]  Epoch[4] Train-char_freq_1-accuracy=3.156863
+2024-03-24 18:11:02,067 [INFO]  Epoch[4] Time cost=0.244
+2024-03-24 18:11:02,070 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 18:11:02,080 [INFO]  Epoch[4] Validation-cross-entropy=0.320159
+2024-03-24 18:11:02,081 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:11:02,081 [INFO]  
+========== done (1.5044622421264648 s) fit model
+2024-03-24 18:12:48,217 [INFO]  
+========== start: fit model
+2024-03-24 18:12:48,217 [WARNING]  Already bound, ignoring bind()
+2024-03-24 18:12:48,391 [INFO]  Epoch[0] Batch [0-104]	Speed: 10045.60 samples/sec	cross-entropy=7.453419	char_freq_1-accuracy=3.123810
+2024-03-24 18:12:48,493 [INFO]  Epoch[0] Train-cross-entropy=1.626979
+2024-03-24 18:12:48,493 [INFO]  Epoch[0] Train-char_freq_1-accuracy=3.225490
+2024-03-24 18:12:48,493 [INFO]  Epoch[0] Time cost=0.275
+2024-03-24 18:12:48,494 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0000.params"
+2024-03-24 18:12:48,502 [INFO]  Epoch[0] Validation-cross-entropy=2.369988
+2024-03-24 18:12:48,502 [INFO]  Epoch[0] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:12:48,581 [INFO]  Epoch[1] Batch [0-104]	Speed: 21154.85 samples/sec	cross-entropy=1.396377	char_freq_1-accuracy=3.123810
+2024-03-24 18:12:48,736 [INFO]  Epoch[1] Train-cross-entropy=0.648392
+2024-03-24 18:12:48,736 [INFO]  Epoch[1] Train-char_freq_1-accuracy=3.225490
+2024-03-24 18:12:48,736 [INFO]  Epoch[1] Time cost=0.234
+2024-03-24 18:12:48,738 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0001.params"
+2024-03-24 18:12:48,769 [INFO]  Epoch[1] Validation-cross-entropy=0.559614
+2024-03-24 18:12:48,769 [INFO]  Epoch[1] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:12:48,829 [INFO]  Epoch[2] Batch [0-104]	Speed: 28140.27 samples/sec	cross-entropy=0.532623	char_freq_1-accuracy=3.123810
+2024-03-24 18:12:48,929 [INFO]  Epoch[2] Train-cross-entropy=0.432972
+2024-03-24 18:12:48,929 [INFO]  Epoch[2] Train-char_freq_1-accuracy=3.225490
+2024-03-24 18:12:48,929 [INFO]  Epoch[2] Time cost=0.160
+2024-03-24 18:12:48,931 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0002.params"
+2024-03-24 18:12:48,942 [INFO]  Epoch[2] Validation-cross-entropy=0.832476
+2024-03-24 18:12:48,942 [INFO]  Epoch[2] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:12:49,064 [INFO]  Epoch[3] Batch [0-104]	Speed: 13856.38 samples/sec	cross-entropy=0.425266	char_freq_1-accuracy=3.123810
+2024-03-24 18:12:49,183 [INFO]  Epoch[3] Train-cross-entropy=1.430578
+2024-03-24 18:12:49,183 [INFO]  Epoch[3] Train-char_freq_1-accuracy=3.225490
+2024-03-24 18:12:49,183 [INFO]  Epoch[3] Time cost=0.240
+2024-03-24 18:12:49,185 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0003.params"
+2024-03-24 18:12:49,196 [INFO]  Epoch[3] Validation-cross-entropy=2.147052
+2024-03-24 18:12:49,196 [INFO]  Epoch[3] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:12:49,319 [INFO]  Epoch[4] Batch [0-104]	Speed: 13626.38 samples/sec	cross-entropy=1.273788	char_freq_1-accuracy=3.123810
+2024-03-24 18:12:49,441 [INFO]  Epoch[4] Train-cross-entropy=0.431230
+2024-03-24 18:12:49,441 [INFO]  Epoch[4] Train-char_freq_1-accuracy=3.225490
+2024-03-24 18:12:49,441 [INFO]  Epoch[4] Time cost=0.245
+2024-03-24 18:12:49,444 [INFO]  Saved checkpoint to "./imputer_model/5_spam/imputer_model_char_freq_1/model-0004.params"
+2024-03-24 18:12:49,455 [INFO]  Epoch[4] Validation-cross-entropy=0.384817
+2024-03-24 18:12:49,455 [INFO]  Epoch[4] Validation-char_freq_1-accuracy=0.000000
+2024-03-24 18:12:49,455 [INFO]  
+========== done (1.2386987209320068 s) fit model

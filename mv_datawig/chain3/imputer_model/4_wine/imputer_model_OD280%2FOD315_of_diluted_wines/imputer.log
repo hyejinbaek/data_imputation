@@ -1,0 +1,1200 @@
+2024-03-24 17:40:28,097 [INFO]  
+========== start: fit model
+2024-03-24 17:40:28,097 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:40:28,111 [INFO]  Epoch[0] Batch [0-4]	Speed: 8667.04 samples/sec	cross-entropy=8.214921	OD280%2FOD315_of_diluted_wines-accuracy=1.400000
+2024-03-24 17:40:28,116 [INFO]  Epoch[0] Train-cross-entropy=3.406476
+2024-03-24 17:40:28,116 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.333333
+2024-03-24 17:40:28,116 [INFO]  Epoch[0] Time cost=0.018
+2024-03-24 17:40:28,117 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:40:28,118 [INFO]  Epoch[0] Validation-cross-entropy=1.859318
+2024-03-24 17:40:28,118 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:28,124 [INFO]  Epoch[1] Batch [0-4]	Speed: 14153.51 samples/sec	cross-entropy=2.520508	OD280%2FOD315_of_diluted_wines-accuracy=1.400000
+2024-03-24 17:40:28,127 [INFO]  Epoch[1] Train-cross-entropy=1.458040
+2024-03-24 17:40:28,127 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.333333
+2024-03-24 17:40:28,127 [INFO]  Epoch[1] Time cost=0.009
+2024-03-24 17:40:28,129 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:40:28,130 [INFO]  Epoch[1] Validation-cross-entropy=1.046651
+2024-03-24 17:40:28,130 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:28,135 [INFO]  Epoch[2] Batch [0-4]	Speed: 14661.39 samples/sec	cross-entropy=1.479399	OD280%2FOD315_of_diluted_wines-accuracy=1.400000
+2024-03-24 17:40:28,139 [INFO]  Epoch[2] Train-cross-entropy=0.447171
+2024-03-24 17:40:28,139 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.333333
+2024-03-24 17:40:28,139 [INFO]  Epoch[2] Time cost=0.009
+2024-03-24 17:40:28,140 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:40:28,141 [INFO]  Epoch[2] Validation-cross-entropy=0.240732
+2024-03-24 17:40:28,141 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:28,147 [INFO]  Epoch[3] Batch [0-4]	Speed: 14358.68 samples/sec	cross-entropy=0.755609	OD280%2FOD315_of_diluted_wines-accuracy=1.400000
+2024-03-24 17:40:28,150 [INFO]  Epoch[3] Train-cross-entropy=0.341840
+2024-03-24 17:40:28,150 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.333333
+2024-03-24 17:40:28,151 [INFO]  Epoch[3] Time cost=0.009
+2024-03-24 17:40:28,152 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:40:28,153 [INFO]  Epoch[3] Validation-cross-entropy=0.203478
+2024-03-24 17:40:28,153 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:28,159 [INFO]  Epoch[4] Batch [0-4]	Speed: 14702.35 samples/sec	cross-entropy=0.356880	OD280%2FOD315_of_diluted_wines-accuracy=1.400000
+2024-03-24 17:40:28,162 [INFO]  Epoch[4] Train-cross-entropy=0.325146
+2024-03-24 17:40:28,163 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.333333
+2024-03-24 17:40:28,163 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:40:28,164 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:40:28,165 [INFO]  Epoch[4] Validation-cross-entropy=0.227802
+2024-03-24 17:40:28,165 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:28,165 [INFO]  
+========== done (0.06827354431152344 s) fit model
+2024-03-24 17:40:32,147 [INFO]  
+========== start: fit model
+2024-03-24 17:40:32,147 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:40:32,155 [INFO]  Epoch[0] Batch [0-4]	Speed: 14380.98 samples/sec	cross-entropy=27.111686	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,159 [INFO]  Epoch[0] Train-cross-entropy=12.548792
+2024-03-24 17:40:32,159 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,159 [INFO]  Epoch[0] Time cost=0.011
+2024-03-24 17:40:32,161 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:40:32,162 [INFO]  Epoch[0] Validation-cross-entropy=11.969198
+2024-03-24 17:40:32,162 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,168 [INFO]  Epoch[1] Batch [0-4]	Speed: 13923.00 samples/sec	cross-entropy=6.620627	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,171 [INFO]  Epoch[1] Train-cross-entropy=3.415288
+2024-03-24 17:40:32,171 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,171 [INFO]  Epoch[1] Time cost=0.009
+2024-03-24 17:40:32,173 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:40:32,174 [INFO]  Epoch[1] Validation-cross-entropy=3.173820
+2024-03-24 17:40:32,174 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,180 [INFO]  Epoch[2] Batch [0-4]	Speed: 14706.37 samples/sec	cross-entropy=3.084469	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,183 [INFO]  Epoch[2] Train-cross-entropy=2.352292
+2024-03-24 17:40:32,183 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,183 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:40:32,185 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:40:32,186 [INFO]  Epoch[2] Validation-cross-entropy=1.728316
+2024-03-24 17:40:32,186 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,191 [INFO]  Epoch[3] Batch [0-4]	Speed: 14554.08 samples/sec	cross-entropy=1.899184	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,195 [INFO]  Epoch[3] Train-cross-entropy=1.166234
+2024-03-24 17:40:32,195 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,195 [INFO]  Epoch[3] Time cost=0.009
+2024-03-24 17:40:32,196 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:40:32,197 [INFO]  Epoch[3] Validation-cross-entropy=0.972596
+2024-03-24 17:40:32,197 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,203 [INFO]  Epoch[4] Batch [0-4]	Speed: 14549.35 samples/sec	cross-entropy=0.991581	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,206 [INFO]  Epoch[4] Train-cross-entropy=0.601436
+2024-03-24 17:40:32,206 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,206 [INFO]  Epoch[4] Time cost=0.009
+2024-03-24 17:40:32,208 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:40:32,209 [INFO]  Epoch[4] Validation-cross-entropy=0.940611
+2024-03-24 17:40:32,209 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:32,209 [INFO]  
+========== done (0.06226706504821777 s) fit model
+2024-03-24 17:40:35,774 [INFO]  
+========== start: fit model
+2024-03-24 17:40:35,775 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:40:35,783 [INFO]  Epoch[0] Batch [0-4]	Speed: 11789.00 samples/sec	cross-entropy=14.177867	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,787 [INFO]  Epoch[0] Train-cross-entropy=6.012826
+2024-03-24 17:40:35,787 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,787 [INFO]  Epoch[0] Time cost=0.011
+2024-03-24 17:40:35,790 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:40:35,791 [INFO]  Epoch[0] Validation-cross-entropy=4.918617
+2024-03-24 17:40:35,791 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,797 [INFO]  Epoch[1] Batch [0-4]	Speed: 14534.38 samples/sec	cross-entropy=3.967493	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,801 [INFO]  Epoch[1] Train-cross-entropy=2.589831
+2024-03-24 17:40:35,801 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,801 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:40:35,804 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:40:35,805 [INFO]  Epoch[1] Validation-cross-entropy=2.100233
+2024-03-24 17:40:35,805 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,811 [INFO]  Epoch[2] Batch [0-4]	Speed: 13425.80 samples/sec	cross-entropy=1.967948	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,815 [INFO]  Epoch[2] Train-cross-entropy=1.546335
+2024-03-24 17:40:35,815 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,815 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:40:35,818 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:40:35,819 [INFO]  Epoch[2] Validation-cross-entropy=1.050307
+2024-03-24 17:40:35,819 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,825 [INFO]  Epoch[3] Batch [0-4]	Speed: 13435.21 samples/sec	cross-entropy=1.187144	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,829 [INFO]  Epoch[3] Train-cross-entropy=0.727405
+2024-03-24 17:40:35,829 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,830 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:40:35,832 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:40:35,833 [INFO]  Epoch[3] Validation-cross-entropy=0.852109
+2024-03-24 17:40:35,833 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,840 [INFO]  Epoch[4] Batch [0-4]	Speed: 13549.13 samples/sec	cross-entropy=0.890650	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,843 [INFO]  Epoch[4] Train-cross-entropy=0.371869
+2024-03-24 17:40:35,844 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,844 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:40:35,847 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:40:35,848 [INFO]  Epoch[4] Validation-cross-entropy=0.719169
+2024-03-24 17:40:35,848 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:35,848 [INFO]  
+========== done (0.07411575317382812 s) fit model
+2024-03-24 17:40:39,474 [INFO]  
+========== start: fit model
+2024-03-24 17:40:39,474 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:40:39,496 [INFO]  Epoch[0] Batch [0-4]	Speed: 7674.41 samples/sec	cross-entropy=10.436150	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,502 [INFO]  Epoch[0] Train-cross-entropy=6.516279
+2024-03-24 17:40:39,502 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,502 [INFO]  Epoch[0] Time cost=0.027
+2024-03-24 17:40:39,505 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:40:39,506 [INFO]  Epoch[0] Validation-cross-entropy=3.677340
+2024-03-24 17:40:39,506 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,514 [INFO]  Epoch[1] Batch [0-4]	Speed: 11018.61 samples/sec	cross-entropy=4.837186	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,518 [INFO]  Epoch[1] Train-cross-entropy=2.307290
+2024-03-24 17:40:39,518 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,518 [INFO]  Epoch[1] Time cost=0.012
+2024-03-24 17:40:39,520 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:40:39,521 [INFO]  Epoch[1] Validation-cross-entropy=2.089548
+2024-03-24 17:40:39,521 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,529 [INFO]  Epoch[2] Batch [0-4]	Speed: 11002.81 samples/sec	cross-entropy=2.045014	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,541 [INFO]  Epoch[2] Train-cross-entropy=1.224104
+2024-03-24 17:40:39,541 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,541 [INFO]  Epoch[2] Time cost=0.020
+2024-03-24 17:40:39,544 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:40:39,545 [INFO]  Epoch[2] Validation-cross-entropy=2.338210
+2024-03-24 17:40:39,546 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,554 [INFO]  Epoch[3] Batch [0-4]	Speed: 9596.23 samples/sec	cross-entropy=0.820303	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,559 [INFO]  Epoch[3] Train-cross-entropy=0.825525
+2024-03-24 17:40:39,560 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,560 [INFO]  Epoch[3] Time cost=0.014
+2024-03-24 17:40:39,563 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:40:39,568 [INFO]  Epoch[3] Validation-cross-entropy=1.404645
+2024-03-24 17:40:39,568 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,652 [INFO]  Epoch[4] Batch [0-4]	Speed: 817.93 samples/sec	cross-entropy=0.429613	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,655 [INFO]  Epoch[4] Train-cross-entropy=0.422752
+2024-03-24 17:40:39,655 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,655 [INFO]  Epoch[4] Time cost=0.087
+2024-03-24 17:40:39,658 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:40:39,658 [INFO]  Epoch[4] Validation-cross-entropy=0.768190
+2024-03-24 17:40:39,659 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:39,659 [INFO]  
+========== done (0.1853163242340088 s) fit model
+2024-03-24 17:40:43,145 [INFO]  
+========== start: fit model
+2024-03-24 17:40:43,146 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:40:43,165 [INFO]  Epoch[0] Batch [0-4]	Speed: 5367.42 samples/sec	cross-entropy=10.349362	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,168 [INFO]  Epoch[0] Train-cross-entropy=4.068822
+2024-03-24 17:40:43,168 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,168 [INFO]  Epoch[0] Time cost=0.022
+2024-03-24 17:40:43,169 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:40:43,170 [INFO]  Epoch[0] Validation-cross-entropy=4.993657
+2024-03-24 17:40:43,170 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,176 [INFO]  Epoch[1] Batch [0-4]	Speed: 14220.24 samples/sec	cross-entropy=4.034106	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,179 [INFO]  Epoch[1] Train-cross-entropy=1.603197
+2024-03-24 17:40:43,179 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,179 [INFO]  Epoch[1] Time cost=0.009
+2024-03-24 17:40:43,181 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:40:43,182 [INFO]  Epoch[1] Validation-cross-entropy=3.562766
+2024-03-24 17:40:43,182 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,187 [INFO]  Epoch[2] Batch [0-4]	Speed: 14963.79 samples/sec	cross-entropy=1.683149	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,190 [INFO]  Epoch[2] Train-cross-entropy=0.860212
+2024-03-24 17:40:43,190 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,190 [INFO]  Epoch[2] Time cost=0.009
+2024-03-24 17:40:43,192 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:40:43,194 [INFO]  Epoch[2] Validation-cross-entropy=2.768559
+2024-03-24 17:40:43,194 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,198 [INFO]  Epoch[3] Batch [0-4]	Speed: 21131.66 samples/sec	cross-entropy=0.948575	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,200 [INFO]  Epoch[3] Train-cross-entropy=0.497158
+2024-03-24 17:40:43,200 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,200 [INFO]  Epoch[3] Time cost=0.006
+2024-03-24 17:40:43,202 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:40:43,202 [INFO]  Epoch[3] Validation-cross-entropy=0.972961
+2024-03-24 17:40:43,202 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,206 [INFO]  Epoch[4] Batch [0-4]	Speed: 21210.13 samples/sec	cross-entropy=0.401120	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,208 [INFO]  Epoch[4] Train-cross-entropy=0.203670
+2024-03-24 17:40:43,208 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,208 [INFO]  Epoch[4] Time cost=0.006
+2024-03-24 17:40:43,210 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:40:43,210 [INFO]  Epoch[4] Validation-cross-entropy=0.565848
+2024-03-24 17:40:43,210 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:43,211 [INFO]  
+========== done (0.06501245498657227 s) fit model
+2024-03-24 17:40:47,272 [INFO]  
+========== start: fit model
+2024-03-24 17:40:47,272 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:40:47,280 [INFO]  Epoch[0] Batch [0-4]	Speed: 21188.37 samples/sec	cross-entropy=8.029829	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:40:47,283 [INFO]  Epoch[0] Train-cross-entropy=3.077556
+2024-03-24 17:40:47,283 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:40:47,283 [INFO]  Epoch[0] Time cost=0.010
+2024-03-24 17:40:47,284 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:40:47,285 [INFO]  Epoch[0] Validation-cross-entropy=3.020120
+2024-03-24 17:40:47,285 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:47,289 [INFO]  Epoch[1] Batch [0-4]	Speed: 21095.12 samples/sec	cross-entropy=2.094815	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:40:47,292 [INFO]  Epoch[1] Train-cross-entropy=1.469939
+2024-03-24 17:40:47,292 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:40:47,292 [INFO]  Epoch[1] Time cost=0.006
+2024-03-24 17:40:47,293 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:40:47,294 [INFO]  Epoch[1] Validation-cross-entropy=1.742018
+2024-03-24 17:40:47,294 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:47,298 [INFO]  Epoch[2] Batch [0-4]	Speed: 19641.14 samples/sec	cross-entropy=1.410440	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:40:47,300 [INFO]  Epoch[2] Train-cross-entropy=0.826539
+2024-03-24 17:40:47,300 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:40:47,300 [INFO]  Epoch[2] Time cost=0.007
+2024-03-24 17:40:47,302 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:40:47,307 [INFO]  Epoch[2] Validation-cross-entropy=0.989926
+2024-03-24 17:40:47,307 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:47,325 [INFO]  Epoch[3] Batch [0-4]	Speed: 14242.12 samples/sec	cross-entropy=0.725060	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:40:47,327 [INFO]  Epoch[3] Train-cross-entropy=0.361381
+2024-03-24 17:40:47,328 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:40:47,328 [INFO]  Epoch[3] Time cost=0.021
+2024-03-24 17:40:47,329 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:40:47,330 [INFO]  Epoch[3] Validation-cross-entropy=0.688031
+2024-03-24 17:40:47,330 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:47,335 [INFO]  Epoch[4] Batch [0-4]	Speed: 15255.48 samples/sec	cross-entropy=0.355032	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:40:47,338 [INFO]  Epoch[4] Train-cross-entropy=0.273338
+2024-03-24 17:40:47,338 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:40:47,338 [INFO]  Epoch[4] Time cost=0.009
+2024-03-24 17:40:47,340 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:40:47,340 [INFO]  Epoch[4] Validation-cross-entropy=0.587560
+2024-03-24 17:40:47,340 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:47,341 [INFO]  
+========== done (0.0686349868774414 s) fit model
+2024-03-24 17:40:51,124 [INFO]  
+========== start: fit model
+2024-03-24 17:40:51,124 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:40:51,145 [INFO]  Epoch[0] Batch [0-4]	Speed: 21218.52 samples/sec	cross-entropy=15.320885	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,149 [INFO]  Epoch[0] Train-cross-entropy=11.416345
+2024-03-24 17:40:51,149 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,149 [INFO]  Epoch[0] Time cost=0.023
+2024-03-24 17:40:51,150 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:40:51,155 [INFO]  Epoch[0] Validation-cross-entropy=5.507577
+2024-03-24 17:40:51,155 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,168 [INFO]  Epoch[1] Batch [0-4]	Speed: 7564.97 samples/sec	cross-entropy=4.386017	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,170 [INFO]  Epoch[1] Train-cross-entropy=4.082924
+2024-03-24 17:40:51,170 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,170 [INFO]  Epoch[1] Time cost=0.015
+2024-03-24 17:40:51,171 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:40:51,171 [INFO]  Epoch[1] Validation-cross-entropy=3.191129
+2024-03-24 17:40:51,171 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,174 [INFO]  Epoch[2] Batch [0-4]	Speed: 26548.85 samples/sec	cross-entropy=2.781067	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,176 [INFO]  Epoch[2] Train-cross-entropy=2.347370
+2024-03-24 17:40:51,176 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,176 [INFO]  Epoch[2] Time cost=0.005
+2024-03-24 17:40:51,178 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:40:51,178 [INFO]  Epoch[2] Validation-cross-entropy=2.535527
+2024-03-24 17:40:51,178 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,183 [INFO]  Epoch[3] Batch [0-4]	Speed: 15613.97 samples/sec	cross-entropy=1.264302	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,186 [INFO]  Epoch[3] Train-cross-entropy=1.282746
+2024-03-24 17:40:51,186 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,187 [INFO]  Epoch[3] Time cost=0.008
+2024-03-24 17:40:51,188 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:40:51,188 [INFO]  Epoch[3] Validation-cross-entropy=1.140921
+2024-03-24 17:40:51,189 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,194 [INFO]  Epoch[4] Batch [0-4]	Speed: 14742.72 samples/sec	cross-entropy=0.643340	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,197 [INFO]  Epoch[4] Train-cross-entropy=0.753374
+2024-03-24 17:40:51,197 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,197 [INFO]  Epoch[4] Time cost=0.008
+2024-03-24 17:40:51,198 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:40:51,199 [INFO]  Epoch[4] Validation-cross-entropy=0.962330
+2024-03-24 17:40:51,199 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:51,199 [INFO]  
+========== done (0.07508182525634766 s) fit model
+2024-03-24 17:40:55,109 [INFO]  
+========== start: fit model
+2024-03-24 17:40:55,109 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:40:55,122 [INFO]  Epoch[0] Batch [0-4]	Speed: 14036.57 samples/sec	cross-entropy=11.273646	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,125 [INFO]  Epoch[0] Train-cross-entropy=6.042799
+2024-03-24 17:40:55,125 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,125 [INFO]  Epoch[0] Time cost=0.015
+2024-03-24 17:40:55,127 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:40:55,127 [INFO]  Epoch[0] Validation-cross-entropy=5.775049
+2024-03-24 17:40:55,128 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,133 [INFO]  Epoch[1] Batch [0-4]	Speed: 14667.00 samples/sec	cross-entropy=3.338526	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,137 [INFO]  Epoch[1] Train-cross-entropy=2.736265
+2024-03-24 17:40:55,137 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,137 [INFO]  Epoch[1] Time cost=0.009
+2024-03-24 17:40:55,138 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:40:55,139 [INFO]  Epoch[1] Validation-cross-entropy=2.791129
+2024-03-24 17:40:55,139 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,145 [INFO]  Epoch[2] Batch [0-4]	Speed: 12470.29 samples/sec	cross-entropy=1.235922	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,149 [INFO]  Epoch[2] Train-cross-entropy=1.158274
+2024-03-24 17:40:55,149 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,149 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:40:55,150 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:40:55,151 [INFO]  Epoch[2] Validation-cross-entropy=2.239932
+2024-03-24 17:40:55,151 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,157 [INFO]  Epoch[3] Batch [0-4]	Speed: 16227.51 samples/sec	cross-entropy=0.852613	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,159 [INFO]  Epoch[3] Train-cross-entropy=0.710532
+2024-03-24 17:40:55,159 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,159 [INFO]  Epoch[3] Time cost=0.008
+2024-03-24 17:40:55,161 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:40:55,161 [INFO]  Epoch[3] Validation-cross-entropy=1.353990
+2024-03-24 17:40:55,161 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,166 [INFO]  Epoch[4] Batch [0-4]	Speed: 16868.94 samples/sec	cross-entropy=0.482393	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,169 [INFO]  Epoch[4] Train-cross-entropy=0.537557
+2024-03-24 17:40:55,169 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,169 [INFO]  Epoch[4] Time cost=0.008
+2024-03-24 17:40:55,171 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:40:55,172 [INFO]  Epoch[4] Validation-cross-entropy=0.660075
+2024-03-24 17:40:55,172 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:55,172 [INFO]  
+========== done (0.0633840560913086 s) fit model
+2024-03-24 17:40:59,244 [INFO]  
+========== start: fit model
+2024-03-24 17:40:59,244 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:40:59,258 [INFO]  Epoch[0] Batch [0-4]	Speed: 15271.10 samples/sec	cross-entropy=15.696479	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,261 [INFO]  Epoch[0] Train-cross-entropy=9.134787
+2024-03-24 17:40:59,261 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,261 [INFO]  Epoch[0] Time cost=0.016
+2024-03-24 17:40:59,263 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:40:59,263 [INFO]  Epoch[0] Validation-cross-entropy=5.618429
+2024-03-24 17:40:59,264 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,270 [INFO]  Epoch[1] Batch [0-4]	Speed: 13701.98 samples/sec	cross-entropy=5.420176	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,273 [INFO]  Epoch[1] Train-cross-entropy=4.041923
+2024-03-24 17:40:59,273 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,274 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:40:59,277 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:40:59,277 [INFO]  Epoch[1] Validation-cross-entropy=2.416396
+2024-03-24 17:40:59,278 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,283 [INFO]  Epoch[2] Batch [0-4]	Speed: 14486.53 samples/sec	cross-entropy=2.519686	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,287 [INFO]  Epoch[2] Train-cross-entropy=2.300616
+2024-03-24 17:40:59,287 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,288 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:40:59,293 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:40:59,341 [INFO]  Epoch[2] Validation-cross-entropy=1.994119
+2024-03-24 17:40:59,341 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,346 [INFO]  Epoch[3] Batch [0-4]	Speed: 15357.60 samples/sec	cross-entropy=1.100424	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,349 [INFO]  Epoch[3] Train-cross-entropy=1.380356
+2024-03-24 17:40:59,350 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,350 [INFO]  Epoch[3] Time cost=0.009
+2024-03-24 17:40:59,356 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:40:59,357 [INFO]  Epoch[3] Validation-cross-entropy=1.430810
+2024-03-24 17:40:59,358 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,361 [INFO]  Epoch[4] Batch [0-4]	Speed: 25405.59 samples/sec	cross-entropy=0.627998	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,363 [INFO]  Epoch[4] Train-cross-entropy=0.636851
+2024-03-24 17:40:59,363 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,364 [INFO]  Epoch[4] Time cost=0.006
+2024-03-24 17:40:59,365 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:40:59,366 [INFO]  Epoch[4] Validation-cross-entropy=0.785701
+2024-03-24 17:40:59,366 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:40:59,366 [INFO]  
+========== done (0.12151169776916504 s) fit model
+2024-03-24 17:41:04,888 [INFO]  
+========== start: fit model
+2024-03-24 17:41:04,888 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:41:04,893 [INFO]  Epoch[0] Batch [0-4]	Speed: 21402.92 samples/sec	cross-entropy=15.542697	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:04,896 [INFO]  Epoch[0] Train-cross-entropy=7.096482
+2024-03-24 17:41:04,896 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:41:04,896 [INFO]  Epoch[0] Time cost=0.007
+2024-03-24 17:41:04,899 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:41:04,899 [INFO]  Epoch[0] Validation-cross-entropy=7.781197
+2024-03-24 17:41:04,899 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:04,904 [INFO]  Epoch[1] Batch [0-4]	Speed: 18858.75 samples/sec	cross-entropy=4.894618	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:04,936 [INFO]  Epoch[1] Train-cross-entropy=3.693421
+2024-03-24 17:41:04,936 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:41:04,936 [INFO]  Epoch[1] Time cost=0.037
+2024-03-24 17:41:04,938 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:41:04,938 [INFO]  Epoch[1] Validation-cross-entropy=4.221616
+2024-03-24 17:41:04,939 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:04,945 [INFO]  Epoch[2] Batch [0-4]	Speed: 12743.20 samples/sec	cross-entropy=2.697565	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:04,949 [INFO]  Epoch[2] Train-cross-entropy=1.450753
+2024-03-24 17:41:04,949 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:41:04,949 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:41:04,950 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:41:04,951 [INFO]  Epoch[2] Validation-cross-entropy=1.719305
+2024-03-24 17:41:04,951 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:04,957 [INFO]  Epoch[3] Batch [0-4]	Speed: 13100.16 samples/sec	cross-entropy=1.128060	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:04,962 [INFO]  Epoch[3] Train-cross-entropy=0.981441
+2024-03-24 17:41:04,962 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:41:04,962 [INFO]  Epoch[3] Time cost=0.011
+2024-03-24 17:41:04,964 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:41:04,965 [INFO]  Epoch[3] Validation-cross-entropy=0.841466
+2024-03-24 17:41:04,965 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:04,972 [INFO]  Epoch[4] Batch [0-4]	Speed: 10429.13 samples/sec	cross-entropy=0.578044	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:04,977 [INFO]  Epoch[4] Train-cross-entropy=0.560019
+2024-03-24 17:41:04,977 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:41:04,977 [INFO]  Epoch[4] Time cost=0.012
+2024-03-24 17:41:04,979 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:41:04,980 [INFO]  Epoch[4] Validation-cross-entropy=0.417639
+2024-03-24 17:41:04,980 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:04,980 [INFO]  
+========== done (0.09221172332763672 s) fit model
+2024-03-24 17:41:09,700 [INFO]  
+========== start: fit model
+2024-03-24 17:41:09,700 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:41:09,725 [INFO]  Epoch[0] Batch [0-4]	Speed: 15349.69 samples/sec	cross-entropy=8.535839	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,728 [INFO]  Epoch[0] Train-cross-entropy=7.099296
+2024-03-24 17:41:09,728 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,728 [INFO]  Epoch[0] Time cost=0.027
+2024-03-24 17:41:09,729 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:41:09,730 [INFO]  Epoch[0] Validation-cross-entropy=2.996400
+2024-03-24 17:41:09,730 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,735 [INFO]  Epoch[1] Batch [0-4]	Speed: 16442.21 samples/sec	cross-entropy=3.032201	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,743 [INFO]  Epoch[1] Train-cross-entropy=2.850833
+2024-03-24 17:41:09,743 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,743 [INFO]  Epoch[1] Time cost=0.013
+2024-03-24 17:41:09,745 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:41:09,745 [INFO]  Epoch[1] Validation-cross-entropy=1.909986
+2024-03-24 17:41:09,745 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,751 [INFO]  Epoch[2] Batch [0-4]	Speed: 14665.40 samples/sec	cross-entropy=1.843306	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,754 [INFO]  Epoch[2] Train-cross-entropy=1.371632
+2024-03-24 17:41:09,754 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,754 [INFO]  Epoch[2] Time cost=0.009
+2024-03-24 17:41:09,756 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:41:09,756 [INFO]  Epoch[2] Validation-cross-entropy=1.149784
+2024-03-24 17:41:09,756 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,762 [INFO]  Epoch[3] Batch [0-4]	Speed: 14539.89 samples/sec	cross-entropy=0.903849	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,766 [INFO]  Epoch[3] Train-cross-entropy=0.863511
+2024-03-24 17:41:09,766 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,766 [INFO]  Epoch[3] Time cost=0.009
+2024-03-24 17:41:09,767 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:41:09,768 [INFO]  Epoch[3] Validation-cross-entropy=0.629687
+2024-03-24 17:41:09,768 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,774 [INFO]  Epoch[4] Batch [0-4]	Speed: 14498.27 samples/sec	cross-entropy=0.350725	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,777 [INFO]  Epoch[4] Train-cross-entropy=0.507978
+2024-03-24 17:41:09,777 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,777 [INFO]  Epoch[4] Time cost=0.009
+2024-03-24 17:41:09,779 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:41:09,779 [INFO]  Epoch[4] Validation-cross-entropy=0.325727
+2024-03-24 17:41:09,780 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:09,780 [INFO]  
+========== done (0.07953858375549316 s) fit model
+2024-03-24 17:41:14,001 [INFO]  
+========== start: fit model
+2024-03-24 17:41:14,001 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:41:14,009 [INFO]  Epoch[0] Batch [0-4]	Speed: 13951.95 samples/sec	cross-entropy=15.707963	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:41:14,013 [INFO]  Epoch[0] Train-cross-entropy=7.183285
+2024-03-24 17:41:14,013 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:41:14,013 [INFO]  Epoch[0] Time cost=0.011
+2024-03-24 17:41:14,015 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:41:14,028 [INFO]  Epoch[0] Validation-cross-entropy=6.544543
+2024-03-24 17:41:14,028 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:14,034 [INFO]  Epoch[1] Batch [0-4]	Speed: 15131.65 samples/sec	cross-entropy=5.912926	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:41:14,037 [INFO]  Epoch[1] Train-cross-entropy=4.129348
+2024-03-24 17:41:14,037 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:41:14,037 [INFO]  Epoch[1] Time cost=0.009
+2024-03-24 17:41:14,039 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:41:14,039 [INFO]  Epoch[1] Validation-cross-entropy=3.866508
+2024-03-24 17:41:14,040 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:14,046 [INFO]  Epoch[2] Batch [0-4]	Speed: 13843.30 samples/sec	cross-entropy=3.485955	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:41:14,049 [INFO]  Epoch[2] Train-cross-entropy=2.102115
+2024-03-24 17:41:14,049 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:41:14,049 [INFO]  Epoch[2] Time cost=0.009
+2024-03-24 17:41:14,051 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:41:14,052 [INFO]  Epoch[2] Validation-cross-entropy=2.818592
+2024-03-24 17:41:14,052 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:14,057 [INFO]  Epoch[3] Batch [0-4]	Speed: 14484.19 samples/sec	cross-entropy=1.582285	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:41:14,061 [INFO]  Epoch[3] Train-cross-entropy=1.128695
+2024-03-24 17:41:14,061 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:41:14,061 [INFO]  Epoch[3] Time cost=0.009
+2024-03-24 17:41:14,063 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:41:14,064 [INFO]  Epoch[3] Validation-cross-entropy=2.725402
+2024-03-24 17:41:14,064 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:14,070 [INFO]  Epoch[4] Batch [0-4]	Speed: 13521.15 samples/sec	cross-entropy=0.911136	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:41:14,073 [INFO]  Epoch[4] Train-cross-entropy=0.575734
+2024-03-24 17:41:14,074 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:41:14,074 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:41:14,075 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:41:14,076 [INFO]  Epoch[4] Validation-cross-entropy=1.252290
+2024-03-24 17:41:14,076 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:14,076 [INFO]  
+========== done (0.0756232738494873 s) fit model
+2024-03-24 17:41:18,129 [INFO]  
+========== start: fit model
+2024-03-24 17:41:18,129 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:41:18,288 [INFO]  Epoch[0] Batch [0-4]	Speed: 15115.46 samples/sec	cross-entropy=13.679678	OD280%2FOD315_of_diluted_wines-accuracy=1.200000
+2024-03-24 17:41:18,292 [INFO]  Epoch[0] Train-cross-entropy=4.779404
+2024-03-24 17:41:18,292 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=3.000000
+2024-03-24 17:41:18,292 [INFO]  Epoch[0] Time cost=0.162
+2024-03-24 17:41:18,294 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:41:18,294 [INFO]  Epoch[0] Validation-cross-entropy=17.549742
+2024-03-24 17:41:18,294 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:18,300 [INFO]  Epoch[1] Batch [0-4]	Speed: 15095.91 samples/sec	cross-entropy=2.968500	OD280%2FOD315_of_diluted_wines-accuracy=1.200000
+2024-03-24 17:41:18,303 [INFO]  Epoch[1] Train-cross-entropy=2.477751
+2024-03-24 17:41:18,303 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=3.000000
+2024-03-24 17:41:18,303 [INFO]  Epoch[1] Time cost=0.009
+2024-03-24 17:41:18,305 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:41:18,305 [INFO]  Epoch[1] Validation-cross-entropy=11.223160
+2024-03-24 17:41:18,306 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:18,311 [INFO]  Epoch[2] Batch [0-4]	Speed: 14392.55 samples/sec	cross-entropy=2.525379	OD280%2FOD315_of_diluted_wines-accuracy=1.200000
+2024-03-24 17:41:18,315 [INFO]  Epoch[2] Train-cross-entropy=1.442831
+2024-03-24 17:41:18,315 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=3.000000
+2024-03-24 17:41:18,315 [INFO]  Epoch[2] Time cost=0.009
+2024-03-24 17:41:18,318 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:41:18,319 [INFO]  Epoch[2] Validation-cross-entropy=5.885504
+2024-03-24 17:41:18,319 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:18,325 [INFO]  Epoch[3] Batch [0-4]	Speed: 14363.29 samples/sec	cross-entropy=0.937755	OD280%2FOD315_of_diluted_wines-accuracy=1.200000
+2024-03-24 17:41:18,328 [INFO]  Epoch[3] Train-cross-entropy=0.760164
+2024-03-24 17:41:18,328 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=3.000000
+2024-03-24 17:41:18,329 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:41:18,331 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:41:18,332 [INFO]  Epoch[3] Validation-cross-entropy=2.929950
+2024-03-24 17:41:18,332 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:18,338 [INFO]  Epoch[4] Batch [0-4]	Speed: 14467.01 samples/sec	cross-entropy=0.709312	OD280%2FOD315_of_diluted_wines-accuracy=1.200000
+2024-03-24 17:41:18,342 [INFO]  Epoch[4] Train-cross-entropy=0.528293
+2024-03-24 17:41:18,342 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=3.000000
+2024-03-24 17:41:18,342 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:41:18,345 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:41:18,346 [INFO]  Epoch[4] Validation-cross-entropy=2.043448
+2024-03-24 17:41:18,346 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:18,346 [INFO]  
+========== done (0.21764588356018066 s) fit model
+2024-03-24 17:41:22,435 [INFO]  
+========== start: fit model
+2024-03-24 17:41:22,435 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:41:22,443 [INFO]  Epoch[0] Batch [0-4]	Speed: 14404.13 samples/sec	cross-entropy=14.941956	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,446 [INFO]  Epoch[0] Train-cross-entropy=8.508489
+2024-03-24 17:41:22,446 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,447 [INFO]  Epoch[0] Time cost=0.010
+2024-03-24 17:41:22,449 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:41:22,450 [INFO]  Epoch[0] Validation-cross-entropy=5.835917
+2024-03-24 17:41:22,450 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,456 [INFO]  Epoch[1] Batch [0-4]	Speed: 14357.91 samples/sec	cross-entropy=3.257963	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,459 [INFO]  Epoch[1] Train-cross-entropy=5.579659
+2024-03-24 17:41:22,460 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,460 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:41:22,462 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:41:22,463 [INFO]  Epoch[1] Validation-cross-entropy=3.382448
+2024-03-24 17:41:22,463 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,469 [INFO]  Epoch[2] Batch [0-4]	Speed: 13983.93 samples/sec	cross-entropy=2.561351	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,473 [INFO]  Epoch[2] Train-cross-entropy=2.418190
+2024-03-24 17:41:22,473 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,473 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:41:22,475 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:41:22,476 [INFO]  Epoch[2] Validation-cross-entropy=2.352431
+2024-03-24 17:41:22,476 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,482 [INFO]  Epoch[3] Batch [0-4]	Speed: 14486.53 samples/sec	cross-entropy=0.887189	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,486 [INFO]  Epoch[3] Train-cross-entropy=1.210744
+2024-03-24 17:41:22,486 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,486 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:41:22,489 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:41:22,489 [INFO]  Epoch[3] Validation-cross-entropy=2.371545
+2024-03-24 17:41:22,490 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,495 [INFO]  Epoch[4] Batch [0-4]	Speed: 14561.98 samples/sec	cross-entropy=0.743037	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,501 [INFO]  Epoch[4] Train-cross-entropy=0.578198
+2024-03-24 17:41:22,502 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,502 [INFO]  Epoch[4] Time cost=0.012
+2024-03-24 17:41:22,504 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:41:22,505 [INFO]  Epoch[4] Validation-cross-entropy=1.376043
+2024-03-24 17:41:22,505 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:22,505 [INFO]  
+========== done (0.07056832313537598 s) fit model
+2024-03-24 17:41:26,596 [INFO]  
+========== start: fit model
+2024-03-24 17:41:26,596 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:41:26,611 [INFO]  Epoch[0] Batch [0-4]	Speed: 6355.46 samples/sec	cross-entropy=6.001816	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,617 [INFO]  Epoch[0] Train-cross-entropy=2.209405
+2024-03-24 17:41:26,617 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,618 [INFO]  Epoch[0] Time cost=0.021
+2024-03-24 17:41:26,622 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:41:26,624 [INFO]  Epoch[0] Validation-cross-entropy=1.851300
+2024-03-24 17:41:26,624 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,631 [INFO]  Epoch[1] Batch [0-4]	Speed: 13719.49 samples/sec	cross-entropy=1.512816	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,634 [INFO]  Epoch[1] Train-cross-entropy=0.837961
+2024-03-24 17:41:26,635 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,635 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:41:26,637 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:41:26,638 [INFO]  Epoch[1] Validation-cross-entropy=0.550915
+2024-03-24 17:41:26,638 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,644 [INFO]  Epoch[2] Batch [0-4]	Speed: 13811.96 samples/sec	cross-entropy=0.862162	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,648 [INFO]  Epoch[2] Train-cross-entropy=0.500976
+2024-03-24 17:41:26,648 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,648 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:41:26,650 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:41:26,651 [INFO]  Epoch[2] Validation-cross-entropy=0.361952
+2024-03-24 17:41:26,651 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,657 [INFO]  Epoch[3] Batch [0-4]	Speed: 14419.61 samples/sec	cross-entropy=0.509603	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,661 [INFO]  Epoch[3] Train-cross-entropy=0.310147
+2024-03-24 17:41:26,661 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,661 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:41:26,664 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:41:26,665 [INFO]  Epoch[3] Validation-cross-entropy=0.173027
+2024-03-24 17:41:26,665 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,671 [INFO]  Epoch[4] Batch [0-4]	Speed: 14268.62 samples/sec	cross-entropy=0.231601	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,674 [INFO]  Epoch[4] Train-cross-entropy=0.210410
+2024-03-24 17:41:26,675 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,675 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:41:26,677 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:41:26,678 [INFO]  Epoch[4] Validation-cross-entropy=0.169368
+2024-03-24 17:41:26,678 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:26,678 [INFO]  
+========== done (0.0822458267211914 s) fit model
+2024-03-24 17:41:30,783 [INFO]  
+========== start: fit model
+2024-03-24 17:41:30,783 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:41:30,792 [INFO]  Epoch[0] Batch [0-4]	Speed: 22648.96 samples/sec	cross-entropy=20.720057	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:30,794 [INFO]  Epoch[0] Train-cross-entropy=15.362584
+2024-03-24 17:41:30,794 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.666667
+2024-03-24 17:41:30,794 [INFO]  Epoch[0] Time cost=0.010
+2024-03-24 17:41:30,796 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:41:30,797 [INFO]  Epoch[0] Validation-cross-entropy=5.696625
+2024-03-24 17:41:30,797 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:30,814 [INFO]  Epoch[1] Batch [0-4]	Speed: 4033.05 samples/sec	cross-entropy=5.147131	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:30,818 [INFO]  Epoch[1] Train-cross-entropy=4.872529
+2024-03-24 17:41:30,818 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.666667
+2024-03-24 17:41:30,818 [INFO]  Epoch[1] Time cost=0.020
+2024-03-24 17:41:30,819 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:41:30,820 [INFO]  Epoch[1] Validation-cross-entropy=3.295451
+2024-03-24 17:41:30,820 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:30,826 [INFO]  Epoch[2] Batch [0-4]	Speed: 14327.26 samples/sec	cross-entropy=2.827588	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:30,829 [INFO]  Epoch[2] Train-cross-entropy=3.032136
+2024-03-24 17:41:30,829 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.666667
+2024-03-24 17:41:30,829 [INFO]  Epoch[2] Time cost=0.009
+2024-03-24 17:41:30,831 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:41:30,832 [INFO]  Epoch[2] Validation-cross-entropy=2.005517
+2024-03-24 17:41:30,832 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:30,837 [INFO]  Epoch[3] Batch [0-4]	Speed: 14894.05 samples/sec	cross-entropy=2.062262	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:30,841 [INFO]  Epoch[3] Train-cross-entropy=1.664402
+2024-03-24 17:41:30,841 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.666667
+2024-03-24 17:41:30,841 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:41:30,844 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:41:30,845 [INFO]  Epoch[3] Validation-cross-entropy=0.942558
+2024-03-24 17:41:30,845 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:30,851 [INFO]  Epoch[4] Batch [0-4]	Speed: 14213.46 samples/sec	cross-entropy=1.088290	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:30,855 [INFO]  Epoch[4] Train-cross-entropy=1.014579
+2024-03-24 17:41:30,855 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.666667
+2024-03-24 17:41:30,855 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:41:30,858 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:41:30,859 [INFO]  Epoch[4] Validation-cross-entropy=0.670768
+2024-03-24 17:41:30,859 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:30,859 [INFO]  
+========== done (0.07600879669189453 s) fit model
+2024-03-24 17:41:35,090 [INFO]  
+========== start: fit model
+2024-03-24 17:41:35,090 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:41:35,099 [INFO]  Epoch[0] Batch [0-4]	Speed: 12368.02 samples/sec	cross-entropy=10.608256	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:35,103 [INFO]  Epoch[0] Train-cross-entropy=4.559688
+2024-03-24 17:41:35,103 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:35,103 [INFO]  Epoch[0] Time cost=0.012
+2024-03-24 17:41:35,105 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:41:35,106 [INFO]  Epoch[0] Validation-cross-entropy=2.563819
+2024-03-24 17:41:35,107 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:35,112 [INFO]  Epoch[1] Batch [0-4]	Speed: 14554.87 samples/sec	cross-entropy=4.001254	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:35,116 [INFO]  Epoch[1] Train-cross-entropy=2.324730
+2024-03-24 17:41:35,116 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:35,116 [INFO]  Epoch[1] Time cost=0.009
+2024-03-24 17:41:35,119 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:41:35,119 [INFO]  Epoch[1] Validation-cross-entropy=0.873792
+2024-03-24 17:41:35,120 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:35,126 [INFO]  Epoch[2] Batch [0-4]	Speed: 13920.83 samples/sec	cross-entropy=1.951196	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:35,129 [INFO]  Epoch[2] Train-cross-entropy=0.839210
+2024-03-24 17:41:35,129 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:35,129 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:41:35,132 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:41:35,133 [INFO]  Epoch[2] Validation-cross-entropy=1.013777
+2024-03-24 17:41:35,133 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:35,139 [INFO]  Epoch[3] Batch [0-4]	Speed: 14569.88 samples/sec	cross-entropy=1.014642	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:35,142 [INFO]  Epoch[3] Train-cross-entropy=0.564885
+2024-03-24 17:41:35,142 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:35,143 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:41:35,145 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:41:35,146 [INFO]  Epoch[3] Validation-cross-entropy=1.018469
+2024-03-24 17:41:35,146 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:35,152 [INFO]  Epoch[4] Batch [0-4]	Speed: 14336.44 samples/sec	cross-entropy=0.550643	OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:35,155 [INFO]  Epoch[4] Train-cross-entropy=0.377459
+2024-03-24 17:41:35,156 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:35,156 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:41:35,158 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:41:35,159 [INFO]  Epoch[4] Validation-cross-entropy=0.849599
+2024-03-24 17:41:35,159 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:35,159 [INFO]  
+========== done (0.06941723823547363 s) fit model
+2024-03-24 17:41:39,789 [INFO]  
+========== start: fit model
+2024-03-24 17:41:39,789 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:41:39,804 [INFO]  Epoch[0] Batch [0-4]	Speed: 5560.78 samples/sec	cross-entropy=15.959693	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,810 [INFO]  Epoch[0] Train-cross-entropy=10.467513
+2024-03-24 17:41:39,810 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,810 [INFO]  Epoch[0] Time cost=0.020
+2024-03-24 17:41:39,813 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:41:39,814 [INFO]  Epoch[0] Validation-cross-entropy=4.789876
+2024-03-24 17:41:39,814 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,821 [INFO]  Epoch[1] Batch [0-4]	Speed: 12035.85 samples/sec	cross-entropy=4.870568	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,825 [INFO]  Epoch[1] Train-cross-entropy=5.012956
+2024-03-24 17:41:39,825 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,825 [INFO]  Epoch[1] Time cost=0.011
+2024-03-24 17:41:39,827 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:41:39,827 [INFO]  Epoch[1] Validation-cross-entropy=4.185593
+2024-03-24 17:41:39,827 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,834 [INFO]  Epoch[2] Batch [0-4]	Speed: 11655.90 samples/sec	cross-entropy=3.051070	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,837 [INFO]  Epoch[2] Train-cross-entropy=2.313337
+2024-03-24 17:41:39,838 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,838 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:41:39,839 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:41:39,840 [INFO]  Epoch[2] Validation-cross-entropy=2.812932
+2024-03-24 17:41:39,840 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,846 [INFO]  Epoch[3] Batch [0-4]	Speed: 14502.97 samples/sec	cross-entropy=1.814206	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,849 [INFO]  Epoch[3] Train-cross-entropy=1.514545
+2024-03-24 17:41:39,849 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,849 [INFO]  Epoch[3] Time cost=0.009
+2024-03-24 17:41:39,850 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:41:39,851 [INFO]  Epoch[3] Validation-cross-entropy=1.788594
+2024-03-24 17:41:39,851 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,857 [INFO]  Epoch[4] Batch [0-4]	Speed: 14458.44 samples/sec	cross-entropy=1.134666	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,860 [INFO]  Epoch[4] Train-cross-entropy=0.796868
+2024-03-24 17:41:39,861 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,861 [INFO]  Epoch[4] Time cost=0.009
+2024-03-24 17:41:39,862 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:41:39,863 [INFO]  Epoch[4] Validation-cross-entropy=0.882687
+2024-03-24 17:41:39,863 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:39,863 [INFO]  
+========== done (0.07418203353881836 s) fit model
+2024-03-24 17:41:44,141 [INFO]  
+========== start: fit model
+2024-03-24 17:41:44,141 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:41:44,157 [INFO]  Epoch[0] Batch [0-4]	Speed: 6193.57 samples/sec	cross-entropy=13.888376	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,162 [INFO]  Epoch[0] Train-cross-entropy=8.560584
+2024-03-24 17:41:44,162 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,162 [INFO]  Epoch[0] Time cost=0.020
+2024-03-24 17:41:44,165 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:41:44,166 [INFO]  Epoch[0] Validation-cross-entropy=4.163531
+2024-03-24 17:41:44,166 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,172 [INFO]  Epoch[1] Batch [0-4]	Speed: 12534.34 samples/sec	cross-entropy=3.493042	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,176 [INFO]  Epoch[1] Train-cross-entropy=4.777483
+2024-03-24 17:41:44,176 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,176 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:41:44,177 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:41:44,178 [INFO]  Epoch[1] Validation-cross-entropy=3.820541
+2024-03-24 17:41:44,178 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,184 [INFO]  Epoch[2] Batch [0-4]	Speed: 13911.46 samples/sec	cross-entropy=2.049032	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,188 [INFO]  Epoch[2] Train-cross-entropy=2.173834
+2024-03-24 17:41:44,188 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,188 [INFO]  Epoch[2] Time cost=0.009
+2024-03-24 17:41:44,189 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:41:44,194 [INFO]  Epoch[2] Validation-cross-entropy=1.328071
+2024-03-24 17:41:44,194 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,200 [INFO]  Epoch[3] Batch [0-4]	Speed: 14375.59 samples/sec	cross-entropy=0.719139	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,203 [INFO]  Epoch[3] Train-cross-entropy=1.182831
+2024-03-24 17:41:44,203 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,203 [INFO]  Epoch[3] Time cost=0.009
+2024-03-24 17:41:44,205 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:41:44,206 [INFO]  Epoch[3] Validation-cross-entropy=1.318614
+2024-03-24 17:41:44,206 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,212 [INFO]  Epoch[4] Batch [0-4]	Speed: 12668.62 samples/sec	cross-entropy=0.565393	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,216 [INFO]  Epoch[4] Train-cross-entropy=0.746254
+2024-03-24 17:41:44,216 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,216 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:41:44,217 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:41:44,218 [INFO]  Epoch[4] Validation-cross-entropy=0.776236
+2024-03-24 17:41:44,218 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:44,218 [INFO]  
+========== done (0.07719540596008301 s) fit model
+2024-03-24 17:41:48,374 [INFO]  
+========== start: fit model
+2024-03-24 17:41:48,375 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:41:48,396 [INFO]  Epoch[0] Batch [0-4]	Speed: 11912.99 samples/sec	cross-entropy=13.447264	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,401 [INFO]  Epoch[0] Train-cross-entropy=5.812266
+2024-03-24 17:41:48,401 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,401 [INFO]  Epoch[0] Time cost=0.025
+2024-03-24 17:41:48,403 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:41:48,405 [INFO]  Epoch[0] Validation-cross-entropy=5.723892
+2024-03-24 17:41:48,405 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,412 [INFO]  Epoch[1] Batch [0-4]	Speed: 10985.69 samples/sec	cross-entropy=3.849681	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,417 [INFO]  Epoch[1] Train-cross-entropy=2.916477
+2024-03-24 17:41:48,417 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,417 [INFO]  Epoch[1] Time cost=0.012
+2024-03-24 17:41:48,420 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:41:48,438 [INFO]  Epoch[1] Validation-cross-entropy=1.591200
+2024-03-24 17:41:48,438 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,443 [INFO]  Epoch[2] Batch [0-4]	Speed: 19809.27 samples/sec	cross-entropy=2.103655	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,445 [INFO]  Epoch[2] Train-cross-entropy=1.439519
+2024-03-24 17:41:48,445 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,445 [INFO]  Epoch[2] Time cost=0.007
+2024-03-24 17:41:48,448 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:41:48,449 [INFO]  Epoch[2] Validation-cross-entropy=1.411603
+2024-03-24 17:41:48,449 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,454 [INFO]  Epoch[3] Batch [0-4]	Speed: 15045.14 samples/sec	cross-entropy=0.819994	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,458 [INFO]  Epoch[3] Train-cross-entropy=0.746541
+2024-03-24 17:41:48,458 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,458 [INFO]  Epoch[3] Time cost=0.009
+2024-03-24 17:41:48,460 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:41:48,461 [INFO]  Epoch[3] Validation-cross-entropy=1.147472
+2024-03-24 17:41:48,461 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,470 [INFO]  Epoch[4] Batch [0-4]	Speed: 8440.84 samples/sec	cross-entropy=0.436034	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,473 [INFO]  Epoch[4] Train-cross-entropy=0.547739
+2024-03-24 17:41:48,473 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,473 [INFO]  Epoch[4] Time cost=0.012
+2024-03-24 17:41:48,474 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:41:48,475 [INFO]  Epoch[4] Validation-cross-entropy=0.623141
+2024-03-24 17:41:48,475 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:48,475 [INFO]  
+========== done (0.1006007194519043 s) fit model
+2024-03-24 17:41:52,722 [INFO]  
+========== start: fit model
+2024-03-24 17:41:52,722 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:41:52,821 [INFO]  Epoch[0] Batch [0-4]	Speed: 16367.02 samples/sec	cross-entropy=17.148802	OD280%2FOD315_of_diluted_wines-accuracy=1.200000
+2024-03-24 17:41:52,825 [INFO]  Epoch[0] Train-cross-entropy=6.351580
+2024-03-24 17:41:52,825 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:52,825 [INFO]  Epoch[0] Time cost=0.102
+2024-03-24 17:41:52,826 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:41:52,827 [INFO]  Epoch[0] Validation-cross-entropy=10.424539
+2024-03-24 17:41:52,827 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:52,833 [INFO]  Epoch[1] Batch [0-4]	Speed: 15347.06 samples/sec	cross-entropy=5.075747	OD280%2FOD315_of_diluted_wines-accuracy=1.200000
+2024-03-24 17:41:52,836 [INFO]  Epoch[1] Train-cross-entropy=3.348777
+2024-03-24 17:41:52,836 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:52,836 [INFO]  Epoch[1] Time cost=0.009
+2024-03-24 17:41:52,838 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:41:52,839 [INFO]  Epoch[1] Validation-cross-entropy=3.246556
+2024-03-24 17:41:52,839 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:52,845 [INFO]  Epoch[2] Batch [0-4]	Speed: 14623.85 samples/sec	cross-entropy=2.518858	OD280%2FOD315_of_diluted_wines-accuracy=1.200000
+2024-03-24 17:41:52,848 [INFO]  Epoch[2] Train-cross-entropy=1.382057
+2024-03-24 17:41:52,848 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:52,848 [INFO]  Epoch[2] Time cost=0.009
+2024-03-24 17:41:52,850 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:41:52,851 [INFO]  Epoch[2] Validation-cross-entropy=2.434386
+2024-03-24 17:41:52,851 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:52,857 [INFO]  Epoch[3] Batch [0-4]	Speed: 14349.47 samples/sec	cross-entropy=1.531229	OD280%2FOD315_of_diluted_wines-accuracy=1.200000
+2024-03-24 17:41:52,860 [INFO]  Epoch[3] Train-cross-entropy=0.840140
+2024-03-24 17:41:52,860 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:52,860 [INFO]  Epoch[3] Time cost=0.009
+2024-03-24 17:41:52,862 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:41:52,863 [INFO]  Epoch[3] Validation-cross-entropy=1.682766
+2024-03-24 17:41:52,863 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:52,868 [INFO]  Epoch[4] Batch [0-4]	Speed: 14393.32 samples/sec	cross-entropy=0.879141	OD280%2FOD315_of_diluted_wines-accuracy=1.200000
+2024-03-24 17:41:52,872 [INFO]  Epoch[4] Train-cross-entropy=0.548598
+2024-03-24 17:41:52,872 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:41:52,872 [INFO]  Epoch[4] Time cost=0.009
+2024-03-24 17:41:52,874 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:41:52,875 [INFO]  Epoch[4] Validation-cross-entropy=0.821805
+2024-03-24 17:41:52,875 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:52,875 [INFO]  
+========== done (0.1528172492980957 s) fit model
+2024-03-24 17:41:57,609 [INFO]  
+========== start: fit model
+2024-03-24 17:41:57,609 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:41:57,622 [INFO]  Epoch[0] Batch [0-4]	Speed: 10232.35 samples/sec	cross-entropy=6.753601	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:41:57,628 [INFO]  Epoch[0] Train-cross-entropy=6.735798
+2024-03-24 17:41:57,629 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:41:57,629 [INFO]  Epoch[0] Time cost=0.018
+2024-03-24 17:41:57,630 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:41:57,636 [INFO]  Epoch[0] Validation-cross-entropy=6.951389
+2024-03-24 17:41:57,636 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:57,645 [INFO]  Epoch[1] Batch [0-4]	Speed: 21779.75 samples/sec	cross-entropy=2.667287	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:41:57,648 [INFO]  Epoch[1] Train-cross-entropy=1.831365
+2024-03-24 17:41:57,648 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:41:57,648 [INFO]  Epoch[1] Time cost=0.011
+2024-03-24 17:41:57,649 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:41:57,650 [INFO]  Epoch[1] Validation-cross-entropy=3.319816
+2024-03-24 17:41:57,650 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:57,656 [INFO]  Epoch[2] Batch [0-4]	Speed: 14246.65 samples/sec	cross-entropy=1.312475	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:41:57,672 [INFO]  Epoch[2] Train-cross-entropy=1.138786
+2024-03-24 17:41:57,672 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:41:57,672 [INFO]  Epoch[2] Time cost=0.022
+2024-03-24 17:41:57,674 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:41:57,675 [INFO]  Epoch[2] Validation-cross-entropy=1.858496
+2024-03-24 17:41:57,675 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:57,683 [INFO]  Epoch[3] Batch [0-4]	Speed: 11328.30 samples/sec	cross-entropy=1.033294	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:41:57,691 [INFO]  Epoch[3] Train-cross-entropy=0.593749
+2024-03-24 17:41:57,691 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:41:57,692 [INFO]  Epoch[3] Time cost=0.016
+2024-03-24 17:41:57,693 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:41:57,694 [INFO]  Epoch[3] Validation-cross-entropy=0.878435
+2024-03-24 17:41:57,694 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:57,704 [INFO]  Epoch[4] Batch [0-4]	Speed: 7216.98 samples/sec	cross-entropy=0.413559	OD280%2FOD315_of_diluted_wines-accuracy=1.600000
+2024-03-24 17:41:57,708 [INFO]  Epoch[4] Train-cross-entropy=0.326946
+2024-03-24 17:41:57,708 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:41:57,708 [INFO]  Epoch[4] Time cost=0.013
+2024-03-24 17:41:57,709 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:41:57,714 [INFO]  Epoch[4] Validation-cross-entropy=0.540404
+2024-03-24 17:41:57,714 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:41:57,714 [INFO]  
+========== done (0.10466647148132324 s) fit model
+2024-03-24 17:42:02,112 [INFO]  
+========== start: fit model
+2024-03-24 17:42:02,112 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:42:02,121 [INFO]  Epoch[0] Batch [0-4]	Speed: 10983.45 samples/sec	cross-entropy=22.167444	OD280%2FOD315_of_diluted_wines-accuracy=2.600000
+2024-03-24 17:42:02,125 [INFO]  Epoch[0] Train-cross-entropy=8.135119
+2024-03-24 17:42:02,125 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.000000
+2024-03-24 17:42:02,125 [INFO]  Epoch[0] Time cost=0.012
+2024-03-24 17:42:02,128 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:42:02,129 [INFO]  Epoch[0] Validation-cross-entropy=8.411790
+2024-03-24 17:42:02,129 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:02,135 [INFO]  Epoch[1] Batch [0-4]	Speed: 14212.71 samples/sec	cross-entropy=5.160754	OD280%2FOD315_of_diluted_wines-accuracy=2.600000
+2024-03-24 17:42:02,139 [INFO]  Epoch[1] Train-cross-entropy=3.614379
+2024-03-24 17:42:02,139 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.000000
+2024-03-24 17:42:02,139 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:42:02,142 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:42:02,143 [INFO]  Epoch[1] Validation-cross-entropy=6.265057
+2024-03-24 17:42:02,143 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:02,150 [INFO]  Epoch[2] Batch [0-4]	Speed: 12324.29 samples/sec	cross-entropy=2.889273	OD280%2FOD315_of_diluted_wines-accuracy=2.600000
+2024-03-24 17:42:02,153 [INFO]  Epoch[2] Train-cross-entropy=2.520260
+2024-03-24 17:42:02,154 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.000000
+2024-03-24 17:42:02,154 [INFO]  Epoch[2] Time cost=0.011
+2024-03-24 17:42:02,156 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:42:02,157 [INFO]  Epoch[2] Validation-cross-entropy=2.403071
+2024-03-24 17:42:02,158 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:02,164 [INFO]  Epoch[3] Batch [0-4]	Speed: 14322.67 samples/sec	cross-entropy=1.630205	OD280%2FOD315_of_diluted_wines-accuracy=2.600000
+2024-03-24 17:42:02,167 [INFO]  Epoch[3] Train-cross-entropy=1.240827
+2024-03-24 17:42:02,168 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.000000
+2024-03-24 17:42:02,168 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:42:02,170 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:42:02,171 [INFO]  Epoch[3] Validation-cross-entropy=1.429779
+2024-03-24 17:42:02,172 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:02,178 [INFO]  Epoch[4] Batch [0-4]	Speed: 14112.58 samples/sec	cross-entropy=1.073027	OD280%2FOD315_of_diluted_wines-accuracy=2.600000
+2024-03-24 17:42:02,181 [INFO]  Epoch[4] Train-cross-entropy=0.761133
+2024-03-24 17:42:02,182 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.000000
+2024-03-24 17:42:02,182 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:42:02,184 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:42:02,185 [INFO]  Epoch[4] Validation-cross-entropy=0.878141
+2024-03-24 17:42:02,186 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:02,186 [INFO]  
+========== done (0.07377099990844727 s) fit model
+2024-03-24 17:42:07,237 [INFO]  
+========== start: fit model
+2024-03-24 17:42:07,237 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:42:07,246 [INFO]  Epoch[0] Batch [0-4]	Speed: 13008.75 samples/sec	cross-entropy=15.108125	OD280%2FOD315_of_diluted_wines-accuracy=1.800000
+2024-03-24 17:42:07,352 [INFO]  Epoch[0] Train-cross-entropy=7.886482
+2024-03-24 17:42:07,352 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:42:07,352 [INFO]  Epoch[0] Time cost=0.115
+2024-03-24 17:42:07,354 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:42:07,354 [INFO]  Epoch[0] Validation-cross-entropy=7.791117
+2024-03-24 17:42:07,354 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:07,365 [INFO]  Epoch[1] Batch [0-4]	Speed: 14158.73 samples/sec	cross-entropy=4.262807	OD280%2FOD315_of_diluted_wines-accuracy=1.800000
+2024-03-24 17:42:07,368 [INFO]  Epoch[1] Train-cross-entropy=3.317173
+2024-03-24 17:42:07,368 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:42:07,368 [INFO]  Epoch[1] Time cost=0.014
+2024-03-24 17:42:07,369 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:42:07,370 [INFO]  Epoch[1] Validation-cross-entropy=3.911687
+2024-03-24 17:42:07,370 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:07,380 [INFO]  Epoch[2] Batch [0-4]	Speed: 7617.57 samples/sec	cross-entropy=3.179525	OD280%2FOD315_of_diluted_wines-accuracy=1.800000
+2024-03-24 17:42:07,400 [INFO]  Epoch[2] Train-cross-entropy=1.761812
+2024-03-24 17:42:07,400 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:42:07,400 [INFO]  Epoch[2] Time cost=0.030
+2024-03-24 17:42:07,401 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:42:07,402 [INFO]  Epoch[2] Validation-cross-entropy=1.930789
+2024-03-24 17:42:07,402 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:07,413 [INFO]  Epoch[3] Batch [0-4]	Speed: 6554.40 samples/sec	cross-entropy=1.421445	OD280%2FOD315_of_diluted_wines-accuracy=1.800000
+2024-03-24 17:42:07,416 [INFO]  Epoch[3] Train-cross-entropy=0.898674
+2024-03-24 17:42:07,416 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:42:07,416 [INFO]  Epoch[3] Time cost=0.014
+2024-03-24 17:42:07,418 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:42:07,418 [INFO]  Epoch[3] Validation-cross-entropy=1.487783
+2024-03-24 17:42:07,418 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:07,426 [INFO]  Epoch[4] Batch [0-4]	Speed: 10392.39 samples/sec	cross-entropy=0.931093	OD280%2FOD315_of_diluted_wines-accuracy=1.800000
+2024-03-24 17:42:07,429 [INFO]  Epoch[4] Train-cross-entropy=0.526767
+2024-03-24 17:42:07,429 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:42:07,429 [INFO]  Epoch[4] Time cost=0.011
+2024-03-24 17:42:07,430 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:42:07,431 [INFO]  Epoch[4] Validation-cross-entropy=1.290223
+2024-03-24 17:42:07,431 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:07,431 [INFO]  
+========== done (0.1944589614868164 s) fit model
+2024-03-24 17:42:12,143 [INFO]  
+========== start: fit model
+2024-03-24 17:42:12,143 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:42:12,153 [INFO]  Epoch[0] Batch [0-4]	Speed: 14125.95 samples/sec	cross-entropy=12.128870	OD280%2FOD315_of_diluted_wines-accuracy=1.800000
+2024-03-24 17:42:12,157 [INFO]  Epoch[0] Train-cross-entropy=9.602890
+2024-03-24 17:42:12,157 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:42:12,157 [INFO]  Epoch[0] Time cost=0.013
+2024-03-24 17:42:12,160 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:42:12,160 [INFO]  Epoch[0] Validation-cross-entropy=2.985841
+2024-03-24 17:42:12,161 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:12,167 [INFO]  Epoch[1] Batch [0-4]	Speed: 14258.00 samples/sec	cross-entropy=4.027202	OD280%2FOD315_of_diluted_wines-accuracy=1.800000
+2024-03-24 17:42:12,170 [INFO]  Epoch[1] Train-cross-entropy=3.825093
+2024-03-24 17:42:12,170 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:42:12,171 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:42:12,173 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:42:12,174 [INFO]  Epoch[1] Validation-cross-entropy=1.610423
+2024-03-24 17:42:12,174 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:12,180 [INFO]  Epoch[2] Batch [0-4]	Speed: 14252.71 samples/sec	cross-entropy=1.523677	OD280%2FOD315_of_diluted_wines-accuracy=1.800000
+2024-03-24 17:42:12,183 [INFO]  Epoch[2] Train-cross-entropy=1.671970
+2024-03-24 17:42:12,184 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:42:12,184 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:42:12,186 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:42:12,187 [INFO]  Epoch[2] Validation-cross-entropy=0.696788
+2024-03-24 17:42:12,187 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:12,193 [INFO]  Epoch[3] Batch [0-4]	Speed: 14336.44 samples/sec	cross-entropy=0.926194	OD280%2FOD315_of_diluted_wines-accuracy=1.800000
+2024-03-24 17:42:12,197 [INFO]  Epoch[3] Train-cross-entropy=0.929689
+2024-03-24 17:42:12,197 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:42:12,197 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:42:12,199 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:42:12,200 [INFO]  Epoch[3] Validation-cross-entropy=0.932815
+2024-03-24 17:42:12,201 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:12,207 [INFO]  Epoch[4] Batch [0-4]	Speed: 13553.24 samples/sec	cross-entropy=0.532502	OD280%2FOD315_of_diluted_wines-accuracy=1.800000
+2024-03-24 17:42:12,210 [INFO]  Epoch[4] Train-cross-entropy=0.431067
+2024-03-24 17:42:12,210 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.333333
+2024-03-24 17:42:12,211 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:42:12,213 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:42:12,214 [INFO]  Epoch[4] Validation-cross-entropy=1.034105
+2024-03-24 17:42:12,214 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:12,214 [INFO]  
+========== done (0.07116389274597168 s) fit model
+2024-03-24 17:42:16,143 [INFO]  
+========== start: fit model
+2024-03-24 17:42:16,143 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:42:16,154 [INFO]  Epoch[0] Batch [0-4]	Speed: 13400.33 samples/sec	cross-entropy=17.545757	OD280%2FOD315_of_diluted_wines-accuracy=1.400000
+2024-03-24 17:42:16,157 [INFO]  Epoch[0] Train-cross-entropy=8.637201
+2024-03-24 17:42:16,158 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:42:16,158 [INFO]  Epoch[0] Time cost=0.014
+2024-03-24 17:42:16,160 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:42:16,161 [INFO]  Epoch[0] Validation-cross-entropy=5.317019
+2024-03-24 17:42:16,161 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:16,167 [INFO]  Epoch[1] Batch [0-4]	Speed: 14214.22 samples/sec	cross-entropy=4.156384	OD280%2FOD315_of_diluted_wines-accuracy=1.400000
+2024-03-24 17:42:16,171 [INFO]  Epoch[1] Train-cross-entropy=3.389282
+2024-03-24 17:42:16,171 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:42:16,171 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:42:16,174 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:42:16,175 [INFO]  Epoch[1] Validation-cross-entropy=1.388792
+2024-03-24 17:42:16,175 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:16,181 [INFO]  Epoch[2] Batch [0-4]	Speed: 13419.09 samples/sec	cross-entropy=3.364616	OD280%2FOD315_of_diluted_wines-accuracy=1.400000
+2024-03-24 17:42:16,185 [INFO]  Epoch[2] Train-cross-entropy=1.846890
+2024-03-24 17:42:16,185 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:42:16,186 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:42:16,188 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:42:16,189 [INFO]  Epoch[2] Validation-cross-entropy=0.723424
+2024-03-24 17:42:16,190 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:16,301 [INFO]  Epoch[3] Batch [0-4]	Speed: 579.97 samples/sec	cross-entropy=1.411823	OD280%2FOD315_of_diluted_wines-accuracy=1.400000
+2024-03-24 17:42:16,305 [INFO]  Epoch[3] Train-cross-entropy=0.962962
+2024-03-24 17:42:16,306 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:42:16,306 [INFO]  Epoch[3] Time cost=0.116
+2024-03-24 17:42:16,309 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:42:16,309 [INFO]  Epoch[3] Validation-cross-entropy=0.802539
+2024-03-24 17:42:16,310 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:16,316 [INFO]  Epoch[4] Batch [0-4]	Speed: 12977.93 samples/sec	cross-entropy=0.862918	OD280%2FOD315_of_diluted_wines-accuracy=1.400000
+2024-03-24 17:42:16,320 [INFO]  Epoch[4] Train-cross-entropy=0.683314
+2024-03-24 17:42:16,320 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=1.666667
+2024-03-24 17:42:16,320 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:42:16,323 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:42:16,323 [INFO]  Epoch[4] Validation-cross-entropy=0.575166
+2024-03-24 17:42:16,324 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:16,324 [INFO]  
+========== done (0.18118977546691895 s) fit model
+2024-03-24 17:42:20,366 [INFO]  
+========== start: fit model
+2024-03-24 17:42:20,366 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:42:20,375 [INFO]  Epoch[0] Batch [0-4]	Speed: 24209.55 samples/sec	cross-entropy=32.598103	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,377 [INFO]  Epoch[0] Train-cross-entropy=18.723520
+2024-03-24 17:42:20,377 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,377 [INFO]  Epoch[0] Time cost=0.010
+2024-03-24 17:42:20,378 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:42:20,383 [INFO]  Epoch[0] Validation-cross-entropy=3.305182
+2024-03-24 17:42:20,383 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,398 [INFO]  Epoch[1] Batch [0-4]	Speed: 10345.53 samples/sec	cross-entropy=7.227942	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,400 [INFO]  Epoch[1] Train-cross-entropy=6.817647
+2024-03-24 17:42:20,401 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,401 [INFO]  Epoch[1] Time cost=0.017
+2024-03-24 17:42:20,403 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:42:20,408 [INFO]  Epoch[1] Validation-cross-entropy=3.143110
+2024-03-24 17:42:20,408 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,414 [INFO]  Epoch[2] Batch [0-4]	Speed: 14002.89 samples/sec	cross-entropy=2.433203	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,417 [INFO]  Epoch[2] Train-cross-entropy=4.622524
+2024-03-24 17:42:20,417 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,417 [INFO]  Epoch[2] Time cost=0.009
+2024-03-24 17:42:20,419 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:42:20,420 [INFO]  Epoch[2] Validation-cross-entropy=4.213997
+2024-03-24 17:42:20,420 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,426 [INFO]  Epoch[3] Batch [0-4]	Speed: 14219.49 samples/sec	cross-entropy=1.756059	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,429 [INFO]  Epoch[3] Train-cross-entropy=2.772920
+2024-03-24 17:42:20,429 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,429 [INFO]  Epoch[3] Time cost=0.009
+2024-03-24 17:42:20,431 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:42:20,431 [INFO]  Epoch[3] Validation-cross-entropy=2.826096
+2024-03-24 17:42:20,432 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,438 [INFO]  Epoch[4] Batch [0-4]	Speed: 13400.33 samples/sec	cross-entropy=1.102321	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,441 [INFO]  Epoch[4] Train-cross-entropy=1.338917
+2024-03-24 17:42:20,441 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,441 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:42:20,443 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:42:20,443 [INFO]  Epoch[4] Validation-cross-entropy=1.326125
+2024-03-24 17:42:20,443 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:20,444 [INFO]  
+========== done (0.07751631736755371 s) fit model
+2024-03-24 17:42:24,648 [INFO]  
+========== start: fit model
+2024-03-24 17:42:24,648 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:42:24,669 [INFO]  Epoch[0] Batch [0-4]	Speed: 14305.11 samples/sec	cross-entropy=17.171359	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,672 [INFO]  Epoch[0] Train-cross-entropy=5.995890
+2024-03-24 17:42:24,672 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,672 [INFO]  Epoch[0] Time cost=0.023
+2024-03-24 17:42:24,674 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:42:24,675 [INFO]  Epoch[0] Validation-cross-entropy=5.251634
+2024-03-24 17:42:24,675 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,680 [INFO]  Epoch[1] Batch [0-4]	Speed: 14783.32 samples/sec	cross-entropy=5.007368	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,684 [INFO]  Epoch[1] Train-cross-entropy=2.802528
+2024-03-24 17:42:24,684 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,684 [INFO]  Epoch[1] Time cost=0.009
+2024-03-24 17:42:24,685 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:42:24,686 [INFO]  Epoch[1] Validation-cross-entropy=5.544725
+2024-03-24 17:42:24,686 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,692 [INFO]  Epoch[2] Batch [0-4]	Speed: 13563.51 samples/sec	cross-entropy=2.886384	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,696 [INFO]  Epoch[2] Train-cross-entropy=1.892545
+2024-03-24 17:42:24,696 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,696 [INFO]  Epoch[2] Time cost=0.009
+2024-03-24 17:42:24,698 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:42:24,699 [INFO]  Epoch[2] Validation-cross-entropy=2.894161
+2024-03-24 17:42:24,699 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,705 [INFO]  Epoch[3] Batch [0-4]	Speed: 13901.37 samples/sec	cross-entropy=1.723648	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,708 [INFO]  Epoch[3] Train-cross-entropy=1.012000
+2024-03-24 17:42:24,709 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,709 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:42:24,710 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:42:24,711 [INFO]  Epoch[3] Validation-cross-entropy=1.331217
+2024-03-24 17:42:24,711 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,717 [INFO]  Epoch[4] Batch [0-4]	Speed: 14374.05 samples/sec	cross-entropy=1.195845	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,721 [INFO]  Epoch[4] Train-cross-entropy=0.514024
+2024-03-24 17:42:24,721 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,721 [INFO]  Epoch[4] Time cost=0.009
+2024-03-24 17:42:24,722 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:42:24,723 [INFO]  Epoch[4] Validation-cross-entropy=0.869467
+2024-03-24 17:42:24,723 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:24,723 [INFO]  
+========== done (0.07498478889465332 s) fit model
+2024-03-24 17:42:29,122 [INFO]  
+========== start: fit model
+2024-03-24 17:42:29,122 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:42:29,132 [INFO]  Epoch[0] Batch [0-4]	Speed: 12447.16 samples/sec	cross-entropy=15.297268	OD280%2FOD315_of_diluted_wines-accuracy=1.000000
+2024-03-24 17:42:29,135 [INFO]  Epoch[0] Train-cross-entropy=7.146613
+2024-03-24 17:42:29,135 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:42:29,135 [INFO]  Epoch[0] Time cost=0.012
+2024-03-24 17:42:29,137 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:42:29,139 [INFO]  Epoch[0] Validation-cross-entropy=3.508783
+2024-03-24 17:42:29,139 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:29,145 [INFO]  Epoch[1] Batch [0-4]	Speed: 14401.82 samples/sec	cross-entropy=4.160606	OD280%2FOD315_of_diluted_wines-accuracy=1.000000
+2024-03-24 17:42:29,149 [INFO]  Epoch[1] Train-cross-entropy=4.198662
+2024-03-24 17:42:29,149 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:42:29,149 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:42:29,150 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:42:29,151 [INFO]  Epoch[1] Validation-cross-entropy=2.313629
+2024-03-24 17:42:29,151 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:29,157 [INFO]  Epoch[2] Batch [0-4]	Speed: 13962.11 samples/sec	cross-entropy=2.803294	OD280%2FOD315_of_diluted_wines-accuracy=1.000000
+2024-03-24 17:42:29,161 [INFO]  Epoch[2] Train-cross-entropy=1.749544
+2024-03-24 17:42:29,161 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:42:29,161 [INFO]  Epoch[2] Time cost=0.009
+2024-03-24 17:42:29,162 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:42:29,163 [INFO]  Epoch[2] Validation-cross-entropy=1.920297
+2024-03-24 17:42:29,163 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:29,169 [INFO]  Epoch[3] Batch [0-4]	Speed: 14529.66 samples/sec	cross-entropy=1.503244	OD280%2FOD315_of_diluted_wines-accuracy=1.000000
+2024-03-24 17:42:29,173 [INFO]  Epoch[3] Train-cross-entropy=1.047830
+2024-03-24 17:42:29,173 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:42:29,173 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:42:29,174 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:42:29,175 [INFO]  Epoch[3] Validation-cross-entropy=1.486641
+2024-03-24 17:42:29,175 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:29,181 [INFO]  Epoch[4] Batch [0-4]	Speed: 14394.87 samples/sec	cross-entropy=0.883230	OD280%2FOD315_of_diluted_wines-accuracy=1.000000
+2024-03-24 17:42:29,185 [INFO]  Epoch[4] Train-cross-entropy=0.610175
+2024-03-24 17:42:29,185 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=2.000000
+2024-03-24 17:42:29,185 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:42:29,186 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:42:29,187 [INFO]  Epoch[4] Validation-cross-entropy=0.448962
+2024-03-24 17:42:29,187 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:29,187 [INFO]  
+========== done (0.06493735313415527 s) fit model
+2024-03-24 17:42:33,085 [INFO]  
+========== start: fit model
+2024-03-24 17:42:33,085 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:42:33,110 [INFO]  Epoch[0] Batch [0-4]	Speed: 7087.22 samples/sec	cross-entropy=16.527992	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,150 [INFO]  Epoch[0] Train-cross-entropy=10.069655
+2024-03-24 17:42:33,150 [INFO]  Epoch[0] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,150 [INFO]  Epoch[0] Time cost=0.065
+2024-03-24 17:42:33,152 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0000.params"
+2024-03-24 17:42:33,153 [INFO]  Epoch[0] Validation-cross-entropy=3.659460
+2024-03-24 17:42:33,153 [INFO]  Epoch[0] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,158 [INFO]  Epoch[1] Batch [0-4]	Speed: 15043.46 samples/sec	cross-entropy=3.700903	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,169 [INFO]  Epoch[1] Train-cross-entropy=2.642753
+2024-03-24 17:42:33,169 [INFO]  Epoch[1] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,170 [INFO]  Epoch[1] Time cost=0.017
+2024-03-24 17:42:33,171 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0001.params"
+2024-03-24 17:42:33,172 [INFO]  Epoch[1] Validation-cross-entropy=2.086771
+2024-03-24 17:42:33,172 [INFO]  Epoch[1] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,177 [INFO]  Epoch[2] Batch [0-4]	Speed: 14687.87 samples/sec	cross-entropy=3.261592	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,180 [INFO]  Epoch[2] Train-cross-entropy=1.749404
+2024-03-24 17:42:33,180 [INFO]  Epoch[2] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,180 [INFO]  Epoch[2] Time cost=0.009
+2024-03-24 17:42:33,182 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0002.params"
+2024-03-24 17:42:33,182 [INFO]  Epoch[2] Validation-cross-entropy=1.424198
+2024-03-24 17:42:33,182 [INFO]  Epoch[2] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,190 [INFO]  Epoch[3] Batch [0-4]	Speed: 9937.64 samples/sec	cross-entropy=1.856348	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,193 [INFO]  Epoch[3] Train-cross-entropy=0.794325
+2024-03-24 17:42:33,193 [INFO]  Epoch[3] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,193 [INFO]  Epoch[3] Time cost=0.011
+2024-03-24 17:42:33,195 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0003.params"
+2024-03-24 17:42:33,195 [INFO]  Epoch[3] Validation-cross-entropy=0.822829
+2024-03-24 17:42:33,195 [INFO]  Epoch[3] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,201 [INFO]  Epoch[4] Batch [0-4]	Speed: 15517.40 samples/sec	cross-entropy=0.892220	OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,204 [INFO]  Epoch[4] Train-cross-entropy=0.537958
+2024-03-24 17:42:33,204 [INFO]  Epoch[4] Train-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,204 [INFO]  Epoch[4] Time cost=0.009
+2024-03-24 17:42:33,206 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_OD280%2FOD315_of_diluted_wines/model-0004.params"
+2024-03-24 17:42:33,206 [INFO]  Epoch[4] Validation-cross-entropy=0.623064
+2024-03-24 17:42:33,206 [INFO]  Epoch[4] Validation-OD280%2FOD315_of_diluted_wines-accuracy=0.000000
+2024-03-24 17:42:33,206 [INFO]  
+========== done (0.12172818183898926 s) fit model

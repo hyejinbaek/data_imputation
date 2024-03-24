@@ -1,0 +1,1200 @@
+2024-03-24 17:38:11,958 [INFO]  
+========== start: fit model
+2024-03-24 17:38:11,958 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:11,965 [INFO]  Epoch[0] Batch [0-7]	Speed: 21309.23 samples/sec	cross-entropy=7.341583	tumor-size-accuracy=0.000000
+2024-03-24 17:38:11,969 [INFO]  Epoch[0] Train-cross-entropy=3.307061
+2024-03-24 17:38:11,969 [INFO]  Epoch[0] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:11,969 [INFO]  Epoch[0] Time cost=0.010
+2024-03-24 17:38:11,971 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:11,971 [INFO]  Epoch[0] Validation-cross-entropy=3.283065
+2024-03-24 17:38:11,971 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:11,977 [INFO]  Epoch[1] Batch [0-7]	Speed: 21824.02 samples/sec	cross-entropy=1.437607	tumor-size-accuracy=0.000000
+2024-03-24 17:38:11,981 [INFO]  Epoch[1] Train-cross-entropy=0.744883
+2024-03-24 17:38:11,981 [INFO]  Epoch[1] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:11,981 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:38:11,983 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:11,983 [INFO]  Epoch[1] Validation-cross-entropy=0.928051
+2024-03-24 17:38:11,983 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:11,989 [INFO]  Epoch[2] Batch [0-7]	Speed: 21653.01 samples/sec	cross-entropy=0.798468	tumor-size-accuracy=0.000000
+2024-03-24 17:38:11,993 [INFO]  Epoch[2] Train-cross-entropy=0.502021
+2024-03-24 17:38:11,993 [INFO]  Epoch[2] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:11,993 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:38:11,995 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:11,995 [INFO]  Epoch[2] Validation-cross-entropy=0.388729
+2024-03-24 17:38:11,995 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:12,004 [INFO]  Epoch[3] Batch [0-7]	Speed: 14700.28 samples/sec	cross-entropy=0.316455	tumor-size-accuracy=0.000000
+2024-03-24 17:38:12,012 [INFO]  Epoch[3] Train-cross-entropy=0.175930
+2024-03-24 17:38:12,012 [INFO]  Epoch[3] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:12,012 [INFO]  Epoch[3] Time cost=0.017
+2024-03-24 17:38:12,014 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:12,015 [INFO]  Epoch[3] Validation-cross-entropy=0.350395
+2024-03-24 17:38:12,015 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:12,023 [INFO]  Epoch[4] Batch [0-7]	Speed: 17099.67 samples/sec	cross-entropy=0.178522	tumor-size-accuracy=0.000000
+2024-03-24 17:38:12,027 [INFO]  Epoch[4] Train-cross-entropy=0.160787
+2024-03-24 17:38:12,027 [INFO]  Epoch[4] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:12,027 [INFO]  Epoch[4] Time cost=0.011
+2024-03-24 17:38:12,028 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:12,029 [INFO]  Epoch[4] Validation-cross-entropy=0.161902
+2024-03-24 17:38:12,029 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:12,029 [INFO]  
+========== done (0.07127666473388672 s) fit model
+2024-03-24 17:38:13,123 [INFO]  
+========== start: fit model
+2024-03-24 17:38:13,123 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:13,129 [INFO]  Epoch[0] Batch [0-7]	Speed: 27383.39 samples/sec	cross-entropy=11.721787	tumor-size-accuracy=3.125000
+2024-03-24 17:38:13,132 [INFO]  Epoch[0] Train-cross-entropy=8.220605
+2024-03-24 17:38:13,132 [INFO]  Epoch[0] Train-tumor-size-accuracy=4.400000
+2024-03-24 17:38:13,132 [INFO]  Epoch[0] Time cost=0.008
+2024-03-24 17:38:13,133 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:13,134 [INFO]  Epoch[0] Validation-cross-entropy=3.426243
+2024-03-24 17:38:13,134 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:13,138 [INFO]  Epoch[1] Batch [0-7]	Speed: 28484.24 samples/sec	cross-entropy=2.657046	tumor-size-accuracy=3.125000
+2024-03-24 17:38:13,141 [INFO]  Epoch[1] Train-cross-entropy=1.313466
+2024-03-24 17:38:13,141 [INFO]  Epoch[1] Train-tumor-size-accuracy=4.400000
+2024-03-24 17:38:13,141 [INFO]  Epoch[1] Time cost=0.008
+2024-03-24 17:38:13,142 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:13,143 [INFO]  Epoch[1] Validation-cross-entropy=0.960679
+2024-03-24 17:38:13,143 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:13,148 [INFO]  Epoch[2] Batch [0-7]	Speed: 28225.80 samples/sec	cross-entropy=0.816751	tumor-size-accuracy=3.125000
+2024-03-24 17:38:13,151 [INFO]  Epoch[2] Train-cross-entropy=0.597005
+2024-03-24 17:38:13,151 [INFO]  Epoch[2] Train-tumor-size-accuracy=4.400000
+2024-03-24 17:38:13,151 [INFO]  Epoch[2] Time cost=0.008
+2024-03-24 17:38:13,152 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:13,152 [INFO]  Epoch[2] Validation-cross-entropy=0.346034
+2024-03-24 17:38:13,153 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:13,157 [INFO]  Epoch[3] Batch [0-7]	Speed: 28885.33 samples/sec	cross-entropy=0.455003	tumor-size-accuracy=3.125000
+2024-03-24 17:38:13,160 [INFO]  Epoch[3] Train-cross-entropy=0.238066
+2024-03-24 17:38:13,160 [INFO]  Epoch[3] Train-tumor-size-accuracy=4.400000
+2024-03-24 17:38:13,160 [INFO]  Epoch[3] Time cost=0.007
+2024-03-24 17:38:13,161 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:13,162 [INFO]  Epoch[3] Validation-cross-entropy=0.282118
+2024-03-24 17:38:13,162 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:13,166 [INFO]  Epoch[4] Batch [0-7]	Speed: 29047.86 samples/sec	cross-entropy=0.242481	tumor-size-accuracy=3.125000
+2024-03-24 17:38:13,169 [INFO]  Epoch[4] Train-cross-entropy=0.170891
+2024-03-24 17:38:13,169 [INFO]  Epoch[4] Train-tumor-size-accuracy=4.400000
+2024-03-24 17:38:13,169 [INFO]  Epoch[4] Time cost=0.007
+2024-03-24 17:38:13,170 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:13,171 [INFO]  Epoch[4] Validation-cross-entropy=0.226169
+2024-03-24 17:38:13,171 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:13,171 [INFO]  
+========== done (0.047724008560180664 s) fit model
+2024-03-24 17:38:14,237 [INFO]  
+========== start: fit model
+2024-03-24 17:38:14,237 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:14,249 [INFO]  Epoch[0] Batch [0-7]	Speed: 23628.69 samples/sec	cross-entropy=13.606825	tumor-size-accuracy=3.125000
+2024-03-24 17:38:14,253 [INFO]  Epoch[0] Train-cross-entropy=5.747542
+2024-03-24 17:38:14,253 [INFO]  Epoch[0] Train-tumor-size-accuracy=3.600000
+2024-03-24 17:38:14,253 [INFO]  Epoch[0] Time cost=0.015
+2024-03-24 17:38:14,254 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:14,255 [INFO]  Epoch[0] Validation-cross-entropy=1.765941
+2024-03-24 17:38:14,255 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:14,261 [INFO]  Epoch[1] Batch [0-7]	Speed: 24726.92 samples/sec	cross-entropy=2.277923	tumor-size-accuracy=3.125000
+2024-03-24 17:38:14,264 [INFO]  Epoch[1] Train-cross-entropy=0.878617
+2024-03-24 17:38:14,264 [INFO]  Epoch[1] Train-tumor-size-accuracy=3.600000
+2024-03-24 17:38:14,264 [INFO]  Epoch[1] Time cost=0.009
+2024-03-24 17:38:14,265 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:14,266 [INFO]  Epoch[1] Validation-cross-entropy=0.292845
+2024-03-24 17:38:14,266 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:14,271 [INFO]  Epoch[2] Batch [0-7]	Speed: 24660.72 samples/sec	cross-entropy=0.739246	tumor-size-accuracy=3.125000
+2024-03-24 17:38:14,275 [INFO]  Epoch[2] Train-cross-entropy=0.557981
+2024-03-24 17:38:14,275 [INFO]  Epoch[2] Train-tumor-size-accuracy=3.600000
+2024-03-24 17:38:14,275 [INFO]  Epoch[2] Time cost=0.009
+2024-03-24 17:38:14,276 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:14,277 [INFO]  Epoch[2] Validation-cross-entropy=0.331825
+2024-03-24 17:38:14,277 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:14,282 [INFO]  Epoch[3] Batch [0-7]	Speed: 25080.73 samples/sec	cross-entropy=0.565100	tumor-size-accuracy=3.125000
+2024-03-24 17:38:14,285 [INFO]  Epoch[3] Train-cross-entropy=0.272365
+2024-03-24 17:38:14,285 [INFO]  Epoch[3] Train-tumor-size-accuracy=3.600000
+2024-03-24 17:38:14,285 [INFO]  Epoch[3] Time cost=0.008
+2024-03-24 17:38:14,287 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:14,287 [INFO]  Epoch[3] Validation-cross-entropy=0.219190
+2024-03-24 17:38:14,287 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:14,293 [INFO]  Epoch[4] Batch [0-7]	Speed: 25106.20 samples/sec	cross-entropy=0.251616	tumor-size-accuracy=3.125000
+2024-03-24 17:38:14,296 [INFO]  Epoch[4] Train-cross-entropy=0.179839
+2024-03-24 17:38:14,296 [INFO]  Epoch[4] Train-tumor-size-accuracy=3.600000
+2024-03-24 17:38:14,296 [INFO]  Epoch[4] Time cost=0.009
+2024-03-24 17:38:14,297 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:14,298 [INFO]  Epoch[4] Validation-cross-entropy=0.129314
+2024-03-24 17:38:14,298 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:14,298 [INFO]  
+========== done (0.06092691421508789 s) fit model
+2024-03-24 17:38:15,401 [INFO]  
+========== start: fit model
+2024-03-24 17:38:15,401 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:15,408 [INFO]  Epoch[0] Batch [0-7]	Speed: 23583.62 samples/sec	cross-entropy=17.533500	tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,411 [INFO]  Epoch[0] Train-cross-entropy=7.605379
+2024-03-24 17:38:15,411 [INFO]  Epoch[0] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,411 [INFO]  Epoch[0] Time cost=0.009
+2024-03-24 17:38:15,412 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:15,413 [INFO]  Epoch[0] Validation-cross-entropy=3.666164
+2024-03-24 17:38:15,413 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,419 [INFO]  Epoch[1] Batch [0-7]	Speed: 24764.72 samples/sec	cross-entropy=3.103684	tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,422 [INFO]  Epoch[1] Train-cross-entropy=1.209152
+2024-03-24 17:38:15,422 [INFO]  Epoch[1] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,422 [INFO]  Epoch[1] Time cost=0.009
+2024-03-24 17:38:15,423 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:15,424 [INFO]  Epoch[1] Validation-cross-entropy=0.593074
+2024-03-24 17:38:15,424 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,429 [INFO]  Epoch[2] Batch [0-7]	Speed: 24704.81 samples/sec	cross-entropy=0.697667	tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,434 [INFO]  Epoch[2] Train-cross-entropy=0.653316
+2024-03-24 17:38:15,434 [INFO]  Epoch[2] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,434 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:38:15,438 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:15,440 [INFO]  Epoch[2] Validation-cross-entropy=0.485442
+2024-03-24 17:38:15,440 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,450 [INFO]  Epoch[3] Batch [0-7]	Speed: 13404.92 samples/sec	cross-entropy=0.566285	tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,455 [INFO]  Epoch[3] Train-cross-entropy=0.311354
+2024-03-24 17:38:15,455 [INFO]  Epoch[3] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,455 [INFO]  Epoch[3] Time cost=0.015
+2024-03-24 17:38:15,457 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:15,458 [INFO]  Epoch[3] Validation-cross-entropy=0.392184
+2024-03-24 17:38:15,458 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,464 [INFO]  Epoch[4] Batch [0-7]	Speed: 21998.78 samples/sec	cross-entropy=0.272106	tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,467 [INFO]  Epoch[4] Train-cross-entropy=0.192961
+2024-03-24 17:38:15,467 [INFO]  Epoch[4] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,467 [INFO]  Epoch[4] Time cost=0.009
+2024-03-24 17:38:15,468 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:15,469 [INFO]  Epoch[4] Validation-cross-entropy=0.253533
+2024-03-24 17:38:15,469 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:15,469 [INFO]  
+========== done (0.06803584098815918 s) fit model
+2024-03-24 17:38:16,769 [INFO]  
+========== start: fit model
+2024-03-24 17:38:16,769 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:16,777 [INFO]  Epoch[0] Batch [0-7]	Speed: 21356.70 samples/sec	cross-entropy=7.347380	tumor-size-accuracy=3.625000
+2024-03-24 17:38:16,781 [INFO]  Epoch[0] Train-cross-entropy=2.259328
+2024-03-24 17:38:16,781 [INFO]  Epoch[0] Train-tumor-size-accuracy=3.400000
+2024-03-24 17:38:16,781 [INFO]  Epoch[0] Time cost=0.010
+2024-03-24 17:38:16,782 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:16,783 [INFO]  Epoch[0] Validation-cross-entropy=1.996368
+2024-03-24 17:38:16,783 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:16,789 [INFO]  Epoch[1] Batch [0-7]	Speed: 21940.22 samples/sec	cross-entropy=0.866111	tumor-size-accuracy=3.625000
+2024-03-24 17:38:16,793 [INFO]  Epoch[1] Train-cross-entropy=0.820406
+2024-03-24 17:38:16,793 [INFO]  Epoch[1] Train-tumor-size-accuracy=3.400000
+2024-03-24 17:38:16,793 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:38:16,795 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:16,795 [INFO]  Epoch[1] Validation-cross-entropy=0.334915
+2024-03-24 17:38:16,795 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:16,801 [INFO]  Epoch[2] Batch [0-7]	Speed: 21899.31 samples/sec	cross-entropy=0.809648	tumor-size-accuracy=3.625000
+2024-03-24 17:38:16,805 [INFO]  Epoch[2] Train-cross-entropy=0.350588
+2024-03-24 17:38:16,805 [INFO]  Epoch[2] Train-tumor-size-accuracy=3.400000
+2024-03-24 17:38:16,805 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:38:16,807 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:16,807 [INFO]  Epoch[2] Validation-cross-entropy=0.180643
+2024-03-24 17:38:16,808 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:16,813 [INFO]  Epoch[3] Batch [0-7]	Speed: 22201.52 samples/sec	cross-entropy=0.246340	tumor-size-accuracy=3.625000
+2024-03-24 17:38:16,817 [INFO]  Epoch[3] Train-cross-entropy=0.188153
+2024-03-24 17:38:16,817 [INFO]  Epoch[3] Train-tumor-size-accuracy=3.400000
+2024-03-24 17:38:16,817 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:38:16,819 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:16,819 [INFO]  Epoch[3] Validation-cross-entropy=0.186973
+2024-03-24 17:38:16,820 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:16,825 [INFO]  Epoch[4] Batch [0-7]	Speed: 29163.28 samples/sec	cross-entropy=0.151168	tumor-size-accuracy=3.625000
+2024-03-24 17:38:16,827 [INFO]  Epoch[4] Train-cross-entropy=0.090226
+2024-03-24 17:38:16,827 [INFO]  Epoch[4] Train-tumor-size-accuracy=3.400000
+2024-03-24 17:38:16,827 [INFO]  Epoch[4] Time cost=0.008
+2024-03-24 17:38:16,829 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:16,829 [INFO]  Epoch[4] Validation-cross-entropy=0.091333
+2024-03-24 17:38:16,830 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:16,830 [INFO]  
+========== done (0.06045413017272949 s) fit model
+2024-03-24 17:38:18,280 [INFO]  
+========== start: fit model
+2024-03-24 17:38:18,280 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:18,287 [INFO]  Epoch[0] Batch [0-7]	Speed: 22061.81 samples/sec	cross-entropy=32.108623	tumor-size-accuracy=5.750000
+2024-03-24 17:38:18,291 [INFO]  Epoch[0] Train-cross-entropy=11.587255
+2024-03-24 17:38:18,291 [INFO]  Epoch[0] Train-tumor-size-accuracy=6.000000
+2024-03-24 17:38:18,291 [INFO]  Epoch[0] Time cost=0.010
+2024-03-24 17:38:18,292 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:18,294 [INFO]  Epoch[0] Validation-cross-entropy=27.467735
+2024-03-24 17:38:18,294 [INFO]  Epoch[0] Validation-tumor-size-accuracy=2.500000
+2024-03-24 17:38:18,299 [INFO]  Epoch[1] Batch [0-7]	Speed: 28576.07 samples/sec	cross-entropy=9.956116	tumor-size-accuracy=5.750000
+2024-03-24 17:38:18,302 [INFO]  Epoch[1] Train-cross-entropy=2.927065
+2024-03-24 17:38:18,302 [INFO]  Epoch[1] Train-tumor-size-accuracy=6.000000
+2024-03-24 17:38:18,302 [INFO]  Epoch[1] Time cost=0.008
+2024-03-24 17:38:18,303 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:18,304 [INFO]  Epoch[1] Validation-cross-entropy=9.961179
+2024-03-24 17:38:18,304 [INFO]  Epoch[1] Validation-tumor-size-accuracy=2.500000
+2024-03-24 17:38:18,309 [INFO]  Epoch[2] Batch [0-7]	Speed: 27898.92 samples/sec	cross-entropy=3.031825	tumor-size-accuracy=5.750000
+2024-03-24 17:38:18,312 [INFO]  Epoch[2] Train-cross-entropy=0.927846
+2024-03-24 17:38:18,312 [INFO]  Epoch[2] Train-tumor-size-accuracy=6.000000
+2024-03-24 17:38:18,312 [INFO]  Epoch[2] Time cost=0.008
+2024-03-24 17:38:18,313 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:18,314 [INFO]  Epoch[2] Validation-cross-entropy=3.217055
+2024-03-24 17:38:18,314 [INFO]  Epoch[2] Validation-tumor-size-accuracy=2.500000
+2024-03-24 17:38:18,319 [INFO]  Epoch[3] Batch [0-7]	Speed: 26189.55 samples/sec	cross-entropy=0.758816	tumor-size-accuracy=5.750000
+2024-03-24 17:38:18,322 [INFO]  Epoch[3] Train-cross-entropy=0.582174
+2024-03-24 17:38:18,322 [INFO]  Epoch[3] Train-tumor-size-accuracy=6.000000
+2024-03-24 17:38:18,322 [INFO]  Epoch[3] Time cost=0.008
+2024-03-24 17:38:18,323 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:18,324 [INFO]  Epoch[3] Validation-cross-entropy=1.376143
+2024-03-24 17:38:18,324 [INFO]  Epoch[3] Validation-tumor-size-accuracy=2.500000
+2024-03-24 17:38:18,331 [INFO]  Epoch[4] Batch [0-7]	Speed: 21049.52 samples/sec	cross-entropy=0.426505	tumor-size-accuracy=5.750000
+2024-03-24 17:38:18,339 [INFO]  Epoch[4] Train-cross-entropy=0.300449
+2024-03-24 17:38:18,339 [INFO]  Epoch[4] Train-tumor-size-accuracy=6.000000
+2024-03-24 17:38:18,339 [INFO]  Epoch[4] Time cost=0.014
+2024-03-24 17:38:18,340 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:18,348 [INFO]  Epoch[4] Validation-cross-entropy=1.067704
+2024-03-24 17:38:18,348 [INFO]  Epoch[4] Validation-tumor-size-accuracy=2.500000
+2024-03-24 17:38:18,348 [INFO]  
+========== done (0.06855106353759766 s) fit model
+2024-03-24 17:38:19,819 [INFO]  
+========== start: fit model
+2024-03-24 17:38:19,820 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:19,837 [INFO]  Epoch[0] Batch [0-7]	Speed: 9518.60 samples/sec	cross-entropy=17.364424	tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,842 [INFO]  Epoch[0] Train-cross-entropy=11.543060
+2024-03-24 17:38:19,843 [INFO]  Epoch[0] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,843 [INFO]  Epoch[0] Time cost=0.022
+2024-03-24 17:38:19,844 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:19,845 [INFO]  Epoch[0] Validation-cross-entropy=7.426789
+2024-03-24 17:38:19,845 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,851 [INFO]  Epoch[1] Batch [0-7]	Speed: 21420.00 samples/sec	cross-entropy=4.591572	tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,855 [INFO]  Epoch[1] Train-cross-entropy=2.655449
+2024-03-24 17:38:19,855 [INFO]  Epoch[1] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,855 [INFO]  Epoch[1] Time cost=0.009
+2024-03-24 17:38:19,856 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:19,857 [INFO]  Epoch[1] Validation-cross-entropy=1.146196
+2024-03-24 17:38:19,857 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,861 [INFO]  Epoch[2] Batch [0-7]	Speed: 28772.10 samples/sec	cross-entropy=0.964641	tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,864 [INFO]  Epoch[2] Train-cross-entropy=1.008714
+2024-03-24 17:38:19,864 [INFO]  Epoch[2] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,864 [INFO]  Epoch[2] Time cost=0.007
+2024-03-24 17:38:19,865 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:19,866 [INFO]  Epoch[2] Validation-cross-entropy=1.045703
+2024-03-24 17:38:19,866 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,871 [INFO]  Epoch[3] Batch [0-7]	Speed: 27852.61 samples/sec	cross-entropy=0.495175	tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,874 [INFO]  Epoch[3] Train-cross-entropy=0.654416
+2024-03-24 17:38:19,874 [INFO]  Epoch[3] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,874 [INFO]  Epoch[3] Time cost=0.008
+2024-03-24 17:38:19,875 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:19,876 [INFO]  Epoch[3] Validation-cross-entropy=0.404375
+2024-03-24 17:38:19,876 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,880 [INFO]  Epoch[4] Batch [0-7]	Speed: 28581.29 samples/sec	cross-entropy=0.231662	tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,883 [INFO]  Epoch[4] Train-cross-entropy=0.357154
+2024-03-24 17:38:19,883 [INFO]  Epoch[4] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,883 [INFO]  Epoch[4] Time cost=0.008
+2024-03-24 17:38:19,885 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:19,885 [INFO]  Epoch[4] Validation-cross-entropy=0.222179
+2024-03-24 17:38:19,885 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:19,885 [INFO]  
+========== done (0.06602978706359863 s) fit model
+2024-03-24 17:38:21,173 [INFO]  
+========== start: fit model
+2024-03-24 17:38:21,173 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:21,180 [INFO]  Epoch[0] Batch [0-7]	Speed: 20727.23 samples/sec	cross-entropy=17.862517	tumor-size-accuracy=4.250000
+2024-03-24 17:38:21,184 [INFO]  Epoch[0] Train-cross-entropy=7.767452
+2024-03-24 17:38:21,184 [INFO]  Epoch[0] Train-tumor-size-accuracy=2.800000
+2024-03-24 17:38:21,184 [INFO]  Epoch[0] Time cost=0.011
+2024-03-24 17:38:21,186 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:21,186 [INFO]  Epoch[0] Validation-cross-entropy=5.761826
+2024-03-24 17:38:21,186 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:21,193 [INFO]  Epoch[1] Batch [0-7]	Speed: 20990.26 samples/sec	cross-entropy=4.015480	tumor-size-accuracy=4.250000
+2024-03-24 17:38:21,196 [INFO]  Epoch[1] Train-cross-entropy=1.547617
+2024-03-24 17:38:21,196 [INFO]  Epoch[1] Train-tumor-size-accuracy=2.800000
+2024-03-24 17:38:21,196 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:38:21,198 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:21,198 [INFO]  Epoch[1] Validation-cross-entropy=1.571828
+2024-03-24 17:38:21,198 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:21,205 [INFO]  Epoch[2] Batch [0-7]	Speed: 21126.19 samples/sec	cross-entropy=0.897699	tumor-size-accuracy=4.250000
+2024-03-24 17:38:21,209 [INFO]  Epoch[2] Train-cross-entropy=0.625772
+2024-03-24 17:38:21,209 [INFO]  Epoch[2] Train-tumor-size-accuracy=2.800000
+2024-03-24 17:38:21,209 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:38:21,210 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:21,211 [INFO]  Epoch[2] Validation-cross-entropy=1.312229
+2024-03-24 17:38:21,211 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:21,217 [INFO]  Epoch[3] Batch [0-7]	Speed: 21638.05 samples/sec	cross-entropy=0.620206	tumor-size-accuracy=4.250000
+2024-03-24 17:38:21,221 [INFO]  Epoch[3] Train-cross-entropy=0.428224
+2024-03-24 17:38:21,221 [INFO]  Epoch[3] Train-tumor-size-accuracy=2.800000
+2024-03-24 17:38:21,221 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:38:21,222 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:21,223 [INFO]  Epoch[3] Validation-cross-entropy=0.615080
+2024-03-24 17:38:21,223 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:21,229 [INFO]  Epoch[4] Batch [0-7]	Speed: 21626.10 samples/sec	cross-entropy=0.278811	tumor-size-accuracy=4.250000
+2024-03-24 17:38:21,233 [INFO]  Epoch[4] Train-cross-entropy=0.233506
+2024-03-24 17:38:21,233 [INFO]  Epoch[4] Train-tumor-size-accuracy=2.800000
+2024-03-24 17:38:21,233 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:38:21,234 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:21,235 [INFO]  Epoch[4] Validation-cross-entropy=0.464716
+2024-03-24 17:38:21,235 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:21,235 [INFO]  
+========== done (0.06235623359680176 s) fit model
+2024-03-24 17:38:22,702 [INFO]  
+========== start: fit model
+2024-03-24 17:38:22,702 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:22,708 [INFO]  Epoch[0] Batch [0-7]	Speed: 27024.22 samples/sec	cross-entropy=14.875560	tumor-size-accuracy=3.250000
+2024-03-24 17:38:22,711 [INFO]  Epoch[0] Train-cross-entropy=6.215036
+2024-03-24 17:38:22,711 [INFO]  Epoch[0] Train-tumor-size-accuracy=3.600000
+2024-03-24 17:38:22,711 [INFO]  Epoch[0] Time cost=0.008
+2024-03-24 17:38:22,712 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:22,713 [INFO]  Epoch[0] Validation-cross-entropy=2.247955
+2024-03-24 17:38:22,713 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:22,718 [INFO]  Epoch[1] Batch [0-7]	Speed: 28292.10 samples/sec	cross-entropy=2.942155	tumor-size-accuracy=3.250000
+2024-03-24 17:38:22,720 [INFO]  Epoch[1] Train-cross-entropy=1.166060
+2024-03-24 17:38:22,720 [INFO]  Epoch[1] Train-tumor-size-accuracy=3.600000
+2024-03-24 17:38:22,721 [INFO]  Epoch[1] Time cost=0.008
+2024-03-24 17:38:22,722 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:22,722 [INFO]  Epoch[1] Validation-cross-entropy=0.405248
+2024-03-24 17:38:22,722 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:22,727 [INFO]  Epoch[2] Batch [0-7]	Speed: 28567.38 samples/sec	cross-entropy=0.598921	tumor-size-accuracy=3.250000
+2024-03-24 17:38:22,730 [INFO]  Epoch[2] Train-cross-entropy=0.757831
+2024-03-24 17:38:22,730 [INFO]  Epoch[2] Train-tumor-size-accuracy=3.600000
+2024-03-24 17:38:22,730 [INFO]  Epoch[2] Time cost=0.008
+2024-03-24 17:38:22,731 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:22,732 [INFO]  Epoch[2] Validation-cross-entropy=0.274240
+2024-03-24 17:38:22,732 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:22,737 [INFO]  Epoch[3] Batch [0-7]	Speed: 28810.92 samples/sec	cross-entropy=0.412481	tumor-size-accuracy=3.250000
+2024-03-24 17:38:22,740 [INFO]  Epoch[3] Train-cross-entropy=0.365604
+2024-03-24 17:38:22,740 [INFO]  Epoch[3] Train-tumor-size-accuracy=3.600000
+2024-03-24 17:38:22,740 [INFO]  Epoch[3] Time cost=0.007
+2024-03-24 17:38:22,741 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:22,742 [INFO]  Epoch[3] Validation-cross-entropy=0.143850
+2024-03-24 17:38:22,742 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:22,746 [INFO]  Epoch[4] Batch [0-7]	Speed: 28780.91 samples/sec	cross-entropy=0.167255	tumor-size-accuracy=3.250000
+2024-03-24 17:38:22,749 [INFO]  Epoch[4] Train-cross-entropy=0.186166
+2024-03-24 17:38:22,749 [INFO]  Epoch[4] Train-tumor-size-accuracy=3.600000
+2024-03-24 17:38:22,749 [INFO]  Epoch[4] Time cost=0.007
+2024-03-24 17:38:22,750 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:22,751 [INFO]  Epoch[4] Validation-cross-entropy=0.112047
+2024-03-24 17:38:22,751 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:22,751 [INFO]  
+========== done (0.04927968978881836 s) fit model
+2024-03-24 17:38:24,066 [INFO]  
+========== start: fit model
+2024-03-24 17:38:24,066 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:24,081 [INFO]  Epoch[0] Batch [0-7]	Speed: 8959.79 samples/sec	cross-entropy=10.817369	tumor-size-accuracy=2.875000
+2024-03-24 17:38:24,086 [INFO]  Epoch[0] Train-cross-entropy=8.026220
+2024-03-24 17:38:24,086 [INFO]  Epoch[0] Train-tumor-size-accuracy=4.200000
+2024-03-24 17:38:24,086 [INFO]  Epoch[0] Time cost=0.019
+2024-03-24 17:38:24,088 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:24,088 [INFO]  Epoch[0] Validation-cross-entropy=5.082403
+2024-03-24 17:38:24,088 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:24,095 [INFO]  Epoch[1] Batch [0-7]	Speed: 19611.01 samples/sec	cross-entropy=1.819716	tumor-size-accuracy=2.875000
+2024-03-24 17:38:24,099 [INFO]  Epoch[1] Train-cross-entropy=1.269394
+2024-03-24 17:38:24,099 [INFO]  Epoch[1] Train-tumor-size-accuracy=4.200000
+2024-03-24 17:38:24,099 [INFO]  Epoch[1] Time cost=0.011
+2024-03-24 17:38:24,100 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:24,101 [INFO]  Epoch[1] Validation-cross-entropy=0.892121
+2024-03-24 17:38:24,101 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:24,107 [INFO]  Epoch[2] Batch [0-7]	Speed: 21002.46 samples/sec	cross-entropy=0.903290	tumor-size-accuracy=2.875000
+2024-03-24 17:38:24,111 [INFO]  Epoch[2] Train-cross-entropy=0.578789
+2024-03-24 17:38:24,111 [INFO]  Epoch[2] Train-tumor-size-accuracy=4.200000
+2024-03-24 17:38:24,111 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:38:24,112 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:24,113 [INFO]  Epoch[2] Validation-cross-entropy=0.737469
+2024-03-24 17:38:24,113 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:24,119 [INFO]  Epoch[3] Batch [0-7]	Speed: 21231.22 samples/sec	cross-entropy=0.455507	tumor-size-accuracy=2.875000
+2024-03-24 17:38:24,123 [INFO]  Epoch[3] Train-cross-entropy=0.284551
+2024-03-24 17:38:24,123 [INFO]  Epoch[3] Train-tumor-size-accuracy=4.200000
+2024-03-24 17:38:24,123 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:38:24,124 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:24,125 [INFO]  Epoch[3] Validation-cross-entropy=0.264603
+2024-03-24 17:38:24,125 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:24,131 [INFO]  Epoch[4] Batch [0-7]	Speed: 21027.84 samples/sec	cross-entropy=0.247127	tumor-size-accuracy=2.875000
+2024-03-24 17:38:24,135 [INFO]  Epoch[4] Train-cross-entropy=0.184097
+2024-03-24 17:38:24,135 [INFO]  Epoch[4] Train-tumor-size-accuracy=4.200000
+2024-03-24 17:38:24,135 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:38:24,136 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:24,137 [INFO]  Epoch[4] Validation-cross-entropy=0.218636
+2024-03-24 17:38:24,137 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:24,137 [INFO]  
+========== done (0.07123708724975586 s) fit model
+2024-03-24 17:38:25,499 [INFO]  
+========== start: fit model
+2024-03-24 17:38:25,499 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:25,512 [INFO]  Epoch[0] Batch [0-7]	Speed: 12182.94 samples/sec	cross-entropy=10.812651	tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,516 [INFO]  Epoch[0] Train-cross-entropy=4.110333
+2024-03-24 17:38:25,516 [INFO]  Epoch[0] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,516 [INFO]  Epoch[0] Time cost=0.016
+2024-03-24 17:38:25,517 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:25,518 [INFO]  Epoch[0] Validation-cross-entropy=1.836125
+2024-03-24 17:38:25,518 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,524 [INFO]  Epoch[1] Batch [0-7]	Speed: 21127.14 samples/sec	cross-entropy=1.115669	tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,528 [INFO]  Epoch[1] Train-cross-entropy=0.550605
+2024-03-24 17:38:25,528 [INFO]  Epoch[1] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,528 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:38:25,529 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:25,530 [INFO]  Epoch[1] Validation-cross-entropy=1.155808
+2024-03-24 17:38:25,530 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,537 [INFO]  Epoch[2] Batch [0-7]	Speed: 21052.35 samples/sec	cross-entropy=0.676678	tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,540 [INFO]  Epoch[2] Train-cross-entropy=0.385750
+2024-03-24 17:38:25,540 [INFO]  Epoch[2] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,541 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:38:25,542 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:25,543 [INFO]  Epoch[2] Validation-cross-entropy=1.301718
+2024-03-24 17:38:25,543 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,549 [INFO]  Epoch[3] Batch [0-7]	Speed: 21078.80 samples/sec	cross-entropy=0.316820	tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,553 [INFO]  Epoch[3] Train-cross-entropy=0.157438
+2024-03-24 17:38:25,553 [INFO]  Epoch[3] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,553 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:38:25,554 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:25,555 [INFO]  Epoch[3] Validation-cross-entropy=0.236942
+2024-03-24 17:38:25,555 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,561 [INFO]  Epoch[4] Batch [0-7]	Speed: 24553.73 samples/sec	cross-entropy=0.141509	tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,563 [INFO]  Epoch[4] Train-cross-entropy=0.145464
+2024-03-24 17:38:25,563 [INFO]  Epoch[4] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,563 [INFO]  Epoch[4] Time cost=0.008
+2024-03-24 17:38:25,565 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:25,565 [INFO]  Epoch[4] Validation-cross-entropy=0.175002
+2024-03-24 17:38:25,565 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:25,566 [INFO]  
+========== done (0.06696796417236328 s) fit model
+2024-03-24 17:38:27,045 [INFO]  
+========== start: fit model
+2024-03-24 17:38:27,045 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:27,056 [INFO]  Epoch[0] Batch [0-7]	Speed: 20512.73 samples/sec	cross-entropy=11.139602	tumor-size-accuracy=3.625000
+2024-03-24 17:38:27,060 [INFO]  Epoch[0] Train-cross-entropy=6.670219
+2024-03-24 17:38:27,060 [INFO]  Epoch[0] Train-tumor-size-accuracy=2.600000
+2024-03-24 17:38:27,060 [INFO]  Epoch[0] Time cost=0.014
+2024-03-24 17:38:27,061 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:27,062 [INFO]  Epoch[0] Validation-cross-entropy=5.532638
+2024-03-24 17:38:27,062 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:27,068 [INFO]  Epoch[1] Batch [0-7]	Speed: 21223.55 samples/sec	cross-entropy=1.357659	tumor-size-accuracy=3.625000
+2024-03-24 17:38:27,072 [INFO]  Epoch[1] Train-cross-entropy=0.859214
+2024-03-24 17:38:27,072 [INFO]  Epoch[1] Train-tumor-size-accuracy=2.600000
+2024-03-24 17:38:27,072 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:38:27,074 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:27,074 [INFO]  Epoch[1] Validation-cross-entropy=1.081160
+2024-03-24 17:38:27,075 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:27,081 [INFO]  Epoch[2] Batch [0-7]	Speed: 20841.26 samples/sec	cross-entropy=0.629786	tumor-size-accuracy=3.625000
+2024-03-24 17:38:27,085 [INFO]  Epoch[2] Train-cross-entropy=0.565771
+2024-03-24 17:38:27,085 [INFO]  Epoch[2] Train-tumor-size-accuracy=2.600000
+2024-03-24 17:38:27,085 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:38:27,086 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:27,087 [INFO]  Epoch[2] Validation-cross-entropy=0.546031
+2024-03-24 17:38:27,087 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:27,093 [INFO]  Epoch[3] Batch [0-7]	Speed: 21373.22 samples/sec	cross-entropy=0.340544	tumor-size-accuracy=3.625000
+2024-03-24 17:38:27,097 [INFO]  Epoch[3] Train-cross-entropy=0.228422
+2024-03-24 17:38:27,097 [INFO]  Epoch[3] Train-tumor-size-accuracy=2.600000
+2024-03-24 17:38:27,097 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:38:27,098 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:27,099 [INFO]  Epoch[3] Validation-cross-entropy=0.531368
+2024-03-24 17:38:27,099 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:27,105 [INFO]  Epoch[4] Batch [0-7]	Speed: 21162.36 samples/sec	cross-entropy=0.150520	tumor-size-accuracy=3.625000
+2024-03-24 17:38:27,109 [INFO]  Epoch[4] Train-cross-entropy=0.149587
+2024-03-24 17:38:27,109 [INFO]  Epoch[4] Train-tumor-size-accuracy=2.600000
+2024-03-24 17:38:27,109 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:38:27,111 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:27,112 [INFO]  Epoch[4] Validation-cross-entropy=0.365488
+2024-03-24 17:38:27,112 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:27,112 [INFO]  
+========== done (0.0666816234588623 s) fit model
+2024-03-24 17:38:28,467 [INFO]  
+========== start: fit model
+2024-03-24 17:38:28,467 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:28,475 [INFO]  Epoch[0] Batch [0-7]	Speed: 21108.16 samples/sec	cross-entropy=18.562451	tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,478 [INFO]  Epoch[0] Train-cross-entropy=8.352719
+2024-03-24 17:38:28,478 [INFO]  Epoch[0] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,478 [INFO]  Epoch[0] Time cost=0.011
+2024-03-24 17:38:28,480 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:28,481 [INFO]  Epoch[0] Validation-cross-entropy=8.320372
+2024-03-24 17:38:28,481 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,487 [INFO]  Epoch[1] Batch [0-7]	Speed: 21062.73 samples/sec	cross-entropy=2.790498	tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,491 [INFO]  Epoch[1] Train-cross-entropy=1.247730
+2024-03-24 17:38:28,491 [INFO]  Epoch[1] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,491 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:38:28,492 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:28,493 [INFO]  Epoch[1] Validation-cross-entropy=1.546714
+2024-03-24 17:38:28,493 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,499 [INFO]  Epoch[2] Batch [0-7]	Speed: 21077.85 samples/sec	cross-entropy=0.747249	tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,503 [INFO]  Epoch[2] Train-cross-entropy=0.548005
+2024-03-24 17:38:28,503 [INFO]  Epoch[2] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,503 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:38:28,505 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:28,506 [INFO]  Epoch[2] Validation-cross-entropy=2.373546
+2024-03-24 17:38:28,506 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,512 [INFO]  Epoch[3] Batch [0-7]	Speed: 20989.32 samples/sec	cross-entropy=0.708602	tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,519 [INFO]  Epoch[3] Train-cross-entropy=0.365703
+2024-03-24 17:38:28,519 [INFO]  Epoch[3] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,519 [INFO]  Epoch[3] Time cost=0.014
+2024-03-24 17:38:28,521 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:28,522 [INFO]  Epoch[3] Validation-cross-entropy=0.973986
+2024-03-24 17:38:28,522 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,531 [INFO]  Epoch[4] Batch [0-7]	Speed: 14684.65 samples/sec	cross-entropy=0.333413	tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,537 [INFO]  Epoch[4] Train-cross-entropy=0.235882
+2024-03-24 17:38:28,537 [INFO]  Epoch[4] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,537 [INFO]  Epoch[4] Time cost=0.015
+2024-03-24 17:38:28,539 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:28,540 [INFO]  Epoch[4] Validation-cross-entropy=0.537158
+2024-03-24 17:38:28,540 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:28,540 [INFO]  
+========== done (0.0731348991394043 s) fit model
+2024-03-24 17:38:29,960 [INFO]  
+========== start: fit model
+2024-03-24 17:38:29,960 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:29,966 [INFO]  Epoch[0] Batch [0-7]	Speed: 28439.40 samples/sec	cross-entropy=18.604295	tumor-size-accuracy=3.250000
+2024-03-24 17:38:29,969 [INFO]  Epoch[0] Train-cross-entropy=8.213904
+2024-03-24 17:38:29,969 [INFO]  Epoch[0] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:29,969 [INFO]  Epoch[0] Time cost=0.008
+2024-03-24 17:38:29,970 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:29,971 [INFO]  Epoch[0] Validation-cross-entropy=3.778943
+2024-03-24 17:38:29,971 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:29,976 [INFO]  Epoch[1] Batch [0-7]	Speed: 29038.89 samples/sec	cross-entropy=4.071054	tumor-size-accuracy=3.250000
+2024-03-24 17:38:29,979 [INFO]  Epoch[1] Train-cross-entropy=0.965756
+2024-03-24 17:38:29,979 [INFO]  Epoch[1] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:29,979 [INFO]  Epoch[1] Time cost=0.008
+2024-03-24 17:38:29,980 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:29,981 [INFO]  Epoch[1] Validation-cross-entropy=0.625051
+2024-03-24 17:38:29,981 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:29,985 [INFO]  Epoch[2] Batch [0-7]	Speed: 28787.97 samples/sec	cross-entropy=0.645749	tumor-size-accuracy=3.250000
+2024-03-24 17:38:29,988 [INFO]  Epoch[2] Train-cross-entropy=0.508932
+2024-03-24 17:38:29,988 [INFO]  Epoch[2] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:29,988 [INFO]  Epoch[2] Time cost=0.008
+2024-03-24 17:38:29,989 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:29,990 [INFO]  Epoch[2] Validation-cross-entropy=1.694340
+2024-03-24 17:38:29,990 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:29,995 [INFO]  Epoch[3] Batch [0-7]	Speed: 27479.50 samples/sec	cross-entropy=0.470776	tumor-size-accuracy=3.250000
+2024-03-24 17:38:29,998 [INFO]  Epoch[3] Train-cross-entropy=0.274116
+2024-03-24 17:38:29,998 [INFO]  Epoch[3] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:29,998 [INFO]  Epoch[3] Time cost=0.008
+2024-03-24 17:38:29,999 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:30,000 [INFO]  Epoch[3] Validation-cross-entropy=1.100430
+2024-03-24 17:38:30,000 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:30,005 [INFO]  Epoch[4] Batch [0-7]	Speed: 27219.96 samples/sec	cross-entropy=0.210638	tumor-size-accuracy=3.250000
+2024-03-24 17:38:30,008 [INFO]  Epoch[4] Train-cross-entropy=0.120449
+2024-03-24 17:38:30,008 [INFO]  Epoch[4] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:30,008 [INFO]  Epoch[4] Time cost=0.008
+2024-03-24 17:38:30,009 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:30,010 [INFO]  Epoch[4] Validation-cross-entropy=0.779174
+2024-03-24 17:38:30,010 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:30,010 [INFO]  
+========== done (0.050343990325927734 s) fit model
+2024-03-24 17:38:31,477 [INFO]  
+========== start: fit model
+2024-03-24 17:38:31,477 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:31,488 [INFO]  Epoch[0] Batch [0-7]	Speed: 13306.20 samples/sec	cross-entropy=19.432609	tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,492 [INFO]  Epoch[0] Train-cross-entropy=9.491983
+2024-03-24 17:38:31,492 [INFO]  Epoch[0] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,492 [INFO]  Epoch[0] Time cost=0.014
+2024-03-24 17:38:31,493 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:31,494 [INFO]  Epoch[0] Validation-cross-entropy=6.854766
+2024-03-24 17:38:31,494 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,500 [INFO]  Epoch[1] Batch [0-7]	Speed: 20345.71 samples/sec	cross-entropy=3.454908	tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,504 [INFO]  Epoch[1] Train-cross-entropy=1.307028
+2024-03-24 17:38:31,504 [INFO]  Epoch[1] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,504 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:38:31,506 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:31,506 [INFO]  Epoch[1] Validation-cross-entropy=1.006740
+2024-03-24 17:38:31,506 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,512 [INFO]  Epoch[2] Batch [0-7]	Speed: 21067.45 samples/sec	cross-entropy=0.725713	tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,516 [INFO]  Epoch[2] Train-cross-entropy=0.563968
+2024-03-24 17:38:31,516 [INFO]  Epoch[2] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,516 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:38:31,518 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:31,518 [INFO]  Epoch[2] Validation-cross-entropy=1.330227
+2024-03-24 17:38:31,518 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,524 [INFO]  Epoch[3] Batch [0-7]	Speed: 21084.47 samples/sec	cross-entropy=0.596883	tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,528 [INFO]  Epoch[3] Train-cross-entropy=0.339632
+2024-03-24 17:38:31,528 [INFO]  Epoch[3] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,528 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:38:31,530 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:31,530 [INFO]  Epoch[3] Validation-cross-entropy=0.853698
+2024-03-24 17:38:31,530 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,537 [INFO]  Epoch[4] Batch [0-7]	Speed: 21155.69 samples/sec	cross-entropy=0.309022	tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,540 [INFO]  Epoch[4] Train-cross-entropy=0.186985
+2024-03-24 17:38:31,540 [INFO]  Epoch[4] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,540 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:38:31,542 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:31,542 [INFO]  Epoch[4] Validation-cross-entropy=0.568673
+2024-03-24 17:38:31,542 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:31,542 [INFO]  
+========== done (0.06516551971435547 s) fit model
+2024-03-24 17:38:33,351 [INFO]  
+========== start: fit model
+2024-03-24 17:38:33,351 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:33,363 [INFO]  Epoch[0] Batch [0-7]	Speed: 18574.28 samples/sec	cross-entropy=12.508882	tumor-size-accuracy=3.375000
+2024-03-24 17:38:33,367 [INFO]  Epoch[0] Train-cross-entropy=4.672627
+2024-03-24 17:38:33,367 [INFO]  Epoch[0] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:33,367 [INFO]  Epoch[0] Time cost=0.015
+2024-03-24 17:38:33,368 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:33,369 [INFO]  Epoch[0] Validation-cross-entropy=3.586498
+2024-03-24 17:38:33,369 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:33,376 [INFO]  Epoch[1] Batch [0-7]	Speed: 20698.01 samples/sec	cross-entropy=1.811659	tumor-size-accuracy=3.375000
+2024-03-24 17:38:33,380 [INFO]  Epoch[1] Train-cross-entropy=0.970096
+2024-03-24 17:38:33,380 [INFO]  Epoch[1] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:33,380 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:38:33,381 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:33,382 [INFO]  Epoch[1] Validation-cross-entropy=0.304226
+2024-03-24 17:38:33,382 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:33,388 [INFO]  Epoch[2] Batch [0-7]	Speed: 20668.87 samples/sec	cross-entropy=0.576077	tumor-size-accuracy=3.375000
+2024-03-24 17:38:33,393 [INFO]  Epoch[2] Train-cross-entropy=0.503017
+2024-03-24 17:38:33,393 [INFO]  Epoch[2] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:33,393 [INFO]  Epoch[2] Time cost=0.011
+2024-03-24 17:38:33,394 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:33,395 [INFO]  Epoch[2] Validation-cross-entropy=0.267309
+2024-03-24 17:38:33,395 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:33,401 [INFO]  Epoch[3] Batch [0-7]	Speed: 20716.27 samples/sec	cross-entropy=0.308907	tumor-size-accuracy=3.375000
+2024-03-24 17:38:33,405 [INFO]  Epoch[3] Train-cross-entropy=0.245698
+2024-03-24 17:38:33,405 [INFO]  Epoch[3] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:33,405 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:38:33,407 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:33,408 [INFO]  Epoch[3] Validation-cross-entropy=0.310972
+2024-03-24 17:38:33,408 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:33,414 [INFO]  Epoch[4] Batch [0-7]	Speed: 20643.44 samples/sec	cross-entropy=0.197225	tumor-size-accuracy=3.375000
+2024-03-24 17:38:33,418 [INFO]  Epoch[4] Train-cross-entropy=0.158145
+2024-03-24 17:38:33,418 [INFO]  Epoch[4] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:33,418 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:38:33,420 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:33,420 [INFO]  Epoch[4] Validation-cross-entropy=0.206844
+2024-03-24 17:38:33,420 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:33,420 [INFO]  
+========== done (0.06940770149230957 s) fit model
+2024-03-24 17:38:34,967 [INFO]  
+========== start: fit model
+2024-03-24 17:38:34,967 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:34,973 [INFO]  Epoch[0] Batch [0-7]	Speed: 26478.89 samples/sec	cross-entropy=15.418324	tumor-size-accuracy=0.000000
+2024-03-24 17:38:34,976 [INFO]  Epoch[0] Train-cross-entropy=10.826368
+2024-03-24 17:38:34,976 [INFO]  Epoch[0] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:34,976 [INFO]  Epoch[0] Time cost=0.008
+2024-03-24 17:38:34,978 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:34,978 [INFO]  Epoch[0] Validation-cross-entropy=26.328383
+2024-03-24 17:38:34,979 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:34,993 [INFO]  Epoch[1] Batch [0-7]	Speed: 8357.86 samples/sec	cross-entropy=2.519133	tumor-size-accuracy=0.000000
+2024-03-24 17:38:34,996 [INFO]  Epoch[1] Train-cross-entropy=1.046628
+2024-03-24 17:38:34,996 [INFO]  Epoch[1] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:34,996 [INFO]  Epoch[1] Time cost=0.018
+2024-03-24 17:38:34,998 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:34,999 [INFO]  Epoch[1] Validation-cross-entropy=3.271545
+2024-03-24 17:38:34,999 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:35,005 [INFO]  Epoch[2] Batch [0-7]	Speed: 21811.86 samples/sec	cross-entropy=0.623914	tumor-size-accuracy=0.000000
+2024-03-24 17:38:35,009 [INFO]  Epoch[2] Train-cross-entropy=0.855147
+2024-03-24 17:38:35,009 [INFO]  Epoch[2] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:35,009 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:38:35,010 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:35,011 [INFO]  Epoch[2] Validation-cross-entropy=1.041552
+2024-03-24 17:38:35,011 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:35,021 [INFO]  Epoch[3] Batch [0-7]	Speed: 12574.94 samples/sec	cross-entropy=0.356196	tumor-size-accuracy=0.000000
+2024-03-24 17:38:35,025 [INFO]  Epoch[3] Train-cross-entropy=0.352668
+2024-03-24 17:38:35,025 [INFO]  Epoch[3] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:35,025 [INFO]  Epoch[3] Time cost=0.014
+2024-03-24 17:38:35,026 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:35,027 [INFO]  Epoch[3] Validation-cross-entropy=0.882219
+2024-03-24 17:38:35,027 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:35,033 [INFO]  Epoch[4] Batch [0-7]	Speed: 21834.16 samples/sec	cross-entropy=0.195601	tumor-size-accuracy=0.000000
+2024-03-24 17:38:35,039 [INFO]  Epoch[4] Train-cross-entropy=0.180693
+2024-03-24 17:38:35,039 [INFO]  Epoch[4] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:35,039 [INFO]  Epoch[4] Time cost=0.012
+2024-03-24 17:38:35,041 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:35,042 [INFO]  Epoch[4] Validation-cross-entropy=1.177537
+2024-03-24 17:38:35,042 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:35,042 [INFO]  
+========== done (0.07467842102050781 s) fit model
+2024-03-24 17:38:36,458 [INFO]  
+========== start: fit model
+2024-03-24 17:38:36,458 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:36,464 [INFO]  Epoch[0] Batch [0-7]	Speed: 27701.50 samples/sec	cross-entropy=11.831755	tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,470 [INFO]  Epoch[0] Train-cross-entropy=7.499284
+2024-03-24 17:38:36,471 [INFO]  Epoch[0] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,471 [INFO]  Epoch[0] Time cost=0.012
+2024-03-24 17:38:36,472 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:36,473 [INFO]  Epoch[0] Validation-cross-entropy=5.440815
+2024-03-24 17:38:36,473 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,481 [INFO]  Epoch[1] Batch [0-7]	Speed: 18219.13 samples/sec	cross-entropy=2.198648	tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,485 [INFO]  Epoch[1] Train-cross-entropy=1.301032
+2024-03-24 17:38:36,485 [INFO]  Epoch[1] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,485 [INFO]  Epoch[1] Time cost=0.011
+2024-03-24 17:38:36,486 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:36,487 [INFO]  Epoch[1] Validation-cross-entropy=0.465875
+2024-03-24 17:38:36,487 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,493 [INFO]  Epoch[2] Batch [0-7]	Speed: 21141.41 samples/sec	cross-entropy=0.759468	tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,497 [INFO]  Epoch[2] Train-cross-entropy=0.568133
+2024-03-24 17:38:36,497 [INFO]  Epoch[2] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,497 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:38:36,499 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:36,500 [INFO]  Epoch[2] Validation-cross-entropy=0.796560
+2024-03-24 17:38:36,500 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,506 [INFO]  Epoch[3] Batch [0-7]	Speed: 21048.57 samples/sec	cross-entropy=0.560256	tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,510 [INFO]  Epoch[3] Train-cross-entropy=0.326456
+2024-03-24 17:38:36,510 [INFO]  Epoch[3] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,510 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:38:36,511 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:36,512 [INFO]  Epoch[3] Validation-cross-entropy=0.486689
+2024-03-24 17:38:36,512 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,519 [INFO]  Epoch[4] Batch [0-7]	Speed: 20189.19 samples/sec	cross-entropy=0.269360	tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,523 [INFO]  Epoch[4] Train-cross-entropy=0.214220
+2024-03-24 17:38:36,523 [INFO]  Epoch[4] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,523 [INFO]  Epoch[4] Time cost=0.011
+2024-03-24 17:38:36,524 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:36,525 [INFO]  Epoch[4] Validation-cross-entropy=0.231602
+2024-03-24 17:38:36,525 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:36,525 [INFO]  
+========== done (0.06753110885620117 s) fit model
+2024-03-24 17:38:37,916 [INFO]  
+========== start: fit model
+2024-03-24 17:38:37,916 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:37,924 [INFO]  Epoch[0] Batch [0-7]	Speed: 20523.48 samples/sec	cross-entropy=12.100292	tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,928 [INFO]  Epoch[0] Train-cross-entropy=6.023675
+2024-03-24 17:38:37,928 [INFO]  Epoch[0] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,928 [INFO]  Epoch[0] Time cost=0.011
+2024-03-24 17:38:37,929 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:37,930 [INFO]  Epoch[0] Validation-cross-entropy=1.762478
+2024-03-24 17:38:37,930 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,951 [INFO]  Epoch[1] Batch [0-7]	Speed: 5600.87 samples/sec	cross-entropy=1.885458	tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,954 [INFO]  Epoch[1] Train-cross-entropy=0.671237
+2024-03-24 17:38:37,954 [INFO]  Epoch[1] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,954 [INFO]  Epoch[1] Time cost=0.024
+2024-03-24 17:38:37,955 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:37,955 [INFO]  Epoch[1] Validation-cross-entropy=0.326207
+2024-03-24 17:38:37,955 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,960 [INFO]  Epoch[2] Batch [0-7]	Speed: 28951.19 samples/sec	cross-entropy=0.869347	tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,963 [INFO]  Epoch[2] Train-cross-entropy=0.619857
+2024-03-24 17:38:37,963 [INFO]  Epoch[2] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,963 [INFO]  Epoch[2] Time cost=0.007
+2024-03-24 17:38:37,964 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:37,965 [INFO]  Epoch[2] Validation-cross-entropy=0.291052
+2024-03-24 17:38:37,965 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,969 [INFO]  Epoch[3] Batch [0-7]	Speed: 28828.60 samples/sec	cross-entropy=0.495298	tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,975 [INFO]  Epoch[3] Train-cross-entropy=0.213754
+2024-03-24 17:38:37,975 [INFO]  Epoch[3] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,975 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:38:37,977 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:37,978 [INFO]  Epoch[3] Validation-cross-entropy=0.057407
+2024-03-24 17:38:37,978 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,988 [INFO]  Epoch[4] Batch [0-7]	Speed: 12499.66 samples/sec	cross-entropy=0.259441	tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,993 [INFO]  Epoch[4] Train-cross-entropy=0.147191
+2024-03-24 17:38:37,993 [INFO]  Epoch[4] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,993 [INFO]  Epoch[4] Time cost=0.015
+2024-03-24 17:38:37,995 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:37,996 [INFO]  Epoch[4] Validation-cross-entropy=0.081733
+2024-03-24 17:38:37,996 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:37,996 [INFO]  
+========== done (0.0796055793762207 s) fit model
+2024-03-24 17:38:39,325 [INFO]  
+========== start: fit model
+2024-03-24 17:38:39,325 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:39,354 [INFO]  Epoch[0] Batch [0-7]	Speed: 4230.26 samples/sec	cross-entropy=17.845859	tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,358 [INFO]  Epoch[0] Train-cross-entropy=10.868656
+2024-03-24 17:38:39,359 [INFO]  Epoch[0] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,359 [INFO]  Epoch[0] Time cost=0.032
+2024-03-24 17:38:39,361 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:39,363 [INFO]  Epoch[0] Validation-cross-entropy=7.378194
+2024-03-24 17:38:39,364 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,373 [INFO]  Epoch[1] Batch [0-7]	Speed: 14384.73 samples/sec	cross-entropy=3.667340	tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,378 [INFO]  Epoch[1] Train-cross-entropy=1.574250
+2024-03-24 17:38:39,378 [INFO]  Epoch[1] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,378 [INFO]  Epoch[1] Time cost=0.015
+2024-03-24 17:38:39,380 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:39,381 [INFO]  Epoch[1] Validation-cross-entropy=1.518831
+2024-03-24 17:38:39,381 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,390 [INFO]  Epoch[2] Batch [0-7]	Speed: 14405.46 samples/sec	cross-entropy=0.642983	tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,396 [INFO]  Epoch[2] Train-cross-entropy=0.576405
+2024-03-24 17:38:39,396 [INFO]  Epoch[2] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,396 [INFO]  Epoch[2] Time cost=0.015
+2024-03-24 17:38:39,398 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:39,399 [INFO]  Epoch[2] Validation-cross-entropy=0.739170
+2024-03-24 17:38:39,399 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,408 [INFO]  Epoch[3] Batch [0-7]	Speed: 14500.62 samples/sec	cross-entropy=0.565484	tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,414 [INFO]  Epoch[3] Train-cross-entropy=0.398822
+2024-03-24 17:38:39,414 [INFO]  Epoch[3] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,414 [INFO]  Epoch[3] Time cost=0.015
+2024-03-24 17:38:39,416 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:39,417 [INFO]  Epoch[3] Validation-cross-entropy=0.614366
+2024-03-24 17:38:39,417 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,427 [INFO]  Epoch[4] Batch [0-7]	Speed: 13310.35 samples/sec	cross-entropy=0.311543	tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,432 [INFO]  Epoch[4] Train-cross-entropy=0.228352
+2024-03-24 17:38:39,433 [INFO]  Epoch[4] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,433 [INFO]  Epoch[4] Time cost=0.016
+2024-03-24 17:38:39,434 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:39,435 [INFO]  Epoch[4] Validation-cross-entropy=0.603533
+2024-03-24 17:38:39,435 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:39,435 [INFO]  
+========== done (0.11033058166503906 s) fit model
+2024-03-24 17:38:40,778 [INFO]  
+========== start: fit model
+2024-03-24 17:38:40,778 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:40,789 [INFO]  Epoch[0] Batch [0-7]	Speed: 13991.42 samples/sec	cross-entropy=25.075941	tumor-size-accuracy=3.500000
+2024-03-24 17:38:40,794 [INFO]  Epoch[0] Train-cross-entropy=9.778587
+2024-03-24 17:38:40,794 [INFO]  Epoch[0] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:40,795 [INFO]  Epoch[0] Time cost=0.016
+2024-03-24 17:38:40,796 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:40,797 [INFO]  Epoch[0] Validation-cross-entropy=10.546647
+2024-03-24 17:38:40,797 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:40,806 [INFO]  Epoch[1] Batch [0-7]	Speed: 13845.44 samples/sec	cross-entropy=5.974219	tumor-size-accuracy=3.500000
+2024-03-24 17:38:40,812 [INFO]  Epoch[1] Train-cross-entropy=1.691522
+2024-03-24 17:38:40,812 [INFO]  Epoch[1] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:40,813 [INFO]  Epoch[1] Time cost=0.015
+2024-03-24 17:38:40,814 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:40,815 [INFO]  Epoch[1] Validation-cross-entropy=1.792703
+2024-03-24 17:38:40,815 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:40,824 [INFO]  Epoch[2] Batch [0-7]	Speed: 14183.64 samples/sec	cross-entropy=1.113815	tumor-size-accuracy=3.500000
+2024-03-24 17:38:40,830 [INFO]  Epoch[2] Train-cross-entropy=0.859823
+2024-03-24 17:38:40,830 [INFO]  Epoch[2] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:40,830 [INFO]  Epoch[2] Time cost=0.015
+2024-03-24 17:38:40,832 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:40,832 [INFO]  Epoch[2] Validation-cross-entropy=0.481125
+2024-03-24 17:38:40,832 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:40,842 [INFO]  Epoch[3] Batch [0-7]	Speed: 13910.63 samples/sec	cross-entropy=0.720225	tumor-size-accuracy=3.500000
+2024-03-24 17:38:40,848 [INFO]  Epoch[3] Train-cross-entropy=0.504022
+2024-03-24 17:38:40,848 [INFO]  Epoch[3] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:40,848 [INFO]  Epoch[3] Time cost=0.015
+2024-03-24 17:38:40,849 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:40,850 [INFO]  Epoch[3] Validation-cross-entropy=0.633554
+2024-03-24 17:38:40,850 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:40,859 [INFO]  Epoch[4] Batch [0-7]	Speed: 14295.43 samples/sec	cross-entropy=0.360369	tumor-size-accuracy=3.500000
+2024-03-24 17:38:40,863 [INFO]  Epoch[4] Train-cross-entropy=0.247711
+2024-03-24 17:38:40,863 [INFO]  Epoch[4] Train-tumor-size-accuracy=3.200000
+2024-03-24 17:38:40,863 [INFO]  Epoch[4] Time cost=0.013
+2024-03-24 17:38:40,864 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:40,865 [INFO]  Epoch[4] Validation-cross-entropy=0.477253
+2024-03-24 17:38:40,865 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:40,865 [INFO]  
+========== done (0.0870211124420166 s) fit model
+2024-03-24 17:38:42,383 [INFO]  
+========== start: fit model
+2024-03-24 17:38:42,383 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:42,397 [INFO]  Epoch[0] Batch [0-7]	Speed: 11972.12 samples/sec	cross-entropy=18.120441	tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,416 [INFO]  Epoch[0] Train-cross-entropy=7.604042
+2024-03-24 17:38:42,416 [INFO]  Epoch[0] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,416 [INFO]  Epoch[0] Time cost=0.032
+2024-03-24 17:38:42,420 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:42,433 [INFO]  Epoch[0] Validation-cross-entropy=4.282899
+2024-03-24 17:38:42,433 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,441 [INFO]  Epoch[1] Batch [0-7]	Speed: 14982.52 samples/sec	cross-entropy=2.928189	tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,446 [INFO]  Epoch[1] Train-cross-entropy=1.056887
+2024-03-24 17:38:42,447 [INFO]  Epoch[1] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,447 [INFO]  Epoch[1] Time cost=0.014
+2024-03-24 17:38:42,448 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:42,449 [INFO]  Epoch[1] Validation-cross-entropy=1.504091
+2024-03-24 17:38:42,449 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,471 [INFO]  Epoch[2] Batch [0-7]	Speed: 5463.43 samples/sec	cross-entropy=0.813116	tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,475 [INFO]  Epoch[2] Train-cross-entropy=0.746196
+2024-03-24 17:38:42,475 [INFO]  Epoch[2] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,475 [INFO]  Epoch[2] Time cost=0.026
+2024-03-24 17:38:42,477 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:42,478 [INFO]  Epoch[2] Validation-cross-entropy=1.002144
+2024-03-24 17:38:42,478 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,484 [INFO]  Epoch[3] Batch [0-7]	Speed: 20882.95 samples/sec	cross-entropy=0.422112	tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,488 [INFO]  Epoch[3] Train-cross-entropy=0.299459
+2024-03-24 17:38:42,488 [INFO]  Epoch[3] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,488 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:38:42,490 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:42,490 [INFO]  Epoch[3] Validation-cross-entropy=0.261237
+2024-03-24 17:38:42,491 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,497 [INFO]  Epoch[4] Batch [0-7]	Speed: 21379.06 samples/sec	cross-entropy=0.266566	tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,500 [INFO]  Epoch[4] Train-cross-entropy=0.191787
+2024-03-24 17:38:42,501 [INFO]  Epoch[4] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,501 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:38:42,503 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:42,504 [INFO]  Epoch[4] Validation-cross-entropy=0.224655
+2024-03-24 17:38:42,504 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:42,504 [INFO]  
+========== done (0.12080693244934082 s) fit model
+2024-03-24 17:38:44,182 [INFO]  
+========== start: fit model
+2024-03-24 17:38:44,182 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:44,189 [INFO]  Epoch[0] Batch [0-7]	Speed: 20167.52 samples/sec	cross-entropy=19.466604	tumor-size-accuracy=2.750000
+2024-03-24 17:38:44,193 [INFO]  Epoch[0] Train-cross-entropy=8.913396
+2024-03-24 17:38:44,193 [INFO]  Epoch[0] Train-tumor-size-accuracy=4.200000
+2024-03-24 17:38:44,193 [INFO]  Epoch[0] Time cost=0.011
+2024-03-24 17:38:44,195 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:44,195 [INFO]  Epoch[0] Validation-cross-entropy=14.031507
+2024-03-24 17:38:44,195 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:44,202 [INFO]  Epoch[1] Batch [0-7]	Speed: 21262.94 samples/sec	cross-entropy=4.785707	tumor-size-accuracy=2.750000
+2024-03-24 17:38:44,205 [INFO]  Epoch[1] Train-cross-entropy=1.552767
+2024-03-24 17:38:44,205 [INFO]  Epoch[1] Train-tumor-size-accuracy=4.200000
+2024-03-24 17:38:44,205 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:38:44,207 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:44,207 [INFO]  Epoch[1] Validation-cross-entropy=3.475687
+2024-03-24 17:38:44,207 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:44,213 [INFO]  Epoch[2] Batch [0-7]	Speed: 21508.27 samples/sec	cross-entropy=0.952618	tumor-size-accuracy=2.750000
+2024-03-24 17:38:44,217 [INFO]  Epoch[2] Train-cross-entropy=0.747018
+2024-03-24 17:38:44,217 [INFO]  Epoch[2] Train-tumor-size-accuracy=4.200000
+2024-03-24 17:38:44,217 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:38:44,219 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:44,219 [INFO]  Epoch[2] Validation-cross-entropy=0.631031
+2024-03-24 17:38:44,219 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:44,225 [INFO]  Epoch[3] Batch [0-7]	Speed: 21767.39 samples/sec	cross-entropy=0.532589	tumor-size-accuracy=2.750000
+2024-03-24 17:38:44,229 [INFO]  Epoch[3] Train-cross-entropy=0.552155
+2024-03-24 17:38:44,229 [INFO]  Epoch[3] Train-tumor-size-accuracy=4.200000
+2024-03-24 17:38:44,229 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:38:44,235 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:44,235 [INFO]  Epoch[3] Validation-cross-entropy=0.466380
+2024-03-24 17:38:44,235 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:44,240 [INFO]  Epoch[4] Batch [0-7]	Speed: 27831.15 samples/sec	cross-entropy=0.301089	tumor-size-accuracy=2.750000
+2024-03-24 17:38:44,243 [INFO]  Epoch[4] Train-cross-entropy=0.231182
+2024-03-24 17:38:44,243 [INFO]  Epoch[4] Train-tumor-size-accuracy=4.200000
+2024-03-24 17:38:44,243 [INFO]  Epoch[4] Time cost=0.008
+2024-03-24 17:38:44,261 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:44,262 [INFO]  Epoch[4] Validation-cross-entropy=0.390095
+2024-03-24 17:38:44,262 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:44,262 [INFO]  
+========== done (0.08054828643798828 s) fit model
+2024-03-24 17:38:45,657 [INFO]  
+========== start: fit model
+2024-03-24 17:38:45,657 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:45,669 [INFO]  Epoch[0] Batch [0-7]	Speed: 14687.87 samples/sec	cross-entropy=12.813487	tumor-size-accuracy=6.000000
+2024-03-24 17:38:45,675 [INFO]  Epoch[0] Train-cross-entropy=4.942640
+2024-03-24 17:38:45,675 [INFO]  Epoch[0] Train-tumor-size-accuracy=5.600000
+2024-03-24 17:38:45,675 [INFO]  Epoch[0] Time cost=0.017
+2024-03-24 17:38:45,676 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:45,678 [INFO]  Epoch[0] Validation-cross-entropy=7.453930
+2024-03-24 17:38:45,678 [INFO]  Epoch[0] Validation-tumor-size-accuracy=1.000000
+2024-03-24 17:38:45,687 [INFO]  Epoch[1] Batch [0-7]	Speed: 14320.27 samples/sec	cross-entropy=2.062542	tumor-size-accuracy=6.000000
+2024-03-24 17:38:45,692 [INFO]  Epoch[1] Train-cross-entropy=0.675141
+2024-03-24 17:38:45,692 [INFO]  Epoch[1] Train-tumor-size-accuracy=5.600000
+2024-03-24 17:38:45,692 [INFO]  Epoch[1] Time cost=0.015
+2024-03-24 17:38:45,694 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:45,695 [INFO]  Epoch[1] Validation-cross-entropy=2.200094
+2024-03-24 17:38:45,695 [INFO]  Epoch[1] Validation-tumor-size-accuracy=1.000000
+2024-03-24 17:38:45,704 [INFO]  Epoch[2] Batch [0-7]	Speed: 14671.81 samples/sec	cross-entropy=0.807110	tumor-size-accuracy=6.000000
+2024-03-24 17:38:45,710 [INFO]  Epoch[2] Train-cross-entropy=0.741327
+2024-03-24 17:38:45,710 [INFO]  Epoch[2] Train-tumor-size-accuracy=5.600000
+2024-03-24 17:38:45,710 [INFO]  Epoch[2] Time cost=0.015
+2024-03-24 17:38:45,711 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:45,712 [INFO]  Epoch[2] Validation-cross-entropy=1.853408
+2024-03-24 17:38:45,712 [INFO]  Epoch[2] Validation-tumor-size-accuracy=1.000000
+2024-03-24 17:38:45,719 [INFO]  Epoch[3] Batch [0-7]	Speed: 22164.86 samples/sec	cross-entropy=0.369321	tumor-size-accuracy=6.000000
+2024-03-24 17:38:45,722 [INFO]  Epoch[3] Train-cross-entropy=0.237740
+2024-03-24 17:38:45,723 [INFO]  Epoch[3] Train-tumor-size-accuracy=5.600000
+2024-03-24 17:38:45,723 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:38:45,724 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:45,725 [INFO]  Epoch[3] Validation-cross-entropy=2.099569
+2024-03-24 17:38:45,725 [INFO]  Epoch[3] Validation-tumor-size-accuracy=1.000000
+2024-03-24 17:38:45,731 [INFO]  Epoch[4] Batch [0-7]	Speed: 22563.02 samples/sec	cross-entropy=0.241116	tumor-size-accuracy=6.000000
+2024-03-24 17:38:45,734 [INFO]  Epoch[4] Train-cross-entropy=0.137310
+2024-03-24 17:38:45,734 [INFO]  Epoch[4] Train-tumor-size-accuracy=5.600000
+2024-03-24 17:38:45,735 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:38:45,736 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:45,737 [INFO]  Epoch[4] Validation-cross-entropy=0.788800
+2024-03-24 17:38:45,737 [INFO]  Epoch[4] Validation-tumor-size-accuracy=1.000000
+2024-03-24 17:38:45,737 [INFO]  
+========== done (0.0802161693572998 s) fit model
+2024-03-24 17:38:47,262 [INFO]  
+========== start: fit model
+2024-03-24 17:38:47,262 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:47,288 [INFO]  Epoch[0] Batch [0-7]	Speed: 4719.80 samples/sec	cross-entropy=18.042772	tumor-size-accuracy=3.250000
+2024-03-24 17:38:47,338 [INFO]  Epoch[0] Train-cross-entropy=6.371019
+2024-03-24 17:38:47,338 [INFO]  Epoch[0] Train-tumor-size-accuracy=5.000000
+2024-03-24 17:38:47,338 [INFO]  Epoch[0] Time cost=0.075
+2024-03-24 17:38:47,339 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:47,340 [INFO]  Epoch[0] Validation-cross-entropy=3.358093
+2024-03-24 17:38:47,340 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:47,346 [INFO]  Epoch[1] Batch [0-7]	Speed: 21781.52 samples/sec	cross-entropy=3.359010	tumor-size-accuracy=3.250000
+2024-03-24 17:38:47,351 [INFO]  Epoch[1] Train-cross-entropy=0.968899
+2024-03-24 17:38:47,352 [INFO]  Epoch[1] Train-tumor-size-accuracy=5.000000
+2024-03-24 17:38:47,352 [INFO]  Epoch[1] Time cost=0.011
+2024-03-24 17:38:47,353 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:47,354 [INFO]  Epoch[1] Validation-cross-entropy=0.707217
+2024-03-24 17:38:47,354 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:47,363 [INFO]  Epoch[2] Batch [0-7]	Speed: 14571.69 samples/sec	cross-entropy=0.859554	tumor-size-accuracy=3.250000
+2024-03-24 17:38:47,369 [INFO]  Epoch[2] Train-cross-entropy=0.565610
+2024-03-24 17:38:47,369 [INFO]  Epoch[2] Train-tumor-size-accuracy=5.000000
+2024-03-24 17:38:47,369 [INFO]  Epoch[2] Time cost=0.015
+2024-03-24 17:38:47,370 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:47,372 [INFO]  Epoch[2] Validation-cross-entropy=0.315479
+2024-03-24 17:38:47,372 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:47,381 [INFO]  Epoch[3] Batch [0-7]	Speed: 14524.38 samples/sec	cross-entropy=0.455159	tumor-size-accuracy=3.250000
+2024-03-24 17:38:47,386 [INFO]  Epoch[3] Train-cross-entropy=0.206130
+2024-03-24 17:38:47,386 [INFO]  Epoch[3] Train-tumor-size-accuracy=5.000000
+2024-03-24 17:38:47,386 [INFO]  Epoch[3] Time cost=0.015
+2024-03-24 17:38:47,388 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:47,389 [INFO]  Epoch[3] Validation-cross-entropy=0.219054
+2024-03-24 17:38:47,389 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:47,398 [INFO]  Epoch[4] Batch [0-7]	Speed: 14468.91 samples/sec	cross-entropy=0.233096	tumor-size-accuracy=3.250000
+2024-03-24 17:38:47,404 [INFO]  Epoch[4] Train-cross-entropy=0.124764
+2024-03-24 17:38:47,404 [INFO]  Epoch[4] Train-tumor-size-accuracy=5.000000
+2024-03-24 17:38:47,404 [INFO]  Epoch[4] Time cost=0.015
+2024-03-24 17:38:47,406 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:47,407 [INFO]  Epoch[4] Validation-cross-entropy=0.203411
+2024-03-24 17:38:47,407 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:47,407 [INFO]  
+========== done (0.14496064186096191 s) fit model
+2024-03-24 17:38:48,833 [INFO]  
+========== start: fit model
+2024-03-24 17:38:48,833 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:48,850 [INFO]  Epoch[0] Batch [0-7]	Speed: 9362.85 samples/sec	cross-entropy=8.064911	tumor-size-accuracy=4.000000
+2024-03-24 17:38:48,858 [INFO]  Epoch[0] Train-cross-entropy=3.127785
+2024-03-24 17:38:48,858 [INFO]  Epoch[0] Train-tumor-size-accuracy=2.600000
+2024-03-24 17:38:48,858 [INFO]  Epoch[0] Time cost=0.024
+2024-03-24 17:38:48,859 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:48,860 [INFO]  Epoch[0] Validation-cross-entropy=2.012521
+2024-03-24 17:38:48,860 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:48,866 [INFO]  Epoch[1] Batch [0-7]	Speed: 21555.64 samples/sec	cross-entropy=1.134129	tumor-size-accuracy=4.000000
+2024-03-24 17:38:48,870 [INFO]  Epoch[1] Train-cross-entropy=0.852980
+2024-03-24 17:38:48,870 [INFO]  Epoch[1] Train-tumor-size-accuracy=2.600000
+2024-03-24 17:38:48,870 [INFO]  Epoch[1] Time cost=0.010
+2024-03-24 17:38:48,871 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:48,872 [INFO]  Epoch[1] Validation-cross-entropy=0.889952
+2024-03-24 17:38:48,872 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:48,878 [INFO]  Epoch[2] Batch [0-7]	Speed: 21126.19 samples/sec	cross-entropy=0.606164	tumor-size-accuracy=4.000000
+2024-03-24 17:38:48,882 [INFO]  Epoch[2] Train-cross-entropy=0.488225
+2024-03-24 17:38:48,882 [INFO]  Epoch[2] Train-tumor-size-accuracy=2.600000
+2024-03-24 17:38:48,882 [INFO]  Epoch[2] Time cost=0.010
+2024-03-24 17:38:48,883 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:48,884 [INFO]  Epoch[2] Validation-cross-entropy=0.469835
+2024-03-24 17:38:48,884 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:48,890 [INFO]  Epoch[3] Batch [0-7]	Speed: 20915.50 samples/sec	cross-entropy=0.226646	tumor-size-accuracy=4.000000
+2024-03-24 17:38:48,894 [INFO]  Epoch[3] Train-cross-entropy=0.251276
+2024-03-24 17:38:48,894 [INFO]  Epoch[3] Train-tumor-size-accuracy=2.600000
+2024-03-24 17:38:48,894 [INFO]  Epoch[3] Time cost=0.010
+2024-03-24 17:38:48,896 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:48,896 [INFO]  Epoch[3] Validation-cross-entropy=0.418147
+2024-03-24 17:38:48,896 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:48,903 [INFO]  Epoch[4] Batch [0-7]	Speed: 20822.79 samples/sec	cross-entropy=0.146004	tumor-size-accuracy=4.000000
+2024-03-24 17:38:48,906 [INFO]  Epoch[4] Train-cross-entropy=0.153217
+2024-03-24 17:38:48,906 [INFO]  Epoch[4] Train-tumor-size-accuracy=2.600000
+2024-03-24 17:38:48,906 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:38:48,908 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:48,908 [INFO]  Epoch[4] Validation-cross-entropy=0.252169
+2024-03-24 17:38:48,908 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:48,908 [INFO]  
+========== done (0.0756380558013916 s) fit model
+2024-03-24 17:38:50,399 [INFO]  
+========== start: fit model
+2024-03-24 17:38:50,399 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:50,410 [INFO]  Epoch[0] Batch [0-7]	Speed: 19300.00 samples/sec	cross-entropy=13.098465	tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,416 [INFO]  Epoch[0] Train-cross-entropy=6.570252
+2024-03-24 17:38:50,416 [INFO]  Epoch[0] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,416 [INFO]  Epoch[0] Time cost=0.016
+2024-03-24 17:38:50,418 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:50,419 [INFO]  Epoch[0] Validation-cross-entropy=9.308270
+2024-03-24 17:38:50,419 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,428 [INFO]  Epoch[1] Batch [0-7]	Speed: 14510.92 samples/sec	cross-entropy=2.084030	tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,434 [INFO]  Epoch[1] Train-cross-entropy=1.019587
+2024-03-24 17:38:50,434 [INFO]  Epoch[1] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,434 [INFO]  Epoch[1] Time cost=0.015
+2024-03-24 17:38:50,435 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:50,436 [INFO]  Epoch[1] Validation-cross-entropy=0.561715
+2024-03-24 17:38:50,437 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,446 [INFO]  Epoch[2] Batch [0-7]	Speed: 14570.33 samples/sec	cross-entropy=0.735914	tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,451 [INFO]  Epoch[2] Train-cross-entropy=0.770892
+2024-03-24 17:38:50,451 [INFO]  Epoch[2] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,451 [INFO]  Epoch[2] Time cost=0.015
+2024-03-24 17:38:50,453 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:50,454 [INFO]  Epoch[2] Validation-cross-entropy=0.776530
+2024-03-24 17:38:50,454 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,464 [INFO]  Epoch[3] Batch [0-7]	Speed: 12616.14 samples/sec	cross-entropy=0.385150	tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,469 [INFO]  Epoch[3] Train-cross-entropy=0.326686
+2024-03-24 17:38:50,469 [INFO]  Epoch[3] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,469 [INFO]  Epoch[3] Time cost=0.015
+2024-03-24 17:38:50,471 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:50,472 [INFO]  Epoch[3] Validation-cross-entropy=0.212651
+2024-03-24 17:38:50,472 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,478 [INFO]  Epoch[4] Batch [0-7]	Speed: 21927.93 samples/sec	cross-entropy=0.214991	tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,482 [INFO]  Epoch[4] Train-cross-entropy=0.215279
+2024-03-24 17:38:50,482 [INFO]  Epoch[4] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,482 [INFO]  Epoch[4] Time cost=0.010
+2024-03-24 17:38:50,483 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:50,484 [INFO]  Epoch[4] Validation-cross-entropy=0.165944
+2024-03-24 17:38:50,484 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:50,484 [INFO]  
+========== done (0.08486008644104004 s) fit model
+2024-03-24 17:38:52,078 [INFO]  
+========== start: fit model
+2024-03-24 17:38:52,078 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:52,087 [INFO]  Epoch[0] Batch [0-7]	Speed: 16735.38 samples/sec	cross-entropy=15.133584	tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,096 [INFO]  Epoch[0] Train-cross-entropy=5.996754
+2024-03-24 17:38:52,096 [INFO]  Epoch[0] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,096 [INFO]  Epoch[0] Time cost=0.018
+2024-03-24 17:38:52,098 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:52,099 [INFO]  Epoch[0] Validation-cross-entropy=4.213396
+2024-03-24 17:38:52,099 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,108 [INFO]  Epoch[1] Batch [0-7]	Speed: 14461.34 samples/sec	cross-entropy=2.528525	tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,114 [INFO]  Epoch[1] Train-cross-entropy=0.848568
+2024-03-24 17:38:52,114 [INFO]  Epoch[1] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,114 [INFO]  Epoch[1] Time cost=0.015
+2024-03-24 17:38:52,115 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:52,116 [INFO]  Epoch[1] Validation-cross-entropy=5.142507
+2024-03-24 17:38:52,117 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,126 [INFO]  Epoch[2] Batch [0-7]	Speed: 14414.74 samples/sec	cross-entropy=0.593364	tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,131 [INFO]  Epoch[2] Train-cross-entropy=0.430047
+2024-03-24 17:38:52,131 [INFO]  Epoch[2] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,131 [INFO]  Epoch[2] Time cost=0.015
+2024-03-24 17:38:52,133 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:52,134 [INFO]  Epoch[2] Validation-cross-entropy=2.027340
+2024-03-24 17:38:52,134 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,143 [INFO]  Epoch[3] Batch [0-7]	Speed: 14376.80 samples/sec	cross-entropy=0.532188	tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,149 [INFO]  Epoch[3] Train-cross-entropy=0.195092
+2024-03-24 17:38:52,149 [INFO]  Epoch[3] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,149 [INFO]  Epoch[3] Time cost=0.015
+2024-03-24 17:38:52,150 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:52,152 [INFO]  Epoch[3] Validation-cross-entropy=1.898565
+2024-03-24 17:38:52,152 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,161 [INFO]  Epoch[4] Batch [0-7]	Speed: 14689.70 samples/sec	cross-entropy=0.255273	tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,166 [INFO]  Epoch[4] Train-cross-entropy=0.148063
+2024-03-24 17:38:52,166 [INFO]  Epoch[4] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,166 [INFO]  Epoch[4] Time cost=0.015
+2024-03-24 17:38:52,168 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:52,169 [INFO]  Epoch[4] Validation-cross-entropy=1.687290
+2024-03-24 17:38:52,169 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:52,169 [INFO]  
+========== done (0.09128475189208984 s) fit model
+2024-03-24 17:38:53,682 [INFO]  
+========== start: fit model
+2024-03-24 17:38:53,682 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:53,706 [INFO]  Epoch[0] Batch [0-7]	Speed: 10596.46 samples/sec	cross-entropy=15.922270	tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,713 [INFO]  Epoch[0] Train-cross-entropy=4.646014
+2024-03-24 17:38:53,714 [INFO]  Epoch[0] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,714 [INFO]  Epoch[0] Time cost=0.030
+2024-03-24 17:38:53,715 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:53,717 [INFO]  Epoch[0] Validation-cross-entropy=4.841002
+2024-03-24 17:38:53,717 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,727 [INFO]  Epoch[1] Batch [0-7]	Speed: 15105.37 samples/sec	cross-entropy=3.223405	tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,733 [INFO]  Epoch[1] Train-cross-entropy=1.101600
+2024-03-24 17:38:53,733 [INFO]  Epoch[1] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,733 [INFO]  Epoch[1] Time cost=0.016
+2024-03-24 17:38:53,735 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:53,737 [INFO]  Epoch[1] Validation-cross-entropy=0.727966
+2024-03-24 17:38:53,737 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,744 [INFO]  Epoch[2] Batch [0-7]	Speed: 19050.33 samples/sec	cross-entropy=0.838789	tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,750 [INFO]  Epoch[2] Train-cross-entropy=0.589331
+2024-03-24 17:38:53,750 [INFO]  Epoch[2] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,750 [INFO]  Epoch[2] Time cost=0.013
+2024-03-24 17:38:53,751 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:53,752 [INFO]  Epoch[2] Validation-cross-entropy=1.223603
+2024-03-24 17:38:53,752 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,761 [INFO]  Epoch[3] Batch [0-7]	Speed: 14330.31 samples/sec	cross-entropy=0.456886	tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,768 [INFO]  Epoch[3] Train-cross-entropy=0.351689
+2024-03-24 17:38:53,768 [INFO]  Epoch[3] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,768 [INFO]  Epoch[3] Time cost=0.015
+2024-03-24 17:38:53,769 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:53,772 [INFO]  Epoch[3] Validation-cross-entropy=0.845519
+2024-03-24 17:38:53,772 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,777 [INFO]  Epoch[4] Batch [0-7]	Speed: 25554.16 samples/sec	cross-entropy=0.236572	tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,780 [INFO]  Epoch[4] Train-cross-entropy=0.249388
+2024-03-24 17:38:53,780 [INFO]  Epoch[4] Train-tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,780 [INFO]  Epoch[4] Time cost=0.009
+2024-03-24 17:38:53,782 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:53,782 [INFO]  Epoch[4] Validation-cross-entropy=0.940606
+2024-03-24 17:38:53,782 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:53,782 [INFO]  
+========== done (0.10048484802246094 s) fit model
+2024-03-24 17:38:55,167 [INFO]  
+========== start: fit model
+2024-03-24 17:38:55,168 [WARNING]  Already bound, ignoring bind()
+2024-03-24 17:38:55,178 [INFO]  Epoch[0] Batch [0-7]	Speed: 15292.23 samples/sec	cross-entropy=12.773405	tumor-size-accuracy=3.375000
+2024-03-24 17:38:55,184 [INFO]  Epoch[0] Train-cross-entropy=4.084793
+2024-03-24 17:38:55,184 [INFO]  Epoch[0] Train-tumor-size-accuracy=4.600000
+2024-03-24 17:38:55,184 [INFO]  Epoch[0] Time cost=0.015
+2024-03-24 17:38:55,185 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0000.params"
+2024-03-24 17:38:55,186 [INFO]  Epoch[0] Validation-cross-entropy=1.240128
+2024-03-24 17:38:55,186 [INFO]  Epoch[0] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:55,196 [INFO]  Epoch[1] Batch [0-7]	Speed: 11931.98 samples/sec	cross-entropy=1.931555	tumor-size-accuracy=3.375000
+2024-03-24 17:38:55,201 [INFO]  Epoch[1] Train-cross-entropy=0.751124
+2024-03-24 17:38:55,201 [INFO]  Epoch[1] Train-tumor-size-accuracy=4.600000
+2024-03-24 17:38:55,201 [INFO]  Epoch[1] Time cost=0.016
+2024-03-24 17:38:55,203 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0001.params"
+2024-03-24 17:38:55,204 [INFO]  Epoch[1] Validation-cross-entropy=0.578315
+2024-03-24 17:38:55,204 [INFO]  Epoch[1] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:55,213 [INFO]  Epoch[2] Batch [0-7]	Speed: 14325.51 samples/sec	cross-entropy=0.554610	tumor-size-accuracy=3.375000
+2024-03-24 17:38:55,218 [INFO]  Epoch[2] Train-cross-entropy=0.590529
+2024-03-24 17:38:55,218 [INFO]  Epoch[2] Train-tumor-size-accuracy=4.600000
+2024-03-24 17:38:55,218 [INFO]  Epoch[2] Time cost=0.014
+2024-03-24 17:38:55,220 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0002.params"
+2024-03-24 17:38:55,220 [INFO]  Epoch[2] Validation-cross-entropy=0.299570
+2024-03-24 17:38:55,220 [INFO]  Epoch[2] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:55,230 [INFO]  Epoch[3] Batch [0-7]	Speed: 13864.24 samples/sec	cross-entropy=0.416046	tumor-size-accuracy=3.375000
+2024-03-24 17:38:55,233 [INFO]  Epoch[3] Train-cross-entropy=0.243470
+2024-03-24 17:38:55,233 [INFO]  Epoch[3] Train-tumor-size-accuracy=4.600000
+2024-03-24 17:38:55,233 [INFO]  Epoch[3] Time cost=0.013
+2024-03-24 17:38:55,235 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0003.params"
+2024-03-24 17:38:55,235 [INFO]  Epoch[3] Validation-cross-entropy=0.148851
+2024-03-24 17:38:55,235 [INFO]  Epoch[3] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:55,240 [INFO]  Epoch[4] Batch [0-7]	Speed: 24745.16 samples/sec	cross-entropy=0.231904	tumor-size-accuracy=3.375000
+2024-03-24 17:38:55,244 [INFO]  Epoch[4] Train-cross-entropy=0.157445
+2024-03-24 17:38:55,244 [INFO]  Epoch[4] Train-tumor-size-accuracy=4.600000
+2024-03-24 17:38:55,244 [INFO]  Epoch[4] Time cost=0.009
+2024-03-24 17:38:55,245 [INFO]  Saved checkpoint to "./imputer_model/1_breast/imputer_model_tumor-size/model-0004.params"
+2024-03-24 17:38:55,246 [INFO]  Epoch[4] Validation-cross-entropy=0.133484
+2024-03-24 17:38:55,246 [INFO]  Epoch[4] Validation-tumor-size-accuracy=0.000000
+2024-03-24 17:38:55,246 [INFO]  
+========== done (0.07824444770812988 s) fit model
