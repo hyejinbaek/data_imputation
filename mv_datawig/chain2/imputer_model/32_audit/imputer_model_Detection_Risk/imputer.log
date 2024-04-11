@@ -1,0 +1,2320 @@
+2024-04-11 16:44:26,311 [INFO]  
+========== start: fit model
+2024-04-11 16:44:26,311 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:44:27,243 [INFO]  Epoch[0] Batch [0-18]	Speed: 320.52 samples/sec	cross-entropy=1.002652	Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:30,880 [INFO]  Epoch[0] Train-cross-entropy=1.000342
+2024-04-11 16:44:30,880 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:30,880 [INFO]  Epoch[0] Time cost=4.568
+2024-04-11 16:44:30,883 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 16:44:31,195 [INFO]  Epoch[0] Validation-cross-entropy=0.417107
+2024-04-11 16:44:31,195 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:35,265 [INFO]  Epoch[1] Batch [0-18]	Speed: 80.18 samples/sec	cross-entropy=0.417687	Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:36,716 [INFO]  Epoch[1] Train-cross-entropy=0.236928
+2024-04-11 16:44:36,716 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:36,716 [INFO]  Epoch[1] Time cost=5.521
+2024-04-11 16:44:36,722 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 16:44:37,349 [INFO]  Epoch[1] Validation-cross-entropy=0.166066
+2024-04-11 16:44:37,349 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:38,922 [INFO]  Epoch[2] Batch [0-18]	Speed: 255.94 samples/sec	cross-entropy=1.411800	Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:41,861 [INFO]  Epoch[2] Train-cross-entropy=0.802989
+2024-04-11 16:44:41,861 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:41,862 [INFO]  Epoch[2] Time cost=4.512
+2024-04-11 16:44:41,865 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 16:44:42,628 [INFO]  Epoch[2] Validation-cross-entropy=0.273488
+2024-04-11 16:44:42,628 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:44,923 [INFO]  Epoch[3] Batch [0-18]	Speed: 156.01 samples/sec	cross-entropy=0.841097	Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:48,863 [INFO]  Epoch[3] Train-cross-entropy=0.583686
+2024-04-11 16:44:48,863 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:48,863 [INFO]  Epoch[3] Time cost=6.235
+2024-04-11 16:44:48,865 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 16:44:48,895 [INFO]  Epoch[3] Validation-cross-entropy=0.324730
+2024-04-11 16:44:48,896 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:50,941 [INFO]  Epoch[4] Batch [0-18]	Speed: 162.74 samples/sec	cross-entropy=0.610446	Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:51,031 [INFO]  Epoch[4] Train-cross-entropy=1.359699
+2024-04-11 16:44:51,032 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:51,032 [INFO]  Epoch[4] Time cost=2.136
+2024-04-11 16:44:51,034 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 16:44:51,037 [INFO]  Epoch[4] Validation-cross-entropy=0.641795
+2024-04-11 16:44:51,037 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:44:51,037 [INFO]  
+========== done (24.72581696510315 s) fit model
+2024-04-11 16:45:09,212 [INFO]  
+========== start: fit model
+2024-04-11 16:45:09,212 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:45:09,248 [INFO]  Epoch[0] Batch [0-18]	Speed: 12056.21 samples/sec	cross-entropy=2.205170	Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,580 [INFO]  Epoch[0] Train-cross-entropy=0.743369
+2024-04-11 16:45:09,580 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,580 [INFO]  Epoch[0] Time cost=0.367
+2024-04-11 16:45:09,586 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 16:45:09,601 [INFO]  Epoch[0] Validation-cross-entropy=5.331118
+2024-04-11 16:45:09,601 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,621 [INFO]  Epoch[1] Batch [0-18]	Speed: 15372.55 samples/sec	cross-entropy=1.009959	Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,643 [INFO]  Epoch[1] Train-cross-entropy=0.816208
+2024-04-11 16:45:09,643 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,643 [INFO]  Epoch[1] Time cost=0.042
+2024-04-11 16:45:09,645 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 16:45:09,649 [INFO]  Epoch[1] Validation-cross-entropy=0.859736
+2024-04-11 16:45:09,649 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,667 [INFO]  Epoch[2] Batch [0-18]	Speed: 17501.59 samples/sec	cross-entropy=0.972803	Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,687 [INFO]  Epoch[2] Train-cross-entropy=0.567047
+2024-04-11 16:45:09,687 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,687 [INFO]  Epoch[2] Time cost=0.038
+2024-04-11 16:45:09,689 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 16:45:09,692 [INFO]  Epoch[2] Validation-cross-entropy=2.760091
+2024-04-11 16:45:09,692 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,710 [INFO]  Epoch[3] Batch [0-18]	Speed: 17639.08 samples/sec	cross-entropy=1.364057	Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,728 [INFO]  Epoch[3] Train-cross-entropy=0.265084
+2024-04-11 16:45:09,728 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,728 [INFO]  Epoch[3] Time cost=0.036
+2024-04-11 16:45:09,730 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 16:45:09,732 [INFO]  Epoch[3] Validation-cross-entropy=0.610522
+2024-04-11 16:45:09,732 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,754 [INFO]  Epoch[4] Batch [0-18]	Speed: 14290.64 samples/sec	cross-entropy=0.931740	Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,772 [INFO]  Epoch[4] Train-cross-entropy=0.144023
+2024-04-11 16:45:09,772 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,772 [INFO]  Epoch[4] Time cost=0.040
+2024-04-11 16:45:09,774 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 16:45:09,776 [INFO]  Epoch[4] Validation-cross-entropy=1.200406
+2024-04-11 16:45:09,776 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:09,776 [INFO]  
+========== done (0.5645613670349121 s) fit model
+2024-04-11 16:45:18,823 [INFO]  
+========== start: fit model
+2024-04-11 16:45:18,823 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:45:18,838 [INFO]  Epoch[0] Batch [0-18]	Speed: 24242.59 samples/sec	cross-entropy=3.767684	Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,849 [INFO]  Epoch[0] Train-cross-entropy=0.985551
+2024-04-11 16:45:18,849 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,849 [INFO]  Epoch[0] Time cost=0.024
+2024-04-11 16:45:18,850 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 16:45:18,852 [INFO]  Epoch[0] Validation-cross-entropy=1.263097
+2024-04-11 16:45:18,852 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,863 [INFO]  Epoch[1] Batch [0-18]	Speed: 28185.82 samples/sec	cross-entropy=0.793863	Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,873 [INFO]  Epoch[1] Train-cross-entropy=0.411473
+2024-04-11 16:45:18,873 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,873 [INFO]  Epoch[1] Time cost=0.021
+2024-04-11 16:45:18,874 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 16:45:18,876 [INFO]  Epoch[1] Validation-cross-entropy=0.294557
+2024-04-11 16:45:18,876 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,887 [INFO]  Epoch[2] Batch [0-18]	Speed: 27479.23 samples/sec	cross-entropy=0.518890	Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,897 [INFO]  Epoch[2] Train-cross-entropy=0.252527
+2024-04-11 16:45:18,897 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,897 [INFO]  Epoch[2] Time cost=0.021
+2024-04-11 16:45:18,898 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 16:45:18,900 [INFO]  Epoch[2] Validation-cross-entropy=0.278761
+2024-04-11 16:45:18,900 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,914 [INFO]  Epoch[3] Batch [0-18]	Speed: 22016.14 samples/sec	cross-entropy=0.201831	Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,925 [INFO]  Epoch[3] Train-cross-entropy=0.102951
+2024-04-11 16:45:18,925 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,925 [INFO]  Epoch[3] Time cost=0.025
+2024-04-11 16:45:18,927 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 16:45:18,929 [INFO]  Epoch[3] Validation-cross-entropy=0.144215
+2024-04-11 16:45:18,929 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,946 [INFO]  Epoch[4] Batch [0-18]	Speed: 18180.11 samples/sec	cross-entropy=0.195873	Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,960 [INFO]  Epoch[4] Train-cross-entropy=0.068951
+2024-04-11 16:45:18,960 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,960 [INFO]  Epoch[4] Time cost=0.030
+2024-04-11 16:45:18,974 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 16:45:18,976 [INFO]  Epoch[4] Validation-cross-entropy=0.131936
+2024-04-11 16:45:18,976 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:45:18,976 [INFO]  
+========== done (0.1531515121459961 s) fit model
+2024-04-11 16:55:16,242 [INFO]  
+========== start: fit model
+2024-04-11 16:55:16,242 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:55:16,260 [INFO]  Epoch[0] Batch [0-18]	Speed: 18633.01 samples/sec	cross-entropy=1.002652	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,283 [INFO]  Epoch[0] Train-cross-entropy=1.000342
+2024-04-11 16:55:16,283 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,283 [INFO]  Epoch[0] Time cost=0.041
+2024-04-11 16:55:16,285 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 16:55:16,287 [INFO]  Epoch[0] Validation-cross-entropy=0.417107
+2024-04-11 16:55:16,287 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,302 [INFO]  Epoch[1] Batch [0-18]	Speed: 20405.76 samples/sec	cross-entropy=0.417687	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,323 [INFO]  Epoch[1] Train-cross-entropy=0.236928
+2024-04-11 16:55:16,323 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,323 [INFO]  Epoch[1] Time cost=0.036
+2024-04-11 16:55:16,324 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 16:55:16,326 [INFO]  Epoch[1] Validation-cross-entropy=0.166066
+2024-04-11 16:55:16,326 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,336 [INFO]  Epoch[2] Batch [0-18]	Speed: 28920.00 samples/sec	cross-entropy=1.411800	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,346 [INFO]  Epoch[2] Train-cross-entropy=0.802989
+2024-04-11 16:55:16,346 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,346 [INFO]  Epoch[2] Time cost=0.020
+2024-04-11 16:55:16,347 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 16:55:16,348 [INFO]  Epoch[2] Validation-cross-entropy=0.273488
+2024-04-11 16:55:16,348 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,359 [INFO]  Epoch[3] Batch [0-18]	Speed: 28956.05 samples/sec	cross-entropy=0.841097	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,368 [INFO]  Epoch[3] Train-cross-entropy=0.583686
+2024-04-11 16:55:16,368 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,368 [INFO]  Epoch[3] Time cost=0.020
+2024-04-11 16:55:16,370 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 16:55:16,371 [INFO]  Epoch[3] Validation-cross-entropy=0.324730
+2024-04-11 16:55:16,371 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,493 [INFO]  Epoch[4] Batch [0-18]	Speed: 2368.05 samples/sec	cross-entropy=0.610446	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,562 [INFO]  Epoch[4] Train-cross-entropy=1.359699
+2024-04-11 16:55:16,562 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,562 [INFO]  Epoch[4] Time cost=0.191
+2024-04-11 16:55:16,565 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 16:55:16,575 [INFO]  Epoch[4] Validation-cross-entropy=0.641795
+2024-04-11 16:55:16,575 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:16,575 [INFO]  
+========== done (0.3333613872528076 s) fit model
+2024-04-11 16:55:33,171 [INFO]  
+========== start: fit model
+2024-04-11 16:55:33,172 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:55:33,187 [INFO]  Epoch[0] Batch [0-18]	Speed: 22014.13 samples/sec	cross-entropy=2.205170	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,222 [INFO]  Epoch[0] Train-cross-entropy=0.743369
+2024-04-11 16:55:33,223 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,223 [INFO]  Epoch[0] Time cost=0.050
+2024-04-11 16:55:33,224 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 16:55:33,230 [INFO]  Epoch[0] Validation-cross-entropy=5.331118
+2024-04-11 16:55:33,230 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,270 [INFO]  Epoch[1] Batch [0-18]	Speed: 7473.24 samples/sec	cross-entropy=1.009959	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,280 [INFO]  Epoch[1] Train-cross-entropy=0.816208
+2024-04-11 16:55:33,280 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,280 [INFO]  Epoch[1] Time cost=0.050
+2024-04-11 16:55:33,281 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 16:55:33,291 [INFO]  Epoch[1] Validation-cross-entropy=0.859736
+2024-04-11 16:55:33,292 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,309 [INFO]  Epoch[2] Batch [0-18]	Speed: 17240.56 samples/sec	cross-entropy=0.972803	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,330 [INFO]  Epoch[2] Train-cross-entropy=0.567047
+2024-04-11 16:55:33,331 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,331 [INFO]  Epoch[2] Time cost=0.039
+2024-04-11 16:55:33,332 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 16:55:33,347 [INFO]  Epoch[2] Validation-cross-entropy=2.760091
+2024-04-11 16:55:33,348 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,363 [INFO]  Epoch[3] Batch [0-18]	Speed: 20233.49 samples/sec	cross-entropy=1.364057	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,376 [INFO]  Epoch[3] Train-cross-entropy=0.265084
+2024-04-11 16:55:33,376 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,376 [INFO]  Epoch[3] Time cost=0.029
+2024-04-11 16:55:33,378 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 16:55:33,380 [INFO]  Epoch[3] Validation-cross-entropy=0.610522
+2024-04-11 16:55:33,380 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,393 [INFO]  Epoch[4] Batch [0-18]	Speed: 22276.39 samples/sec	cross-entropy=0.931740	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,469 [INFO]  Epoch[4] Train-cross-entropy=0.144023
+2024-04-11 16:55:33,469 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,469 [INFO]  Epoch[4] Time cost=0.090
+2024-04-11 16:55:33,471 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 16:55:33,474 [INFO]  Epoch[4] Validation-cross-entropy=1.200406
+2024-04-11 16:55:33,474 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:33,474 [INFO]  
+========== done (0.3022787570953369 s) fit model
+2024-04-11 16:55:50,084 [INFO]  
+========== start: fit model
+2024-04-11 16:55:50,084 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:55:50,117 [INFO]  Epoch[0] Batch [0-18]	Speed: 17026.22 samples/sec	cross-entropy=3.767684	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,140 [INFO]  Epoch[0] Train-cross-entropy=0.985551
+2024-04-11 16:55:50,141 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,141 [INFO]  Epoch[0] Time cost=0.056
+2024-04-11 16:55:50,142 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 16:55:50,144 [INFO]  Epoch[0] Validation-cross-entropy=1.263097
+2024-04-11 16:55:50,144 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,167 [INFO]  Epoch[1] Batch [0-18]	Speed: 13652.96 samples/sec	cross-entropy=0.793863	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,186 [INFO]  Epoch[1] Train-cross-entropy=0.411473
+2024-04-11 16:55:50,187 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,187 [INFO]  Epoch[1] Time cost=0.042
+2024-04-11 16:55:50,189 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 16:55:50,194 [INFO]  Epoch[1] Validation-cross-entropy=0.294557
+2024-04-11 16:55:50,194 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,207 [INFO]  Epoch[2] Batch [0-18]	Speed: 24752.76 samples/sec	cross-entropy=0.518890	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,304 [INFO]  Epoch[2] Train-cross-entropy=0.252527
+2024-04-11 16:55:50,304 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,304 [INFO]  Epoch[2] Time cost=0.111
+2024-04-11 16:55:50,306 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 16:55:50,307 [INFO]  Epoch[2] Validation-cross-entropy=0.278761
+2024-04-11 16:55:50,307 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,318 [INFO]  Epoch[3] Batch [0-18]	Speed: 27614.92 samples/sec	cross-entropy=0.201831	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,347 [INFO]  Epoch[3] Train-cross-entropy=0.102951
+2024-04-11 16:55:50,347 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,347 [INFO]  Epoch[3] Time cost=0.040
+2024-04-11 16:55:50,349 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 16:55:50,354 [INFO]  Epoch[3] Validation-cross-entropy=0.144215
+2024-04-11 16:55:50,354 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,433 [INFO]  Epoch[4] Batch [0-18]	Speed: 3694.36 samples/sec	cross-entropy=0.195873	Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,463 [INFO]  Epoch[4] Train-cross-entropy=0.068951
+2024-04-11 16:55:50,463 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,463 [INFO]  Epoch[4] Time cost=0.110
+2024-04-11 16:55:50,465 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 16:55:50,467 [INFO]  Epoch[4] Validation-cross-entropy=0.131936
+2024-04-11 16:55:50,467 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:55:50,467 [INFO]  
+========== done (0.3834695816040039 s) fit model
+2024-04-11 16:56:08,992 [INFO]  
+========== start: fit model
+2024-04-11 16:56:08,992 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:56:09,044 [INFO]  Epoch[0] Batch [0-18]	Speed: 15338.97 samples/sec	cross-entropy=1.381324	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,089 [INFO]  Epoch[0] Train-cross-entropy=0.841604
+2024-04-11 16:56:09,089 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,089 [INFO]  Epoch[0] Time cost=0.097
+2024-04-11 16:56:09,091 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 16:56:09,114 [INFO]  Epoch[0] Validation-cross-entropy=2.408752
+2024-04-11 16:56:09,114 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,157 [INFO]  Epoch[1] Batch [0-18]	Speed: 6952.41 samples/sec	cross-entropy=0.866545	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,237 [INFO]  Epoch[1] Train-cross-entropy=1.517344
+2024-04-11 16:56:09,237 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,237 [INFO]  Epoch[1] Time cost=0.123
+2024-04-11 16:56:09,240 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 16:56:09,242 [INFO]  Epoch[1] Validation-cross-entropy=0.263285
+2024-04-11 16:56:09,242 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,273 [INFO]  Epoch[2] Batch [0-18]	Speed: 10057.61 samples/sec	cross-entropy=0.265759	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,311 [INFO]  Epoch[2] Train-cross-entropy=1.703364
+2024-04-11 16:56:09,316 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,316 [INFO]  Epoch[2] Time cost=0.073
+2024-04-11 16:56:09,318 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 16:56:09,329 [INFO]  Epoch[2] Validation-cross-entropy=0.967314
+2024-04-11 16:56:09,329 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,346 [INFO]  Epoch[3] Batch [0-18]	Speed: 19263.24 samples/sec	cross-entropy=0.487562	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,450 [INFO]  Epoch[3] Train-cross-entropy=0.933055
+2024-04-11 16:56:09,450 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,450 [INFO]  Epoch[3] Time cost=0.120
+2024-04-11 16:56:09,451 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 16:56:09,456 [INFO]  Epoch[3] Validation-cross-entropy=0.126383
+2024-04-11 16:56:09,456 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,540 [INFO]  Epoch[4] Batch [0-18]	Speed: 3573.55 samples/sec	cross-entropy=0.190147	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,580 [INFO]  Epoch[4] Train-cross-entropy=0.388695
+2024-04-11 16:56:09,580 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,580 [INFO]  Epoch[4] Time cost=0.124
+2024-04-11 16:56:09,581 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 16:56:09,610 [INFO]  Epoch[4] Validation-cross-entropy=0.479329
+2024-04-11 16:56:09,610 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:09,610 [INFO]  
+========== done (0.6189513206481934 s) fit model
+2024-04-11 16:56:27,461 [INFO]  
+========== start: fit model
+2024-04-11 16:56:27,461 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:56:27,479 [INFO]  Epoch[0] Batch [0-18]	Speed: 19442.14 samples/sec	cross-entropy=2.197668	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,491 [INFO]  Epoch[0] Train-cross-entropy=0.860114
+2024-04-11 16:56:27,491 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,491 [INFO]  Epoch[0] Time cost=0.029
+2024-04-11 16:56:27,493 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 16:56:27,495 [INFO]  Epoch[0] Validation-cross-entropy=1.657468
+2024-04-11 16:56:27,495 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,510 [INFO]  Epoch[1] Batch [0-18]	Speed: 20517.71 samples/sec	cross-entropy=2.115792	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,523 [INFO]  Epoch[1] Train-cross-entropy=0.696423
+2024-04-11 16:56:27,523 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,523 [INFO]  Epoch[1] Time cost=0.028
+2024-04-11 16:56:27,526 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 16:56:27,529 [INFO]  Epoch[1] Validation-cross-entropy=0.640048
+2024-04-11 16:56:27,529 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,561 [INFO]  Epoch[2] Batch [0-18]	Speed: 9472.04 samples/sec	cross-entropy=0.626850	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,578 [INFO]  Epoch[2] Train-cross-entropy=0.359812
+2024-04-11 16:56:27,578 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,578 [INFO]  Epoch[2] Time cost=0.049
+2024-04-11 16:56:27,580 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 16:56:27,581 [INFO]  Epoch[2] Validation-cross-entropy=0.405408
+2024-04-11 16:56:27,582 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,603 [INFO]  Epoch[3] Batch [0-18]	Speed: 14075.67 samples/sec	cross-entropy=0.457310	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,619 [INFO]  Epoch[3] Train-cross-entropy=0.225190
+2024-04-11 16:56:27,619 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,619 [INFO]  Epoch[3] Time cost=0.038
+2024-04-11 16:56:27,621 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 16:56:27,626 [INFO]  Epoch[3] Validation-cross-entropy=0.981360
+2024-04-11 16:56:27,627 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,643 [INFO]  Epoch[4] Batch [0-18]	Speed: 19706.67 samples/sec	cross-entropy=0.420954	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,659 [INFO]  Epoch[4] Train-cross-entropy=0.248342
+2024-04-11 16:56:27,659 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,659 [INFO]  Epoch[4] Time cost=0.032
+2024-04-11 16:56:27,661 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 16:56:27,665 [INFO]  Epoch[4] Validation-cross-entropy=0.568378
+2024-04-11 16:56:27,665 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:27,665 [INFO]  
+========== done (0.20417404174804688 s) fit model
+2024-04-11 16:56:47,666 [INFO]  
+========== start: fit model
+2024-04-11 16:56:47,666 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:56:47,711 [INFO]  Epoch[0] Batch [0-18]	Speed: 6893.37 samples/sec	cross-entropy=1.893755	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:47,721 [INFO]  Epoch[0] Train-cross-entropy=0.556100
+2024-04-11 16:56:47,721 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:47,721 [INFO]  Epoch[0] Time cost=0.054
+2024-04-11 16:56:47,723 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 16:56:47,737 [INFO]  Epoch[0] Validation-cross-entropy=0.168896
+2024-04-11 16:56:47,737 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:47,749 [INFO]  Epoch[1] Batch [0-18]	Speed: 25577.73 samples/sec	cross-entropy=1.158850	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:47,758 [INFO]  Epoch[1] Train-cross-entropy=0.244782
+2024-04-11 16:56:47,759 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:47,759 [INFO]  Epoch[1] Time cost=0.022
+2024-04-11 16:56:47,760 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 16:56:47,765 [INFO]  Epoch[1] Validation-cross-entropy=0.099613
+2024-04-11 16:56:47,765 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:47,780 [INFO]  Epoch[2] Batch [0-18]	Speed: 21919.46 samples/sec	cross-entropy=0.631761	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:47,802 [INFO]  Epoch[2] Train-cross-entropy=0.151372
+2024-04-11 16:56:47,802 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:47,802 [INFO]  Epoch[2] Time cost=0.036
+2024-04-11 16:56:47,804 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 16:56:47,810 [INFO]  Epoch[2] Validation-cross-entropy=0.182700
+2024-04-11 16:56:47,810 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:47,932 [INFO]  Epoch[3] Batch [0-18]	Speed: 2376.98 samples/sec	cross-entropy=0.500272	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:47,954 [INFO]  Epoch[3] Train-cross-entropy=0.149208
+2024-04-11 16:56:47,955 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:47,955 [INFO]  Epoch[3] Time cost=0.145
+2024-04-11 16:56:47,957 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 16:56:47,961 [INFO]  Epoch[3] Validation-cross-entropy=0.110544
+2024-04-11 16:56:47,961 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:48,020 [INFO]  Epoch[4] Batch [0-18]	Speed: 5001.10 samples/sec	cross-entropy=0.298861	Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:48,064 [INFO]  Epoch[4] Train-cross-entropy=0.218908
+2024-04-11 16:56:48,065 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:48,065 [INFO]  Epoch[4] Time cost=0.104
+2024-04-11 16:56:48,066 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 16:56:48,068 [INFO]  Epoch[4] Validation-cross-entropy=0.150159
+2024-04-11 16:56:48,068 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:56:48,069 [INFO]  
+========== done (0.4026527404785156 s) fit model
+2024-04-11 16:58:18,815 [INFO]  
+========== start: fit model
+2024-04-11 16:58:18,815 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:58:18,832 [INFO]  Epoch[0] Batch [0-18]	Speed: 19623.75 samples/sec	cross-entropy=1.160536	Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:18,864 [INFO]  Epoch[0] Train-cross-entropy=1.315835
+2024-04-11 16:58:18,864 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:18,864 [INFO]  Epoch[0] Time cost=0.049
+2024-04-11 16:58:18,866 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 16:58:18,878 [INFO]  Epoch[0] Validation-cross-entropy=0.790870
+2024-04-11 16:58:18,878 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:18,893 [INFO]  Epoch[1] Batch [0-18]	Speed: 19614.51 samples/sec	cross-entropy=1.134675	Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:18,950 [INFO]  Epoch[1] Train-cross-entropy=1.505077
+2024-04-11 16:58:18,950 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:18,950 [INFO]  Epoch[1] Time cost=0.073
+2024-04-11 16:58:18,952 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 16:58:18,954 [INFO]  Epoch[1] Validation-cross-entropy=0.333077
+2024-04-11 16:58:18,954 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:18,992 [INFO]  Epoch[2] Batch [0-18]	Speed: 7745.27 samples/sec	cross-entropy=0.414389	Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:19,012 [INFO]  Epoch[2] Train-cross-entropy=0.882611
+2024-04-11 16:58:19,012 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:19,012 [INFO]  Epoch[2] Time cost=0.058
+2024-04-11 16:58:19,014 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 16:58:19,017 [INFO]  Epoch[2] Validation-cross-entropy=0.347363
+2024-04-11 16:58:19,017 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:19,047 [INFO]  Epoch[3] Batch [0-18]	Speed: 10995.14 samples/sec	cross-entropy=0.905379	Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:19,060 [INFO]  Epoch[3] Train-cross-entropy=0.128266
+2024-04-11 16:58:19,060 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:19,060 [INFO]  Epoch[3] Time cost=0.043
+2024-04-11 16:58:19,062 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 16:58:19,063 [INFO]  Epoch[3] Validation-cross-entropy=0.133560
+2024-04-11 16:58:19,064 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:19,082 [INFO]  Epoch[4] Batch [0-18]	Speed: 16146.17 samples/sec	cross-entropy=0.203537	Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:19,095 [INFO]  Epoch[4] Train-cross-entropy=0.038551
+2024-04-11 16:58:19,095 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:19,095 [INFO]  Epoch[4] Time cost=0.031
+2024-04-11 16:58:19,096 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 16:58:19,098 [INFO]  Epoch[4] Validation-cross-entropy=0.074172
+2024-04-11 16:58:19,098 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:58:19,098 [INFO]  
+========== done (0.28373122215270996 s) fit model
+2024-04-11 16:59:30,131 [INFO]  
+========== start: fit model
+2024-04-11 16:59:30,131 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:59:30,169 [INFO]  Epoch[0] Batch [0-18]	Speed: 9215.16 samples/sec	cross-entropy=3.594236	Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,179 [INFO]  Epoch[0] Train-cross-entropy=0.713870
+2024-04-11 16:59:30,180 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,180 [INFO]  Epoch[0] Time cost=0.048
+2024-04-11 16:59:30,181 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 16:59:30,183 [INFO]  Epoch[0] Validation-cross-entropy=0.258934
+2024-04-11 16:59:30,183 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,241 [INFO]  Epoch[1] Batch [0-18]	Speed: 5040.16 samples/sec	cross-entropy=1.510633	Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,258 [INFO]  Epoch[1] Train-cross-entropy=0.580583
+2024-04-11 16:59:30,258 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,258 [INFO]  Epoch[1] Time cost=0.075
+2024-04-11 16:59:30,262 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 16:59:30,274 [INFO]  Epoch[1] Validation-cross-entropy=0.244134
+2024-04-11 16:59:30,274 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,286 [INFO]  Epoch[2] Batch [0-18]	Speed: 24284.99 samples/sec	cross-entropy=0.370956	Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,296 [INFO]  Epoch[2] Train-cross-entropy=0.165101
+2024-04-11 16:59:30,296 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,296 [INFO]  Epoch[2] Time cost=0.022
+2024-04-11 16:59:30,297 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 16:59:30,299 [INFO]  Epoch[2] Validation-cross-entropy=0.062395
+2024-04-11 16:59:30,299 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,310 [INFO]  Epoch[3] Batch [0-18]	Speed: 27788.99 samples/sec	cross-entropy=0.246936	Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,320 [INFO]  Epoch[3] Train-cross-entropy=0.072231
+2024-04-11 16:59:30,320 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,320 [INFO]  Epoch[3] Time cost=0.021
+2024-04-11 16:59:30,322 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 16:59:30,323 [INFO]  Epoch[3] Validation-cross-entropy=0.047404
+2024-04-11 16:59:30,323 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,334 [INFO]  Epoch[4] Batch [0-18]	Speed: 27956.85 samples/sec	cross-entropy=0.202955	Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,344 [INFO]  Epoch[4] Train-cross-entropy=0.115648
+2024-04-11 16:59:30,344 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,344 [INFO]  Epoch[4] Time cost=0.021
+2024-04-11 16:59:30,346 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 16:59:30,382 [INFO]  Epoch[4] Validation-cross-entropy=0.039469
+2024-04-11 16:59:30,382 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 16:59:30,382 [INFO]  
+========== done (0.25101494789123535 s) fit model
+2024-04-11 17:00:54,365 [INFO]  
+========== start: fit model
+2024-04-11 17:00:54,365 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:00:54,426 [INFO]  Epoch[0] Batch [0-18]	Speed: 4904.40 samples/sec	cross-entropy=0.839221	Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,438 [INFO]  Epoch[0] Train-cross-entropy=0.645977
+2024-04-11 17:00:54,438 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,438 [INFO]  Epoch[0] Time cost=0.072
+2024-04-11 17:00:54,440 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:00:54,452 [INFO]  Epoch[0] Validation-cross-entropy=2.387197
+2024-04-11 17:00:54,452 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,467 [INFO]  Epoch[1] Batch [0-18]	Speed: 21056.33 samples/sec	cross-entropy=0.557431	Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,480 [INFO]  Epoch[1] Train-cross-entropy=1.375156
+2024-04-11 17:00:54,480 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,480 [INFO]  Epoch[1] Time cost=0.027
+2024-04-11 17:00:54,481 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:00:54,483 [INFO]  Epoch[1] Validation-cross-entropy=3.263617
+2024-04-11 17:00:54,483 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,502 [INFO]  Epoch[2] Batch [0-18]	Speed: 16055.61 samples/sec	cross-entropy=1.175149	Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,518 [INFO]  Epoch[2] Train-cross-entropy=0.494116
+2024-04-11 17:00:54,518 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,518 [INFO]  Epoch[2] Time cost=0.035
+2024-04-11 17:00:54,520 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:00:54,522 [INFO]  Epoch[2] Validation-cross-entropy=1.536599
+2024-04-11 17:00:54,522 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,549 [INFO]  Epoch[3] Batch [0-18]	Speed: 13348.06 samples/sec	cross-entropy=1.424563	Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,586 [INFO]  Epoch[3] Train-cross-entropy=0.554271
+2024-04-11 17:00:54,586 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,586 [INFO]  Epoch[3] Time cost=0.064
+2024-04-11 17:00:54,589 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:00:54,594 [INFO]  Epoch[3] Validation-cross-entropy=0.185777
+2024-04-11 17:00:54,594 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,670 [INFO]  Epoch[4] Batch [0-18]	Speed: 3877.41 samples/sec	cross-entropy=0.331305	Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,707 [INFO]  Epoch[4] Train-cross-entropy=0.088957
+2024-04-11 17:00:54,707 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,707 [INFO]  Epoch[4] Time cost=0.113
+2024-04-11 17:00:54,709 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:00:54,717 [INFO]  Epoch[4] Validation-cross-entropy=0.128396
+2024-04-11 17:00:54,717 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:00:54,717 [INFO]  
+========== done (0.35199570655822754 s) fit model
+2024-04-11 17:02:41,966 [INFO]  
+========== start: fit model
+2024-04-11 17:02:41,966 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:02:42,101 [INFO]  Epoch[0] Batch [0-18]	Speed: 2299.30 samples/sec	cross-entropy=1.911738	Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,113 [INFO]  Epoch[0] Train-cross-entropy=1.180311
+2024-04-11 17:02:42,113 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,113 [INFO]  Epoch[0] Time cost=0.146
+2024-04-11 17:02:42,115 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:02:42,117 [INFO]  Epoch[0] Validation-cross-entropy=4.003002
+2024-04-11 17:02:42,117 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,220 [INFO]  Epoch[1] Batch [0-18]	Speed: 2822.39 samples/sec	cross-entropy=0.906671	Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,252 [INFO]  Epoch[1] Train-cross-entropy=5.075672
+2024-04-11 17:02:42,252 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,252 [INFO]  Epoch[1] Time cost=0.135
+2024-04-11 17:02:42,254 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:02:42,256 [INFO]  Epoch[1] Validation-cross-entropy=2.013362
+2024-04-11 17:02:42,256 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,271 [INFO]  Epoch[2] Batch [0-18]	Speed: 19998.01 samples/sec	cross-entropy=0.745638	Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,284 [INFO]  Epoch[2] Train-cross-entropy=3.170440
+2024-04-11 17:02:42,284 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,284 [INFO]  Epoch[2] Time cost=0.028
+2024-04-11 17:02:42,286 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:02:42,288 [INFO]  Epoch[2] Validation-cross-entropy=1.502884
+2024-04-11 17:02:42,288 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,496 [INFO]  Epoch[3] Batch [0-18]	Speed: 1393.62 samples/sec	cross-entropy=0.511860	Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,512 [INFO]  Epoch[3] Train-cross-entropy=2.714534
+2024-04-11 17:02:42,513 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,513 [INFO]  Epoch[3] Time cost=0.224
+2024-04-11 17:02:42,515 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:02:42,522 [INFO]  Epoch[3] Validation-cross-entropy=1.223850
+2024-04-11 17:02:42,522 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,545 [INFO]  Epoch[4] Batch [0-18]	Speed: 13163.76 samples/sec	cross-entropy=0.443942	Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,564 [INFO]  Epoch[4] Train-cross-entropy=1.053156
+2024-04-11 17:02:42,564 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,564 [INFO]  Epoch[4] Time cost=0.042
+2024-04-11 17:02:42,566 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:02:42,568 [INFO]  Epoch[4] Validation-cross-entropy=0.325594
+2024-04-11 17:02:42,568 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:02:42,568 [INFO]  
+========== done (0.6024301052093506 s) fit model
+2024-04-11 17:03:30,482 [INFO]  
+========== start: fit model
+2024-04-11 17:03:30,482 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:03:30,585 [INFO]  Epoch[0] Batch [0-18]	Speed: 3927.12 samples/sec	cross-entropy=2.824979	Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:30,700 [INFO]  Epoch[0] Train-cross-entropy=1.324947
+2024-04-11 17:03:30,701 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:30,701 [INFO]  Epoch[0] Time cost=0.217
+2024-04-11 17:03:30,703 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:03:30,705 [INFO]  Epoch[0] Validation-cross-entropy=0.763657
+2024-04-11 17:03:30,705 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:30,770 [INFO]  Epoch[1] Batch [0-18]	Speed: 4528.59 samples/sec	cross-entropy=2.227138	Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:30,802 [INFO]  Epoch[1] Train-cross-entropy=4.351114
+2024-04-11 17:03:30,802 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:30,802 [INFO]  Epoch[1] Time cost=0.097
+2024-04-11 17:03:30,804 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:03:30,807 [INFO]  Epoch[1] Validation-cross-entropy=0.500614
+2024-04-11 17:03:30,807 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:30,961 [INFO]  Epoch[2] Batch [0-18]	Speed: 1888.41 samples/sec	cross-entropy=0.880097	Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:30,988 [INFO]  Epoch[2] Train-cross-entropy=1.479476
+2024-04-11 17:03:30,988 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:30,988 [INFO]  Epoch[2] Time cost=0.181
+2024-04-11 17:03:30,989 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:03:30,991 [INFO]  Epoch[2] Validation-cross-entropy=0.362904
+2024-04-11 17:03:30,991 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:31,002 [INFO]  Epoch[3] Batch [0-18]	Speed: 28761.63 samples/sec	cross-entropy=0.569525	Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:31,033 [INFO]  Epoch[3] Train-cross-entropy=0.689154
+2024-04-11 17:03:31,034 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:31,034 [INFO]  Epoch[3] Time cost=0.043
+2024-04-11 17:03:31,035 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:03:31,038 [INFO]  Epoch[3] Validation-cross-entropy=0.262516
+2024-04-11 17:03:31,038 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:31,072 [INFO]  Epoch[4] Batch [0-18]	Speed: 8711.67 samples/sec	cross-entropy=0.185863	Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:31,085 [INFO]  Epoch[4] Train-cross-entropy=0.188643
+2024-04-11 17:03:31,085 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:31,085 [INFO]  Epoch[4] Time cost=0.047
+2024-04-11 17:03:31,086 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:03:31,112 [INFO]  Epoch[4] Validation-cross-entropy=0.189326
+2024-04-11 17:03:31,112 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:31,112 [INFO]  
+========== done (0.6300544738769531 s) fit model
+2024-04-11 17:03:48,504 [INFO]  
+========== start: fit model
+2024-04-11 17:03:48,504 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:03:48,568 [INFO]  Epoch[0] Batch [0-18]	Speed: 4738.03 samples/sec	cross-entropy=0.837357	Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,591 [INFO]  Epoch[0] Train-cross-entropy=0.679186
+2024-04-11 17:03:48,591 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,591 [INFO]  Epoch[0] Time cost=0.085
+2024-04-11 17:03:48,592 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:03:48,597 [INFO]  Epoch[0] Validation-cross-entropy=5.668540
+2024-04-11 17:03:48,598 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,608 [INFO]  Epoch[1] Batch [0-18]	Speed: 28357.19 samples/sec	cross-entropy=1.103552	Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,619 [INFO]  Epoch[1] Train-cross-entropy=2.929966
+2024-04-11 17:03:48,619 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,619 [INFO]  Epoch[1] Time cost=0.021
+2024-04-11 17:03:48,620 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:03:48,622 [INFO]  Epoch[1] Validation-cross-entropy=6.521161
+2024-04-11 17:03:48,622 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,633 [INFO]  Epoch[2] Batch [0-18]	Speed: 28107.77 samples/sec	cross-entropy=1.875338	Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,643 [INFO]  Epoch[2] Train-cross-entropy=1.601236
+2024-04-11 17:03:48,643 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,643 [INFO]  Epoch[2] Time cost=0.021
+2024-04-11 17:03:48,645 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:03:48,646 [INFO]  Epoch[2] Validation-cross-entropy=1.688373
+2024-04-11 17:03:48,646 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,657 [INFO]  Epoch[3] Batch [0-18]	Speed: 28877.83 samples/sec	cross-entropy=0.832922	Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,666 [INFO]  Epoch[3] Train-cross-entropy=0.977979
+2024-04-11 17:03:48,666 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,666 [INFO]  Epoch[3] Time cost=0.020
+2024-04-11 17:03:48,667 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:03:48,669 [INFO]  Epoch[3] Validation-cross-entropy=1.061014
+2024-04-11 17:03:48,669 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,684 [INFO]  Epoch[4] Batch [0-18]	Speed: 19727.91 samples/sec	cross-entropy=0.403953	Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,716 [INFO]  Epoch[4] Train-cross-entropy=0.222186
+2024-04-11 17:03:48,716 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,716 [INFO]  Epoch[4] Time cost=0.048
+2024-04-11 17:03:48,718 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:03:48,727 [INFO]  Epoch[4] Validation-cross-entropy=0.143048
+2024-04-11 17:03:48,727 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:03:48,728 [INFO]  
+========== done (0.22331476211547852 s) fit model
+2024-04-11 17:04:04,502 [INFO]  
+========== start: fit model
+2024-04-11 17:04:04,502 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:04:04,613 [INFO]  Epoch[0] Batch [0-18]	Speed: 9103.96 samples/sec	cross-entropy=2.896162	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,658 [INFO]  Epoch[0] Train-cross-entropy=1.452230
+2024-04-11 17:04:04,658 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,658 [INFO]  Epoch[0] Time cost=0.155
+2024-04-11 17:04:04,660 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:04:04,662 [INFO]  Epoch[0] Validation-cross-entropy=1.594305
+2024-04-11 17:04:04,662 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,683 [INFO]  Epoch[1] Batch [0-18]	Speed: 14693.58 samples/sec	cross-entropy=2.177356	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,704 [INFO]  Epoch[1] Train-cross-entropy=0.580539
+2024-04-11 17:04:04,704 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,704 [INFO]  Epoch[1] Time cost=0.042
+2024-04-11 17:04:04,706 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:04:04,709 [INFO]  Epoch[1] Validation-cross-entropy=0.630350
+2024-04-11 17:04:04,709 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,730 [INFO]  Epoch[2] Batch [0-18]	Speed: 14439.09 samples/sec	cross-entropy=1.487885	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,750 [INFO]  Epoch[2] Train-cross-entropy=0.479631
+2024-04-11 17:04:04,750 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,750 [INFO]  Epoch[2] Time cost=0.042
+2024-04-11 17:04:04,753 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:04:04,756 [INFO]  Epoch[2] Validation-cross-entropy=0.684487
+2024-04-11 17:04:04,756 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,776 [INFO]  Epoch[3] Batch [0-18]	Speed: 15557.67 samples/sec	cross-entropy=0.687702	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,857 [INFO]  Epoch[3] Train-cross-entropy=0.310579
+2024-04-11 17:04:04,857 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,857 [INFO]  Epoch[3] Time cost=0.100
+2024-04-11 17:04:04,858 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:04:04,860 [INFO]  Epoch[3] Validation-cross-entropy=0.109627
+2024-04-11 17:04:04,860 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,908 [INFO]  Epoch[4] Batch [0-18]	Speed: 6003.12 samples/sec	cross-entropy=0.404551	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,927 [INFO]  Epoch[4] Train-cross-entropy=0.300456
+2024-04-11 17:04:04,930 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,930 [INFO]  Epoch[4] Time cost=0.070
+2024-04-11 17:04:04,932 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:04:04,984 [INFO]  Epoch[4] Validation-cross-entropy=0.681173
+2024-04-11 17:04:04,984 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:04,984 [INFO]  
+========== done (0.4827451705932617 s) fit model
+2024-04-11 17:04:22,050 [INFO]  
+========== start: fit model
+2024-04-11 17:04:22,050 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:04:22,066 [INFO]  Epoch[0] Batch [0-18]	Speed: 21702.47 samples/sec	cross-entropy=1.121800	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,078 [INFO]  Epoch[0] Train-cross-entropy=0.999736
+2024-04-11 17:04:22,079 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,079 [INFO]  Epoch[0] Time cost=0.027
+2024-04-11 17:04:22,080 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:04:22,082 [INFO]  Epoch[0] Validation-cross-entropy=1.548153
+2024-04-11 17:04:22,082 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,105 [INFO]  Epoch[1] Batch [0-18]	Speed: 12891.64 samples/sec	cross-entropy=0.808915	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,121 [INFO]  Epoch[1] Train-cross-entropy=2.108234
+2024-04-11 17:04:22,121 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,122 [INFO]  Epoch[1] Time cost=0.040
+2024-04-11 17:04:22,124 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:04:22,125 [INFO]  Epoch[1] Validation-cross-entropy=1.240124
+2024-04-11 17:04:22,125 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,219 [INFO]  Epoch[2] Batch [0-18]	Speed: 3099.68 samples/sec	cross-entropy=0.887495	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,235 [INFO]  Epoch[2] Train-cross-entropy=1.343682
+2024-04-11 17:04:22,235 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,235 [INFO]  Epoch[2] Time cost=0.110
+2024-04-11 17:04:22,237 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:04:22,238 [INFO]  Epoch[2] Validation-cross-entropy=2.691799
+2024-04-11 17:04:22,238 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,301 [INFO]  Epoch[3] Batch [0-18]	Speed: 4693.07 samples/sec	cross-entropy=0.421404	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,318 [INFO]  Epoch[3] Train-cross-entropy=0.504974
+2024-04-11 17:04:22,318 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,318 [INFO]  Epoch[3] Time cost=0.080
+2024-04-11 17:04:22,320 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:04:22,322 [INFO]  Epoch[3] Validation-cross-entropy=0.248791
+2024-04-11 17:04:22,322 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,339 [INFO]  Epoch[4] Batch [0-18]	Speed: 18564.86 samples/sec	cross-entropy=0.238437	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,358 [INFO]  Epoch[4] Train-cross-entropy=0.128023
+2024-04-11 17:04:22,358 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,358 [INFO]  Epoch[4] Time cost=0.036
+2024-04-11 17:04:22,361 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:04:22,387 [INFO]  Epoch[4] Validation-cross-entropy=1.043653
+2024-04-11 17:04:22,407 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:22,407 [INFO]  
+========== done (0.3568427562713623 s) fit model
+2024-04-11 17:04:38,266 [INFO]  
+========== start: fit model
+2024-04-11 17:04:38,266 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:04:38,402 [INFO]  Epoch[0] Batch [0-18]	Speed: 9375.00 samples/sec	cross-entropy=1.107487	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,440 [INFO]  Epoch[0] Train-cross-entropy=0.600199
+2024-04-11 17:04:38,440 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,440 [INFO]  Epoch[0] Time cost=0.173
+2024-04-11 17:04:38,442 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:04:38,443 [INFO]  Epoch[0] Validation-cross-entropy=0.547621
+2024-04-11 17:04:38,444 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,468 [INFO]  Epoch[1] Batch [0-18]	Speed: 12126.28 samples/sec	cross-entropy=0.539093	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,478 [INFO]  Epoch[1] Train-cross-entropy=2.531000
+2024-04-11 17:04:38,478 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,478 [INFO]  Epoch[1] Time cost=0.034
+2024-04-11 17:04:38,479 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:04:38,481 [INFO]  Epoch[1] Validation-cross-entropy=0.522054
+2024-04-11 17:04:38,481 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,493 [INFO]  Epoch[2] Batch [0-18]	Speed: 24294.27 samples/sec	cross-entropy=0.487237	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,505 [INFO]  Epoch[2] Train-cross-entropy=2.393194
+2024-04-11 17:04:38,505 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,505 [INFO]  Epoch[2] Time cost=0.024
+2024-04-11 17:04:38,506 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:04:38,508 [INFO]  Epoch[2] Validation-cross-entropy=0.277149
+2024-04-11 17:04:38,508 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,519 [INFO]  Epoch[3] Batch [0-18]	Speed: 26952.55 samples/sec	cross-entropy=0.263964	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,531 [INFO]  Epoch[3] Train-cross-entropy=0.688772
+2024-04-11 17:04:38,531 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,531 [INFO]  Epoch[3] Time cost=0.023
+2024-04-11 17:04:38,532 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:04:38,534 [INFO]  Epoch[3] Validation-cross-entropy=0.265137
+2024-04-11 17:04:38,534 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,589 [INFO]  Epoch[4] Batch [0-18]	Speed: 5297.72 samples/sec	cross-entropy=0.111194	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,610 [INFO]  Epoch[4] Train-cross-entropy=0.281773
+2024-04-11 17:04:38,610 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,610 [INFO]  Epoch[4] Time cost=0.076
+2024-04-11 17:04:38,611 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:04:38,613 [INFO]  Epoch[4] Validation-cross-entropy=0.081885
+2024-04-11 17:04:38,614 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:38,614 [INFO]  
+========== done (0.3477451801300049 s) fit model
+2024-04-11 17:04:55,566 [INFO]  
+========== start: fit model
+2024-04-11 17:04:55,567 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:04:55,583 [INFO]  Epoch[0] Batch [0-18]	Speed: 20727.90 samples/sec	cross-entropy=1.464804	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,593 [INFO]  Epoch[0] Train-cross-entropy=1.310939
+2024-04-11 17:04:55,593 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,593 [INFO]  Epoch[0] Time cost=0.025
+2024-04-11 17:04:55,594 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:04:55,598 [INFO]  Epoch[0] Validation-cross-entropy=0.422018
+2024-04-11 17:04:55,598 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,638 [INFO]  Epoch[1] Batch [0-18]	Speed: 7359.82 samples/sec	cross-entropy=0.899208	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,660 [INFO]  Epoch[1] Train-cross-entropy=3.453347
+2024-04-11 17:04:55,660 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,660 [INFO]  Epoch[1] Time cost=0.062
+2024-04-11 17:04:55,662 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:04:55,664 [INFO]  Epoch[1] Validation-cross-entropy=0.424731
+2024-04-11 17:04:55,664 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,679 [INFO]  Epoch[2] Batch [0-18]	Speed: 20633.36 samples/sec	cross-entropy=0.555837	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,692 [INFO]  Epoch[2] Train-cross-entropy=1.302671
+2024-04-11 17:04:55,692 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,692 [INFO]  Epoch[2] Time cost=0.028
+2024-04-11 17:04:55,694 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:04:55,695 [INFO]  Epoch[2] Validation-cross-entropy=0.080906
+2024-04-11 17:04:55,695 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,711 [INFO]  Epoch[3] Batch [0-18]	Speed: 20415.07 samples/sec	cross-entropy=0.415752	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,723 [INFO]  Epoch[3] Train-cross-entropy=0.305035
+2024-04-11 17:04:55,723 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,723 [INFO]  Epoch[3] Time cost=0.028
+2024-04-11 17:04:55,725 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:04:55,727 [INFO]  Epoch[3] Validation-cross-entropy=0.134001
+2024-04-11 17:04:55,727 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,747 [INFO]  Epoch[4] Batch [0-18]	Speed: 19349.02 samples/sec	cross-entropy=0.218611	Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,764 [INFO]  Epoch[4] Train-cross-entropy=0.103048
+2024-04-11 17:04:55,764 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,764 [INFO]  Epoch[4] Time cost=0.037
+2024-04-11 17:04:55,765 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:04:55,767 [INFO]  Epoch[4] Validation-cross-entropy=0.045507
+2024-04-11 17:04:55,767 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:04:55,767 [INFO]  
+========== done (0.20063328742980957 s) fit model
+2024-04-11 17:05:13,280 [INFO]  
+========== start: fit model
+2024-04-11 17:05:13,281 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:05:13,340 [INFO]  Epoch[0] Batch [0-18]	Speed: 20793.55 samples/sec	cross-entropy=2.432128	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,404 [INFO]  Epoch[0] Train-cross-entropy=0.702039
+2024-04-11 17:05:13,404 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,404 [INFO]  Epoch[0] Time cost=0.123
+2024-04-11 17:05:13,406 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:05:13,409 [INFO]  Epoch[0] Validation-cross-entropy=0.200483
+2024-04-11 17:05:13,409 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,475 [INFO]  Epoch[1] Batch [0-18]	Speed: 4404.30 samples/sec	cross-entropy=1.062059	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,493 [INFO]  Epoch[1] Train-cross-entropy=0.542307
+2024-04-11 17:05:13,493 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,493 [INFO]  Epoch[1] Time cost=0.084
+2024-04-11 17:05:13,495 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:05:13,498 [INFO]  Epoch[1] Validation-cross-entropy=0.104830
+2024-04-11 17:05:13,498 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,520 [INFO]  Epoch[2] Batch [0-18]	Speed: 13737.90 samples/sec	cross-entropy=0.721655	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,538 [INFO]  Epoch[2] Train-cross-entropy=0.500659
+2024-04-11 17:05:13,538 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,538 [INFO]  Epoch[2] Time cost=0.040
+2024-04-11 17:05:13,540 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:05:13,547 [INFO]  Epoch[2] Validation-cross-entropy=0.108377
+2024-04-11 17:05:13,547 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,573 [INFO]  Epoch[3] Batch [0-18]	Speed: 11512.05 samples/sec	cross-entropy=0.554156	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,592 [INFO]  Epoch[3] Train-cross-entropy=0.415901
+2024-04-11 17:05:13,592 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,592 [INFO]  Epoch[3] Time cost=0.045
+2024-04-11 17:05:13,594 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:05:13,611 [INFO]  Epoch[3] Validation-cross-entropy=0.120293
+2024-04-11 17:05:13,611 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,691 [INFO]  Epoch[4] Batch [0-18]	Speed: 3658.11 samples/sec	cross-entropy=0.307852	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,709 [INFO]  Epoch[4] Train-cross-entropy=0.129862
+2024-04-11 17:05:13,710 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,710 [INFO]  Epoch[4] Time cost=0.098
+2024-04-11 17:05:13,711 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:05:13,713 [INFO]  Epoch[4] Validation-cross-entropy=0.055891
+2024-04-11 17:05:13,714 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:13,714 [INFO]  
+========== done (0.43328309059143066 s) fit model
+2024-04-11 17:05:30,931 [INFO]  
+========== start: fit model
+2024-04-11 17:05:30,931 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:05:31,024 [INFO]  Epoch[0] Batch [0-18]	Speed: 10645.35 samples/sec	cross-entropy=1.796141	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,101 [INFO]  Epoch[0] Train-cross-entropy=0.561711
+2024-04-11 17:05:31,101 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,101 [INFO]  Epoch[0] Time cost=0.169
+2024-04-11 17:05:31,103 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:05:31,105 [INFO]  Epoch[0] Validation-cross-entropy=0.720639
+2024-04-11 17:05:31,105 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,120 [INFO]  Epoch[1] Batch [0-18]	Speed: 20420.93 samples/sec	cross-entropy=1.628743	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,144 [INFO]  Epoch[1] Train-cross-entropy=1.151484
+2024-04-11 17:05:31,144 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,144 [INFO]  Epoch[1] Time cost=0.039
+2024-04-11 17:05:31,145 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:05:31,151 [INFO]  Epoch[1] Validation-cross-entropy=1.983540
+2024-04-11 17:05:31,151 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,183 [INFO]  Epoch[2] Batch [0-18]	Speed: 9489.67 samples/sec	cross-entropy=0.911401	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,207 [INFO]  Epoch[2] Train-cross-entropy=0.623685
+2024-04-11 17:05:31,207 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,207 [INFO]  Epoch[2] Time cost=0.056
+2024-04-11 17:05:31,210 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:05:31,212 [INFO]  Epoch[2] Validation-cross-entropy=2.042395
+2024-04-11 17:05:31,213 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,243 [INFO]  Epoch[3] Batch [0-18]	Speed: 9848.67 samples/sec	cross-entropy=0.265079	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,253 [INFO]  Epoch[3] Train-cross-entropy=0.200233
+2024-04-11 17:05:31,253 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,253 [INFO]  Epoch[3] Time cost=0.041
+2024-04-11 17:05:31,255 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:05:31,256 [INFO]  Epoch[3] Validation-cross-entropy=0.495877
+2024-04-11 17:05:31,256 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,267 [INFO]  Epoch[4] Batch [0-18]	Speed: 27686.44 samples/sec	cross-entropy=0.120126	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,281 [INFO]  Epoch[4] Train-cross-entropy=0.098076
+2024-04-11 17:05:31,281 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,281 [INFO]  Epoch[4] Time cost=0.025
+2024-04-11 17:05:31,282 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:05:31,284 [INFO]  Epoch[4] Validation-cross-entropy=0.532974
+2024-04-11 17:05:31,284 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:31,284 [INFO]  
+========== done (0.35361385345458984 s) fit model
+2024-04-11 17:05:46,863 [INFO]  
+========== start: fit model
+2024-04-11 17:05:46,863 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:05:46,890 [INFO]  Epoch[0] Batch [0-18]	Speed: 11604.06 samples/sec	cross-entropy=1.248335	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:46,915 [INFO]  Epoch[0] Train-cross-entropy=4.080188
+2024-04-11 17:05:46,915 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:46,915 [INFO]  Epoch[0] Time cost=0.051
+2024-04-11 17:05:46,917 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:05:46,920 [INFO]  Epoch[0] Validation-cross-entropy=0.635448
+2024-04-11 17:05:46,920 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:46,960 [INFO]  Epoch[1] Batch [0-18]	Speed: 7470.56 samples/sec	cross-entropy=0.339712	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:46,973 [INFO]  Epoch[1] Train-cross-entropy=1.320797
+2024-04-11 17:05:46,973 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:46,973 [INFO]  Epoch[1] Time cost=0.053
+2024-04-11 17:05:46,975 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:05:46,982 [INFO]  Epoch[1] Validation-cross-entropy=0.130743
+2024-04-11 17:05:46,982 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:47,029 [INFO]  Epoch[2] Batch [0-18]	Speed: 6298.05 samples/sec	cross-entropy=0.300573	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:47,041 [INFO]  Epoch[2] Train-cross-entropy=0.422812
+2024-04-11 17:05:47,041 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:47,041 [INFO]  Epoch[2] Time cost=0.059
+2024-04-11 17:05:47,043 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:05:47,045 [INFO]  Epoch[2] Validation-cross-entropy=0.114348
+2024-04-11 17:05:47,045 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:47,058 [INFO]  Epoch[3] Batch [0-18]	Speed: 22660.86 samples/sec	cross-entropy=0.120734	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:47,070 [INFO]  Epoch[3] Train-cross-entropy=0.251050
+2024-04-11 17:05:47,070 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:47,070 [INFO]  Epoch[3] Time cost=0.025
+2024-04-11 17:05:47,072 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:05:47,073 [INFO]  Epoch[3] Validation-cross-entropy=0.051666
+2024-04-11 17:05:47,073 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:47,085 [INFO]  Epoch[4] Batch [0-18]	Speed: 25562.58 samples/sec	cross-entropy=0.063883	Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:47,148 [INFO]  Epoch[4] Train-cross-entropy=0.163909
+2024-04-11 17:05:47,148 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:47,148 [INFO]  Epoch[4] Time cost=0.075
+2024-04-11 17:05:47,150 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:05:47,151 [INFO]  Epoch[4] Validation-cross-entropy=0.050371
+2024-04-11 17:05:47,151 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:05:47,151 [INFO]  
+========== done (0.28840112686157227 s) fit model
+2024-04-11 17:06:06,299 [INFO]  
+========== start: fit model
+2024-04-11 17:06:06,299 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:06:06,327 [INFO]  Epoch[0] Batch [0-18]	Speed: 13799.26 samples/sec	cross-entropy=1.477888	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,400 [INFO]  Epoch[0] Train-cross-entropy=1.472298
+2024-04-11 17:06:06,400 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,400 [INFO]  Epoch[0] Time cost=0.101
+2024-04-11 17:06:06,402 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:06:06,404 [INFO]  Epoch[0] Validation-cross-entropy=1.272852
+2024-04-11 17:06:06,404 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,465 [INFO]  Epoch[1] Batch [0-18]	Speed: 8039.93 samples/sec	cross-entropy=1.043432	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,538 [INFO]  Epoch[1] Train-cross-entropy=2.245845
+2024-04-11 17:06:06,538 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,538 [INFO]  Epoch[1] Time cost=0.134
+2024-04-11 17:06:06,540 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:06:06,558 [INFO]  Epoch[1] Validation-cross-entropy=6.658743
+2024-04-11 17:06:06,559 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,582 [INFO]  Epoch[2] Batch [0-18]	Speed: 12950.24 samples/sec	cross-entropy=0.535200	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,601 [INFO]  Epoch[2] Train-cross-entropy=0.922159
+2024-04-11 17:06:06,601 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,601 [INFO]  Epoch[2] Time cost=0.043
+2024-04-11 17:06:06,603 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:06:06,606 [INFO]  Epoch[2] Validation-cross-entropy=0.213165
+2024-04-11 17:06:06,606 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,712 [INFO]  Epoch[3] Batch [0-18]	Speed: 2767.38 samples/sec	cross-entropy=0.177828	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,727 [INFO]  Epoch[3] Train-cross-entropy=0.511429
+2024-04-11 17:06:06,727 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,727 [INFO]  Epoch[3] Time cost=0.121
+2024-04-11 17:06:06,729 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:06:06,732 [INFO]  Epoch[3] Validation-cross-entropy=3.311548
+2024-04-11 17:06:06,732 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,755 [INFO]  Epoch[4] Batch [0-18]	Speed: 15243.55 samples/sec	cross-entropy=0.143708	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,770 [INFO]  Epoch[4] Train-cross-entropy=0.179700
+2024-04-11 17:06:06,770 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,770 [INFO]  Epoch[4] Time cost=0.038
+2024-04-11 17:06:06,772 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:06:06,777 [INFO]  Epoch[4] Validation-cross-entropy=0.335489
+2024-04-11 17:06:06,777 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:06,777 [INFO]  
+========== done (0.4781618118286133 s) fit model
+2024-04-11 17:06:26,439 [INFO]  
+========== start: fit model
+2024-04-11 17:06:26,440 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:06:26,454 [INFO]  Epoch[0] Batch [0-18]	Speed: 24760.37 samples/sec	cross-entropy=1.306920	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,465 [INFO]  Epoch[0] Train-cross-entropy=1.512548
+2024-04-11 17:06:26,465 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,465 [INFO]  Epoch[0] Time cost=0.024
+2024-04-11 17:06:26,467 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:06:26,468 [INFO]  Epoch[0] Validation-cross-entropy=0.602393
+2024-04-11 17:06:26,468 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,481 [INFO]  Epoch[1] Batch [0-18]	Speed: 23767.97 samples/sec	cross-entropy=1.990677	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,498 [INFO]  Epoch[1] Train-cross-entropy=2.286079
+2024-04-11 17:06:26,499 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,499 [INFO]  Epoch[1] Time cost=0.030
+2024-04-11 17:06:26,501 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:06:26,503 [INFO]  Epoch[1] Validation-cross-entropy=0.885124
+2024-04-11 17:06:26,503 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,646 [INFO]  Epoch[2] Batch [0-18]	Speed: 2035.39 samples/sec	cross-entropy=1.317912	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,720 [INFO]  Epoch[2] Train-cross-entropy=0.993402
+2024-04-11 17:06:26,720 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,720 [INFO]  Epoch[2] Time cost=0.217
+2024-04-11 17:06:26,722 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:06:26,724 [INFO]  Epoch[2] Validation-cross-entropy=0.598922
+2024-04-11 17:06:26,724 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,753 [INFO]  Epoch[3] Batch [0-18]	Speed: 11460.93 samples/sec	cross-entropy=0.504758	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,786 [INFO]  Epoch[3] Train-cross-entropy=0.586655
+2024-04-11 17:06:26,786 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,786 [INFO]  Epoch[3] Time cost=0.062
+2024-04-11 17:06:26,788 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:06:26,791 [INFO]  Epoch[3] Validation-cross-entropy=0.229096
+2024-04-11 17:06:26,791 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,834 [INFO]  Epoch[4] Batch [0-18]	Speed: 6817.70 samples/sec	cross-entropy=0.215833	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,858 [INFO]  Epoch[4] Train-cross-entropy=0.292813
+2024-04-11 17:06:26,858 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,858 [INFO]  Epoch[4] Time cost=0.067
+2024-04-11 17:06:26,860 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:06:26,863 [INFO]  Epoch[4] Validation-cross-entropy=0.385149
+2024-04-11 17:06:26,863 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:26,863 [INFO]  
+========== done (0.4237399101257324 s) fit model
+2024-04-11 17:06:47,405 [INFO]  
+========== start: fit model
+2024-04-11 17:06:47,405 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:06:47,424 [INFO]  Epoch[0] Batch [0-18]	Speed: 22048.29 samples/sec	cross-entropy=1.278955	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,472 [INFO]  Epoch[0] Train-cross-entropy=0.684490
+2024-04-11 17:06:47,472 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,472 [INFO]  Epoch[0] Time cost=0.066
+2024-04-11 17:06:47,474 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:06:47,476 [INFO]  Epoch[0] Validation-cross-entropy=1.372931
+2024-04-11 17:06:47,476 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,520 [INFO]  Epoch[1] Batch [0-18]	Speed: 6703.36 samples/sec	cross-entropy=1.251051	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,561 [INFO]  Epoch[1] Train-cross-entropy=0.247534
+2024-04-11 17:06:47,561 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,561 [INFO]  Epoch[1] Time cost=0.085
+2024-04-11 17:06:47,563 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:06:47,566 [INFO]  Epoch[1] Validation-cross-entropy=0.263808
+2024-04-11 17:06:47,566 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,621 [INFO]  Epoch[2] Batch [0-18]	Speed: 5374.11 samples/sec	cross-entropy=0.926497	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,634 [INFO]  Epoch[2] Train-cross-entropy=1.316430
+2024-04-11 17:06:47,635 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,635 [INFO]  Epoch[2] Time cost=0.068
+2024-04-11 17:06:47,636 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:06:47,638 [INFO]  Epoch[2] Validation-cross-entropy=0.289162
+2024-04-11 17:06:47,638 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,654 [INFO]  Epoch[3] Batch [0-18]	Speed: 19364.53 samples/sec	cross-entropy=1.629507	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,669 [INFO]  Epoch[3] Train-cross-entropy=0.374055
+2024-04-11 17:06:47,669 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,669 [INFO]  Epoch[3] Time cost=0.031
+2024-04-11 17:06:47,671 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:06:47,673 [INFO]  Epoch[3] Validation-cross-entropy=0.682221
+2024-04-11 17:06:47,673 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,688 [INFO]  Epoch[4] Batch [0-18]	Speed: 20399.55 samples/sec	cross-entropy=1.228955	Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,741 [INFO]  Epoch[4] Train-cross-entropy=0.411088
+2024-04-11 17:06:47,741 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,741 [INFO]  Epoch[4] Time cost=0.068
+2024-04-11 17:06:47,745 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:06:47,752 [INFO]  Epoch[4] Validation-cross-entropy=0.218542
+2024-04-11 17:06:47,752 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:06:47,752 [INFO]  
+========== done (0.3469734191894531 s) fit model
+2024-04-11 17:07:07,117 [INFO]  
+========== start: fit model
+2024-04-11 17:07:07,117 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:07:07,141 [INFO]  Epoch[0] Batch [0-18]	Speed: 22207.59 samples/sec	cross-entropy=0.898110	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,151 [INFO]  Epoch[0] Train-cross-entropy=0.803069
+2024-04-11 17:07:07,151 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,151 [INFO]  Epoch[0] Time cost=0.033
+2024-04-11 17:07:07,153 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:07:07,154 [INFO]  Epoch[0] Validation-cross-entropy=3.085350
+2024-04-11 17:07:07,154 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,166 [INFO]  Epoch[1] Batch [0-18]	Speed: 25511.29 samples/sec	cross-entropy=1.222443	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,179 [INFO]  Epoch[1] Train-cross-entropy=0.975576
+2024-04-11 17:07:07,179 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,179 [INFO]  Epoch[1] Time cost=0.024
+2024-04-11 17:07:07,181 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:07:07,182 [INFO]  Epoch[1] Validation-cross-entropy=0.242256
+2024-04-11 17:07:07,182 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,323 [INFO]  Epoch[2] Batch [0-18]	Speed: 2622.45 samples/sec	cross-entropy=2.654764	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,510 [INFO]  Epoch[2] Train-cross-entropy=1.057266
+2024-04-11 17:07:07,510 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,510 [INFO]  Epoch[2] Time cost=0.328
+2024-04-11 17:07:07,512 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:07:07,515 [INFO]  Epoch[2] Validation-cross-entropy=2.064628
+2024-04-11 17:07:07,515 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,532 [INFO]  Epoch[3] Batch [0-18]	Speed: 17708.64 samples/sec	cross-entropy=1.840385	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,622 [INFO]  Epoch[3] Train-cross-entropy=0.915636
+2024-04-11 17:07:07,622 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,622 [INFO]  Epoch[3] Time cost=0.108
+2024-04-11 17:07:07,624 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:07:07,648 [INFO]  Epoch[3] Validation-cross-entropy=0.172176
+2024-04-11 17:07:07,648 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,681 [INFO]  Epoch[4] Batch [0-18]	Speed: 9085.41 samples/sec	cross-entropy=0.659427	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,697 [INFO]  Epoch[4] Train-cross-entropy=0.703843
+2024-04-11 17:07:07,697 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,697 [INFO]  Epoch[4] Time cost=0.049
+2024-04-11 17:07:07,699 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:07:07,702 [INFO]  Epoch[4] Validation-cross-entropy=0.562914
+2024-04-11 17:07:07,702 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:07,702 [INFO]  
+========== done (0.5851445198059082 s) fit model
+2024-04-11 17:07:25,261 [INFO]  
+========== start: fit model
+2024-04-11 17:07:25,261 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:07:25,308 [INFO]  Epoch[0] Batch [0-18]	Speed: 25642.89 samples/sec	cross-entropy=2.019893	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,339 [INFO]  Epoch[0] Train-cross-entropy=1.324542
+2024-04-11 17:07:25,339 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,339 [INFO]  Epoch[0] Time cost=0.077
+2024-04-11 17:07:25,341 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:07:25,342 [INFO]  Epoch[0] Validation-cross-entropy=0.693481
+2024-04-11 17:07:25,342 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,354 [INFO]  Epoch[1] Batch [0-18]	Speed: 27010.41 samples/sec	cross-entropy=0.635511	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,363 [INFO]  Epoch[1] Train-cross-entropy=2.750420
+2024-04-11 17:07:25,363 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,363 [INFO]  Epoch[1] Time cost=0.021
+2024-04-11 17:07:25,365 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:07:25,367 [INFO]  Epoch[1] Validation-cross-entropy=0.451511
+2024-04-11 17:07:25,367 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,378 [INFO]  Epoch[2] Batch [0-18]	Speed: 27081.26 samples/sec	cross-entropy=0.504081	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,388 [INFO]  Epoch[2] Train-cross-entropy=1.865452
+2024-04-11 17:07:25,388 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,388 [INFO]  Epoch[2] Time cost=0.021
+2024-04-11 17:07:25,389 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:07:25,391 [INFO]  Epoch[2] Validation-cross-entropy=0.755493
+2024-04-11 17:07:25,391 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,504 [INFO]  Epoch[3] Batch [0-18]	Speed: 2570.66 samples/sec	cross-entropy=0.600707	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,522 [INFO]  Epoch[3] Train-cross-entropy=1.287570
+2024-04-11 17:07:25,522 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,522 [INFO]  Epoch[3] Time cost=0.131
+2024-04-11 17:07:25,526 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:07:25,531 [INFO]  Epoch[3] Validation-cross-entropy=0.561027
+2024-04-11 17:07:25,531 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,614 [INFO]  Epoch[4] Batch [0-18]	Speed: 3522.28 samples/sec	cross-entropy=0.397613	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,626 [INFO]  Epoch[4] Train-cross-entropy=0.317817
+2024-04-11 17:07:25,626 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,626 [INFO]  Epoch[4] Time cost=0.094
+2024-04-11 17:07:25,627 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:07:25,650 [INFO]  Epoch[4] Validation-cross-entropy=0.155647
+2024-04-11 17:07:25,650 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:25,650 [INFO]  
+========== done (0.38889193534851074 s) fit model
+2024-04-11 17:07:43,490 [INFO]  
+========== start: fit model
+2024-04-11 17:07:43,490 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:07:43,516 [INFO]  Epoch[0] Batch [0-18]	Speed: 12245.03 samples/sec	cross-entropy=2.571518	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,592 [INFO]  Epoch[0] Train-cross-entropy=0.655004
+2024-04-11 17:07:43,592 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,592 [INFO]  Epoch[0] Time cost=0.101
+2024-04-11 17:07:43,594 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:07:43,596 [INFO]  Epoch[0] Validation-cross-entropy=0.328261
+2024-04-11 17:07:43,596 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,615 [INFO]  Epoch[1] Batch [0-18]	Speed: 16276.27 samples/sec	cross-entropy=1.637674	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,631 [INFO]  Epoch[1] Train-cross-entropy=0.928427
+2024-04-11 17:07:43,631 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,631 [INFO]  Epoch[1] Time cost=0.035
+2024-04-11 17:07:43,633 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:07:43,635 [INFO]  Epoch[1] Validation-cross-entropy=0.527092
+2024-04-11 17:07:43,635 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,651 [INFO]  Epoch[2] Batch [0-18]	Speed: 19453.72 samples/sec	cross-entropy=0.692537	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,688 [INFO]  Epoch[2] Train-cross-entropy=0.365437
+2024-04-11 17:07:43,688 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,689 [INFO]  Epoch[2] Time cost=0.053
+2024-04-11 17:07:43,691 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:07:43,700 [INFO]  Epoch[2] Validation-cross-entropy=0.382077
+2024-04-11 17:07:43,701 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,756 [INFO]  Epoch[3] Batch [0-18]	Speed: 5597.67 samples/sec	cross-entropy=0.636502	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,773 [INFO]  Epoch[3] Train-cross-entropy=0.235404
+2024-04-11 17:07:43,773 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,773 [INFO]  Epoch[3] Time cost=0.073
+2024-04-11 17:07:43,775 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:07:43,778 [INFO]  Epoch[3] Validation-cross-entropy=0.307394
+2024-04-11 17:07:43,778 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,799 [INFO]  Epoch[4] Batch [0-18]	Speed: 14603.70 samples/sec	cross-entropy=0.291368	Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,817 [INFO]  Epoch[4] Train-cross-entropy=0.399874
+2024-04-11 17:07:43,817 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,817 [INFO]  Epoch[4] Time cost=0.039
+2024-04-11 17:07:43,819 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:07:43,821 [INFO]  Epoch[4] Validation-cross-entropy=0.606503
+2024-04-11 17:07:43,821 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:07:43,822 [INFO]  
+========== done (0.3316977024078369 s) fit model
+2024-04-11 17:09:10,091 [INFO]  
+========== start: fit model
+2024-04-11 17:09:10,091 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:09:10,130 [INFO]  Epoch[0] Batch [0-18]	Speed: 10342.74 samples/sec	cross-entropy=1.002652	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,144 [INFO]  Epoch[0] Train-cross-entropy=1.000342
+2024-04-11 17:09:10,145 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,145 [INFO]  Epoch[0] Time cost=0.052
+2024-04-11 17:09:10,146 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:09:10,162 [INFO]  Epoch[0] Validation-cross-entropy=0.417107
+2024-04-11 17:09:10,162 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,188 [INFO]  Epoch[1] Batch [0-18]	Speed: 11297.68 samples/sec	cross-entropy=0.417687	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,201 [INFO]  Epoch[1] Train-cross-entropy=0.236928
+2024-04-11 17:09:10,201 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,201 [INFO]  Epoch[1] Time cost=0.039
+2024-04-11 17:09:10,202 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:09:10,211 [INFO]  Epoch[1] Validation-cross-entropy=0.166066
+2024-04-11 17:09:10,211 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,226 [INFO]  Epoch[2] Batch [0-18]	Speed: 21048.63 samples/sec	cross-entropy=1.411800	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,238 [INFO]  Epoch[2] Train-cross-entropy=0.802989
+2024-04-11 17:09:10,238 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,238 [INFO]  Epoch[2] Time cost=0.027
+2024-04-11 17:09:10,240 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:09:10,242 [INFO]  Epoch[2] Validation-cross-entropy=0.273488
+2024-04-11 17:09:10,242 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,257 [INFO]  Epoch[3] Batch [0-18]	Speed: 20877.28 samples/sec	cross-entropy=0.841097	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,270 [INFO]  Epoch[3] Train-cross-entropy=0.583686
+2024-04-11 17:09:10,270 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,270 [INFO]  Epoch[3] Time cost=0.028
+2024-04-11 17:09:10,271 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:09:10,273 [INFO]  Epoch[3] Validation-cross-entropy=0.324730
+2024-04-11 17:09:10,273 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,288 [INFO]  Epoch[4] Batch [0-18]	Speed: 20677.16 samples/sec	cross-entropy=0.610446	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,301 [INFO]  Epoch[4] Train-cross-entropy=1.359699
+2024-04-11 17:09:10,301 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,301 [INFO]  Epoch[4] Time cost=0.028
+2024-04-11 17:09:10,303 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:09:10,305 [INFO]  Epoch[4] Validation-cross-entropy=0.641795
+2024-04-11 17:09:10,305 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:10,305 [INFO]  
+========== done (0.21375489234924316 s) fit model
+2024-04-11 17:09:20,239 [INFO]  
+========== start: fit model
+2024-04-11 17:09:20,239 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:09:20,480 [INFO]  Epoch[0] Batch [0-18]	Speed: 1633.88 samples/sec	cross-entropy=2.205170	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,499 [INFO]  Epoch[0] Train-cross-entropy=0.743369
+2024-04-11 17:09:20,499 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,499 [INFO]  Epoch[0] Time cost=0.259
+2024-04-11 17:09:20,501 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:09:20,507 [INFO]  Epoch[0] Validation-cross-entropy=5.331118
+2024-04-11 17:09:20,507 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,530 [INFO]  Epoch[1] Batch [0-18]	Speed: 13936.33 samples/sec	cross-entropy=1.009959	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,552 [INFO]  Epoch[1] Train-cross-entropy=0.816208
+2024-04-11 17:09:20,552 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,552 [INFO]  Epoch[1] Time cost=0.045
+2024-04-11 17:09:20,554 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:09:20,557 [INFO]  Epoch[1] Validation-cross-entropy=0.859736
+2024-04-11 17:09:20,557 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,577 [INFO]  Epoch[2] Batch [0-18]	Speed: 15018.02 samples/sec	cross-entropy=0.972803	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,629 [INFO]  Epoch[2] Train-cross-entropy=0.567047
+2024-04-11 17:09:20,629 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,629 [INFO]  Epoch[2] Time cost=0.072
+2024-04-11 17:09:20,631 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:09:20,633 [INFO]  Epoch[2] Validation-cross-entropy=2.760091
+2024-04-11 17:09:20,633 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,675 [INFO]  Epoch[3] Batch [0-18]	Speed: 7082.65 samples/sec	cross-entropy=1.364057	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,702 [INFO]  Epoch[3] Train-cross-entropy=0.265084
+2024-04-11 17:09:20,702 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,702 [INFO]  Epoch[3] Time cost=0.069
+2024-04-11 17:09:20,708 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:09:20,716 [INFO]  Epoch[3] Validation-cross-entropy=0.610522
+2024-04-11 17:09:20,716 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,753 [INFO]  Epoch[4] Batch [0-18]	Speed: 7958.83 samples/sec	cross-entropy=0.931740	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,783 [INFO]  Epoch[4] Train-cross-entropy=0.144023
+2024-04-11 17:09:20,783 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,783 [INFO]  Epoch[4] Time cost=0.067
+2024-04-11 17:09:20,785 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:09:20,788 [INFO]  Epoch[4] Validation-cross-entropy=1.200406
+2024-04-11 17:09:20,789 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:20,789 [INFO]  
+========== done (0.5499765872955322 s) fit model
+2024-04-11 17:09:31,293 [INFO]  
+========== start: fit model
+2024-04-11 17:09:31,293 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:09:31,310 [INFO]  Epoch[0] Batch [0-18]	Speed: 20469.38 samples/sec	cross-entropy=3.767684	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,320 [INFO]  Epoch[0] Train-cross-entropy=0.985551
+2024-04-11 17:09:31,320 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,320 [INFO]  Epoch[0] Time cost=0.026
+2024-04-11 17:09:31,321 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:09:31,323 [INFO]  Epoch[0] Validation-cross-entropy=1.263097
+2024-04-11 17:09:31,323 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,333 [INFO]  Epoch[1] Batch [0-18]	Speed: 28661.31 samples/sec	cross-entropy=0.793863	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,343 [INFO]  Epoch[1] Train-cross-entropy=0.411473
+2024-04-11 17:09:31,343 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,343 [INFO]  Epoch[1] Time cost=0.020
+2024-04-11 17:09:31,344 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:09:31,346 [INFO]  Epoch[1] Validation-cross-entropy=0.294557
+2024-04-11 17:09:31,346 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,357 [INFO]  Epoch[2] Batch [0-18]	Speed: 27633.87 samples/sec	cross-entropy=0.518890	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,366 [INFO]  Epoch[2] Train-cross-entropy=0.252527
+2024-04-11 17:09:31,366 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,366 [INFO]  Epoch[2] Time cost=0.020
+2024-04-11 17:09:31,367 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:09:31,369 [INFO]  Epoch[2] Validation-cross-entropy=0.278761
+2024-04-11 17:09:31,369 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,380 [INFO]  Epoch[3] Batch [0-18]	Speed: 27530.59 samples/sec	cross-entropy=0.201831	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,389 [INFO]  Epoch[3] Train-cross-entropy=0.102951
+2024-04-11 17:09:31,389 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,389 [INFO]  Epoch[3] Time cost=0.020
+2024-04-11 17:09:31,391 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:09:31,392 [INFO]  Epoch[3] Validation-cross-entropy=0.144215
+2024-04-11 17:09:31,392 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,403 [INFO]  Epoch[4] Batch [0-18]	Speed: 27665.52 samples/sec	cross-entropy=0.195873	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,413 [INFO]  Epoch[4] Train-cross-entropy=0.068951
+2024-04-11 17:09:31,413 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,413 [INFO]  Epoch[4] Time cost=0.021
+2024-04-11 17:09:31,414 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:09:31,416 [INFO]  Epoch[4] Validation-cross-entropy=0.131936
+2024-04-11 17:09:31,416 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:31,416 [INFO]  
+========== done (0.12282061576843262 s) fit model
+2024-04-11 17:09:42,027 [INFO]  
+========== start: fit model
+2024-04-11 17:09:42,027 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:09:42,048 [INFO]  Epoch[0] Batch [0-18]	Speed: 18134.81 samples/sec	cross-entropy=1.381324	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,060 [INFO]  Epoch[0] Train-cross-entropy=0.841604
+2024-04-11 17:09:42,060 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,060 [INFO]  Epoch[0] Time cost=0.030
+2024-04-11 17:09:42,062 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:09:42,063 [INFO]  Epoch[0] Validation-cross-entropy=2.408752
+2024-04-11 17:09:42,063 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,075 [INFO]  Epoch[1] Batch [0-18]	Speed: 26687.57 samples/sec	cross-entropy=0.866545	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,085 [INFO]  Epoch[1] Train-cross-entropy=1.517344
+2024-04-11 17:09:42,085 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,085 [INFO]  Epoch[1] Time cost=0.021
+2024-04-11 17:09:42,086 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:09:42,088 [INFO]  Epoch[1] Validation-cross-entropy=0.263285
+2024-04-11 17:09:42,088 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,099 [INFO]  Epoch[2] Batch [0-18]	Speed: 27760.25 samples/sec	cross-entropy=0.265759	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,109 [INFO]  Epoch[2] Train-cross-entropy=1.703364
+2024-04-11 17:09:42,109 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,109 [INFO]  Epoch[2] Time cost=0.021
+2024-04-11 17:09:42,110 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:09:42,112 [INFO]  Epoch[2] Validation-cross-entropy=0.967314
+2024-04-11 17:09:42,112 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,123 [INFO]  Epoch[3] Batch [0-18]	Speed: 28075.11 samples/sec	cross-entropy=0.487562	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,132 [INFO]  Epoch[3] Train-cross-entropy=0.933055
+2024-04-11 17:09:42,132 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,132 [INFO]  Epoch[3] Time cost=0.020
+2024-04-11 17:09:42,133 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:09:42,135 [INFO]  Epoch[3] Validation-cross-entropy=0.126383
+2024-04-11 17:09:42,135 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,153 [INFO]  Epoch[4] Batch [0-18]	Speed: 16534.48 samples/sec	cross-entropy=0.190147	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,164 [INFO]  Epoch[4] Train-cross-entropy=0.388695
+2024-04-11 17:09:42,165 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,165 [INFO]  Epoch[4] Time cost=0.030
+2024-04-11 17:09:42,166 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:09:42,168 [INFO]  Epoch[4] Validation-cross-entropy=0.479329
+2024-04-11 17:09:42,168 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:42,168 [INFO]  
+========== done (0.14090847969055176 s) fit model
+2024-04-11 17:09:52,468 [INFO]  
+========== start: fit model
+2024-04-11 17:09:52,468 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:09:52,495 [INFO]  Epoch[0] Batch [0-18]	Speed: 19109.66 samples/sec	cross-entropy=2.197668	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,508 [INFO]  Epoch[0] Train-cross-entropy=0.860114
+2024-04-11 17:09:52,508 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,508 [INFO]  Epoch[0] Time cost=0.039
+2024-04-11 17:09:52,510 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:09:52,512 [INFO]  Epoch[0] Validation-cross-entropy=1.657468
+2024-04-11 17:09:52,512 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,527 [INFO]  Epoch[1] Batch [0-18]	Speed: 20490.56 samples/sec	cross-entropy=2.115792	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,548 [INFO]  Epoch[1] Train-cross-entropy=0.696423
+2024-04-11 17:09:52,549 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,549 [INFO]  Epoch[1] Time cost=0.037
+2024-04-11 17:09:52,550 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:09:52,552 [INFO]  Epoch[1] Validation-cross-entropy=0.640048
+2024-04-11 17:09:52,552 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,569 [INFO]  Epoch[2] Batch [0-18]	Speed: 19003.83 samples/sec	cross-entropy=0.626850	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,583 [INFO]  Epoch[2] Train-cross-entropy=0.359812
+2024-04-11 17:09:52,583 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,583 [INFO]  Epoch[2] Time cost=0.031
+2024-04-11 17:09:52,585 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:09:52,587 [INFO]  Epoch[2] Validation-cross-entropy=0.405408
+2024-04-11 17:09:52,587 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,605 [INFO]  Epoch[3] Batch [0-18]	Speed: 16945.49 samples/sec	cross-entropy=0.457310	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,620 [INFO]  Epoch[3] Train-cross-entropy=0.225190
+2024-04-11 17:09:52,620 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,620 [INFO]  Epoch[3] Time cost=0.033
+2024-04-11 17:09:52,623 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:09:52,625 [INFO]  Epoch[3] Validation-cross-entropy=0.981360
+2024-04-11 17:09:52,625 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,642 [INFO]  Epoch[4] Batch [0-18]	Speed: 17467.42 samples/sec	cross-entropy=0.420954	Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,657 [INFO]  Epoch[4] Train-cross-entropy=0.248342
+2024-04-11 17:09:52,657 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,657 [INFO]  Epoch[4] Time cost=0.033
+2024-04-11 17:09:52,659 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:09:52,661 [INFO]  Epoch[4] Validation-cross-entropy=0.568378
+2024-04-11 17:09:52,661 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:09:52,661 [INFO]  
+========== done (0.19383502006530762 s) fit model
+2024-04-11 17:10:03,405 [INFO]  
+========== start: fit model
+2024-04-11 17:10:03,406 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:10:03,422 [INFO]  Epoch[0] Batch [0-18]	Speed: 21709.10 samples/sec	cross-entropy=1.893755	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,433 [INFO]  Epoch[0] Train-cross-entropy=0.556100
+2024-04-11 17:10:03,433 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,433 [INFO]  Epoch[0] Time cost=0.026
+2024-04-11 17:10:03,434 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:10:03,436 [INFO]  Epoch[0] Validation-cross-entropy=0.168896
+2024-04-11 17:10:03,436 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,448 [INFO]  Epoch[1] Batch [0-18]	Speed: 26257.71 samples/sec	cross-entropy=1.158850	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,458 [INFO]  Epoch[1] Train-cross-entropy=0.244782
+2024-04-11 17:10:03,458 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,458 [INFO]  Epoch[1] Time cost=0.022
+2024-04-11 17:10:03,459 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:10:03,461 [INFO]  Epoch[1] Validation-cross-entropy=0.099613
+2024-04-11 17:10:03,461 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,473 [INFO]  Epoch[2] Batch [0-18]	Speed: 25077.01 samples/sec	cross-entropy=0.631761	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,483 [INFO]  Epoch[2] Train-cross-entropy=0.151372
+2024-04-11 17:10:03,483 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,483 [INFO]  Epoch[2] Time cost=0.022
+2024-04-11 17:10:03,484 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:10:03,486 [INFO]  Epoch[2] Validation-cross-entropy=0.182700
+2024-04-11 17:10:03,486 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,498 [INFO]  Epoch[3] Batch [0-18]	Speed: 25408.80 samples/sec	cross-entropy=0.500272	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,509 [INFO]  Epoch[3] Train-cross-entropy=0.149208
+2024-04-11 17:10:03,509 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,509 [INFO]  Epoch[3] Time cost=0.024
+2024-04-11 17:10:03,511 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:10:03,512 [INFO]  Epoch[3] Validation-cross-entropy=0.110544
+2024-04-11 17:10:03,513 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,527 [INFO]  Epoch[4] Batch [0-18]	Speed: 21864.31 samples/sec	cross-entropy=0.298861	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,538 [INFO]  Epoch[4] Train-cross-entropy=0.218908
+2024-04-11 17:10:03,539 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,539 [INFO]  Epoch[4] Time cost=0.026
+2024-04-11 17:10:03,541 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:10:03,542 [INFO]  Epoch[4] Validation-cross-entropy=0.150159
+2024-04-11 17:10:03,542 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:03,542 [INFO]  
+========== done (0.13695478439331055 s) fit model
+2024-04-11 17:10:14,059 [INFO]  
+========== start: fit model
+2024-04-11 17:10:14,059 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:10:14,076 [INFO]  Epoch[0] Batch [0-18]	Speed: 19754.69 samples/sec	cross-entropy=1.160536	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,086 [INFO]  Epoch[0] Train-cross-entropy=1.315835
+2024-04-11 17:10:14,086 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,086 [INFO]  Epoch[0] Time cost=0.026
+2024-04-11 17:10:14,088 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:10:14,089 [INFO]  Epoch[0] Validation-cross-entropy=0.790870
+2024-04-11 17:10:14,089 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,100 [INFO]  Epoch[1] Batch [0-18]	Speed: 28167.41 samples/sec	cross-entropy=1.134675	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,110 [INFO]  Epoch[1] Train-cross-entropy=1.505077
+2024-04-11 17:10:14,110 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,110 [INFO]  Epoch[1] Time cost=0.020
+2024-04-11 17:10:14,111 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:10:14,113 [INFO]  Epoch[1] Validation-cross-entropy=0.333077
+2024-04-11 17:10:14,113 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,124 [INFO]  Epoch[2] Batch [0-18]	Speed: 27493.62 samples/sec	cross-entropy=0.414389	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,133 [INFO]  Epoch[2] Train-cross-entropy=0.882611
+2024-04-11 17:10:14,134 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,134 [INFO]  Epoch[2] Time cost=0.021
+2024-04-11 17:10:14,135 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:10:14,137 [INFO]  Epoch[2] Validation-cross-entropy=0.347363
+2024-04-11 17:10:14,137 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,159 [INFO]  Epoch[3] Batch [0-18]	Speed: 13630.01 samples/sec	cross-entropy=0.905379	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,173 [INFO]  Epoch[3] Train-cross-entropy=0.128266
+2024-04-11 17:10:14,173 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,173 [INFO]  Epoch[3] Time cost=0.036
+2024-04-11 17:10:14,175 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:10:14,177 [INFO]  Epoch[3] Validation-cross-entropy=0.133560
+2024-04-11 17:10:14,177 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,194 [INFO]  Epoch[4] Batch [0-18]	Speed: 18536.65 samples/sec	cross-entropy=0.203537	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,209 [INFO]  Epoch[4] Train-cross-entropy=0.038551
+2024-04-11 17:10:14,209 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,209 [INFO]  Epoch[4] Time cost=0.032
+2024-04-11 17:10:14,211 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:10:14,213 [INFO]  Epoch[4] Validation-cross-entropy=0.074172
+2024-04-11 17:10:14,213 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:14,213 [INFO]  
+========== done (0.15412068367004395 s) fit model
+2024-04-11 17:10:24,848 [INFO]  
+========== start: fit model
+2024-04-11 17:10:24,848 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:10:24,865 [INFO]  Epoch[0] Batch [0-18]	Speed: 20109.87 samples/sec	cross-entropy=3.594236	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:24,877 [INFO]  Epoch[0] Train-cross-entropy=0.713870
+2024-04-11 17:10:24,877 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:24,877 [INFO]  Epoch[0] Time cost=0.028
+2024-04-11 17:10:24,878 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:10:24,880 [INFO]  Epoch[0] Validation-cross-entropy=0.258934
+2024-04-11 17:10:24,880 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:24,894 [INFO]  Epoch[1] Batch [0-18]	Speed: 22508.00 samples/sec	cross-entropy=1.510633	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:24,907 [INFO]  Epoch[1] Train-cross-entropy=0.580583
+2024-04-11 17:10:24,907 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:24,907 [INFO]  Epoch[1] Time cost=0.027
+2024-04-11 17:10:24,909 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:10:24,911 [INFO]  Epoch[1] Validation-cross-entropy=0.244134
+2024-04-11 17:10:24,911 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:24,926 [INFO]  Epoch[2] Batch [0-18]	Speed: 20137.02 samples/sec	cross-entropy=0.370956	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:24,941 [INFO]  Epoch[2] Train-cross-entropy=0.165101
+2024-04-11 17:10:24,941 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:24,941 [INFO]  Epoch[2] Time cost=0.030
+2024-04-11 17:10:24,943 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:10:24,945 [INFO]  Epoch[2] Validation-cross-entropy=0.062395
+2024-04-11 17:10:24,945 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:24,961 [INFO]  Epoch[3] Batch [0-18]	Speed: 20130.65 samples/sec	cross-entropy=0.246936	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:24,974 [INFO]  Epoch[3] Train-cross-entropy=0.072231
+2024-04-11 17:10:24,975 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:24,975 [INFO]  Epoch[3] Time cost=0.029
+2024-04-11 17:10:24,976 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:10:24,978 [INFO]  Epoch[3] Validation-cross-entropy=0.047404
+2024-04-11 17:10:24,978 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:24,993 [INFO]  Epoch[4] Batch [0-18]	Speed: 20641.82 samples/sec	cross-entropy=0.202955	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:25,006 [INFO]  Epoch[4] Train-cross-entropy=0.115648
+2024-04-11 17:10:25,006 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:25,006 [INFO]  Epoch[4] Time cost=0.028
+2024-04-11 17:10:25,008 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:10:25,009 [INFO]  Epoch[4] Validation-cross-entropy=0.039469
+2024-04-11 17:10:25,010 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:25,010 [INFO]  
+========== done (0.16184043884277344 s) fit model
+2024-04-11 17:10:34,861 [INFO]  
+========== start: fit model
+2024-04-11 17:10:34,861 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:10:34,924 [INFO]  Epoch[0] Batch [0-18]	Speed: 9537.25 samples/sec	cross-entropy=0.839221	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:34,934 [INFO]  Epoch[0] Train-cross-entropy=0.645977
+2024-04-11 17:10:34,934 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:34,934 [INFO]  Epoch[0] Time cost=0.072
+2024-04-11 17:10:34,935 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:10:34,937 [INFO]  Epoch[0] Validation-cross-entropy=2.387197
+2024-04-11 17:10:34,937 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:34,948 [INFO]  Epoch[1] Batch [0-18]	Speed: 26985.07 samples/sec	cross-entropy=0.557431	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:34,971 [INFO]  Epoch[1] Train-cross-entropy=1.375156
+2024-04-11 17:10:34,971 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:34,971 [INFO]  Epoch[1] Time cost=0.035
+2024-04-11 17:10:34,974 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:10:34,977 [INFO]  Epoch[1] Validation-cross-entropy=3.263617
+2024-04-11 17:10:34,977 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:35,010 [INFO]  Epoch[2] Batch [0-18]	Speed: 10367.24 samples/sec	cross-entropy=1.175149	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:35,033 [INFO]  Epoch[2] Train-cross-entropy=0.494116
+2024-04-11 17:10:35,033 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:35,033 [INFO]  Epoch[2] Time cost=0.057
+2024-04-11 17:10:35,036 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:10:35,039 [INFO]  Epoch[2] Validation-cross-entropy=1.536599
+2024-04-11 17:10:35,040 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:35,067 [INFO]  Epoch[3] Batch [0-18]	Speed: 11118.82 samples/sec	cross-entropy=1.424563	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:35,091 [INFO]  Epoch[3] Train-cross-entropy=0.554271
+2024-04-11 17:10:35,091 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:35,091 [INFO]  Epoch[3] Time cost=0.052
+2024-04-11 17:10:35,094 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:10:35,105 [INFO]  Epoch[3] Validation-cross-entropy=0.185777
+2024-04-11 17:10:35,105 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:35,150 [INFO]  Epoch[4] Batch [0-18]	Speed: 6626.07 samples/sec	cross-entropy=0.331305	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:35,177 [INFO]  Epoch[4] Train-cross-entropy=0.088957
+2024-04-11 17:10:35,177 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:35,177 [INFO]  Epoch[4] Time cost=0.072
+2024-04-11 17:10:35,179 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:10:35,184 [INFO]  Epoch[4] Validation-cross-entropy=0.128396
+2024-04-11 17:10:35,184 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:35,184 [INFO]  
+========== done (0.32320666313171387 s) fit model
+2024-04-11 17:10:44,830 [INFO]  
+========== start: fit model
+2024-04-11 17:10:44,831 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:10:44,908 [INFO]  Epoch[0] Batch [0-18]	Speed: 5083.36 samples/sec	cross-entropy=1.911738	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:44,975 [INFO]  Epoch[0] Train-cross-entropy=1.180311
+2024-04-11 17:10:44,975 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:44,975 [INFO]  Epoch[0] Time cost=0.143
+2024-04-11 17:10:44,977 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:10:44,987 [INFO]  Epoch[0] Validation-cross-entropy=4.003002
+2024-04-11 17:10:44,987 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:45,039 [INFO]  Epoch[1] Batch [0-18]	Speed: 5837.02 samples/sec	cross-entropy=0.906671	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:45,082 [INFO]  Epoch[1] Train-cross-entropy=5.075672
+2024-04-11 17:10:45,082 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:45,082 [INFO]  Epoch[1] Time cost=0.095
+2024-04-11 17:10:45,085 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:10:45,087 [INFO]  Epoch[1] Validation-cross-entropy=2.013362
+2024-04-11 17:10:45,087 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:45,111 [INFO]  Epoch[2] Batch [0-18]	Speed: 13241.98 samples/sec	cross-entropy=0.745638	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:45,366 [INFO]  Epoch[2] Train-cross-entropy=3.170440
+2024-04-11 17:10:45,366 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:45,366 [INFO]  Epoch[2] Time cost=0.278
+2024-04-11 17:10:45,368 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:10:45,395 [INFO]  Epoch[2] Validation-cross-entropy=1.502884
+2024-04-11 17:10:45,395 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:45,410 [INFO]  Epoch[3] Batch [0-18]	Speed: 21080.95 samples/sec	cross-entropy=0.511860	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:45,423 [INFO]  Epoch[3] Train-cross-entropy=2.714534
+2024-04-11 17:10:45,423 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:45,423 [INFO]  Epoch[3] Time cost=0.027
+2024-04-11 17:10:45,424 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:10:45,426 [INFO]  Epoch[3] Validation-cross-entropy=1.223850
+2024-04-11 17:10:45,426 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:45,446 [INFO]  Epoch[4] Batch [0-18]	Speed: 15433.83 samples/sec	cross-entropy=0.443942	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:45,468 [INFO]  Epoch[4] Train-cross-entropy=1.053156
+2024-04-11 17:10:45,468 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:45,468 [INFO]  Epoch[4] Time cost=0.041
+2024-04-11 17:10:45,470 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:10:45,473 [INFO]  Epoch[4] Validation-cross-entropy=0.325594
+2024-04-11 17:10:45,473 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:45,473 [INFO]  
+========== done (0.6424422264099121 s) fit model
+2024-04-11 17:10:53,932 [INFO]  
+========== start: fit model
+2024-04-11 17:10:53,932 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:10:53,951 [INFO]  Epoch[0] Batch [0-18]	Speed: 16661.28 samples/sec	cross-entropy=2.824979	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:53,963 [INFO]  Epoch[0] Train-cross-entropy=1.324947
+2024-04-11 17:10:53,963 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:53,963 [INFO]  Epoch[0] Time cost=0.030
+2024-04-11 17:10:53,964 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:10:53,966 [INFO]  Epoch[0] Validation-cross-entropy=0.763657
+2024-04-11 17:10:53,966 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:53,977 [INFO]  Epoch[1] Batch [0-18]	Speed: 27550.05 samples/sec	cross-entropy=2.227138	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:53,988 [INFO]  Epoch[1] Train-cross-entropy=4.351114
+2024-04-11 17:10:53,988 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:53,988 [INFO]  Epoch[1] Time cost=0.022
+2024-04-11 17:10:53,989 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:10:53,991 [INFO]  Epoch[1] Validation-cross-entropy=0.500614
+2024-04-11 17:10:53,991 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:54,002 [INFO]  Epoch[2] Batch [0-18]	Speed: 27595.37 samples/sec	cross-entropy=0.880097	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:54,011 [INFO]  Epoch[2] Train-cross-entropy=1.479476
+2024-04-11 17:10:54,011 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:54,012 [INFO]  Epoch[2] Time cost=0.021
+2024-04-11 17:10:54,013 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:10:54,014 [INFO]  Epoch[2] Validation-cross-entropy=0.362904
+2024-04-11 17:10:54,014 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:54,025 [INFO]  Epoch[3] Batch [0-18]	Speed: 28306.02 samples/sec	cross-entropy=0.569525	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:54,036 [INFO]  Epoch[3] Train-cross-entropy=0.689154
+2024-04-11 17:10:54,036 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:54,036 [INFO]  Epoch[3] Time cost=0.022
+2024-04-11 17:10:54,038 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:10:54,039 [INFO]  Epoch[3] Validation-cross-entropy=0.262516
+2024-04-11 17:10:54,039 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:54,050 [INFO]  Epoch[4] Batch [0-18]	Speed: 28360.52 samples/sec	cross-entropy=0.185863	Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:54,059 [INFO]  Epoch[4] Train-cross-entropy=0.188643
+2024-04-11 17:10:54,059 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:54,059 [INFO]  Epoch[4] Time cost=0.020
+2024-04-11 17:10:54,062 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:10:54,063 [INFO]  Epoch[4] Validation-cross-entropy=0.189326
+2024-04-11 17:10:54,063 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:10:54,064 [INFO]  
+========== done (0.13185358047485352 s) fit model
+2024-04-11 17:11:01,541 [INFO]  
+========== start: fit model
+2024-04-11 17:11:01,541 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:11:01,558 [INFO]  Epoch[0] Batch [0-18]	Speed: 19970.56 samples/sec	cross-entropy=0.837357	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,568 [INFO]  Epoch[0] Train-cross-entropy=0.679186
+2024-04-11 17:11:01,568 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,568 [INFO]  Epoch[0] Time cost=0.026
+2024-04-11 17:11:01,570 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:11:01,571 [INFO]  Epoch[0] Validation-cross-entropy=5.668540
+2024-04-11 17:11:01,571 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,582 [INFO]  Epoch[1] Batch [0-18]	Speed: 27961.38 samples/sec	cross-entropy=1.103552	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,592 [INFO]  Epoch[1] Train-cross-entropy=2.929966
+2024-04-11 17:11:01,593 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,593 [INFO]  Epoch[1] Time cost=0.021
+2024-04-11 17:11:01,594 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:11:01,596 [INFO]  Epoch[1] Validation-cross-entropy=6.521161
+2024-04-11 17:11:01,596 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,607 [INFO]  Epoch[2] Batch [0-18]	Speed: 28018.45 samples/sec	cross-entropy=1.875338	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,616 [INFO]  Epoch[2] Train-cross-entropy=1.601236
+2024-04-11 17:11:01,616 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,616 [INFO]  Epoch[2] Time cost=0.021
+2024-04-11 17:11:01,618 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:11:01,619 [INFO]  Epoch[2] Validation-cross-entropy=1.688373
+2024-04-11 17:11:01,619 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,630 [INFO]  Epoch[3] Batch [0-18]	Speed: 27648.42 samples/sec	cross-entropy=0.832922	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,640 [INFO]  Epoch[3] Train-cross-entropy=0.977979
+2024-04-11 17:11:01,640 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,640 [INFO]  Epoch[3] Time cost=0.021
+2024-04-11 17:11:01,641 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:11:01,643 [INFO]  Epoch[3] Validation-cross-entropy=1.061014
+2024-04-11 17:11:01,643 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,654 [INFO]  Epoch[4] Batch [0-18]	Speed: 27876.20 samples/sec	cross-entropy=0.403953	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,663 [INFO]  Epoch[4] Train-cross-entropy=0.222186
+2024-04-11 17:11:01,664 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,664 [INFO]  Epoch[4] Time cost=0.021
+2024-04-11 17:11:01,665 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:11:01,667 [INFO]  Epoch[4] Validation-cross-entropy=0.143048
+2024-04-11 17:11:01,667 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:01,667 [INFO]  
+========== done (0.12592554092407227 s) fit model
+2024-04-11 17:11:09,216 [INFO]  
+========== start: fit model
+2024-04-11 17:11:09,216 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:11:09,232 [INFO]  Epoch[0] Batch [0-18]	Speed: 21269.89 samples/sec	cross-entropy=2.896162	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,248 [INFO]  Epoch[0] Train-cross-entropy=1.452230
+2024-04-11 17:11:09,248 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,248 [INFO]  Epoch[0] Time cost=0.031
+2024-04-11 17:11:09,251 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:11:09,253 [INFO]  Epoch[0] Validation-cross-entropy=1.594305
+2024-04-11 17:11:09,253 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,268 [INFO]  Epoch[1] Batch [0-18]	Speed: 21216.47 samples/sec	cross-entropy=2.177356	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,278 [INFO]  Epoch[1] Train-cross-entropy=0.580539
+2024-04-11 17:11:09,278 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,278 [INFO]  Epoch[1] Time cost=0.025
+2024-04-11 17:11:09,280 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:11:09,281 [INFO]  Epoch[1] Validation-cross-entropy=0.630350
+2024-04-11 17:11:09,282 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,293 [INFO]  Epoch[2] Batch [0-18]	Speed: 27379.58 samples/sec	cross-entropy=1.487885	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,302 [INFO]  Epoch[2] Train-cross-entropy=0.479631
+2024-04-11 17:11:09,302 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,302 [INFO]  Epoch[2] Time cost=0.021
+2024-04-11 17:11:09,304 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:11:09,305 [INFO]  Epoch[2] Validation-cross-entropy=0.684487
+2024-04-11 17:11:09,305 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,317 [INFO]  Epoch[3] Batch [0-18]	Speed: 27552.56 samples/sec	cross-entropy=0.687702	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,327 [INFO]  Epoch[3] Train-cross-entropy=0.310579
+2024-04-11 17:11:09,327 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,327 [INFO]  Epoch[3] Time cost=0.022
+2024-04-11 17:11:09,329 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:11:09,330 [INFO]  Epoch[3] Validation-cross-entropy=0.109627
+2024-04-11 17:11:09,330 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,342 [INFO]  Epoch[4] Batch [0-18]	Speed: 25743.99 samples/sec	cross-entropy=0.404551	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,352 [INFO]  Epoch[4] Train-cross-entropy=0.300456
+2024-04-11 17:11:09,352 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,352 [INFO]  Epoch[4] Time cost=0.022
+2024-04-11 17:11:09,357 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:11:09,359 [INFO]  Epoch[4] Validation-cross-entropy=0.681173
+2024-04-11 17:11:09,359 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:09,359 [INFO]  
+========== done (0.1434774398803711 s) fit model
+2024-04-11 17:11:16,989 [INFO]  
+========== start: fit model
+2024-04-11 17:11:16,990 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:11:17,019 [INFO]  Epoch[0] Batch [0-18]	Speed: 10490.59 samples/sec	cross-entropy=1.121800	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,033 [INFO]  Epoch[0] Train-cross-entropy=0.999736
+2024-04-11 17:11:17,033 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,033 [INFO]  Epoch[0] Time cost=0.043
+2024-04-11 17:11:17,035 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:11:17,037 [INFO]  Epoch[0] Validation-cross-entropy=1.548153
+2024-04-11 17:11:17,037 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,054 [INFO]  Epoch[1] Batch [0-18]	Speed: 18300.75 samples/sec	cross-entropy=0.808915	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,068 [INFO]  Epoch[1] Train-cross-entropy=2.108234
+2024-04-11 17:11:17,068 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,068 [INFO]  Epoch[1] Time cost=0.031
+2024-04-11 17:11:17,071 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:11:17,072 [INFO]  Epoch[1] Validation-cross-entropy=1.240124
+2024-04-11 17:11:17,072 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,088 [INFO]  Epoch[2] Batch [0-18]	Speed: 19751.13 samples/sec	cross-entropy=0.887495	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,098 [INFO]  Epoch[2] Train-cross-entropy=1.343682
+2024-04-11 17:11:17,098 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,098 [INFO]  Epoch[2] Time cost=0.026
+2024-04-11 17:11:17,099 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:11:17,101 [INFO]  Epoch[2] Validation-cross-entropy=2.691799
+2024-04-11 17:11:17,101 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,112 [INFO]  Epoch[3] Batch [0-18]	Speed: 27503.63 samples/sec	cross-entropy=0.421404	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,123 [INFO]  Epoch[3] Train-cross-entropy=0.504974
+2024-04-11 17:11:17,123 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,123 [INFO]  Epoch[3] Time cost=0.022
+2024-04-11 17:11:17,124 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:11:17,125 [INFO]  Epoch[3] Validation-cross-entropy=0.248791
+2024-04-11 17:11:17,126 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,137 [INFO]  Epoch[4] Batch [0-18]	Speed: 27560.74 samples/sec	cross-entropy=0.238437	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,147 [INFO]  Epoch[4] Train-cross-entropy=0.128023
+2024-04-11 17:11:17,147 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,147 [INFO]  Epoch[4] Time cost=0.021
+2024-04-11 17:11:17,148 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:11:17,149 [INFO]  Epoch[4] Validation-cross-entropy=1.043653
+2024-04-11 17:11:17,150 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:17,150 [INFO]  
+========== done (0.1602180004119873 s) fit model
+2024-04-11 17:11:24,554 [INFO]  
+========== start: fit model
+2024-04-11 17:11:24,554 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:11:24,567 [INFO]  Epoch[0] Batch [0-18]	Speed: 27038.22 samples/sec	cross-entropy=1.107487	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,576 [INFO]  Epoch[0] Train-cross-entropy=0.600199
+2024-04-11 17:11:24,576 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,576 [INFO]  Epoch[0] Time cost=0.022
+2024-04-11 17:11:24,578 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:11:24,579 [INFO]  Epoch[0] Validation-cross-entropy=0.547621
+2024-04-11 17:11:24,580 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,591 [INFO]  Epoch[1] Batch [0-18]	Speed: 27349.20 samples/sec	cross-entropy=0.539093	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,600 [INFO]  Epoch[1] Train-cross-entropy=2.531000
+2024-04-11 17:11:24,600 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,600 [INFO]  Epoch[1] Time cost=0.021
+2024-04-11 17:11:24,602 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:11:24,603 [INFO]  Epoch[1] Validation-cross-entropy=0.522054
+2024-04-11 17:11:24,603 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,617 [INFO]  Epoch[2] Batch [0-18]	Speed: 22574.46 samples/sec	cross-entropy=0.487237	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,630 [INFO]  Epoch[2] Train-cross-entropy=2.393194
+2024-04-11 17:11:24,630 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,630 [INFO]  Epoch[2] Time cost=0.027
+2024-04-11 17:11:24,632 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:11:24,633 [INFO]  Epoch[2] Validation-cross-entropy=0.277149
+2024-04-11 17:11:24,633 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,649 [INFO]  Epoch[3] Batch [0-18]	Speed: 20398.86 samples/sec	cross-entropy=0.263964	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,659 [INFO]  Epoch[3] Train-cross-entropy=0.688772
+2024-04-11 17:11:24,659 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,659 [INFO]  Epoch[3] Time cost=0.025
+2024-04-11 17:11:24,660 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:11:24,662 [INFO]  Epoch[3] Validation-cross-entropy=0.265137
+2024-04-11 17:11:24,662 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,673 [INFO]  Epoch[4] Batch [0-18]	Speed: 28121.51 samples/sec	cross-entropy=0.111194	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,682 [INFO]  Epoch[4] Train-cross-entropy=0.281773
+2024-04-11 17:11:24,682 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,682 [INFO]  Epoch[4] Time cost=0.020
+2024-04-11 17:11:24,684 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:11:24,685 [INFO]  Epoch[4] Validation-cross-entropy=0.081885
+2024-04-11 17:11:24,686 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:24,686 [INFO]  
+========== done (0.13205671310424805 s) fit model
+2024-04-11 17:11:32,231 [INFO]  
+========== start: fit model
+2024-04-11 17:11:32,231 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:11:32,247 [INFO]  Epoch[0] Batch [0-18]	Speed: 21805.11 samples/sec	cross-entropy=1.464804	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,257 [INFO]  Epoch[0] Train-cross-entropy=1.310939
+2024-04-11 17:11:32,257 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,257 [INFO]  Epoch[0] Time cost=0.025
+2024-04-11 17:11:32,259 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:11:32,260 [INFO]  Epoch[0] Validation-cross-entropy=0.422018
+2024-04-11 17:11:32,261 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,272 [INFO]  Epoch[1] Batch [0-18]	Speed: 26767.41 samples/sec	cross-entropy=0.899208	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,281 [INFO]  Epoch[1] Train-cross-entropy=3.453347
+2024-04-11 17:11:32,282 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,282 [INFO]  Epoch[1] Time cost=0.021
+2024-04-11 17:11:32,283 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:11:32,285 [INFO]  Epoch[1] Validation-cross-entropy=0.424731
+2024-04-11 17:11:32,285 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,297 [INFO]  Epoch[2] Batch [0-18]	Speed: 24861.79 samples/sec	cross-entropy=0.555837	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,306 [INFO]  Epoch[2] Train-cross-entropy=1.302671
+2024-04-11 17:11:32,306 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,306 [INFO]  Epoch[2] Time cost=0.022
+2024-04-11 17:11:32,308 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:11:32,309 [INFO]  Epoch[2] Validation-cross-entropy=0.080906
+2024-04-11 17:11:32,309 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,320 [INFO]  Epoch[3] Batch [0-18]	Speed: 28165.44 samples/sec	cross-entropy=0.415752	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,331 [INFO]  Epoch[3] Train-cross-entropy=0.305035
+2024-04-11 17:11:32,331 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,331 [INFO]  Epoch[3] Time cost=0.022
+2024-04-11 17:11:32,333 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:11:32,335 [INFO]  Epoch[3] Validation-cross-entropy=0.134001
+2024-04-11 17:11:32,335 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,347 [INFO]  Epoch[4] Batch [0-18]	Speed: 25828.76 samples/sec	cross-entropy=0.218611	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,357 [INFO]  Epoch[4] Train-cross-entropy=0.103048
+2024-04-11 17:11:32,357 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,357 [INFO]  Epoch[4] Time cost=0.022
+2024-04-11 17:11:32,359 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:11:32,360 [INFO]  Epoch[4] Validation-cross-entropy=0.045507
+2024-04-11 17:11:32,360 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:32,360 [INFO]  
+========== done (0.1295003890991211 s) fit model
+2024-04-11 17:11:39,707 [INFO]  
+========== start: fit model
+2024-04-11 17:11:39,708 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:11:39,723 [INFO]  Epoch[0] Batch [0-18]	Speed: 20993.02 samples/sec	cross-entropy=2.432128	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,733 [INFO]  Epoch[0] Train-cross-entropy=0.702039
+2024-04-11 17:11:39,733 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,733 [INFO]  Epoch[0] Time cost=0.025
+2024-04-11 17:11:39,734 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:11:39,736 [INFO]  Epoch[0] Validation-cross-entropy=0.200483
+2024-04-11 17:11:39,736 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,748 [INFO]  Epoch[1] Batch [0-18]	Speed: 25642.89 samples/sec	cross-entropy=1.062059	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,763 [INFO]  Epoch[1] Train-cross-entropy=0.542307
+2024-04-11 17:11:39,763 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,764 [INFO]  Epoch[1] Time cost=0.028
+2024-04-11 17:11:39,766 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:11:39,768 [INFO]  Epoch[1] Validation-cross-entropy=0.104830
+2024-04-11 17:11:39,768 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,784 [INFO]  Epoch[2] Batch [0-18]	Speed: 18407.56 samples/sec	cross-entropy=0.721655	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,799 [INFO]  Epoch[2] Train-cross-entropy=0.500659
+2024-04-11 17:11:39,799 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,799 [INFO]  Epoch[2] Time cost=0.031
+2024-04-11 17:11:39,801 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:11:39,803 [INFO]  Epoch[2] Validation-cross-entropy=0.108377
+2024-04-11 17:11:39,803 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,820 [INFO]  Epoch[3] Batch [0-18]	Speed: 18275.83 samples/sec	cross-entropy=0.554156	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,834 [INFO]  Epoch[3] Train-cross-entropy=0.415901
+2024-04-11 17:11:39,834 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,834 [INFO]  Epoch[3] Time cost=0.031
+2024-04-11 17:11:39,837 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:11:39,839 [INFO]  Epoch[3] Validation-cross-entropy=0.120293
+2024-04-11 17:11:39,839 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,852 [INFO]  Epoch[4] Batch [0-18]	Speed: 22796.42 samples/sec	cross-entropy=0.307852	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,862 [INFO]  Epoch[4] Train-cross-entropy=0.129862
+2024-04-11 17:11:39,862 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,862 [INFO]  Epoch[4] Time cost=0.023
+2024-04-11 17:11:39,863 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:11:39,865 [INFO]  Epoch[4] Validation-cross-entropy=0.055891
+2024-04-11 17:11:39,865 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:39,865 [INFO]  
+========== done (0.15761637687683105 s) fit model
+2024-04-11 17:11:47,359 [INFO]  
+========== start: fit model
+2024-04-11 17:11:47,359 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:11:47,375 [INFO]  Epoch[0] Batch [0-18]	Speed: 20922.85 samples/sec	cross-entropy=1.796141	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,387 [INFO]  Epoch[0] Train-cross-entropy=0.561711
+2024-04-11 17:11:47,387 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,387 [INFO]  Epoch[0] Time cost=0.027
+2024-04-11 17:11:47,388 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:11:47,390 [INFO]  Epoch[0] Validation-cross-entropy=0.720639
+2024-04-11 17:11:47,390 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,401 [INFO]  Epoch[1] Batch [0-18]	Speed: 27556.96 samples/sec	cross-entropy=1.628743	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,410 [INFO]  Epoch[1] Train-cross-entropy=1.151484
+2024-04-11 17:11:47,410 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,410 [INFO]  Epoch[1] Time cost=0.021
+2024-04-11 17:11:47,412 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:11:47,413 [INFO]  Epoch[1] Validation-cross-entropy=1.983540
+2024-04-11 17:11:47,413 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,424 [INFO]  Epoch[2] Batch [0-18]	Speed: 27701.68 samples/sec	cross-entropy=0.911401	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,434 [INFO]  Epoch[2] Train-cross-entropy=0.623685
+2024-04-11 17:11:47,434 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,434 [INFO]  Epoch[2] Time cost=0.021
+2024-04-11 17:11:47,435 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:11:47,437 [INFO]  Epoch[2] Validation-cross-entropy=2.042395
+2024-04-11 17:11:47,437 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,448 [INFO]  Epoch[3] Batch [0-18]	Speed: 27327.55 samples/sec	cross-entropy=0.265079	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,461 [INFO]  Epoch[3] Train-cross-entropy=0.200233
+2024-04-11 17:11:47,461 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,461 [INFO]  Epoch[3] Time cost=0.024
+2024-04-11 17:11:47,462 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:11:47,464 [INFO]  Epoch[3] Validation-cross-entropy=0.495877
+2024-04-11 17:11:47,464 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,480 [INFO]  Epoch[4] Batch [0-18]	Speed: 19394.38 samples/sec	cross-entropy=0.120126	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,493 [INFO]  Epoch[4] Train-cross-entropy=0.098076
+2024-04-11 17:11:47,493 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,493 [INFO]  Epoch[4] Time cost=0.029
+2024-04-11 17:11:47,494 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:11:47,496 [INFO]  Epoch[4] Validation-cross-entropy=0.532974
+2024-04-11 17:11:47,496 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:47,496 [INFO]  
+========== done (0.13764595985412598 s) fit model
+2024-04-11 17:11:54,592 [INFO]  
+========== start: fit model
+2024-04-11 17:11:54,592 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:11:54,608 [INFO]  Epoch[0] Batch [0-18]	Speed: 21080.95 samples/sec	cross-entropy=1.248335	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,618 [INFO]  Epoch[0] Train-cross-entropy=4.080188
+2024-04-11 17:11:54,618 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,618 [INFO]  Epoch[0] Time cost=0.025
+2024-04-11 17:11:54,620 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:11:54,621 [INFO]  Epoch[0] Validation-cross-entropy=0.635448
+2024-04-11 17:11:54,621 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,632 [INFO]  Epoch[1] Batch [0-18]	Speed: 28710.36 samples/sec	cross-entropy=0.339712	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,641 [INFO]  Epoch[1] Train-cross-entropy=1.320797
+2024-04-11 17:11:54,641 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,641 [INFO]  Epoch[1] Time cost=0.020
+2024-04-11 17:11:54,643 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:11:54,644 [INFO]  Epoch[1] Validation-cross-entropy=0.130743
+2024-04-11 17:11:54,644 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,655 [INFO]  Epoch[2] Batch [0-18]	Speed: 28146.41 samples/sec	cross-entropy=0.300573	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,664 [INFO]  Epoch[2] Train-cross-entropy=0.422812
+2024-04-11 17:11:54,664 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,664 [INFO]  Epoch[2] Time cost=0.020
+2024-04-11 17:11:54,665 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:11:54,667 [INFO]  Epoch[2] Validation-cross-entropy=0.114348
+2024-04-11 17:11:54,667 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,677 [INFO]  Epoch[3] Batch [0-18]	Speed: 28710.36 samples/sec	cross-entropy=0.120734	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,687 [INFO]  Epoch[3] Train-cross-entropy=0.251050
+2024-04-11 17:11:54,687 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,687 [INFO]  Epoch[3] Time cost=0.020
+2024-04-11 17:11:54,689 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:11:54,690 [INFO]  Epoch[3] Validation-cross-entropy=0.051666
+2024-04-11 17:11:54,690 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,701 [INFO]  Epoch[4] Batch [0-18]	Speed: 27509.90 samples/sec	cross-entropy=0.063883	Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,711 [INFO]  Epoch[4] Train-cross-entropy=0.163909
+2024-04-11 17:11:54,711 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,711 [INFO]  Epoch[4] Time cost=0.021
+2024-04-11 17:11:54,712 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:11:54,713 [INFO]  Epoch[4] Validation-cross-entropy=0.050371
+2024-04-11 17:11:54,714 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:11:54,714 [INFO]  
+========== done (0.12144827842712402 s) fit model
+2024-04-11 17:12:02,155 [INFO]  
+========== start: fit model
+2024-04-11 17:12:02,155 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:12:02,170 [INFO]  Epoch[0] Batch [0-18]	Speed: 22392.01 samples/sec	cross-entropy=1.477888	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,196 [INFO]  Epoch[0] Train-cross-entropy=1.472298
+2024-04-11 17:12:02,196 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,196 [INFO]  Epoch[0] Time cost=0.040
+2024-04-11 17:12:02,198 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:12:02,200 [INFO]  Epoch[0] Validation-cross-entropy=1.272852
+2024-04-11 17:12:02,200 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,212 [INFO]  Epoch[1] Batch [0-18]	Speed: 26090.97 samples/sec	cross-entropy=1.043432	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,222 [INFO]  Epoch[1] Train-cross-entropy=2.245845
+2024-04-11 17:12:02,222 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,222 [INFO]  Epoch[1] Time cost=0.022
+2024-04-11 17:12:02,224 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:12:02,225 [INFO]  Epoch[1] Validation-cross-entropy=6.658743
+2024-04-11 17:12:02,225 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,236 [INFO]  Epoch[2] Batch [0-18]	Speed: 28325.27 samples/sec	cross-entropy=0.535200	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,246 [INFO]  Epoch[2] Train-cross-entropy=0.922159
+2024-04-11 17:12:02,246 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,246 [INFO]  Epoch[2] Time cost=0.021
+2024-04-11 17:12:02,247 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:12:02,249 [INFO]  Epoch[2] Validation-cross-entropy=0.213165
+2024-04-11 17:12:02,249 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,260 [INFO]  Epoch[3] Batch [0-18]	Speed: 27429.31 samples/sec	cross-entropy=0.177828	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,270 [INFO]  Epoch[3] Train-cross-entropy=0.511429
+2024-04-11 17:12:02,270 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,270 [INFO]  Epoch[3] Time cost=0.021
+2024-04-11 17:12:02,271 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:12:02,273 [INFO]  Epoch[3] Validation-cross-entropy=3.311548
+2024-04-11 17:12:02,273 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,289 [INFO]  Epoch[4] Batch [0-18]	Speed: 19421.51 samples/sec	cross-entropy=0.143708	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,302 [INFO]  Epoch[4] Train-cross-entropy=0.179700
+2024-04-11 17:12:02,302 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,302 [INFO]  Epoch[4] Time cost=0.029
+2024-04-11 17:12:02,304 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:12:02,306 [INFO]  Epoch[4] Validation-cross-entropy=0.335489
+2024-04-11 17:12:02,306 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:02,306 [INFO]  
+========== done (0.15064692497253418 s) fit model
+2024-04-11 17:12:09,843 [INFO]  
+========== start: fit model
+2024-04-11 17:12:09,843 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:12:09,862 [INFO]  Epoch[0] Batch [0-18]	Speed: 18703.12 samples/sec	cross-entropy=1.306920	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,875 [INFO]  Epoch[0] Train-cross-entropy=1.512548
+2024-04-11 17:12:09,875 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,875 [INFO]  Epoch[0] Time cost=0.030
+2024-04-11 17:12:09,877 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:12:09,878 [INFO]  Epoch[0] Validation-cross-entropy=0.602393
+2024-04-11 17:12:09,878 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,890 [INFO]  Epoch[1] Batch [0-18]	Speed: 26962.18 samples/sec	cross-entropy=1.990677	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,899 [INFO]  Epoch[1] Train-cross-entropy=2.286079
+2024-04-11 17:12:09,900 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,900 [INFO]  Epoch[1] Time cost=0.021
+2024-04-11 17:12:09,901 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:12:09,903 [INFO]  Epoch[1] Validation-cross-entropy=0.885124
+2024-04-11 17:12:09,903 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,915 [INFO]  Epoch[2] Batch [0-18]	Speed: 26097.17 samples/sec	cross-entropy=1.317912	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,924 [INFO]  Epoch[2] Train-cross-entropy=0.993402
+2024-04-11 17:12:09,925 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,925 [INFO]  Epoch[2] Time cost=0.022
+2024-04-11 17:12:09,926 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:12:09,928 [INFO]  Epoch[2] Validation-cross-entropy=0.598922
+2024-04-11 17:12:09,928 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,939 [INFO]  Epoch[3] Batch [0-18]	Speed: 26879.98 samples/sec	cross-entropy=0.504758	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,952 [INFO]  Epoch[3] Train-cross-entropy=0.586655
+2024-04-11 17:12:09,952 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,952 [INFO]  Epoch[3] Time cost=0.024
+2024-04-11 17:12:09,954 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:12:09,956 [INFO]  Epoch[3] Validation-cross-entropy=0.229096
+2024-04-11 17:12:09,956 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,971 [INFO]  Epoch[4] Batch [0-18]	Speed: 20558.21 samples/sec	cross-entropy=0.215833	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,984 [INFO]  Epoch[4] Train-cross-entropy=0.292813
+2024-04-11 17:12:09,984 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,984 [INFO]  Epoch[4] Time cost=0.028
+2024-04-11 17:12:09,986 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:12:09,987 [INFO]  Epoch[4] Validation-cross-entropy=0.385149
+2024-04-11 17:12:09,987 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:09,987 [INFO]  
+========== done (0.14420580863952637 s) fit model
+2024-04-11 17:12:17,709 [INFO]  
+========== start: fit model
+2024-04-11 17:12:17,709 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:12:17,734 [INFO]  Epoch[0] Batch [0-18]	Speed: 13194.68 samples/sec	cross-entropy=1.278955	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,748 [INFO]  Epoch[0] Train-cross-entropy=0.684490
+2024-04-11 17:12:17,748 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,748 [INFO]  Epoch[0] Time cost=0.037
+2024-04-11 17:12:17,750 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:12:17,751 [INFO]  Epoch[0] Validation-cross-entropy=1.372931
+2024-04-11 17:12:17,751 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,766 [INFO]  Epoch[1] Batch [0-18]	Speed: 20482.57 samples/sec	cross-entropy=1.251051	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,780 [INFO]  Epoch[1] Train-cross-entropy=0.247534
+2024-04-11 17:12:17,781 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,781 [INFO]  Epoch[1] Time cost=0.029
+2024-04-11 17:12:17,782 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:12:17,784 [INFO]  Epoch[1] Validation-cross-entropy=0.263808
+2024-04-11 17:12:17,784 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,799 [INFO]  Epoch[2] Batch [0-18]	Speed: 20311.40 samples/sec	cross-entropy=0.926497	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,811 [INFO]  Epoch[2] Train-cross-entropy=1.316430
+2024-04-11 17:12:17,811 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,811 [INFO]  Epoch[2] Time cost=0.027
+2024-04-11 17:12:17,813 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:12:17,814 [INFO]  Epoch[2] Validation-cross-entropy=0.289162
+2024-04-11 17:12:17,814 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,826 [INFO]  Epoch[3] Batch [0-18]	Speed: 27628.19 samples/sec	cross-entropy=1.629507	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,836 [INFO]  Epoch[3] Train-cross-entropy=0.374055
+2024-04-11 17:12:17,836 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,836 [INFO]  Epoch[3] Time cost=0.021
+2024-04-11 17:12:17,837 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:12:17,839 [INFO]  Epoch[3] Validation-cross-entropy=0.682221
+2024-04-11 17:12:17,839 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,852 [INFO]  Epoch[4] Batch [0-18]	Speed: 22253.00 samples/sec	cross-entropy=1.228955	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,863 [INFO]  Epoch[4] Train-cross-entropy=0.411088
+2024-04-11 17:12:17,863 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,863 [INFO]  Epoch[4] Time cost=0.024
+2024-04-11 17:12:17,864 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:12:17,866 [INFO]  Epoch[4] Validation-cross-entropy=0.218542
+2024-04-11 17:12:17,866 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:17,866 [INFO]  
+========== done (0.15680861473083496 s) fit model
+2024-04-11 17:12:25,166 [INFO]  
+========== start: fit model
+2024-04-11 17:12:25,166 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:12:25,185 [INFO]  Epoch[0] Batch [0-18]	Speed: 17505.39 samples/sec	cross-entropy=0.898110	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,196 [INFO]  Epoch[0] Train-cross-entropy=0.803069
+2024-04-11 17:12:25,196 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,196 [INFO]  Epoch[0] Time cost=0.029
+2024-04-11 17:12:25,198 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:12:25,199 [INFO]  Epoch[0] Validation-cross-entropy=3.085350
+2024-04-11 17:12:25,199 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,210 [INFO]  Epoch[1] Batch [0-18]	Speed: 28664.71 samples/sec	cross-entropy=1.222443	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,219 [INFO]  Epoch[1] Train-cross-entropy=0.975576
+2024-04-11 17:12:25,219 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,219 [INFO]  Epoch[1] Time cost=0.020
+2024-04-11 17:12:25,221 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:12:25,222 [INFO]  Epoch[1] Validation-cross-entropy=0.242256
+2024-04-11 17:12:25,222 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,233 [INFO]  Epoch[2] Batch [0-18]	Speed: 28436.63 samples/sec	cross-entropy=2.654764	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,243 [INFO]  Epoch[2] Train-cross-entropy=1.057266
+2024-04-11 17:12:25,243 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,243 [INFO]  Epoch[2] Time cost=0.021
+2024-04-11 17:12:25,245 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:12:25,246 [INFO]  Epoch[2] Validation-cross-entropy=2.064628
+2024-04-11 17:12:25,246 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,257 [INFO]  Epoch[3] Batch [0-18]	Speed: 27069.12 samples/sec	cross-entropy=1.840385	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,267 [INFO]  Epoch[3] Train-cross-entropy=0.915636
+2024-04-11 17:12:25,267 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,267 [INFO]  Epoch[3] Time cost=0.021
+2024-04-11 17:12:25,268 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:12:25,270 [INFO]  Epoch[3] Validation-cross-entropy=0.172176
+2024-04-11 17:12:25,270 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,283 [INFO]  Epoch[4] Batch [0-18]	Speed: 23975.06 samples/sec	cross-entropy=0.659427	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,295 [INFO]  Epoch[4] Train-cross-entropy=0.703843
+2024-04-11 17:12:25,295 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,295 [INFO]  Epoch[4] Time cost=0.025
+2024-04-11 17:12:25,297 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:12:25,299 [INFO]  Epoch[4] Validation-cross-entropy=0.562914
+2024-04-11 17:12:25,299 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:25,299 [INFO]  
+========== done (0.13257265090942383 s) fit model
+2024-04-11 17:12:32,993 [INFO]  
+========== start: fit model
+2024-04-11 17:12:32,993 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:12:33,014 [INFO]  Epoch[0] Batch [0-18]	Speed: 15475.35 samples/sec	cross-entropy=2.019893	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,027 [INFO]  Epoch[0] Train-cross-entropy=1.324542
+2024-04-11 17:12:33,027 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,027 [INFO]  Epoch[0] Time cost=0.033
+2024-04-11 17:12:33,029 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:12:33,031 [INFO]  Epoch[0] Validation-cross-entropy=0.693481
+2024-04-11 17:12:33,031 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,046 [INFO]  Epoch[1] Batch [0-18]	Speed: 20958.06 samples/sec	cross-entropy=0.635511	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,059 [INFO]  Epoch[1] Train-cross-entropy=2.750420
+2024-04-11 17:12:33,059 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,059 [INFO]  Epoch[1] Time cost=0.027
+2024-04-11 17:12:33,060 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:12:33,062 [INFO]  Epoch[1] Validation-cross-entropy=0.451511
+2024-04-11 17:12:33,062 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,077 [INFO]  Epoch[2] Batch [0-18]	Speed: 20774.24 samples/sec	cross-entropy=0.504081	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,090 [INFO]  Epoch[2] Train-cross-entropy=1.865452
+2024-04-11 17:12:33,090 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,090 [INFO]  Epoch[2] Time cost=0.028
+2024-04-11 17:12:33,092 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:12:33,094 [INFO]  Epoch[2] Validation-cross-entropy=0.755493
+2024-04-11 17:12:33,094 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,109 [INFO]  Epoch[3] Batch [0-18]	Speed: 20733.23 samples/sec	cross-entropy=0.600707	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,121 [INFO]  Epoch[3] Train-cross-entropy=1.287570
+2024-04-11 17:12:33,122 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,122 [INFO]  Epoch[3] Time cost=0.028
+2024-04-11 17:12:33,123 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:12:33,125 [INFO]  Epoch[3] Validation-cross-entropy=0.561027
+2024-04-11 17:12:33,125 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,140 [INFO]  Epoch[4] Batch [0-18]	Speed: 20671.14 samples/sec	cross-entropy=0.397613	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,154 [INFO]  Epoch[4] Train-cross-entropy=0.317817
+2024-04-11 17:12:33,154 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,154 [INFO]  Epoch[4] Time cost=0.029
+2024-04-11 17:12:33,156 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:12:33,157 [INFO]  Epoch[4] Validation-cross-entropy=0.155647
+2024-04-11 17:12:33,158 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:33,158 [INFO]  
+========== done (0.16461920738220215 s) fit model
+2024-04-11 17:12:40,656 [INFO]  
+========== start: fit model
+2024-04-11 17:12:40,656 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:12:40,673 [INFO]  Epoch[0] Batch [0-18]	Speed: 19381.31 samples/sec	cross-entropy=2.571518	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,683 [INFO]  Epoch[0] Train-cross-entropy=0.655004
+2024-04-11 17:12:40,683 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,683 [INFO]  Epoch[0] Time cost=0.026
+2024-04-11 17:12:40,684 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:12:40,686 [INFO]  Epoch[0] Validation-cross-entropy=0.328261
+2024-04-11 17:12:40,686 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,697 [INFO]  Epoch[1] Batch [0-18]	Speed: 28462.09 samples/sec	cross-entropy=1.637674	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,706 [INFO]  Epoch[1] Train-cross-entropy=0.928427
+2024-04-11 17:12:40,706 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,706 [INFO]  Epoch[1] Time cost=0.020
+2024-04-11 17:12:40,707 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:12:40,709 [INFO]  Epoch[1] Validation-cross-entropy=0.527092
+2024-04-11 17:12:40,709 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,720 [INFO]  Epoch[2] Batch [0-18]	Speed: 28311.99 samples/sec	cross-entropy=0.692537	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,729 [INFO]  Epoch[2] Train-cross-entropy=0.365437
+2024-04-11 17:12:40,729 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,729 [INFO]  Epoch[2] Time cost=0.020
+2024-04-11 17:12:40,731 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:12:40,733 [INFO]  Epoch[2] Validation-cross-entropy=0.382077
+2024-04-11 17:12:40,733 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,748 [INFO]  Epoch[3] Batch [0-18]	Speed: 20634.77 samples/sec	cross-entropy=0.636502	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,761 [INFO]  Epoch[3] Train-cross-entropy=0.235404
+2024-04-11 17:12:40,761 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,761 [INFO]  Epoch[3] Time cost=0.028
+2024-04-11 17:12:40,762 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:12:40,764 [INFO]  Epoch[3] Validation-cross-entropy=0.307394
+2024-04-11 17:12:40,764 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,779 [INFO]  Epoch[4] Batch [0-18]	Speed: 21142.94 samples/sec	cross-entropy=0.291368	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,791 [INFO]  Epoch[4] Train-cross-entropy=0.399874
+2024-04-11 17:12:40,791 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,791 [INFO]  Epoch[4] Time cost=0.027
+2024-04-11 17:12:40,793 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:12:40,795 [INFO]  Epoch[4] Validation-cross-entropy=0.606503
+2024-04-11 17:12:40,795 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:40,795 [INFO]  
+========== done (0.139129638671875 s) fit model
+2024-04-11 17:12:47,897 [INFO]  
+========== start: fit model
+2024-04-11 17:12:47,897 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:12:47,927 [INFO]  Epoch[0] Batch [0-18]	Speed: 13918.99 samples/sec	cross-entropy=1.695734	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:47,939 [INFO]  Epoch[0] Train-cross-entropy=1.086396
+2024-04-11 17:12:47,939 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:47,939 [INFO]  Epoch[0] Time cost=0.041
+2024-04-11 17:12:47,941 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:12:47,943 [INFO]  Epoch[0] Validation-cross-entropy=0.255525
+2024-04-11 17:12:47,943 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:47,957 [INFO]  Epoch[1] Batch [0-18]	Speed: 21716.52 samples/sec	cross-entropy=2.458211	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:47,969 [INFO]  Epoch[1] Train-cross-entropy=0.551812
+2024-04-11 17:12:47,969 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:47,969 [INFO]  Epoch[1] Time cost=0.026
+2024-04-11 17:12:47,971 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:12:47,972 [INFO]  Epoch[1] Validation-cross-entropy=0.170193
+2024-04-11 17:12:47,972 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:47,986 [INFO]  Epoch[2] Batch [0-18]	Speed: 21742.32 samples/sec	cross-entropy=0.701291	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:47,998 [INFO]  Epoch[2] Train-cross-entropy=0.174607
+2024-04-11 17:12:47,999 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:47,999 [INFO]  Epoch[2] Time cost=0.026
+2024-04-11 17:12:48,000 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:12:48,002 [INFO]  Epoch[2] Validation-cross-entropy=0.047404
+2024-04-11 17:12:48,002 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:48,016 [INFO]  Epoch[3] Batch [0-18]	Speed: 21725.89 samples/sec	cross-entropy=0.308641	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:48,028 [INFO]  Epoch[3] Train-cross-entropy=0.185467
+2024-04-11 17:12:48,028 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:48,028 [INFO]  Epoch[3] Time cost=0.026
+2024-04-11 17:12:48,030 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:12:48,031 [INFO]  Epoch[3] Validation-cross-entropy=0.061826
+2024-04-11 17:12:48,031 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:48,045 [INFO]  Epoch[4] Batch [0-18]	Speed: 21729.41 samples/sec	cross-entropy=0.128768	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:48,057 [INFO]  Epoch[4] Train-cross-entropy=0.174724
+2024-04-11 17:12:48,058 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:48,058 [INFO]  Epoch[4] Time cost=0.026
+2024-04-11 17:12:48,059 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:12:48,061 [INFO]  Epoch[4] Validation-cross-entropy=0.049490
+2024-04-11 17:12:48,061 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:48,061 [INFO]  
+========== done (0.16385722160339355 s) fit model
+2024-04-11 17:12:55,205 [INFO]  
+========== start: fit model
+2024-04-11 17:12:55,205 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:12:55,226 [INFO]  Epoch[0] Batch [0-18]	Speed: 21675.60 samples/sec	cross-entropy=3.118486	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,236 [INFO]  Epoch[0] Train-cross-entropy=0.748068
+2024-04-11 17:12:55,236 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,236 [INFO]  Epoch[0] Time cost=0.030
+2024-04-11 17:12:55,237 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:12:55,239 [INFO]  Epoch[0] Validation-cross-entropy=0.605082
+2024-04-11 17:12:55,239 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,250 [INFO]  Epoch[1] Batch [0-18]	Speed: 28473.50 samples/sec	cross-entropy=1.631331	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,260 [INFO]  Epoch[1] Train-cross-entropy=1.526160
+2024-04-11 17:12:55,260 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,260 [INFO]  Epoch[1] Time cost=0.021
+2024-04-11 17:12:55,261 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:12:55,262 [INFO]  Epoch[1] Validation-cross-entropy=0.762156
+2024-04-11 17:12:55,262 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,273 [INFO]  Epoch[2] Batch [0-18]	Speed: 28285.48 samples/sec	cross-entropy=1.205184	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,283 [INFO]  Epoch[2] Train-cross-entropy=0.468575
+2024-04-11 17:12:55,283 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,283 [INFO]  Epoch[2] Time cost=0.020
+2024-04-11 17:12:55,284 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:12:55,286 [INFO]  Epoch[2] Validation-cross-entropy=0.373042
+2024-04-11 17:12:55,286 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,297 [INFO]  Epoch[3] Batch [0-18]	Speed: 28137.23 samples/sec	cross-entropy=0.611832	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,306 [INFO]  Epoch[3] Train-cross-entropy=0.185472
+2024-04-11 17:12:55,306 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,306 [INFO]  Epoch[3] Time cost=0.020
+2024-04-11 17:12:55,307 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:12:55,309 [INFO]  Epoch[3] Validation-cross-entropy=0.203850
+2024-04-11 17:12:55,309 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,320 [INFO]  Epoch[4] Batch [0-18]	Speed: 28114.97 samples/sec	cross-entropy=0.406863	Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,329 [INFO]  Epoch[4] Train-cross-entropy=0.089498
+2024-04-11 17:12:55,329 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,329 [INFO]  Epoch[4] Time cost=0.020
+2024-04-11 17:12:55,331 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:12:55,332 [INFO]  Epoch[4] Validation-cross-entropy=0.114702
+2024-04-11 17:12:55,332 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:12:55,332 [INFO]  
+========== done (0.12685465812683105 s) fit model
+2024-04-11 17:13:02,867 [INFO]  
+========== start: fit model
+2024-04-11 17:13:02,867 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:13:02,883 [INFO]  Epoch[0] Batch [0-18]	Speed: 20817.20 samples/sec	cross-entropy=3.275619	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:02,896 [INFO]  Epoch[0] Train-cross-entropy=1.531769
+2024-04-11 17:13:02,896 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:02,896 [INFO]  Epoch[0] Time cost=0.028
+2024-04-11 17:13:02,898 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:13:02,899 [INFO]  Epoch[0] Validation-cross-entropy=3.277437
+2024-04-11 17:13:02,899 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:02,914 [INFO]  Epoch[1] Batch [0-18]	Speed: 20908.00 samples/sec	cross-entropy=0.896838	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:02,928 [INFO]  Epoch[1] Train-cross-entropy=0.375349
+2024-04-11 17:13:02,928 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:02,928 [INFO]  Epoch[1] Time cost=0.029
+2024-04-11 17:13:02,930 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:13:02,931 [INFO]  Epoch[1] Validation-cross-entropy=2.532894
+2024-04-11 17:13:02,931 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:02,946 [INFO]  Epoch[2] Batch [0-18]	Speed: 20207.76 samples/sec	cross-entropy=0.429578	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:02,959 [INFO]  Epoch[2] Train-cross-entropy=0.317113
+2024-04-11 17:13:02,959 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:02,959 [INFO]  Epoch[2] Time cost=0.028
+2024-04-11 17:13:02,961 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:13:02,962 [INFO]  Epoch[2] Validation-cross-entropy=1.368340
+2024-04-11 17:13:02,963 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:02,977 [INFO]  Epoch[3] Batch [0-18]	Speed: 20758.53 samples/sec	cross-entropy=0.285861	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:02,990 [INFO]  Epoch[3] Train-cross-entropy=0.278626
+2024-04-11 17:13:02,990 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:02,990 [INFO]  Epoch[3] Time cost=0.028
+2024-04-11 17:13:02,992 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:13:02,993 [INFO]  Epoch[3] Validation-cross-entropy=2.456461
+2024-04-11 17:13:02,993 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:03,008 [INFO]  Epoch[4] Batch [0-18]	Speed: 20691.68 samples/sec	cross-entropy=0.416428	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:03,021 [INFO]  Epoch[4] Train-cross-entropy=0.323280
+2024-04-11 17:13:03,021 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:03,021 [INFO]  Epoch[4] Time cost=0.028
+2024-04-11 17:13:03,022 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:13:03,024 [INFO]  Epoch[4] Validation-cross-entropy=1.531345
+2024-04-11 17:13:03,024 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:03,024 [INFO]  
+========== done (0.1570594310760498 s) fit model
+2024-04-11 17:13:10,143 [INFO]  
+========== start: fit model
+2024-04-11 17:13:10,143 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:13:10,160 [INFO]  Epoch[0] Batch [0-18]	Speed: 19566.85 samples/sec	cross-entropy=6.639055	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,173 [INFO]  Epoch[0] Train-cross-entropy=1.222668
+2024-04-11 17:13:10,173 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,173 [INFO]  Epoch[0] Time cost=0.029
+2024-04-11 17:13:10,175 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:13:10,176 [INFO]  Epoch[0] Validation-cross-entropy=1.050616
+2024-04-11 17:13:10,176 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,192 [INFO]  Epoch[1] Batch [0-18]	Speed: 19711.17 samples/sec	cross-entropy=0.865126	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,203 [INFO]  Epoch[1] Train-cross-entropy=0.319989
+2024-04-11 17:13:10,203 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,203 [INFO]  Epoch[1] Time cost=0.027
+2024-04-11 17:13:10,205 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:13:10,206 [INFO]  Epoch[1] Validation-cross-entropy=0.227068
+2024-04-11 17:13:10,206 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,217 [INFO]  Epoch[2] Batch [0-18]	Speed: 28356.52 samples/sec	cross-entropy=0.318393	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,226 [INFO]  Epoch[2] Train-cross-entropy=0.229891
+2024-04-11 17:13:10,226 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,226 [INFO]  Epoch[2] Time cost=0.020
+2024-04-11 17:13:10,228 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:13:10,229 [INFO]  Epoch[2] Validation-cross-entropy=0.382031
+2024-04-11 17:13:10,229 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,241 [INFO]  Epoch[3] Batch [0-18]	Speed: 24998.65 samples/sec	cross-entropy=0.240977	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,253 [INFO]  Epoch[3] Train-cross-entropy=0.378860
+2024-04-11 17:13:10,253 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,253 [INFO]  Epoch[3] Time cost=0.024
+2024-04-11 17:13:10,255 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:13:10,256 [INFO]  Epoch[3] Validation-cross-entropy=0.307807
+2024-04-11 17:13:10,256 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,270 [INFO]  Epoch[4] Batch [0-18]	Speed: 21996.90 samples/sec	cross-entropy=0.224150	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,283 [INFO]  Epoch[4] Train-cross-entropy=0.615837
+2024-04-11 17:13:10,283 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,283 [INFO]  Epoch[4] Time cost=0.027
+2024-04-11 17:13:10,284 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:13:10,286 [INFO]  Epoch[4] Validation-cross-entropy=0.634498
+2024-04-11 17:13:10,286 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:10,286 [INFO]  
+========== done (0.14272379875183105 s) fit model
+2024-04-11 17:13:17,924 [INFO]  
+========== start: fit model
+2024-04-11 17:13:17,924 [WARNING]  Already bound, ignoring bind()
+2024-04-11 17:13:17,940 [INFO]  Epoch[0] Batch [0-18]	Speed: 20440.63 samples/sec	cross-entropy=2.047163	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:17,953 [INFO]  Epoch[0] Train-cross-entropy=1.217970
+2024-04-11 17:13:17,953 [INFO]  Epoch[0] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:17,954 [INFO]  Epoch[0] Time cost=0.029
+2024-04-11 17:13:17,955 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0000.params"
+2024-04-11 17:13:17,957 [INFO]  Epoch[0] Validation-cross-entropy=0.217755
+2024-04-11 17:13:17,957 [INFO]  Epoch[0] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:17,972 [INFO]  Epoch[1] Batch [0-18]	Speed: 20877.28 samples/sec	cross-entropy=0.694492	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:17,985 [INFO]  Epoch[1] Train-cross-entropy=1.930280
+2024-04-11 17:13:17,985 [INFO]  Epoch[1] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:17,985 [INFO]  Epoch[1] Time cost=0.028
+2024-04-11 17:13:17,986 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0001.params"
+2024-04-11 17:13:17,988 [INFO]  Epoch[1] Validation-cross-entropy=0.505520
+2024-04-11 17:13:17,988 [INFO]  Epoch[1] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:18,000 [INFO]  Epoch[2] Batch [0-18]	Speed: 24418.02 samples/sec	cross-entropy=0.983662	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:18,013 [INFO]  Epoch[2] Train-cross-entropy=1.115547
+2024-04-11 17:13:18,013 [INFO]  Epoch[2] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:18,013 [INFO]  Epoch[2] Time cost=0.025
+2024-04-11 17:13:18,014 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0002.params"
+2024-04-11 17:13:18,016 [INFO]  Epoch[2] Validation-cross-entropy=0.172387
+2024-04-11 17:13:18,016 [INFO]  Epoch[2] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:18,030 [INFO]  Epoch[3] Batch [0-18]	Speed: 21701.69 samples/sec	cross-entropy=0.632907	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:18,042 [INFO]  Epoch[3] Train-cross-entropy=0.595291
+2024-04-11 17:13:18,042 [INFO]  Epoch[3] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:18,042 [INFO]  Epoch[3] Time cost=0.026
+2024-04-11 17:13:18,044 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0003.params"
+2024-04-11 17:13:18,046 [INFO]  Epoch[3] Validation-cross-entropy=0.046066
+2024-04-11 17:13:18,046 [INFO]  Epoch[3] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:18,060 [INFO]  Epoch[4] Batch [0-18]	Speed: 21644.92 samples/sec	cross-entropy=0.303943	Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:18,072 [INFO]  Epoch[4] Train-cross-entropy=0.528734
+2024-04-11 17:13:18,072 [INFO]  Epoch[4] Train-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:18,072 [INFO]  Epoch[4] Time cost=0.027
+2024-04-11 17:13:18,074 [INFO]  Saved checkpoint to "./imputer_model/32_audit/imputer_model_Detection_Risk/model-0004.params"
+2024-04-11 17:13:18,076 [INFO]  Epoch[4] Validation-cross-entropy=0.060232
+2024-04-11 17:13:18,076 [INFO]  Epoch[4] Validation-Detection_Risk-accuracy=16.000000
+2024-04-11 17:13:18,076 [INFO]  
+========== done (0.15224575996398926 s) fit model

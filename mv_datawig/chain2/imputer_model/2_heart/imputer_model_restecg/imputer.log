@@ -1,0 +1,1200 @@
+2024-04-07 11:31:35,304 [INFO]  
+========== start: fit model
+2024-04-07 11:31:35,304 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:31:35,388 [INFO]  Epoch[0] Batch [0-7]	Speed: 1470.81 samples/sec	cross-entropy=12.183690	restecg-accuracy=0.000000
+2024-04-07 11:31:35,765 [INFO]  Epoch[0] Train-cross-entropy=5.059411
+2024-04-07 11:31:35,765 [INFO]  Epoch[0] Train-restecg-accuracy=0.000000
+2024-04-07 11:31:35,765 [INFO]  Epoch[0] Time cost=0.460
+2024-04-07 11:31:35,767 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:31:35,768 [INFO]  Epoch[0] Validation-cross-entropy=3.504625
+2024-04-07 11:31:35,768 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:31:35,867 [INFO]  Epoch[1] Batch [0-7]	Speed: 1143.24 samples/sec	cross-entropy=2.317723	restecg-accuracy=0.000000
+2024-04-07 11:31:35,923 [INFO]  Epoch[1] Train-cross-entropy=1.055423
+2024-04-07 11:31:35,923 [INFO]  Epoch[1] Train-restecg-accuracy=0.000000
+2024-04-07 11:31:35,923 [INFO]  Epoch[1] Time cost=0.155
+2024-04-07 11:31:35,927 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:31:35,976 [INFO]  Epoch[1] Validation-cross-entropy=0.819474
+2024-04-07 11:31:35,976 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:31:36,057 [INFO]  Epoch[2] Batch [0-7]	Speed: 1403.57 samples/sec	cross-entropy=0.963284	restecg-accuracy=0.000000
+2024-04-07 11:31:36,075 [INFO]  Epoch[2] Train-cross-entropy=0.854942
+2024-04-07 11:31:36,076 [INFO]  Epoch[2] Train-restecg-accuracy=0.000000
+2024-04-07 11:31:36,076 [INFO]  Epoch[2] Time cost=0.099
+2024-04-07 11:31:36,078 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:31:36,079 [INFO]  Epoch[2] Validation-cross-entropy=0.939841
+2024-04-07 11:31:36,080 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:31:36,088 [INFO]  Epoch[3] Batch [0-7]	Speed: 15335.66 samples/sec	cross-entropy=0.612994	restecg-accuracy=0.000000
+2024-04-07 11:31:36,095 [INFO]  Epoch[3] Train-cross-entropy=0.440453
+2024-04-07 11:31:36,095 [INFO]  Epoch[3] Train-restecg-accuracy=0.000000
+2024-04-07 11:31:36,095 [INFO]  Epoch[3] Time cost=0.015
+2024-04-07 11:31:36,097 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:31:36,099 [INFO]  Epoch[3] Validation-cross-entropy=0.530507
+2024-04-07 11:31:36,099 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:31:36,108 [INFO]  Epoch[4] Batch [0-7]	Speed: 15080.64 samples/sec	cross-entropy=0.345886	restecg-accuracy=0.000000
+2024-04-07 11:31:36,115 [INFO]  Epoch[4] Train-cross-entropy=0.274802
+2024-04-07 11:31:36,115 [INFO]  Epoch[4] Train-restecg-accuracy=0.000000
+2024-04-07 11:31:36,115 [INFO]  Epoch[4] Time cost=0.016
+2024-04-07 11:31:36,117 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:31:36,118 [INFO]  Epoch[4] Validation-cross-entropy=0.499408
+2024-04-07 11:31:36,119 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:31:36,119 [INFO]  
+========== done (0.8146765232086182 s) fit model
+2024-04-07 11:31:48,675 [INFO]  
+========== start: fit model
+2024-04-07 11:31:48,675 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:31:48,895 [INFO]  Epoch[0] Batch [0-7]	Speed: 3633.20 samples/sec	cross-entropy=21.205774	restecg-accuracy=2.875000
+2024-04-07 11:31:48,898 [INFO]  Epoch[0] Train-cross-entropy=9.467829
+2024-04-07 11:31:48,899 [INFO]  Epoch[0] Train-restecg-accuracy=3.666667
+2024-04-07 11:31:48,899 [INFO]  Epoch[0] Time cost=0.222
+2024-04-07 11:31:48,900 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:31:48,901 [INFO]  Epoch[0] Validation-cross-entropy=6.857572
+2024-04-07 11:31:48,901 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:31:48,908 [INFO]  Epoch[1] Batch [0-7]	Speed: 17932.59 samples/sec	cross-entropy=4.620922	restecg-accuracy=2.875000
+2024-04-07 11:31:48,945 [INFO]  Epoch[1] Train-cross-entropy=2.488059
+2024-04-07 11:31:48,945 [INFO]  Epoch[1] Train-restecg-accuracy=3.666667
+2024-04-07 11:31:48,945 [INFO]  Epoch[1] Time cost=0.044
+2024-04-07 11:31:48,947 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:31:48,949 [INFO]  Epoch[1] Validation-cross-entropy=1.082003
+2024-04-07 11:31:48,949 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:31:48,959 [INFO]  Epoch[2] Batch [0-7]	Speed: 11495.46 samples/sec	cross-entropy=1.171115	restecg-accuracy=2.875000
+2024-04-07 11:31:49,066 [INFO]  Epoch[2] Train-cross-entropy=0.696966
+2024-04-07 11:31:49,066 [INFO]  Epoch[2] Train-restecg-accuracy=3.666667
+2024-04-07 11:31:49,066 [INFO]  Epoch[2] Time cost=0.117
+2024-04-07 11:31:49,068 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:31:49,069 [INFO]  Epoch[2] Validation-cross-entropy=0.688271
+2024-04-07 11:31:49,069 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:31:49,079 [INFO]  Epoch[3] Batch [0-7]	Speed: 14571.24 samples/sec	cross-entropy=0.614648	restecg-accuracy=2.875000
+2024-04-07 11:31:49,085 [INFO]  Epoch[3] Train-cross-entropy=0.540017
+2024-04-07 11:31:49,085 [INFO]  Epoch[3] Train-restecg-accuracy=3.666667
+2024-04-07 11:31:49,086 [INFO]  Epoch[3] Time cost=0.016
+2024-04-07 11:31:49,088 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:31:49,089 [INFO]  Epoch[3] Validation-cross-entropy=0.526515
+2024-04-07 11:31:49,089 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:31:49,098 [INFO]  Epoch[4] Batch [0-7]	Speed: 14830.22 samples/sec	cross-entropy=0.405953	restecg-accuracy=2.875000
+2024-04-07 11:31:49,105 [INFO]  Epoch[4] Train-cross-entropy=0.338834
+2024-04-07 11:31:49,105 [INFO]  Epoch[4] Train-restecg-accuracy=3.666667
+2024-04-07 11:31:49,105 [INFO]  Epoch[4] Time cost=0.016
+2024-04-07 11:31:49,107 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:31:49,109 [INFO]  Epoch[4] Validation-cross-entropy=0.356701
+2024-04-07 11:31:49,109 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:31:49,109 [INFO]  
+========== done (0.4341087341308594 s) fit model
+2024-04-07 11:32:01,229 [INFO]  
+========== start: fit model
+2024-04-07 11:32:01,229 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:32:01,459 [INFO]  Epoch[0] Batch [0-7]	Speed: 11796.25 samples/sec	cross-entropy=18.704118	restecg-accuracy=2.625000
+2024-04-07 11:32:01,466 [INFO]  Epoch[0] Train-cross-entropy=8.938281
+2024-04-07 11:32:01,466 [INFO]  Epoch[0] Train-restecg-accuracy=3.833333
+2024-04-07 11:32:01,466 [INFO]  Epoch[0] Time cost=0.236
+2024-04-07 11:32:01,468 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:32:01,469 [INFO]  Epoch[0] Validation-cross-entropy=4.673876
+2024-04-07 11:32:01,469 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:01,477 [INFO]  Epoch[1] Batch [0-7]	Speed: 15139.45 samples/sec	cross-entropy=4.596428	restecg-accuracy=2.625000
+2024-04-07 11:32:01,484 [INFO]  Epoch[1] Train-cross-entropy=2.901964
+2024-04-07 11:32:01,484 [INFO]  Epoch[1] Train-restecg-accuracy=3.833333
+2024-04-07 11:32:01,484 [INFO]  Epoch[1] Time cost=0.015
+2024-04-07 11:32:01,486 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:32:01,487 [INFO]  Epoch[1] Validation-cross-entropy=2.258712
+2024-04-07 11:32:01,487 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:01,496 [INFO]  Epoch[2] Batch [0-7]	Speed: 14846.16 samples/sec	cross-entropy=1.088553	restecg-accuracy=2.625000
+2024-04-07 11:32:01,502 [INFO]  Epoch[2] Train-cross-entropy=0.826555
+2024-04-07 11:32:01,502 [INFO]  Epoch[2] Train-restecg-accuracy=3.833333
+2024-04-07 11:32:01,502 [INFO]  Epoch[2] Time cost=0.016
+2024-04-07 11:32:01,504 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:32:01,505 [INFO]  Epoch[2] Validation-cross-entropy=0.844423
+2024-04-07 11:32:01,505 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:01,512 [INFO]  Epoch[3] Batch [0-7]	Speed: 17345.27 samples/sec	cross-entropy=0.526935	restecg-accuracy=2.625000
+2024-04-07 11:32:01,519 [INFO]  Epoch[3] Train-cross-entropy=0.659926
+2024-04-07 11:32:01,519 [INFO]  Epoch[3] Train-restecg-accuracy=3.833333
+2024-04-07 11:32:01,519 [INFO]  Epoch[3] Time cost=0.015
+2024-04-07 11:32:01,522 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:32:01,522 [INFO]  Epoch[3] Validation-cross-entropy=0.704110
+2024-04-07 11:32:01,522 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:01,531 [INFO]  Epoch[4] Batch [0-7]	Speed: 14902.67 samples/sec	cross-entropy=0.406004	restecg-accuracy=2.625000
+2024-04-07 11:32:01,538 [INFO]  Epoch[4] Train-cross-entropy=0.380285
+2024-04-07 11:32:01,538 [INFO]  Epoch[4] Train-restecg-accuracy=3.833333
+2024-04-07 11:32:01,538 [INFO]  Epoch[4] Time cost=0.016
+2024-04-07 11:32:01,540 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:32:01,541 [INFO]  Epoch[4] Validation-cross-entropy=0.716804
+2024-04-07 11:32:01,541 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:01,541 [INFO]  
+========== done (0.31175947189331055 s) fit model
+2024-04-07 11:32:11,833 [INFO]  
+========== start: fit model
+2024-04-07 11:32:11,840 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:32:11,903 [INFO]  Epoch[0] Batch [0-7]	Speed: 3850.10 samples/sec	cross-entropy=11.528569	restecg-accuracy=4.000000
+2024-04-07 11:32:11,909 [INFO]  Epoch[0] Train-cross-entropy=6.603539
+2024-04-07 11:32:11,909 [INFO]  Epoch[0] Train-restecg-accuracy=3.833333
+2024-04-07 11:32:11,909 [INFO]  Epoch[0] Time cost=0.068
+2024-04-07 11:32:11,910 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:32:11,911 [INFO]  Epoch[0] Validation-cross-entropy=6.110566
+2024-04-07 11:32:11,911 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:11,920 [INFO]  Epoch[1] Batch [0-7]	Speed: 14902.20 samples/sec	cross-entropy=2.261296	restecg-accuracy=4.000000
+2024-04-07 11:32:11,929 [INFO]  Epoch[1] Train-cross-entropy=1.283862
+2024-04-07 11:32:11,929 [INFO]  Epoch[1] Train-restecg-accuracy=3.833333
+2024-04-07 11:32:11,930 [INFO]  Epoch[1] Time cost=0.018
+2024-04-07 11:32:11,931 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:32:11,936 [INFO]  Epoch[1] Validation-cross-entropy=1.581912
+2024-04-07 11:32:11,937 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:11,949 [INFO]  Epoch[2] Batch [0-7]	Speed: 11207.23 samples/sec	cross-entropy=0.979257	restecg-accuracy=4.000000
+2024-04-07 11:32:11,969 [INFO]  Epoch[2] Train-cross-entropy=0.774977
+2024-04-07 11:32:11,969 [INFO]  Epoch[2] Train-restecg-accuracy=3.833333
+2024-04-07 11:32:11,969 [INFO]  Epoch[2] Time cost=0.033
+2024-04-07 11:32:11,971 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:32:11,997 [INFO]  Epoch[2] Validation-cross-entropy=0.668235
+2024-04-07 11:32:11,997 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:12,154 [INFO]  Epoch[3] Batch [0-7]	Speed: 716.77 samples/sec	cross-entropy=0.587578	restecg-accuracy=4.000000
+2024-04-07 11:32:12,238 [INFO]  Epoch[3] Train-cross-entropy=0.424103
+2024-04-07 11:32:12,238 [INFO]  Epoch[3] Train-restecg-accuracy=3.833333
+2024-04-07 11:32:12,238 [INFO]  Epoch[3] Time cost=0.241
+2024-04-07 11:32:12,240 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:32:12,242 [INFO]  Epoch[3] Validation-cross-entropy=0.494972
+2024-04-07 11:32:12,242 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:12,280 [INFO]  Epoch[4] Batch [0-7]	Speed: 3105.00 samples/sec	cross-entropy=0.349774	restecg-accuracy=4.000000
+2024-04-07 11:32:12,286 [INFO]  Epoch[4] Train-cross-entropy=0.306024
+2024-04-07 11:32:12,286 [INFO]  Epoch[4] Train-restecg-accuracy=3.833333
+2024-04-07 11:32:12,286 [INFO]  Epoch[4] Time cost=0.044
+2024-04-07 11:32:12,288 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:32:12,289 [INFO]  Epoch[4] Validation-cross-entropy=0.414362
+2024-04-07 11:32:12,289 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:12,289 [INFO]  
+========== done (0.4562809467315674 s) fit model
+2024-04-07 11:32:22,951 [INFO]  
+========== start: fit model
+2024-04-07 11:32:22,951 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:32:23,435 [INFO]  Epoch[0] Batch [0-7]	Speed: 976.66 samples/sec	cross-entropy=17.393862	restecg-accuracy=4.125000
+2024-04-07 11:32:23,442 [INFO]  Epoch[0] Train-cross-entropy=9.121027
+2024-04-07 11:32:23,442 [INFO]  Epoch[0] Train-restecg-accuracy=3.000000
+2024-04-07 11:32:23,442 [INFO]  Epoch[0] Time cost=0.490
+2024-04-07 11:32:23,444 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:32:23,445 [INFO]  Epoch[0] Validation-cross-entropy=6.567545
+2024-04-07 11:32:23,445 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:23,450 [INFO]  Epoch[1] Batch [0-7]	Speed: 27146.03 samples/sec	cross-entropy=3.665200	restecg-accuracy=4.125000
+2024-04-07 11:32:23,620 [INFO]  Epoch[1] Train-cross-entropy=1.485106
+2024-04-07 11:32:23,620 [INFO]  Epoch[1] Train-restecg-accuracy=3.000000
+2024-04-07 11:32:23,620 [INFO]  Epoch[1] Time cost=0.175
+2024-04-07 11:32:23,624 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:32:23,682 [INFO]  Epoch[1] Validation-cross-entropy=1.050721
+2024-04-07 11:32:23,683 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:23,691 [INFO]  Epoch[2] Batch [0-7]	Speed: 27463.43 samples/sec	cross-entropy=0.781553	restecg-accuracy=4.125000
+2024-04-07 11:32:23,736 [INFO]  Epoch[2] Train-cross-entropy=0.536440
+2024-04-07 11:32:23,736 [INFO]  Epoch[2] Train-restecg-accuracy=3.000000
+2024-04-07 11:32:23,736 [INFO]  Epoch[2] Time cost=0.054
+2024-04-07 11:32:23,738 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:32:23,740 [INFO]  Epoch[2] Validation-cross-entropy=0.499923
+2024-04-07 11:32:23,740 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:23,749 [INFO]  Epoch[3] Batch [0-7]	Speed: 15248.05 samples/sec	cross-entropy=0.482479	restecg-accuracy=4.125000
+2024-04-07 11:32:23,755 [INFO]  Epoch[3] Train-cross-entropy=0.320883
+2024-04-07 11:32:23,755 [INFO]  Epoch[3] Train-restecg-accuracy=3.000000
+2024-04-07 11:32:23,755 [INFO]  Epoch[3] Time cost=0.015
+2024-04-07 11:32:23,757 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:32:23,759 [INFO]  Epoch[3] Validation-cross-entropy=0.446958
+2024-04-07 11:32:23,759 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:23,768 [INFO]  Epoch[4] Batch [0-7]	Speed: 14907.87 samples/sec	cross-entropy=0.286619	restecg-accuracy=4.125000
+2024-04-07 11:32:23,775 [INFO]  Epoch[4] Train-cross-entropy=0.201978
+2024-04-07 11:32:23,775 [INFO]  Epoch[4] Train-restecg-accuracy=3.000000
+2024-04-07 11:32:23,775 [INFO]  Epoch[4] Time cost=0.016
+2024-04-07 11:32:23,777 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:32:23,778 [INFO]  Epoch[4] Validation-cross-entropy=0.389854
+2024-04-07 11:32:23,778 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:23,779 [INFO]  
+========== done (0.8275728225708008 s) fit model
+2024-04-07 11:32:35,085 [INFO]  
+========== start: fit model
+2024-04-07 11:32:35,085 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:32:35,222 [INFO]  Epoch[0] Batch [0-7]	Speed: 867.54 samples/sec	cross-entropy=12.939372	restecg-accuracy=3.875000
+2024-04-07 11:32:35,228 [INFO]  Epoch[0] Train-cross-entropy=6.560411
+2024-04-07 11:32:35,228 [INFO]  Epoch[0] Train-restecg-accuracy=2.666667
+2024-04-07 11:32:35,228 [INFO]  Epoch[0] Time cost=0.141
+2024-04-07 11:32:35,229 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:32:35,231 [INFO]  Epoch[0] Validation-cross-entropy=2.103883
+2024-04-07 11:32:35,231 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:35,239 [INFO]  Epoch[1] Batch [0-7]	Speed: 15449.65 samples/sec	cross-entropy=1.619128	restecg-accuracy=3.875000
+2024-04-07 11:32:35,246 [INFO]  Epoch[1] Train-cross-entropy=1.381843
+2024-04-07 11:32:35,246 [INFO]  Epoch[1] Train-restecg-accuracy=2.666667
+2024-04-07 11:32:35,246 [INFO]  Epoch[1] Time cost=0.015
+2024-04-07 11:32:35,248 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:32:35,249 [INFO]  Epoch[1] Validation-cross-entropy=0.465317
+2024-04-07 11:32:35,249 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:35,259 [INFO]  Epoch[2] Batch [0-7]	Speed: 13960.65 samples/sec	cross-entropy=0.886185	restecg-accuracy=3.875000
+2024-04-07 11:32:35,266 [INFO]  Epoch[2] Train-cross-entropy=0.609149
+2024-04-07 11:32:35,266 [INFO]  Epoch[2] Train-restecg-accuracy=2.666667
+2024-04-07 11:32:35,266 [INFO]  Epoch[2] Time cost=0.016
+2024-04-07 11:32:35,268 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:32:35,269 [INFO]  Epoch[2] Validation-cross-entropy=0.739751
+2024-04-07 11:32:35,269 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:35,278 [INFO]  Epoch[3] Batch [0-7]	Speed: 14764.50 samples/sec	cross-entropy=0.563770	restecg-accuracy=3.875000
+2024-04-07 11:32:35,285 [INFO]  Epoch[3] Train-cross-entropy=0.258273
+2024-04-07 11:32:35,285 [INFO]  Epoch[3] Train-restecg-accuracy=2.666667
+2024-04-07 11:32:35,285 [INFO]  Epoch[3] Time cost=0.016
+2024-04-07 11:32:35,286 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:32:35,288 [INFO]  Epoch[3] Validation-cross-entropy=0.408951
+2024-04-07 11:32:35,288 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:35,297 [INFO]  Epoch[4] Batch [0-7]	Speed: 14782.62 samples/sec	cross-entropy=0.297206	restecg-accuracy=3.875000
+2024-04-07 11:32:35,304 [INFO]  Epoch[4] Train-cross-entropy=0.224883
+2024-04-07 11:32:35,304 [INFO]  Epoch[4] Train-restecg-accuracy=2.666667
+2024-04-07 11:32:35,304 [INFO]  Epoch[4] Time cost=0.016
+2024-04-07 11:32:35,306 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:32:35,307 [INFO]  Epoch[4] Validation-cross-entropy=0.314039
+2024-04-07 11:32:35,307 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:35,307 [INFO]  
+========== done (0.22199249267578125 s) fit model
+2024-04-07 11:32:44,495 [INFO]  
+========== start: fit model
+2024-04-07 11:32:44,495 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:32:44,525 [INFO]  Epoch[0] Batch [0-7]	Speed: 13083.47 samples/sec	cross-entropy=13.174951	restecg-accuracy=0.000000
+2024-04-07 11:32:44,531 [INFO]  Epoch[0] Train-cross-entropy=9.768986
+2024-04-07 11:32:44,531 [INFO]  Epoch[0] Train-restecg-accuracy=0.000000
+2024-04-07 11:32:44,531 [INFO]  Epoch[0] Time cost=0.035
+2024-04-07 11:32:44,533 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:32:44,534 [INFO]  Epoch[0] Validation-cross-entropy=7.347675
+2024-04-07 11:32:44,534 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:44,543 [INFO]  Epoch[1] Batch [0-7]	Speed: 14727.93 samples/sec	cross-entropy=2.635084	restecg-accuracy=0.000000
+2024-04-07 11:32:44,549 [INFO]  Epoch[1] Train-cross-entropy=1.601890
+2024-04-07 11:32:44,549 [INFO]  Epoch[1] Train-restecg-accuracy=0.000000
+2024-04-07 11:32:44,549 [INFO]  Epoch[1] Time cost=0.014
+2024-04-07 11:32:44,550 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:32:44,552 [INFO]  Epoch[1] Validation-cross-entropy=1.776687
+2024-04-07 11:32:44,552 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:44,560 [INFO]  Epoch[2] Batch [0-7]	Speed: 17799.41 samples/sec	cross-entropy=0.893459	restecg-accuracy=0.000000
+2024-04-07 11:32:44,566 [INFO]  Epoch[2] Train-cross-entropy=0.456368
+2024-04-07 11:32:44,566 [INFO]  Epoch[2] Train-restecg-accuracy=0.000000
+2024-04-07 11:32:44,566 [INFO]  Epoch[2] Time cost=0.014
+2024-04-07 11:32:44,569 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:32:44,570 [INFO]  Epoch[2] Validation-cross-entropy=1.301160
+2024-04-07 11:32:44,570 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:44,580 [INFO]  Epoch[3] Batch [0-7]	Speed: 13834.03 samples/sec	cross-entropy=0.533276	restecg-accuracy=0.000000
+2024-04-07 11:32:44,586 [INFO]  Epoch[3] Train-cross-entropy=0.346429
+2024-04-07 11:32:44,586 [INFO]  Epoch[3] Train-restecg-accuracy=0.000000
+2024-04-07 11:32:44,586 [INFO]  Epoch[3] Time cost=0.016
+2024-04-07 11:32:44,589 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:32:44,590 [INFO]  Epoch[3] Validation-cross-entropy=1.077403
+2024-04-07 11:32:44,590 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:44,601 [INFO]  Epoch[4] Batch [0-7]	Speed: 11756.10 samples/sec	cross-entropy=0.328968	restecg-accuracy=0.000000
+2024-04-07 11:32:44,606 [INFO]  Epoch[4] Train-cross-entropy=0.240355
+2024-04-07 11:32:44,606 [INFO]  Epoch[4] Train-restecg-accuracy=0.000000
+2024-04-07 11:32:44,606 [INFO]  Epoch[4] Time cost=0.016
+2024-04-07 11:32:44,608 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:32:44,610 [INFO]  Epoch[4] Validation-cross-entropy=0.808358
+2024-04-07 11:32:44,610 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:44,610 [INFO]  
+========== done (0.11510753631591797 s) fit model
+2024-04-07 11:32:55,486 [INFO]  
+========== start: fit model
+2024-04-07 11:32:55,486 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:32:55,496 [INFO]  Epoch[0] Batch [0-7]	Speed: 24983.36 samples/sec	cross-entropy=10.614756	restecg-accuracy=2.750000
+2024-04-07 11:32:55,500 [INFO]  Epoch[0] Train-cross-entropy=5.771600
+2024-04-07 11:32:55,501 [INFO]  Epoch[0] Train-restecg-accuracy=4.333333
+2024-04-07 11:32:55,501 [INFO]  Epoch[0] Time cost=0.013
+2024-04-07 11:32:55,502 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:32:55,503 [INFO]  Epoch[0] Validation-cross-entropy=3.920958
+2024-04-07 11:32:55,503 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:55,563 [INFO]  Epoch[1] Batch [0-7]	Speed: 1884.90 samples/sec	cross-entropy=1.945839	restecg-accuracy=2.750000
+2024-04-07 11:32:55,800 [INFO]  Epoch[1] Train-cross-entropy=0.783811
+2024-04-07 11:32:55,801 [INFO]  Epoch[1] Train-restecg-accuracy=4.333333
+2024-04-07 11:32:55,801 [INFO]  Epoch[1] Time cost=0.298
+2024-04-07 11:32:55,802 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:32:55,804 [INFO]  Epoch[1] Validation-cross-entropy=1.095886
+2024-04-07 11:32:55,804 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:55,812 [INFO]  Epoch[2] Batch [0-7]	Speed: 15262.42 samples/sec	cross-entropy=0.758470	restecg-accuracy=2.750000
+2024-04-07 11:32:55,819 [INFO]  Epoch[2] Train-cross-entropy=0.374776
+2024-04-07 11:32:55,819 [INFO]  Epoch[2] Train-restecg-accuracy=4.333333
+2024-04-07 11:32:55,819 [INFO]  Epoch[2] Time cost=0.016
+2024-04-07 11:32:55,821 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:32:55,822 [INFO]  Epoch[2] Validation-cross-entropy=0.529332
+2024-04-07 11:32:55,822 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:55,841 [INFO]  Epoch[3] Batch [0-7]	Speed: 6552.05 samples/sec	cross-entropy=0.464933	restecg-accuracy=2.750000
+2024-04-07 11:32:55,856 [INFO]  Epoch[3] Train-cross-entropy=0.220715
+2024-04-07 11:32:55,856 [INFO]  Epoch[3] Train-restecg-accuracy=4.333333
+2024-04-07 11:32:55,856 [INFO]  Epoch[3] Time cost=0.033
+2024-04-07 11:32:55,858 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:32:55,859 [INFO]  Epoch[3] Validation-cross-entropy=0.237883
+2024-04-07 11:32:55,859 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:55,867 [INFO]  Epoch[4] Batch [0-7]	Speed: 15633.20 samples/sec	cross-entropy=0.238987	restecg-accuracy=2.750000
+2024-04-07 11:32:55,874 [INFO]  Epoch[4] Train-cross-entropy=0.130519
+2024-04-07 11:32:55,874 [INFO]  Epoch[4] Train-restecg-accuracy=4.333333
+2024-04-07 11:32:55,874 [INFO]  Epoch[4] Time cost=0.015
+2024-04-07 11:32:55,876 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:32:55,877 [INFO]  Epoch[4] Validation-cross-entropy=0.324540
+2024-04-07 11:32:55,877 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:32:55,877 [INFO]  
+========== done (0.3909749984741211 s) fit model
+2024-04-07 11:33:06,153 [INFO]  
+========== start: fit model
+2024-04-07 11:33:06,153 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:33:06,165 [INFO]  Epoch[0] Batch [0-7]	Speed: 13707.28 samples/sec	cross-entropy=14.907727	restecg-accuracy=3.875000
+2024-04-07 11:33:06,172 [INFO]  Epoch[0] Train-cross-entropy=10.543968
+2024-04-07 11:33:06,172 [INFO]  Epoch[0] Train-restecg-accuracy=1.833333
+2024-04-07 11:33:06,172 [INFO]  Epoch[0] Time cost=0.018
+2024-04-07 11:33:06,174 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:33:06,175 [INFO]  Epoch[0] Validation-cross-entropy=8.236107
+2024-04-07 11:33:06,175 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:06,185 [INFO]  Epoch[1] Batch [0-7]	Speed: 13628.14 samples/sec	cross-entropy=3.173863	restecg-accuracy=3.875000
+2024-04-07 11:33:06,228 [INFO]  Epoch[1] Train-cross-entropy=2.184084
+2024-04-07 11:33:06,228 [INFO]  Epoch[1] Train-restecg-accuracy=1.833333
+2024-04-07 11:33:06,228 [INFO]  Epoch[1] Time cost=0.053
+2024-04-07 11:33:06,230 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:33:06,231 [INFO]  Epoch[1] Validation-cross-entropy=1.758206
+2024-04-07 11:33:06,231 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:06,265 [INFO]  Epoch[2] Batch [0-7]	Speed: 3392.79 samples/sec	cross-entropy=1.076858	restecg-accuracy=3.875000
+2024-04-07 11:33:06,272 [INFO]  Epoch[2] Train-cross-entropy=0.912029
+2024-04-07 11:33:06,272 [INFO]  Epoch[2] Train-restecg-accuracy=1.833333
+2024-04-07 11:33:06,272 [INFO]  Epoch[2] Time cost=0.041
+2024-04-07 11:33:06,274 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:33:06,279 [INFO]  Epoch[2] Validation-cross-entropy=0.794094
+2024-04-07 11:33:06,279 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:06,299 [INFO]  Epoch[3] Batch [0-7]	Speed: 14997.83 samples/sec	cross-entropy=0.685436	restecg-accuracy=3.875000
+2024-04-07 11:33:06,308 [INFO]  Epoch[3] Train-cross-entropy=0.561122
+2024-04-07 11:33:06,308 [INFO]  Epoch[3] Train-restecg-accuracy=1.833333
+2024-04-07 11:33:06,308 [INFO]  Epoch[3] Time cost=0.029
+2024-04-07 11:33:06,311 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:33:06,338 [INFO]  Epoch[3] Validation-cross-entropy=0.306640
+2024-04-07 11:33:06,338 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:06,343 [INFO]  Epoch[4] Batch [0-7]	Speed: 27948.72 samples/sec	cross-entropy=0.378729	restecg-accuracy=3.875000
+2024-04-07 11:33:06,346 [INFO]  Epoch[4] Train-cross-entropy=0.365568
+2024-04-07 11:33:06,347 [INFO]  Epoch[4] Train-restecg-accuracy=1.833333
+2024-04-07 11:33:06,347 [INFO]  Epoch[4] Time cost=0.009
+2024-04-07 11:33:06,348 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:33:06,369 [INFO]  Epoch[4] Validation-cross-entropy=0.359858
+2024-04-07 11:33:06,370 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:06,370 [INFO]  
+========== done (0.2165231704711914 s) fit model
+2024-04-07 11:33:16,592 [INFO]  
+========== start: fit model
+2024-04-07 11:33:16,592 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:33:16,671 [INFO]  Epoch[0] Batch [0-7]	Speed: 2412.54 samples/sec	cross-entropy=9.180453	restecg-accuracy=3.750000
+2024-04-07 11:33:16,678 [INFO]  Epoch[0] Train-cross-entropy=4.175186
+2024-04-07 11:33:16,678 [INFO]  Epoch[0] Train-restecg-accuracy=4.000000
+2024-04-07 11:33:16,678 [INFO]  Epoch[0] Time cost=0.085
+2024-04-07 11:33:16,679 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:33:16,680 [INFO]  Epoch[0] Validation-cross-entropy=0.826931
+2024-04-07 11:33:16,681 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:16,686 [INFO]  Epoch[1] Batch [0-7]	Speed: 22231.99 samples/sec	cross-entropy=1.484429	restecg-accuracy=3.750000
+2024-04-07 11:33:16,692 [INFO]  Epoch[1] Train-cross-entropy=0.891717
+2024-04-07 11:33:16,692 [INFO]  Epoch[1] Train-restecg-accuracy=4.000000
+2024-04-07 11:33:16,692 [INFO]  Epoch[1] Time cost=0.012
+2024-04-07 11:33:16,694 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:33:16,696 [INFO]  Epoch[1] Validation-cross-entropy=0.454788
+2024-04-07 11:33:16,696 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:16,703 [INFO]  Epoch[2] Batch [0-7]	Speed: 19551.42 samples/sec	cross-entropy=0.775282	restecg-accuracy=3.750000
+2024-04-07 11:33:16,709 [INFO]  Epoch[2] Train-cross-entropy=0.535847
+2024-04-07 11:33:16,709 [INFO]  Epoch[2] Train-restecg-accuracy=4.000000
+2024-04-07 11:33:16,709 [INFO]  Epoch[2] Time cost=0.013
+2024-04-07 11:33:16,711 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:33:16,713 [INFO]  Epoch[2] Validation-cross-entropy=0.340107
+2024-04-07 11:33:16,713 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:16,722 [INFO]  Epoch[3] Batch [0-7]	Speed: 14774.71 samples/sec	cross-entropy=0.326347	restecg-accuracy=3.750000
+2024-04-07 11:33:16,729 [INFO]  Epoch[3] Train-cross-entropy=0.245365
+2024-04-07 11:33:16,729 [INFO]  Epoch[3] Train-restecg-accuracy=4.000000
+2024-04-07 11:33:16,729 [INFO]  Epoch[3] Time cost=0.016
+2024-04-07 11:33:16,731 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:33:16,732 [INFO]  Epoch[3] Validation-cross-entropy=0.194929
+2024-04-07 11:33:16,732 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:16,743 [INFO]  Epoch[4] Batch [0-7]	Speed: 12309.04 samples/sec	cross-entropy=0.190539	restecg-accuracy=3.750000
+2024-04-07 11:33:16,750 [INFO]  Epoch[4] Train-cross-entropy=0.159495
+2024-04-07 11:33:16,750 [INFO]  Epoch[4] Train-restecg-accuracy=4.000000
+2024-04-07 11:33:16,750 [INFO]  Epoch[4] Time cost=0.018
+2024-04-07 11:33:16,752 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:33:16,754 [INFO]  Epoch[4] Validation-cross-entropy=0.228254
+2024-04-07 11:33:16,754 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:16,754 [INFO]  
+========== done (0.16219472885131836 s) fit model
+2024-04-07 11:33:26,621 [INFO]  
+========== start: fit model
+2024-04-07 11:33:26,621 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:33:27,335 [INFO]  Epoch[0] Batch [0-7]	Speed: 169.03 samples/sec	cross-entropy=16.866552	restecg-accuracy=0.000000
+2024-04-07 11:33:27,352 [INFO]  Epoch[0] Train-cross-entropy=7.442628
+2024-04-07 11:33:27,352 [INFO]  Epoch[0] Train-restecg-accuracy=0.000000
+2024-04-07 11:33:27,352 [INFO]  Epoch[0] Time cost=0.730
+2024-04-07 11:33:27,354 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:33:27,355 [INFO]  Epoch[0] Validation-cross-entropy=3.458807
+2024-04-07 11:33:27,355 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:27,375 [INFO]  Epoch[1] Batch [0-7]	Speed: 11066.24 samples/sec	cross-entropy=2.883153	restecg-accuracy=0.000000
+2024-04-07 11:33:27,381 [INFO]  Epoch[1] Train-cross-entropy=1.643852
+2024-04-07 11:33:27,381 [INFO]  Epoch[1] Train-restecg-accuracy=0.000000
+2024-04-07 11:33:27,381 [INFO]  Epoch[1] Time cost=0.026
+2024-04-07 11:33:27,387 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:33:27,397 [INFO]  Epoch[1] Validation-cross-entropy=0.473569
+2024-04-07 11:33:27,397 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:27,405 [INFO]  Epoch[2] Batch [0-7]	Speed: 15204.13 samples/sec	cross-entropy=0.876914	restecg-accuracy=0.000000
+2024-04-07 11:33:27,410 [INFO]  Epoch[2] Train-cross-entropy=0.837016
+2024-04-07 11:33:27,411 [INFO]  Epoch[2] Train-restecg-accuracy=0.000000
+2024-04-07 11:33:27,411 [INFO]  Epoch[2] Time cost=0.014
+2024-04-07 11:33:27,412 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:33:27,424 [INFO]  Epoch[2] Validation-cross-entropy=0.256257
+2024-04-07 11:33:27,424 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:27,428 [INFO]  Epoch[3] Batch [0-7]	Speed: 28102.54 samples/sec	cross-entropy=0.576571	restecg-accuracy=0.000000
+2024-04-07 11:33:27,436 [INFO]  Epoch[3] Train-cross-entropy=0.447243
+2024-04-07 11:33:27,436 [INFO]  Epoch[3] Train-restecg-accuracy=0.000000
+2024-04-07 11:33:27,436 [INFO]  Epoch[3] Time cost=0.012
+2024-04-07 11:33:27,438 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:33:27,439 [INFO]  Epoch[3] Validation-cross-entropy=0.251129
+2024-04-07 11:33:27,439 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:27,460 [INFO]  Epoch[4] Batch [0-7]	Speed: 7116.42 samples/sec	cross-entropy=0.352455	restecg-accuracy=0.000000
+2024-04-07 11:33:27,466 [INFO]  Epoch[4] Train-cross-entropy=0.297703
+2024-04-07 11:33:27,467 [INFO]  Epoch[4] Train-restecg-accuracy=0.000000
+2024-04-07 11:33:27,467 [INFO]  Epoch[4] Time cost=0.027
+2024-04-07 11:33:27,468 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:33:27,469 [INFO]  Epoch[4] Validation-cross-entropy=0.118889
+2024-04-07 11:33:27,469 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:27,470 [INFO]  
+========== done (0.848313570022583 s) fit model
+2024-04-07 11:33:39,284 [INFO]  
+========== start: fit model
+2024-04-07 11:33:39,284 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:33:39,304 [INFO]  Epoch[0] Batch [0-7]	Speed: 7430.24 samples/sec	cross-entropy=15.968770	restecg-accuracy=3.875000
+2024-04-07 11:33:39,311 [INFO]  Epoch[0] Train-cross-entropy=7.764053
+2024-04-07 11:33:39,311 [INFO]  Epoch[0] Train-restecg-accuracy=2.500000
+2024-04-07 11:33:39,311 [INFO]  Epoch[0] Time cost=0.025
+2024-04-07 11:33:39,312 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:33:39,314 [INFO]  Epoch[0] Validation-cross-entropy=6.628585
+2024-04-07 11:33:39,314 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:39,355 [INFO]  Epoch[1] Batch [0-7]	Speed: 2856.77 samples/sec	cross-entropy=2.889390	restecg-accuracy=3.875000
+2024-04-07 11:33:39,361 [INFO]  Epoch[1] Train-cross-entropy=1.637817
+2024-04-07 11:33:39,361 [INFO]  Epoch[1] Train-restecg-accuracy=2.500000
+2024-04-07 11:33:39,361 [INFO]  Epoch[1] Time cost=0.047
+2024-04-07 11:33:39,376 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:33:39,624 [INFO]  Epoch[1] Validation-cross-entropy=0.567827
+2024-04-07 11:33:39,624 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:40,130 [INFO]  Epoch[2] Batch [0-7]	Speed: 446.36 samples/sec	cross-entropy=0.853087	restecg-accuracy=3.875000
+2024-04-07 11:33:40,232 [INFO]  Epoch[2] Train-cross-entropy=0.838505
+2024-04-07 11:33:40,233 [INFO]  Epoch[2] Train-restecg-accuracy=2.500000
+2024-04-07 11:33:40,233 [INFO]  Epoch[2] Time cost=0.609
+2024-04-07 11:33:40,234 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:33:40,236 [INFO]  Epoch[2] Validation-cross-entropy=0.523014
+2024-04-07 11:33:40,236 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:40,245 [INFO]  Epoch[3] Batch [0-7]	Speed: 14331.19 samples/sec	cross-entropy=0.577703	restecg-accuracy=3.875000
+2024-04-07 11:33:40,252 [INFO]  Epoch[3] Train-cross-entropy=0.419967
+2024-04-07 11:33:40,252 [INFO]  Epoch[3] Train-restecg-accuracy=2.500000
+2024-04-07 11:33:40,252 [INFO]  Epoch[3] Time cost=0.016
+2024-04-07 11:33:40,254 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:33:40,256 [INFO]  Epoch[3] Validation-cross-entropy=0.438710
+2024-04-07 11:33:40,256 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:40,265 [INFO]  Epoch[4] Batch [0-7]	Speed: 14981.09 samples/sec	cross-entropy=0.335215	restecg-accuracy=3.875000
+2024-04-07 11:33:40,275 [INFO]  Epoch[4] Train-cross-entropy=0.310922
+2024-04-07 11:33:40,276 [INFO]  Epoch[4] Train-restecg-accuracy=2.500000
+2024-04-07 11:33:40,276 [INFO]  Epoch[4] Time cost=0.020
+2024-04-07 11:33:40,277 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:33:40,278 [INFO]  Epoch[4] Validation-cross-entropy=0.350660
+2024-04-07 11:33:40,279 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:33:40,279 [INFO]  
+========== done (0.9943792819976807 s) fit model
+2024-04-07 11:33:53,812 [INFO]  
+========== start: fit model
+2024-04-07 11:33:53,812 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:33:53,859 [INFO]  Epoch[0] Batch [0-7]	Speed: 22835.02 samples/sec	cross-entropy=16.037684	restecg-accuracy=3.500000
+2024-04-07 11:33:53,870 [INFO]  Epoch[0] Train-cross-entropy=10.251930
+2024-04-07 11:33:53,870 [INFO]  Epoch[0] Train-restecg-accuracy=3.666667
+2024-04-07 11:33:53,870 [INFO]  Epoch[0] Time cost=0.057
+2024-04-07 11:33:53,872 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:33:53,873 [INFO]  Epoch[0] Validation-cross-entropy=5.980834
+2024-04-07 11:33:53,873 [INFO]  Epoch[0] Validation-restecg-accuracy=0.500000
+2024-04-07 11:33:53,905 [INFO]  Epoch[1] Batch [0-7]	Speed: 3625.80 samples/sec	cross-entropy=2.992907	restecg-accuracy=3.500000
+2024-04-07 11:33:53,929 [INFO]  Epoch[1] Train-cross-entropy=1.280612
+2024-04-07 11:33:53,929 [INFO]  Epoch[1] Train-restecg-accuracy=3.666667
+2024-04-07 11:33:53,929 [INFO]  Epoch[1] Time cost=0.056
+2024-04-07 11:33:53,931 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:33:53,953 [INFO]  Epoch[1] Validation-cross-entropy=1.302506
+2024-04-07 11:33:53,953 [INFO]  Epoch[1] Validation-restecg-accuracy=0.500000
+2024-04-07 11:33:53,959 [INFO]  Epoch[2] Batch [0-7]	Speed: 20336.90 samples/sec	cross-entropy=0.898019	restecg-accuracy=3.500000
+2024-04-07 11:33:53,964 [INFO]  Epoch[2] Train-cross-entropy=0.590929
+2024-04-07 11:33:53,964 [INFO]  Epoch[2] Train-restecg-accuracy=3.666667
+2024-04-07 11:33:53,964 [INFO]  Epoch[2] Time cost=0.011
+2024-04-07 11:33:53,966 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:33:53,967 [INFO]  Epoch[2] Validation-cross-entropy=0.764122
+2024-04-07 11:33:53,967 [INFO]  Epoch[2] Validation-restecg-accuracy=0.500000
+2024-04-07 11:33:53,978 [INFO]  Epoch[3] Batch [0-7]	Speed: 18674.70 samples/sec	cross-entropy=0.548509	restecg-accuracy=3.500000
+2024-04-07 11:33:54,070 [INFO]  Epoch[3] Train-cross-entropy=0.397015
+2024-04-07 11:33:54,070 [INFO]  Epoch[3] Train-restecg-accuracy=3.666667
+2024-04-07 11:33:54,070 [INFO]  Epoch[3] Time cost=0.103
+2024-04-07 11:33:54,072 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:33:54,077 [INFO]  Epoch[3] Validation-cross-entropy=0.441031
+2024-04-07 11:33:54,077 [INFO]  Epoch[3] Validation-restecg-accuracy=0.500000
+2024-04-07 11:33:54,082 [INFO]  Epoch[4] Batch [0-7]	Speed: 27831.15 samples/sec	cross-entropy=0.333306	restecg-accuracy=3.500000
+2024-04-07 11:33:54,086 [INFO]  Epoch[4] Train-cross-entropy=0.259182
+2024-04-07 11:33:54,086 [INFO]  Epoch[4] Train-restecg-accuracy=3.666667
+2024-04-07 11:33:54,086 [INFO]  Epoch[4] Time cost=0.009
+2024-04-07 11:33:54,087 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:33:54,088 [INFO]  Epoch[4] Validation-cross-entropy=0.335987
+2024-04-07 11:33:54,088 [INFO]  Epoch[4] Validation-restecg-accuracy=0.500000
+2024-04-07 11:33:54,088 [INFO]  
+========== done (0.27640843391418457 s) fit model
+2024-04-07 11:34:03,810 [INFO]  
+========== start: fit model
+2024-04-07 11:34:03,810 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:34:03,830 [INFO]  Epoch[0] Batch [0-7]	Speed: 14653.50 samples/sec	cross-entropy=9.167403	restecg-accuracy=3.250000
+2024-04-07 11:34:03,836 [INFO]  Epoch[0] Train-cross-entropy=5.021802
+2024-04-07 11:34:03,836 [INFO]  Epoch[0] Train-restecg-accuracy=3.000000
+2024-04-07 11:34:03,836 [INFO]  Epoch[0] Time cost=0.025
+2024-04-07 11:34:03,838 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:34:03,839 [INFO]  Epoch[0] Validation-cross-entropy=2.271568
+2024-04-07 11:34:03,839 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:03,853 [INFO]  Epoch[1] Batch [0-7]	Speed: 12668.54 samples/sec	cross-entropy=1.559949	restecg-accuracy=3.250000
+2024-04-07 11:34:03,875 [INFO]  Epoch[1] Train-cross-entropy=0.881998
+2024-04-07 11:34:03,875 [INFO]  Epoch[1] Train-restecg-accuracy=3.000000
+2024-04-07 11:34:03,875 [INFO]  Epoch[1] Time cost=0.036
+2024-04-07 11:34:03,879 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:34:03,914 [INFO]  Epoch[1] Validation-cross-entropy=0.619665
+2024-04-07 11:34:03,915 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:03,923 [INFO]  Epoch[2] Batch [0-7]	Speed: 15341.67 samples/sec	cross-entropy=0.691128	restecg-accuracy=3.250000
+2024-04-07 11:34:03,937 [INFO]  Epoch[2] Train-cross-entropy=0.465459
+2024-04-07 11:34:03,938 [INFO]  Epoch[2] Train-restecg-accuracy=3.000000
+2024-04-07 11:34:03,938 [INFO]  Epoch[2] Time cost=0.023
+2024-04-07 11:34:03,940 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:34:03,941 [INFO]  Epoch[2] Validation-cross-entropy=0.612626
+2024-04-07 11:34:03,941 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:03,948 [INFO]  Epoch[3] Batch [0-7]	Speed: 18105.37 samples/sec	cross-entropy=0.413675	restecg-accuracy=3.250000
+2024-04-07 11:34:04,539 [INFO]  Epoch[3] Train-cross-entropy=0.225318
+2024-04-07 11:34:04,539 [INFO]  Epoch[3] Train-restecg-accuracy=3.000000
+2024-04-07 11:34:04,539 [INFO]  Epoch[3] Time cost=0.598
+2024-04-07 11:34:04,541 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:34:04,779 [INFO]  Epoch[3] Validation-cross-entropy=0.427285
+2024-04-07 11:34:04,779 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:05,200 [INFO]  Epoch[4] Batch [0-7]	Speed: 652.39 samples/sec	cross-entropy=0.210849	restecg-accuracy=3.250000
+2024-04-07 11:34:05,209 [INFO]  Epoch[4] Train-cross-entropy=0.163002
+2024-04-07 11:34:05,209 [INFO]  Epoch[4] Train-restecg-accuracy=3.000000
+2024-04-07 11:34:05,209 [INFO]  Epoch[4] Time cost=0.430
+2024-04-07 11:34:05,211 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:34:05,212 [INFO]  Epoch[4] Validation-cross-entropy=0.336028
+2024-04-07 11:34:05,212 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:05,212 [INFO]  
+========== done (1.4026579856872559 s) fit model
+2024-04-07 11:34:18,915 [INFO]  
+========== start: fit model
+2024-04-07 11:34:18,915 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:34:19,224 [INFO]  Epoch[0] Batch [0-7]	Speed: 1389.35 samples/sec	cross-entropy=17.651484	restecg-accuracy=3.250000
+2024-04-07 11:34:19,264 [INFO]  Epoch[0] Train-cross-entropy=6.636634
+2024-04-07 11:34:19,264 [INFO]  Epoch[0] Train-restecg-accuracy=3.166667
+2024-04-07 11:34:19,264 [INFO]  Epoch[0] Time cost=0.348
+2024-04-07 11:34:19,266 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:34:19,270 [INFO]  Epoch[0] Validation-cross-entropy=3.722589
+2024-04-07 11:34:19,270 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:19,306 [INFO]  Epoch[1] Batch [0-7]	Speed: 3248.61 samples/sec	cross-entropy=3.096574	restecg-accuracy=3.250000
+2024-04-07 11:34:19,359 [INFO]  Epoch[1] Train-cross-entropy=1.325947
+2024-04-07 11:34:19,359 [INFO]  Epoch[1] Train-restecg-accuracy=3.166667
+2024-04-07 11:34:19,359 [INFO]  Epoch[1] Time cost=0.090
+2024-04-07 11:34:19,361 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:34:19,362 [INFO]  Epoch[1] Validation-cross-entropy=1.605529
+2024-04-07 11:34:19,362 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:19,367 [INFO]  Epoch[2] Batch [0-7]	Speed: 28319.39 samples/sec	cross-entropy=0.895506	restecg-accuracy=3.250000
+2024-04-07 11:34:19,371 [INFO]  Epoch[2] Train-cross-entropy=0.840540
+2024-04-07 11:34:19,371 [INFO]  Epoch[2] Train-restecg-accuracy=3.166667
+2024-04-07 11:34:19,371 [INFO]  Epoch[2] Time cost=0.008
+2024-04-07 11:34:19,373 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:34:19,389 [INFO]  Epoch[2] Validation-cross-entropy=0.433131
+2024-04-07 11:34:19,389 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:19,396 [INFO]  Epoch[3] Batch [0-7]	Speed: 19134.91 samples/sec	cross-entropy=0.480136	restecg-accuracy=3.250000
+2024-04-07 11:34:19,400 [INFO]  Epoch[3] Train-cross-entropy=0.382771
+2024-04-07 11:34:19,400 [INFO]  Epoch[3] Train-restecg-accuracy=3.166667
+2024-04-07 11:34:19,400 [INFO]  Epoch[3] Time cost=0.012
+2024-04-07 11:34:19,402 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:34:19,403 [INFO]  Epoch[3] Validation-cross-entropy=0.422841
+2024-04-07 11:34:19,403 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:19,506 [INFO]  Epoch[4] Batch [0-7]	Speed: 1092.53 samples/sec	cross-entropy=0.282797	restecg-accuracy=3.250000
+2024-04-07 11:34:19,510 [INFO]  Epoch[4] Train-cross-entropy=0.241198
+2024-04-07 11:34:19,511 [INFO]  Epoch[4] Train-restecg-accuracy=3.166667
+2024-04-07 11:34:19,511 [INFO]  Epoch[4] Time cost=0.107
+2024-04-07 11:34:19,512 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:34:19,513 [INFO]  Epoch[4] Validation-cross-entropy=0.449965
+2024-04-07 11:34:19,513 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:19,513 [INFO]  
+========== done (0.598095178604126 s) fit model
+2024-04-07 11:34:32,921 [INFO]  
+========== start: fit model
+2024-04-07 11:34:32,921 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:34:33,208 [INFO]  Epoch[0] Batch [0-7]	Speed: 418.50 samples/sec	cross-entropy=11.844985	restecg-accuracy=3.375000
+2024-04-07 11:34:33,217 [INFO]  Epoch[0] Train-cross-entropy=5.519961
+2024-04-07 11:34:33,217 [INFO]  Epoch[0] Train-restecg-accuracy=3.333333
+2024-04-07 11:34:33,217 [INFO]  Epoch[0] Time cost=0.295
+2024-04-07 11:34:33,222 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:34:33,332 [INFO]  Epoch[0] Validation-cross-entropy=4.338136
+2024-04-07 11:34:33,333 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:33,353 [INFO]  Epoch[1] Batch [0-7]	Speed: 15561.22 samples/sec	cross-entropy=1.865875	restecg-accuracy=3.375000
+2024-04-07 11:34:33,381 [INFO]  Epoch[1] Train-cross-entropy=1.030239
+2024-04-07 11:34:33,381 [INFO]  Epoch[1] Train-restecg-accuracy=3.333333
+2024-04-07 11:34:33,381 [INFO]  Epoch[1] Time cost=0.048
+2024-04-07 11:34:33,384 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:34:33,386 [INFO]  Epoch[1] Validation-cross-entropy=0.571613
+2024-04-07 11:34:33,386 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:33,397 [INFO]  Epoch[2] Batch [0-7]	Speed: 11923.50 samples/sec	cross-entropy=0.803469	restecg-accuracy=3.375000
+2024-04-07 11:34:33,405 [INFO]  Epoch[2] Train-cross-entropy=0.746870
+2024-04-07 11:34:33,406 [INFO]  Epoch[2] Train-restecg-accuracy=3.333333
+2024-04-07 11:34:33,406 [INFO]  Epoch[2] Time cost=0.020
+2024-04-07 11:34:33,408 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:34:33,409 [INFO]  Epoch[2] Validation-cross-entropy=0.782724
+2024-04-07 11:34:33,410 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:33,421 [INFO]  Epoch[3] Batch [0-7]	Speed: 11126.27 samples/sec	cross-entropy=0.521243	restecg-accuracy=3.375000
+2024-04-07 11:34:33,445 [INFO]  Epoch[3] Train-cross-entropy=0.397393
+2024-04-07 11:34:33,446 [INFO]  Epoch[3] Train-restecg-accuracy=3.333333
+2024-04-07 11:34:33,446 [INFO]  Epoch[3] Time cost=0.036
+2024-04-07 11:34:33,447 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:34:33,608 [INFO]  Epoch[3] Validation-cross-entropy=0.839236
+2024-04-07 11:34:33,608 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:33,661 [INFO]  Epoch[4] Batch [0-7]	Speed: 19036.43 samples/sec	cross-entropy=0.322451	restecg-accuracy=3.375000
+2024-04-07 11:34:33,669 [INFO]  Epoch[4] Train-cross-entropy=0.265293
+2024-04-07 11:34:33,669 [INFO]  Epoch[4] Train-restecg-accuracy=3.333333
+2024-04-07 11:34:33,669 [INFO]  Epoch[4] Time cost=0.061
+2024-04-07 11:34:33,671 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:34:33,673 [INFO]  Epoch[4] Validation-cross-entropy=0.657230
+2024-04-07 11:34:33,673 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:33,673 [INFO]  
+========== done (0.7523000240325928 s) fit model
+2024-04-07 11:34:46,338 [INFO]  
+========== start: fit model
+2024-04-07 11:34:46,339 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:34:46,973 [INFO]  Epoch[0] Batch [0-7]	Speed: 447.63 samples/sec	cross-entropy=15.930154	restecg-accuracy=0.000000
+2024-04-07 11:34:46,977 [INFO]  Epoch[0] Train-cross-entropy=6.556830
+2024-04-07 11:34:46,977 [INFO]  Epoch[0] Train-restecg-accuracy=0.000000
+2024-04-07 11:34:46,977 [INFO]  Epoch[0] Time cost=0.638
+2024-04-07 11:34:46,979 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:34:47,093 [INFO]  Epoch[0] Validation-cross-entropy=6.976441
+2024-04-07 11:34:47,093 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:47,331 [INFO]  Epoch[1] Batch [0-7]	Speed: 15608.27 samples/sec	cross-entropy=3.177657	restecg-accuracy=0.000000
+2024-04-07 11:34:47,562 [INFO]  Epoch[1] Train-cross-entropy=1.036959
+2024-04-07 11:34:47,563 [INFO]  Epoch[1] Train-restecg-accuracy=0.000000
+2024-04-07 11:34:47,563 [INFO]  Epoch[1] Time cost=0.469
+2024-04-07 11:34:47,566 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:34:47,765 [INFO]  Epoch[1] Validation-cross-entropy=1.075296
+2024-04-07 11:34:47,765 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:48,035 [INFO]  Epoch[2] Batch [0-7]	Speed: 4929.81 samples/sec	cross-entropy=0.883991	restecg-accuracy=0.000000
+2024-04-07 11:34:48,093 [INFO]  Epoch[2] Train-cross-entropy=0.738531
+2024-04-07 11:34:48,093 [INFO]  Epoch[2] Train-restecg-accuracy=0.000000
+2024-04-07 11:34:48,093 [INFO]  Epoch[2] Time cost=0.327
+2024-04-07 11:34:48,097 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:34:48,106 [INFO]  Epoch[2] Validation-cross-entropy=0.552285
+2024-04-07 11:34:48,106 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:48,149 [INFO]  Epoch[3] Batch [0-7]	Speed: 2655.37 samples/sec	cross-entropy=0.508345	restecg-accuracy=0.000000
+2024-04-07 11:34:48,172 [INFO]  Epoch[3] Train-cross-entropy=0.333922
+2024-04-07 11:34:48,172 [INFO]  Epoch[3] Train-restecg-accuracy=0.000000
+2024-04-07 11:34:48,172 [INFO]  Epoch[3] Time cost=0.067
+2024-04-07 11:34:48,174 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:34:48,175 [INFO]  Epoch[3] Validation-cross-entropy=0.601807
+2024-04-07 11:34:48,175 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:48,184 [INFO]  Epoch[4] Batch [0-7]	Speed: 15441.02 samples/sec	cross-entropy=0.288600	restecg-accuracy=0.000000
+2024-04-07 11:34:48,271 [INFO]  Epoch[4] Train-cross-entropy=0.235890
+2024-04-07 11:34:48,271 [INFO]  Epoch[4] Train-restecg-accuracy=0.000000
+2024-04-07 11:34:48,271 [INFO]  Epoch[4] Time cost=0.096
+2024-04-07 11:34:48,275 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:34:48,286 [INFO]  Epoch[4] Validation-cross-entropy=0.456742
+2024-04-07 11:34:48,286 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:48,286 [INFO]  
+========== done (1.9477405548095703 s) fit model
+2024-04-07 11:34:59,435 [INFO]  
+========== start: fit model
+2024-04-07 11:34:59,435 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:34:59,540 [INFO]  Epoch[0] Batch [0-7]	Speed: 1682.23 samples/sec	cross-entropy=17.499725	restecg-accuracy=0.000000
+2024-04-07 11:34:59,560 [INFO]  Epoch[0] Train-cross-entropy=10.265156
+2024-04-07 11:34:59,560 [INFO]  Epoch[0] Train-restecg-accuracy=0.000000
+2024-04-07 11:34:59,560 [INFO]  Epoch[0] Time cost=0.124
+2024-04-07 11:34:59,562 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:34:59,562 [INFO]  Epoch[0] Validation-cross-entropy=9.585814
+2024-04-07 11:34:59,562 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:59,578 [INFO]  Epoch[1] Batch [0-7]	Speed: 7627.86 samples/sec	cross-entropy=4.705805	restecg-accuracy=0.000000
+2024-04-07 11:34:59,582 [INFO]  Epoch[1] Train-cross-entropy=2.426829
+2024-04-07 11:34:59,582 [INFO]  Epoch[1] Train-restecg-accuracy=0.000000
+2024-04-07 11:34:59,582 [INFO]  Epoch[1] Time cost=0.020
+2024-04-07 11:34:59,584 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:34:59,584 [INFO]  Epoch[1] Validation-cross-entropy=2.385030
+2024-04-07 11:34:59,584 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:59,593 [INFO]  Epoch[2] Batch [0-7]	Speed: 15357.22 samples/sec	cross-entropy=1.102088	restecg-accuracy=0.000000
+2024-04-07 11:34:59,598 [INFO]  Epoch[2] Train-cross-entropy=0.566123
+2024-04-07 11:34:59,598 [INFO]  Epoch[2] Train-restecg-accuracy=0.000000
+2024-04-07 11:34:59,598 [INFO]  Epoch[2] Time cost=0.014
+2024-04-07 11:34:59,600 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:34:59,600 [INFO]  Epoch[2] Validation-cross-entropy=0.707020
+2024-04-07 11:34:59,600 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:59,607 [INFO]  Epoch[3] Batch [0-7]	Speed: 18459.68 samples/sec	cross-entropy=0.520163	restecg-accuracy=0.000000
+2024-04-07 11:34:59,614 [INFO]  Epoch[3] Train-cross-entropy=0.469787
+2024-04-07 11:34:59,614 [INFO]  Epoch[3] Train-restecg-accuracy=0.000000
+2024-04-07 11:34:59,614 [INFO]  Epoch[3] Time cost=0.014
+2024-04-07 11:34:59,616 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:34:59,617 [INFO]  Epoch[3] Validation-cross-entropy=0.722882
+2024-04-07 11:34:59,617 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:59,626 [INFO]  Epoch[4] Batch [0-7]	Speed: 14960.57 samples/sec	cross-entropy=0.355244	restecg-accuracy=0.000000
+2024-04-07 11:34:59,632 [INFO]  Epoch[4] Train-cross-entropy=0.269916
+2024-04-07 11:34:59,633 [INFO]  Epoch[4] Train-restecg-accuracy=0.000000
+2024-04-07 11:34:59,633 [INFO]  Epoch[4] Time cost=0.016
+2024-04-07 11:34:59,634 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:34:59,635 [INFO]  Epoch[4] Validation-cross-entropy=0.595990
+2024-04-07 11:34:59,635 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:34:59,635 [INFO]  
+========== done (0.20041942596435547 s) fit model
+2024-04-07 11:35:08,329 [INFO]  
+========== start: fit model
+2024-04-07 11:35:08,329 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:35:08,342 [INFO]  Epoch[0] Batch [0-7]	Speed: 21519.10 samples/sec	cross-entropy=15.566414	restecg-accuracy=3.625000
+2024-04-07 11:35:08,346 [INFO]  Epoch[0] Train-cross-entropy=11.505672
+2024-04-07 11:35:08,346 [INFO]  Epoch[0] Train-restecg-accuracy=3.000000
+2024-04-07 11:35:08,346 [INFO]  Epoch[0] Time cost=0.016
+2024-04-07 11:35:08,348 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:35:08,349 [INFO]  Epoch[0] Validation-cross-entropy=18.322910
+2024-04-07 11:35:08,349 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:08,408 [INFO]  Epoch[1] Batch [0-7]	Speed: 1925.39 samples/sec	cross-entropy=3.195450	restecg-accuracy=3.625000
+2024-04-07 11:35:08,419 [INFO]  Epoch[1] Train-cross-entropy=1.757534
+2024-04-07 11:35:08,419 [INFO]  Epoch[1] Train-restecg-accuracy=3.000000
+2024-04-07 11:35:08,419 [INFO]  Epoch[1] Time cost=0.070
+2024-04-07 11:35:08,421 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:35:08,431 [INFO]  Epoch[1] Validation-cross-entropy=2.182952
+2024-04-07 11:35:08,431 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:08,460 [INFO]  Epoch[2] Batch [0-7]	Speed: 4061.30 samples/sec	cross-entropy=0.705956	restecg-accuracy=3.625000
+2024-04-07 11:35:08,497 [INFO]  Epoch[2] Train-cross-entropy=0.523240
+2024-04-07 11:35:08,497 [INFO]  Epoch[2] Train-restecg-accuracy=3.000000
+2024-04-07 11:35:08,497 [INFO]  Epoch[2] Time cost=0.066
+2024-04-07 11:35:08,499 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:35:08,500 [INFO]  Epoch[2] Validation-cross-entropy=0.722075
+2024-04-07 11:35:08,500 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:08,505 [INFO]  Epoch[3] Batch [0-7]	Speed: 28102.54 samples/sec	cross-entropy=0.496257	restecg-accuracy=3.625000
+2024-04-07 11:35:08,649 [INFO]  Epoch[3] Train-cross-entropy=0.354156
+2024-04-07 11:35:08,649 [INFO]  Epoch[3] Train-restecg-accuracy=3.000000
+2024-04-07 11:35:08,649 [INFO]  Epoch[3] Time cost=0.149
+2024-04-07 11:35:08,652 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:35:08,657 [INFO]  Epoch[3] Validation-cross-entropy=0.734029
+2024-04-07 11:35:08,657 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:08,929 [INFO]  Epoch[4] Batch [0-7]	Speed: 414.94 samples/sec	cross-entropy=0.289244	restecg-accuracy=3.625000
+2024-04-07 11:35:09,144 [INFO]  Epoch[4] Train-cross-entropy=0.244811
+2024-04-07 11:35:09,145 [INFO]  Epoch[4] Train-restecg-accuracy=3.000000
+2024-04-07 11:35:09,145 [INFO]  Epoch[4] Time cost=0.487
+2024-04-07 11:35:09,146 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:35:09,148 [INFO]  Epoch[4] Validation-cross-entropy=0.824139
+2024-04-07 11:35:09,148 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:09,148 [INFO]  
+========== done (0.8193686008453369 s) fit model
+2024-04-07 11:35:20,955 [INFO]  
+========== start: fit model
+2024-04-07 11:35:20,956 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:35:20,977 [INFO]  Epoch[0] Batch [0-7]	Speed: 20688.89 samples/sec	cross-entropy=11.667744	restecg-accuracy=0.000000
+2024-04-07 11:35:20,984 [INFO]  Epoch[0] Train-cross-entropy=5.517755
+2024-04-07 11:35:20,985 [INFO]  Epoch[0] Train-restecg-accuracy=0.000000
+2024-04-07 11:35:20,985 [INFO]  Epoch[0] Time cost=0.028
+2024-04-07 11:35:20,987 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:35:20,988 [INFO]  Epoch[0] Validation-cross-entropy=4.311274
+2024-04-07 11:35:20,988 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:20,997 [INFO]  Epoch[1] Batch [0-7]	Speed: 14425.37 samples/sec	cross-entropy=2.433388	restecg-accuracy=0.000000
+2024-04-07 11:35:21,004 [INFO]  Epoch[1] Train-cross-entropy=1.116493
+2024-04-07 11:35:21,004 [INFO]  Epoch[1] Train-restecg-accuracy=0.000000
+2024-04-07 11:35:21,004 [INFO]  Epoch[1] Time cost=0.016
+2024-04-07 11:35:21,006 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:35:21,008 [INFO]  Epoch[1] Validation-cross-entropy=1.862940
+2024-04-07 11:35:21,008 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:21,017 [INFO]  Epoch[2] Batch [0-7]	Speed: 14917.34 samples/sec	cross-entropy=0.804188	restecg-accuracy=0.000000
+2024-04-07 11:35:21,024 [INFO]  Epoch[2] Train-cross-entropy=0.676205
+2024-04-07 11:35:21,024 [INFO]  Epoch[2] Train-restecg-accuracy=0.000000
+2024-04-07 11:35:21,024 [INFO]  Epoch[2] Time cost=0.016
+2024-04-07 11:35:21,025 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:35:21,027 [INFO]  Epoch[2] Validation-cross-entropy=1.145092
+2024-04-07 11:35:21,027 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:21,035 [INFO]  Epoch[3] Batch [0-7]	Speed: 17687.49 samples/sec	cross-entropy=0.432061	restecg-accuracy=0.000000
+2024-04-07 11:35:21,052 [INFO]  Epoch[3] Train-cross-entropy=0.310492
+2024-04-07 11:35:21,053 [INFO]  Epoch[3] Train-restecg-accuracy=0.000000
+2024-04-07 11:35:21,053 [INFO]  Epoch[3] Time cost=0.025
+2024-04-07 11:35:21,073 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:35:21,295 [INFO]  Epoch[3] Validation-cross-entropy=0.853499
+2024-04-07 11:35:21,295 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:21,797 [INFO]  Epoch[4] Batch [0-7]	Speed: 449.37 samples/sec	cross-entropy=0.287660	restecg-accuracy=0.000000
+2024-04-07 11:35:21,803 [INFO]  Epoch[4] Train-cross-entropy=0.198039
+2024-04-07 11:35:21,803 [INFO]  Epoch[4] Train-restecg-accuracy=0.000000
+2024-04-07 11:35:21,803 [INFO]  Epoch[4] Time cost=0.508
+2024-04-07 11:35:21,805 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:35:21,807 [INFO]  Epoch[4] Validation-cross-entropy=1.047498
+2024-04-07 11:35:21,807 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:21,807 [INFO]  
+========== done (0.8517615795135498 s) fit model
+2024-04-07 11:35:31,562 [INFO]  
+========== start: fit model
+2024-04-07 11:35:31,562 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:35:31,586 [INFO]  Epoch[0] Batch [0-7]	Speed: 18298.62 samples/sec	cross-entropy=14.087981	restecg-accuracy=3.625000
+2024-04-07 11:35:31,591 [INFO]  Epoch[0] Train-cross-entropy=5.637857
+2024-04-07 11:35:31,591 [INFO]  Epoch[0] Train-restecg-accuracy=3.333333
+2024-04-07 11:35:31,591 [INFO]  Epoch[0] Time cost=0.028
+2024-04-07 11:35:31,593 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:35:31,594 [INFO]  Epoch[0] Validation-cross-entropy=8.664087
+2024-04-07 11:35:31,594 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:31,604 [INFO]  Epoch[1] Batch [0-7]	Speed: 12615.13 samples/sec	cross-entropy=2.781666	restecg-accuracy=3.625000
+2024-04-07 11:35:31,609 [INFO]  Epoch[1] Train-cross-entropy=1.594007
+2024-04-07 11:35:31,609 [INFO]  Epoch[1] Train-restecg-accuracy=3.333333
+2024-04-07 11:35:31,609 [INFO]  Epoch[1] Time cost=0.015
+2024-04-07 11:35:31,611 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:35:31,612 [INFO]  Epoch[1] Validation-cross-entropy=3.797566
+2024-04-07 11:35:31,613 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:31,619 [INFO]  Epoch[2] Batch [0-7]	Speed: 21694.01 samples/sec	cross-entropy=1.146649	restecg-accuracy=3.625000
+2024-04-07 11:35:31,625 [INFO]  Epoch[2] Train-cross-entropy=1.020662
+2024-04-07 11:35:31,625 [INFO]  Epoch[2] Train-restecg-accuracy=3.333333
+2024-04-07 11:35:31,625 [INFO]  Epoch[2] Time cost=0.012
+2024-04-07 11:35:31,626 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:35:31,627 [INFO]  Epoch[2] Validation-cross-entropy=2.101413
+2024-04-07 11:35:31,627 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:31,634 [INFO]  Epoch[3] Batch [0-7]	Speed: 20464.48 samples/sec	cross-entropy=0.673405	restecg-accuracy=3.625000
+2024-04-07 11:35:31,639 [INFO]  Epoch[3] Train-cross-entropy=0.489983
+2024-04-07 11:35:31,639 [INFO]  Epoch[3] Train-restecg-accuracy=3.333333
+2024-04-07 11:35:31,639 [INFO]  Epoch[3] Time cost=0.012
+2024-04-07 11:35:31,641 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:35:31,642 [INFO]  Epoch[3] Validation-cross-entropy=1.530843
+2024-04-07 11:35:31,642 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:31,651 [INFO]  Epoch[4] Batch [0-7]	Speed: 15068.55 samples/sec	cross-entropy=0.453309	restecg-accuracy=3.625000
+2024-04-07 11:35:31,656 [INFO]  Epoch[4] Train-cross-entropy=0.298202
+2024-04-07 11:35:31,656 [INFO]  Epoch[4] Train-restecg-accuracy=3.333333
+2024-04-07 11:35:31,656 [INFO]  Epoch[4] Time cost=0.014
+2024-04-07 11:35:31,658 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:35:31,659 [INFO]  Epoch[4] Validation-cross-entropy=1.293458
+2024-04-07 11:35:31,659 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:31,660 [INFO]  
+========== done (0.09729456901550293 s) fit model
+2024-04-07 11:35:40,741 [INFO]  
+========== start: fit model
+2024-04-07 11:35:40,741 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:35:40,761 [INFO]  Epoch[0] Batch [0-7]	Speed: 25890.77 samples/sec	cross-entropy=12.163589	restecg-accuracy=3.250000
+2024-04-07 11:35:40,765 [INFO]  Epoch[0] Train-cross-entropy=5.425592
+2024-04-07 11:35:40,765 [INFO]  Epoch[0] Train-restecg-accuracy=3.500000
+2024-04-07 11:35:40,766 [INFO]  Epoch[0] Time cost=0.024
+2024-04-07 11:35:40,767 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:35:40,768 [INFO]  Epoch[0] Validation-cross-entropy=3.153781
+2024-04-07 11:35:40,768 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:40,778 [INFO]  Epoch[1] Batch [0-7]	Speed: 12496.66 samples/sec	cross-entropy=2.127448	restecg-accuracy=3.250000
+2024-04-07 11:35:40,786 [INFO]  Epoch[1] Train-cross-entropy=0.998098
+2024-04-07 11:35:40,786 [INFO]  Epoch[1] Train-restecg-accuracy=3.500000
+2024-04-07 11:35:40,786 [INFO]  Epoch[1] Time cost=0.018
+2024-04-07 11:35:40,788 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:35:40,789 [INFO]  Epoch[1] Validation-cross-entropy=0.814312
+2024-04-07 11:35:40,790 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:40,798 [INFO]  Epoch[2] Batch [0-7]	Speed: 16212.11 samples/sec	cross-entropy=0.673525	restecg-accuracy=3.250000
+2024-04-07 11:35:40,804 [INFO]  Epoch[2] Train-cross-entropy=0.533023
+2024-04-07 11:35:40,804 [INFO]  Epoch[2] Train-restecg-accuracy=3.500000
+2024-04-07 11:35:40,804 [INFO]  Epoch[2] Time cost=0.015
+2024-04-07 11:35:40,806 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:35:40,807 [INFO]  Epoch[2] Validation-cross-entropy=0.600002
+2024-04-07 11:35:40,807 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:40,816 [INFO]  Epoch[3] Batch [0-7]	Speed: 14661.28 samples/sec	cross-entropy=0.421856	restecg-accuracy=3.250000
+2024-04-07 11:35:41,152 [INFO]  Epoch[3] Train-cross-entropy=0.284214
+2024-04-07 11:35:41,153 [INFO]  Epoch[3] Train-restecg-accuracy=3.500000
+2024-04-07 11:35:41,153 [INFO]  Epoch[3] Time cost=0.346
+2024-04-07 11:35:41,160 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:35:41,266 [INFO]  Epoch[3] Validation-cross-entropy=0.350548
+2024-04-07 11:35:41,266 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:41,287 [INFO]  Epoch[4] Batch [0-7]	Speed: 6030.48 samples/sec	cross-entropy=0.264078	restecg-accuracy=3.250000
+2024-04-07 11:35:41,313 [INFO]  Epoch[4] Train-cross-entropy=0.193258
+2024-04-07 11:35:41,314 [INFO]  Epoch[4] Train-restecg-accuracy=3.500000
+2024-04-07 11:35:41,314 [INFO]  Epoch[4] Time cost=0.047
+2024-04-07 11:35:41,315 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:35:41,317 [INFO]  Epoch[4] Validation-cross-entropy=0.304352
+2024-04-07 11:35:41,317 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:41,317 [INFO]  
+========== done (0.5769124031066895 s) fit model
+2024-04-07 11:35:53,061 [INFO]  
+========== start: fit model
+2024-04-07 11:35:53,062 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:35:53,078 [INFO]  Epoch[0] Batch [0-7]	Speed: 13823.04 samples/sec	cross-entropy=12.679804	restecg-accuracy=3.500000
+2024-04-07 11:35:53,130 [INFO]  Epoch[0] Train-cross-entropy=7.051464
+2024-04-07 11:35:53,130 [INFO]  Epoch[0] Train-restecg-accuracy=3.000000
+2024-04-07 11:35:53,131 [INFO]  Epoch[0] Time cost=0.068
+2024-04-07 11:35:53,132 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:35:53,133 [INFO]  Epoch[0] Validation-cross-entropy=4.382859
+2024-04-07 11:35:53,133 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:53,155 [INFO]  Epoch[1] Batch [0-7]	Speed: 5130.20 samples/sec	cross-entropy=1.966737	restecg-accuracy=3.500000
+2024-04-07 11:35:53,160 [INFO]  Epoch[1] Train-cross-entropy=1.574438
+2024-04-07 11:35:53,160 [INFO]  Epoch[1] Train-restecg-accuracy=3.000000
+2024-04-07 11:35:53,160 [INFO]  Epoch[1] Time cost=0.027
+2024-04-07 11:35:53,164 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:35:53,260 [INFO]  Epoch[1] Validation-cross-entropy=0.785671
+2024-04-07 11:35:53,260 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:53,536 [INFO]  Epoch[2] Batch [0-7]	Speed: 9662.31 samples/sec	cross-entropy=1.031049	restecg-accuracy=3.500000
+2024-04-07 11:35:53,905 [INFO]  Epoch[2] Train-cross-entropy=0.687822
+2024-04-07 11:35:53,905 [INFO]  Epoch[2] Train-restecg-accuracy=3.000000
+2024-04-07 11:35:53,905 [INFO]  Epoch[2] Time cost=0.645
+2024-04-07 11:35:53,906 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:35:53,908 [INFO]  Epoch[2] Validation-cross-entropy=0.644586
+2024-04-07 11:35:53,908 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:53,920 [INFO]  Epoch[3] Batch [0-7]	Speed: 10579.27 samples/sec	cross-entropy=0.615714	restecg-accuracy=3.500000
+2024-04-07 11:35:53,927 [INFO]  Epoch[3] Train-cross-entropy=0.352715
+2024-04-07 11:35:53,927 [INFO]  Epoch[3] Train-restecg-accuracy=3.000000
+2024-04-07 11:35:53,927 [INFO]  Epoch[3] Time cost=0.019
+2024-04-07 11:35:53,929 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:35:53,930 [INFO]  Epoch[3] Validation-cross-entropy=0.288969
+2024-04-07 11:35:53,930 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:53,943 [INFO]  Epoch[4] Batch [0-7]	Speed: 9565.12 samples/sec	cross-entropy=0.322807	restecg-accuracy=3.500000
+2024-04-07 11:35:53,950 [INFO]  Epoch[4] Train-cross-entropy=0.281654
+2024-04-07 11:35:53,950 [INFO]  Epoch[4] Train-restecg-accuracy=3.000000
+2024-04-07 11:35:53,950 [INFO]  Epoch[4] Time cost=0.020
+2024-04-07 11:35:53,952 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:35:53,953 [INFO]  Epoch[4] Validation-cross-entropy=0.257094
+2024-04-07 11:35:53,953 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:35:53,953 [INFO]  
+========== done (0.8917393684387207 s) fit model
+2024-04-07 11:36:06,022 [INFO]  
+========== start: fit model
+2024-04-07 11:36:06,022 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:36:06,121 [INFO]  Epoch[0] Batch [0-7]	Speed: 17690.82 samples/sec	cross-entropy=9.958248	restecg-accuracy=3.750000
+2024-04-07 11:36:06,127 [INFO]  Epoch[0] Train-cross-entropy=5.847408
+2024-04-07 11:36:06,128 [INFO]  Epoch[0] Train-restecg-accuracy=3.166667
+2024-04-07 11:36:06,128 [INFO]  Epoch[0] Time cost=0.104
+2024-04-07 11:36:06,129 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:36:06,130 [INFO]  Epoch[0] Validation-cross-entropy=1.555204
+2024-04-07 11:36:06,130 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:06,136 [INFO]  Epoch[1] Batch [0-7]	Speed: 24938.26 samples/sec	cross-entropy=1.447419	restecg-accuracy=3.750000
+2024-04-07 11:36:06,139 [INFO]  Epoch[1] Train-cross-entropy=1.071435
+2024-04-07 11:36:06,140 [INFO]  Epoch[1] Train-restecg-accuracy=3.166667
+2024-04-07 11:36:06,140 [INFO]  Epoch[1] Time cost=0.009
+2024-04-07 11:36:06,141 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:36:06,142 [INFO]  Epoch[1] Validation-cross-entropy=0.550001
+2024-04-07 11:36:06,142 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:06,151 [INFO]  Epoch[2] Batch [0-7]	Speed: 15769.12 samples/sec	cross-entropy=1.015567	restecg-accuracy=3.750000
+2024-04-07 11:36:06,193 [INFO]  Epoch[2] Train-cross-entropy=0.525360
+2024-04-07 11:36:06,193 [INFO]  Epoch[2] Train-restecg-accuracy=3.166667
+2024-04-07 11:36:06,193 [INFO]  Epoch[2] Time cost=0.051
+2024-04-07 11:36:06,195 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:36:06,196 [INFO]  Epoch[2] Validation-cross-entropy=0.519425
+2024-04-07 11:36:06,196 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:06,205 [INFO]  Epoch[3] Batch [0-7]	Speed: 12565.86 samples/sec	cross-entropy=0.608276	restecg-accuracy=3.750000
+2024-04-07 11:36:06,213 [INFO]  Epoch[3] Train-cross-entropy=0.379175
+2024-04-07 11:36:06,213 [INFO]  Epoch[3] Train-restecg-accuracy=3.166667
+2024-04-07 11:36:06,213 [INFO]  Epoch[3] Time cost=0.017
+2024-04-07 11:36:06,214 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:36:06,216 [INFO]  Epoch[3] Validation-cross-entropy=0.530395
+2024-04-07 11:36:06,216 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:06,224 [INFO]  Epoch[4] Batch [0-7]	Speed: 16535.68 samples/sec	cross-entropy=0.245259	restecg-accuracy=3.750000
+2024-04-07 11:36:06,288 [INFO]  Epoch[4] Train-cross-entropy=0.239685
+2024-04-07 11:36:06,288 [INFO]  Epoch[4] Train-restecg-accuracy=3.166667
+2024-04-07 11:36:06,288 [INFO]  Epoch[4] Time cost=0.072
+2024-04-07 11:36:06,289 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:36:06,290 [INFO]  Epoch[4] Validation-cross-entropy=0.439515
+2024-04-07 11:36:06,290 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:06,290 [INFO]  
+========== done (0.26839780807495117 s) fit model
+2024-04-07 11:36:16,092 [INFO]  
+========== start: fit model
+2024-04-07 11:36:16,092 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:36:16,920 [INFO]  Epoch[0] Batch [0-7]	Speed: 201.67 samples/sec	cross-entropy=20.378381	restecg-accuracy=3.625000
+2024-04-07 11:36:17,028 [INFO]  Epoch[0] Train-cross-entropy=9.452973
+2024-04-07 11:36:17,028 [INFO]  Epoch[0] Train-restecg-accuracy=3.000000
+2024-04-07 11:36:17,028 [INFO]  Epoch[0] Time cost=0.934
+2024-04-07 11:36:17,030 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:36:17,035 [INFO]  Epoch[0] Validation-cross-entropy=5.857941
+2024-04-07 11:36:17,035 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:17,243 [INFO]  Epoch[1] Batch [0-7]	Speed: 561.41 samples/sec	cross-entropy=4.280591	restecg-accuracy=3.625000
+2024-04-07 11:36:17,250 [INFO]  Epoch[1] Train-cross-entropy=1.718261
+2024-04-07 11:36:17,250 [INFO]  Epoch[1] Train-restecg-accuracy=3.000000
+2024-04-07 11:36:17,250 [INFO]  Epoch[1] Time cost=0.215
+2024-04-07 11:36:17,252 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:36:17,253 [INFO]  Epoch[1] Validation-cross-entropy=1.147712
+2024-04-07 11:36:17,253 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:17,294 [INFO]  Epoch[2] Batch [0-7]	Speed: 2808.62 samples/sec	cross-entropy=0.898316	restecg-accuracy=3.625000
+2024-04-07 11:36:17,307 [INFO]  Epoch[2] Train-cross-entropy=0.845793
+2024-04-07 11:36:17,307 [INFO]  Epoch[2] Train-restecg-accuracy=3.000000
+2024-04-07 11:36:17,307 [INFO]  Epoch[2] Time cost=0.054
+2024-04-07 11:36:17,309 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:36:17,309 [INFO]  Epoch[2] Validation-cross-entropy=1.059649
+2024-04-07 11:36:17,309 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:17,314 [INFO]  Epoch[3] Batch [0-7]	Speed: 28067.28 samples/sec	cross-entropy=0.759799	restecg-accuracy=3.625000
+2024-04-07 11:36:17,318 [INFO]  Epoch[3] Train-cross-entropy=0.429250
+2024-04-07 11:36:17,318 [INFO]  Epoch[3] Train-restecg-accuracy=3.000000
+2024-04-07 11:36:17,318 [INFO]  Epoch[3] Time cost=0.008
+2024-04-07 11:36:17,319 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:36:17,327 [INFO]  Epoch[3] Validation-cross-entropy=1.222560
+2024-04-07 11:36:17,327 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:17,392 [INFO]  Epoch[4] Batch [0-7]	Speed: 1757.31 samples/sec	cross-entropy=0.385941	restecg-accuracy=3.625000
+2024-04-07 11:36:17,397 [INFO]  Epoch[4] Train-cross-entropy=0.262727
+2024-04-07 11:36:17,397 [INFO]  Epoch[4] Train-restecg-accuracy=3.000000
+2024-04-07 11:36:17,397 [INFO]  Epoch[4] Time cost=0.070
+2024-04-07 11:36:17,399 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:36:17,408 [INFO]  Epoch[4] Validation-cross-entropy=0.882613
+2024-04-07 11:36:17,408 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:17,409 [INFO]  
+========== done (1.316314458847046 s) fit model
+2024-04-07 11:36:27,800 [INFO]  
+========== start: fit model
+2024-04-07 11:36:27,800 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:36:27,973 [INFO]  Epoch[0] Batch [0-7]	Speed: 755.41 samples/sec	cross-entropy=14.119045	restecg-accuracy=0.000000
+2024-04-07 11:36:28,163 [INFO]  Epoch[0] Train-cross-entropy=5.413338
+2024-04-07 11:36:28,163 [INFO]  Epoch[0] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:28,163 [INFO]  Epoch[0] Time cost=0.362
+2024-04-07 11:36:28,165 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:36:28,166 [INFO]  Epoch[0] Validation-cross-entropy=3.170042
+2024-04-07 11:36:28,166 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:28,178 [INFO]  Epoch[1] Batch [0-7]	Speed: 10031.01 samples/sec	cross-entropy=2.492153	restecg-accuracy=0.000000
+2024-04-07 11:36:28,205 [INFO]  Epoch[1] Train-cross-entropy=1.450575
+2024-04-07 11:36:28,205 [INFO]  Epoch[1] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:28,205 [INFO]  Epoch[1] Time cost=0.039
+2024-04-07 11:36:28,207 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:36:28,208 [INFO]  Epoch[1] Validation-cross-entropy=0.557457
+2024-04-07 11:36:28,208 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:28,217 [INFO]  Epoch[2] Batch [0-7]	Speed: 14769.60 samples/sec	cross-entropy=0.977615	restecg-accuracy=0.000000
+2024-04-07 11:36:28,235 [INFO]  Epoch[2] Train-cross-entropy=0.808455
+2024-04-07 11:36:28,235 [INFO]  Epoch[2] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:28,235 [INFO]  Epoch[2] Time cost=0.027
+2024-04-07 11:36:28,237 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:36:28,238 [INFO]  Epoch[2] Validation-cross-entropy=0.464334
+2024-04-07 11:36:28,238 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:28,248 [INFO]  Epoch[3] Batch [0-7]	Speed: 12364.44 samples/sec	cross-entropy=0.508574	restecg-accuracy=0.000000
+2024-04-07 11:36:28,266 [INFO]  Epoch[3] Train-cross-entropy=0.397349
+2024-04-07 11:36:28,266 [INFO]  Epoch[3] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:28,266 [INFO]  Epoch[3] Time cost=0.028
+2024-04-07 11:36:28,268 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:36:28,269 [INFO]  Epoch[3] Validation-cross-entropy=0.441656
+2024-04-07 11:36:28,269 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:28,279 [INFO]  Epoch[4] Batch [0-7]	Speed: 13271.61 samples/sec	cross-entropy=0.341990	restecg-accuracy=0.000000
+2024-04-07 11:36:28,285 [INFO]  Epoch[4] Train-cross-entropy=0.310906
+2024-04-07 11:36:28,285 [INFO]  Epoch[4] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:28,285 [INFO]  Epoch[4] Time cost=0.017
+2024-04-07 11:36:28,288 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:36:28,289 [INFO]  Epoch[4] Validation-cross-entropy=0.261951
+2024-04-07 11:36:28,289 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:28,289 [INFO]  
+========== done (0.4892420768737793 s) fit model
+2024-04-07 11:36:43,262 [INFO]  
+========== start: fit model
+2024-04-07 11:36:43,262 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:36:43,355 [INFO]  Epoch[0] Batch [0-7]	Speed: 1325.45 samples/sec	cross-entropy=10.740896	restecg-accuracy=0.000000
+2024-04-07 11:36:43,362 [INFO]  Epoch[0] Train-cross-entropy=5.250343
+2024-04-07 11:36:43,362 [INFO]  Epoch[0] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:43,362 [INFO]  Epoch[0] Time cost=0.099
+2024-04-07 11:36:43,366 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:36:43,402 [INFO]  Epoch[0] Validation-cross-entropy=5.126967
+2024-04-07 11:36:43,402 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:43,413 [INFO]  Epoch[1] Batch [0-7]	Speed: 12326.48 samples/sec	cross-entropy=2.522898	restecg-accuracy=0.000000
+2024-04-07 11:36:43,419 [INFO]  Epoch[1] Train-cross-entropy=1.101414
+2024-04-07 11:36:43,419 [INFO]  Epoch[1] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:43,419 [INFO]  Epoch[1] Time cost=0.016
+2024-04-07 11:36:43,420 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:36:43,422 [INFO]  Epoch[1] Validation-cross-entropy=0.935591
+2024-04-07 11:36:43,422 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:43,430 [INFO]  Epoch[2] Batch [0-7]	Speed: 15496.03 samples/sec	cross-entropy=0.819423	restecg-accuracy=0.000000
+2024-04-07 11:36:43,438 [INFO]  Epoch[2] Train-cross-entropy=0.607934
+2024-04-07 11:36:43,438 [INFO]  Epoch[2] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:43,438 [INFO]  Epoch[2] Time cost=0.016
+2024-04-07 11:36:43,440 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:36:43,444 [INFO]  Epoch[2] Validation-cross-entropy=0.625425
+2024-04-07 11:36:43,444 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:43,457 [INFO]  Epoch[3] Batch [0-7]	Speed: 15119.47 samples/sec	cross-entropy=0.551799	restecg-accuracy=0.000000
+2024-04-07 11:36:43,463 [INFO]  Epoch[3] Train-cross-entropy=0.292710
+2024-04-07 11:36:43,463 [INFO]  Epoch[3] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:43,463 [INFO]  Epoch[3] Time cost=0.019
+2024-04-07 11:36:43,467 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:36:43,623 [INFO]  Epoch[3] Validation-cross-entropy=0.526857
+2024-04-07 11:36:43,623 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:43,629 [INFO]  Epoch[4] Batch [0-7]	Speed: 21244.67 samples/sec	cross-entropy=0.335467	restecg-accuracy=0.000000
+2024-04-07 11:36:43,636 [INFO]  Epoch[4] Train-cross-entropy=0.229076
+2024-04-07 11:36:43,636 [INFO]  Epoch[4] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:43,636 [INFO]  Epoch[4] Time cost=0.013
+2024-04-07 11:36:43,638 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:36:43,639 [INFO]  Epoch[4] Validation-cross-entropy=0.297860
+2024-04-07 11:36:43,639 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:43,639 [INFO]  
+========== done (0.3773033618927002 s) fit model
+2024-04-07 11:36:55,321 [INFO]  
+========== start: fit model
+2024-04-07 11:36:55,322 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:36:55,334 [INFO]  Epoch[0] Batch [0-7]	Speed: 14400.60 samples/sec	cross-entropy=14.021339	restecg-accuracy=0.000000
+2024-04-07 11:36:55,341 [INFO]  Epoch[0] Train-cross-entropy=7.733860
+2024-04-07 11:36:55,341 [INFO]  Epoch[0] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:55,341 [INFO]  Epoch[0] Time cost=0.018
+2024-04-07 11:36:55,343 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:36:55,344 [INFO]  Epoch[0] Validation-cross-entropy=4.194605
+2024-04-07 11:36:55,344 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:55,353 [INFO]  Epoch[1] Batch [0-7]	Speed: 14133.28 samples/sec	cross-entropy=2.548182	restecg-accuracy=0.000000
+2024-04-07 11:36:55,358 [INFO]  Epoch[1] Train-cross-entropy=1.167372
+2024-04-07 11:36:55,358 [INFO]  Epoch[1] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:55,358 [INFO]  Epoch[1] Time cost=0.014
+2024-04-07 11:36:55,360 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:36:55,361 [INFO]  Epoch[1] Validation-cross-entropy=0.611069
+2024-04-07 11:36:55,361 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:55,367 [INFO]  Epoch[2] Batch [0-7]	Speed: 20289.47 samples/sec	cross-entropy=0.777260	restecg-accuracy=0.000000
+2024-04-07 11:36:55,372 [INFO]  Epoch[2] Train-cross-entropy=0.581445
+2024-04-07 11:36:55,372 [INFO]  Epoch[2] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:55,372 [INFO]  Epoch[2] Time cost=0.012
+2024-04-07 11:36:55,374 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:36:55,375 [INFO]  Epoch[2] Validation-cross-entropy=0.753590
+2024-04-07 11:36:55,375 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:55,381 [INFO]  Epoch[3] Batch [0-7]	Speed: 20563.91 samples/sec	cross-entropy=0.574133	restecg-accuracy=0.000000
+2024-04-07 11:36:55,394 [INFO]  Epoch[3] Train-cross-entropy=0.302269
+2024-04-07 11:36:55,394 [INFO]  Epoch[3] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:55,394 [INFO]  Epoch[3] Time cost=0.020
+2024-04-07 11:36:55,396 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:36:55,397 [INFO]  Epoch[3] Validation-cross-entropy=0.472668
+2024-04-07 11:36:55,397 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:55,404 [INFO]  Epoch[4] Batch [0-7]	Speed: 17546.77 samples/sec	cross-entropy=0.299186	restecg-accuracy=0.000000
+2024-04-07 11:36:55,617 [INFO]  Epoch[4] Train-cross-entropy=0.265353
+2024-04-07 11:36:55,617 [INFO]  Epoch[4] Train-restecg-accuracy=0.000000
+2024-04-07 11:36:55,617 [INFO]  Epoch[4] Time cost=0.220
+2024-04-07 11:36:55,619 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:36:55,619 [INFO]  Epoch[4] Validation-cross-entropy=0.397729
+2024-04-07 11:36:55,619 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:36:55,619 [INFO]  
+========== done (0.2977917194366455 s) fit model
+2024-04-07 11:37:05,443 [INFO]  
+========== start: fit model
+2024-04-07 11:37:05,443 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:37:05,450 [INFO]  Epoch[0] Batch [0-7]	Speed: 24398.15 samples/sec	cross-entropy=13.433809	restecg-accuracy=0.000000
+2024-04-07 11:37:05,454 [INFO]  Epoch[0] Train-cross-entropy=6.675442
+2024-04-07 11:37:05,454 [INFO]  Epoch[0] Train-restecg-accuracy=0.000000
+2024-04-07 11:37:05,454 [INFO]  Epoch[0] Time cost=0.010
+2024-04-07 11:37:05,456 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:37:05,456 [INFO]  Epoch[0] Validation-cross-entropy=4.745081
+2024-04-07 11:37:05,457 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:37:05,462 [INFO]  Epoch[1] Batch [0-7]	Speed: 24209.55 samples/sec	cross-entropy=2.391573	restecg-accuracy=0.000000
+2024-04-07 11:37:05,624 [INFO]  Epoch[1] Train-cross-entropy=1.270381
+2024-04-07 11:37:05,624 [INFO]  Epoch[1] Train-restecg-accuracy=0.000000
+2024-04-07 11:37:05,624 [INFO]  Epoch[1] Time cost=0.167
+2024-04-07 11:37:05,627 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:37:05,634 [INFO]  Epoch[1] Validation-cross-entropy=1.678613
+2024-04-07 11:37:05,634 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:37:05,711 [INFO]  Epoch[2] Batch [0-7]	Speed: 1491.56 samples/sec	cross-entropy=0.763958	restecg-accuracy=0.000000
+2024-04-07 11:37:05,714 [INFO]  Epoch[2] Train-cross-entropy=0.620628
+2024-04-07 11:37:05,714 [INFO]  Epoch[2] Train-restecg-accuracy=0.000000
+2024-04-07 11:37:05,715 [INFO]  Epoch[2] Time cost=0.080
+2024-04-07 11:37:05,716 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:37:05,717 [INFO]  Epoch[2] Validation-cross-entropy=1.035909
+2024-04-07 11:37:05,717 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:37:05,768 [INFO]  Epoch[3] Batch [0-7]	Speed: 2241.85 samples/sec	cross-entropy=0.506520	restecg-accuracy=0.000000
+2024-04-07 11:37:05,857 [INFO]  Epoch[3] Train-cross-entropy=0.377541
+2024-04-07 11:37:05,857 [INFO]  Epoch[3] Train-restecg-accuracy=0.000000
+2024-04-07 11:37:05,858 [INFO]  Epoch[3] Time cost=0.141
+2024-04-07 11:37:05,860 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:37:05,908 [INFO]  Epoch[3] Validation-cross-entropy=0.985090
+2024-04-07 11:37:05,908 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:37:05,914 [INFO]  Epoch[4] Batch [0-7]	Speed: 25174.82 samples/sec	cross-entropy=0.280431	restecg-accuracy=0.000000
+2024-04-07 11:37:05,918 [INFO]  Epoch[4] Train-cross-entropy=0.282365
+2024-04-07 11:37:05,918 [INFO]  Epoch[4] Train-restecg-accuracy=0.000000
+2024-04-07 11:37:05,918 [INFO]  Epoch[4] Time cost=0.010
+2024-04-07 11:37:05,919 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:37:05,997 [INFO]  Epoch[4] Validation-cross-entropy=0.878212
+2024-04-07 11:37:05,997 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:37:05,997 [INFO]  
+========== done (0.554377555847168 s) fit model
+2024-04-07 11:37:16,871 [INFO]  
+========== start: fit model
+2024-04-07 11:37:16,872 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:37:16,949 [INFO]  Epoch[0] Batch [0-7]	Speed: 2514.11 samples/sec	cross-entropy=11.438493	restecg-accuracy=0.000000
+2024-04-07 11:37:17,108 [INFO]  Epoch[0] Train-cross-entropy=6.108020
+2024-04-07 11:37:17,108 [INFO]  Epoch[0] Train-restecg-accuracy=0.000000
+2024-04-07 11:37:17,109 [INFO]  Epoch[0] Time cost=0.236
+2024-04-07 11:37:17,110 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0000.params"
+2024-04-07 11:37:17,111 [INFO]  Epoch[0] Validation-cross-entropy=7.478059
+2024-04-07 11:37:17,112 [INFO]  Epoch[0] Validation-restecg-accuracy=0.000000
+2024-04-07 11:37:17,120 [INFO]  Epoch[1] Batch [0-7]	Speed: 14825.07 samples/sec	cross-entropy=1.839745	restecg-accuracy=0.000000
+2024-04-07 11:37:17,127 [INFO]  Epoch[1] Train-cross-entropy=0.846639
+2024-04-07 11:37:17,127 [INFO]  Epoch[1] Train-restecg-accuracy=0.000000
+2024-04-07 11:37:17,127 [INFO]  Epoch[1] Time cost=0.015
+2024-04-07 11:37:17,129 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0001.params"
+2024-04-07 11:37:17,131 [INFO]  Epoch[1] Validation-cross-entropy=2.124877
+2024-04-07 11:37:17,131 [INFO]  Epoch[1] Validation-restecg-accuracy=0.000000
+2024-04-07 11:37:17,139 [INFO]  Epoch[2] Batch [0-7]	Speed: 15359.73 samples/sec	cross-entropy=0.886876	restecg-accuracy=0.000000
+2024-04-07 11:37:17,146 [INFO]  Epoch[2] Train-cross-entropy=0.462425
+2024-04-07 11:37:17,146 [INFO]  Epoch[2] Train-restecg-accuracy=0.000000
+2024-04-07 11:37:17,146 [INFO]  Epoch[2] Time cost=0.015
+2024-04-07 11:37:17,148 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0002.params"
+2024-04-07 11:37:17,150 [INFO]  Epoch[2] Validation-cross-entropy=1.369632
+2024-04-07 11:37:17,150 [INFO]  Epoch[2] Validation-restecg-accuracy=0.000000
+2024-04-07 11:37:17,159 [INFO]  Epoch[3] Batch [0-7]	Speed: 14659.91 samples/sec	cross-entropy=0.444858	restecg-accuracy=0.000000
+2024-04-07 11:37:17,166 [INFO]  Epoch[3] Train-cross-entropy=0.251496
+2024-04-07 11:37:17,166 [INFO]  Epoch[3] Train-restecg-accuracy=0.000000
+2024-04-07 11:37:17,166 [INFO]  Epoch[3] Time cost=0.016
+2024-04-07 11:37:17,168 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0003.params"
+2024-04-07 11:37:17,378 [INFO]  Epoch[3] Validation-cross-entropy=1.153472
+2024-04-07 11:37:17,379 [INFO]  Epoch[3] Validation-restecg-accuracy=0.000000
+2024-04-07 11:37:17,586 [INFO]  Epoch[4] Batch [0-7]	Speed: 2499.25 samples/sec	cross-entropy=0.301782	restecg-accuracy=0.000000
+2024-04-07 11:37:17,594 [INFO]  Epoch[4] Train-cross-entropy=0.138123
+2024-04-07 11:37:17,594 [INFO]  Epoch[4] Train-restecg-accuracy=0.000000
+2024-04-07 11:37:17,594 [INFO]  Epoch[4] Time cost=0.216
+2024-04-07 11:37:17,597 [INFO]  Saved checkpoint to "./imputer_model/2_heart/imputer_model_restecg/model-0004.params"
+2024-04-07 11:37:17,598 [INFO]  Epoch[4] Validation-cross-entropy=0.738347
+2024-04-07 11:37:17,598 [INFO]  Epoch[4] Validation-restecg-accuracy=0.000000
+2024-04-07 11:37:17,598 [INFO]  
+========== done (0.7271080017089844 s) fit model

@@ -1,0 +1,2400 @@
+2024-04-08 10:28:30,932 [INFO]  
+========== start: fit model
+2024-04-08 10:28:30,933 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:28:30,963 [INFO]  Epoch[0] Batch [0-48]	Speed: 27353.46 samples/sec	cross-entropy=2.474224	MTRANS-accuracy=3.265306
+2024-04-08 10:28:31,041 [INFO]  Epoch[0] Train-cross-entropy=0.281321
+2024-04-08 10:28:31,041 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.173913
+2024-04-08 10:28:31,041 [INFO]  Epoch[0] Time cost=0.108
+2024-04-08 10:28:31,043 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:28:31,046 [INFO]  Epoch[0] Validation-cross-entropy=0.405136
+2024-04-08 10:28:31,046 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:28:31,083 [INFO]  Epoch[1] Batch [0-48]	Speed: 21776.66 samples/sec	cross-entropy=0.183010	MTRANS-accuracy=3.265306
+2024-04-08 10:28:31,141 [INFO]  Epoch[1] Train-cross-entropy=0.058380
+2024-04-08 10:28:31,141 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.173913
+2024-04-08 10:28:31,141 [INFO]  Epoch[1] Time cost=0.095
+2024-04-08 10:28:31,143 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:28:31,146 [INFO]  Epoch[1] Validation-cross-entropy=0.056003
+2024-04-08 10:28:31,146 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:28:31,178 [INFO]  Epoch[2] Batch [0-48]	Speed: 24882.01 samples/sec	cross-entropy=0.069268	MTRANS-accuracy=3.265306
+2024-04-08 10:28:31,204 [INFO]  Epoch[2] Train-cross-entropy=0.037419
+2024-04-08 10:28:31,204 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.173913
+2024-04-08 10:28:31,204 [INFO]  Epoch[2] Time cost=0.058
+2024-04-08 10:28:31,205 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:28:31,210 [INFO]  Epoch[2] Validation-cross-entropy=0.050466
+2024-04-08 10:28:31,210 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:28:31,259 [INFO]  Epoch[3] Batch [0-48]	Speed: 16086.26 samples/sec	cross-entropy=0.048091	MTRANS-accuracy=3.265306
+2024-04-08 10:28:31,898 [INFO]  Epoch[3] Train-cross-entropy=0.030761
+2024-04-08 10:28:31,898 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.173913
+2024-04-08 10:28:31,898 [INFO]  Epoch[3] Time cost=0.688
+2024-04-08 10:28:31,900 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:28:31,904 [INFO]  Epoch[3] Validation-cross-entropy=0.044151
+2024-04-08 10:28:31,904 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:28:31,954 [INFO]  Epoch[4] Batch [0-48]	Speed: 15887.12 samples/sec	cross-entropy=0.039482	MTRANS-accuracy=3.265306
+2024-04-08 10:28:32,007 [INFO]  Epoch[4] Train-cross-entropy=0.025513
+2024-04-08 10:28:32,007 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.173913
+2024-04-08 10:28:32,007 [INFO]  Epoch[4] Time cost=0.103
+2024-04-08 10:28:32,009 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:28:32,014 [INFO]  Epoch[4] Validation-cross-entropy=0.039223
+2024-04-08 10:28:32,015 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:28:32,015 [INFO]  
+========== done (1.0821785926818848 s) fit model
+2024-04-08 10:28:49,359 [INFO]  
+========== start: fit model
+2024-04-08 10:28:49,359 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:28:49,420 [INFO]  Epoch[0] Batch [0-48]	Speed: 19622.47 samples/sec	cross-entropy=3.977618	MTRANS-accuracy=2.857143
+2024-04-08 10:28:49,481 [INFO]  Epoch[0] Train-cross-entropy=0.538325
+2024-04-08 10:28:49,481 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.434783
+2024-04-08 10:28:49,481 [INFO]  Epoch[0] Time cost=0.121
+2024-04-08 10:28:49,482 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:28:49,486 [INFO]  Epoch[0] Validation-cross-entropy=0.158675
+2024-04-08 10:28:49,486 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:28:49,522 [INFO]  Epoch[1] Batch [0-48]	Speed: 21987.29 samples/sec	cross-entropy=0.343216	MTRANS-accuracy=2.857143
+2024-04-08 10:28:50,012 [INFO]  Epoch[1] Train-cross-entropy=0.129781
+2024-04-08 10:28:50,012 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.434783
+2024-04-08 10:28:50,012 [INFO]  Epoch[1] Time cost=0.526
+2024-04-08 10:28:50,013 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:28:50,019 [INFO]  Epoch[1] Validation-cross-entropy=0.061669
+2024-04-08 10:28:50,019 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:28:50,074 [INFO]  Epoch[2] Batch [0-48]	Speed: 14273.99 samples/sec	cross-entropy=0.092024	MTRANS-accuracy=2.857143
+2024-04-08 10:28:50,223 [INFO]  Epoch[2] Train-cross-entropy=0.059475
+2024-04-08 10:28:50,223 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.434783
+2024-04-08 10:28:50,223 [INFO]  Epoch[2] Time cost=0.204
+2024-04-08 10:28:50,224 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:28:50,228 [INFO]  Epoch[2] Validation-cross-entropy=0.042748
+2024-04-08 10:28:50,228 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:28:50,264 [INFO]  Epoch[3] Batch [0-48]	Speed: 21802.90 samples/sec	cross-entropy=0.035684	MTRANS-accuracy=2.857143
+2024-04-08 10:28:50,347 [INFO]  Epoch[3] Train-cross-entropy=0.046549
+2024-04-08 10:28:50,347 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.434783
+2024-04-08 10:28:50,347 [INFO]  Epoch[3] Time cost=0.119
+2024-04-08 10:28:50,348 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:28:50,352 [INFO]  Epoch[3] Validation-cross-entropy=0.034492
+2024-04-08 10:28:50,352 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:28:50,409 [INFO]  Epoch[4] Batch [0-48]	Speed: 13809.77 samples/sec	cross-entropy=0.028449	MTRANS-accuracy=2.857143
+2024-04-08 10:28:50,435 [INFO]  Epoch[4] Train-cross-entropy=0.041367
+2024-04-08 10:28:50,435 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.434783
+2024-04-08 10:28:50,435 [INFO]  Epoch[4] Time cost=0.083
+2024-04-08 10:28:50,436 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:28:50,439 [INFO]  Epoch[4] Validation-cross-entropy=0.032588
+2024-04-08 10:28:50,439 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:28:50,439 [INFO]  
+========== done (1.0802278518676758 s) fit model
+2024-04-08 10:29:09,782 [INFO]  
+========== start: fit model
+2024-04-08 10:29:09,782 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:29:09,812 [INFO]  Epoch[0] Batch [0-48]	Speed: 27110.36 samples/sec	cross-entropy=3.707339	MTRANS-accuracy=0.000000
+2024-04-08 10:29:09,872 [INFO]  Epoch[0] Train-cross-entropy=0.286004
+2024-04-08 10:29:09,872 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:29:09,873 [INFO]  Epoch[0] Time cost=0.090
+2024-04-08 10:29:09,874 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:29:09,879 [INFO]  Epoch[0] Validation-cross-entropy=0.132886
+2024-04-08 10:29:09,879 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:09,962 [INFO]  Epoch[1] Batch [0-48]	Speed: 9377.49 samples/sec	cross-entropy=0.117537	MTRANS-accuracy=0.000000
+2024-04-08 10:29:09,997 [INFO]  Epoch[1] Train-cross-entropy=0.050229
+2024-04-08 10:29:09,997 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:29:09,997 [INFO]  Epoch[1] Time cost=0.119
+2024-04-08 10:29:09,999 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:29:10,002 [INFO]  Epoch[1] Validation-cross-entropy=0.024165
+2024-04-08 10:29:10,002 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:10,038 [INFO]  Epoch[2] Batch [0-48]	Speed: 21734.78 samples/sec	cross-entropy=0.066958	MTRANS-accuracy=0.000000
+2024-04-08 10:29:10,081 [INFO]  Epoch[2] Train-cross-entropy=0.030730
+2024-04-08 10:29:10,081 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:29:10,081 [INFO]  Epoch[2] Time cost=0.079
+2024-04-08 10:29:10,083 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:29:10,088 [INFO]  Epoch[2] Validation-cross-entropy=0.017968
+2024-04-08 10:29:10,088 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:10,139 [INFO]  Epoch[3] Batch [0-48]	Speed: 15343.11 samples/sec	cross-entropy=0.038956	MTRANS-accuracy=0.000000
+2024-04-08 10:29:10,652 [INFO]  Epoch[3] Train-cross-entropy=0.020870
+2024-04-08 10:29:10,652 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:29:10,652 [INFO]  Epoch[3] Time cost=0.565
+2024-04-08 10:29:10,654 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:29:10,657 [INFO]  Epoch[3] Validation-cross-entropy=0.015523
+2024-04-08 10:29:10,657 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:10,940 [INFO]  Epoch[4] Batch [0-48]	Speed: 2729.02 samples/sec	cross-entropy=0.028007	MTRANS-accuracy=0.000000
+2024-04-08 10:29:11,004 [INFO]  Epoch[4] Train-cross-entropy=0.017038
+2024-04-08 10:29:11,004 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:29:11,004 [INFO]  Epoch[4] Time cost=0.347
+2024-04-08 10:29:11,006 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:29:11,012 [INFO]  Epoch[4] Validation-cross-entropy=0.014642
+2024-04-08 10:29:11,012 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:11,012 [INFO]  
+========== done (1.23085355758667 s) fit model
+2024-04-08 10:29:29,327 [INFO]  
+========== start: fit model
+2024-04-08 10:29:29,327 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:29:29,373 [INFO]  Epoch[0] Batch [0-48]	Speed: 20057.57 samples/sec	cross-entropy=5.023077	MTRANS-accuracy=3.408163
+2024-04-08 10:29:29,416 [INFO]  Epoch[0] Train-cross-entropy=0.332253
+2024-04-08 10:29:29,416 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.108696
+2024-04-08 10:29:29,416 [INFO]  Epoch[0] Time cost=0.088
+2024-04-08 10:29:29,418 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:29:29,420 [INFO]  Epoch[0] Validation-cross-entropy=0.124319
+2024-04-08 10:29:29,420 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:29,448 [INFO]  Epoch[1] Batch [0-48]	Speed: 28276.95 samples/sec	cross-entropy=0.112031	MTRANS-accuracy=3.408163
+2024-04-08 10:29:29,584 [INFO]  Epoch[1] Train-cross-entropy=0.056068
+2024-04-08 10:29:29,584 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.108696
+2024-04-08 10:29:29,584 [INFO]  Epoch[1] Time cost=0.164
+2024-04-08 10:29:29,586 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:29:29,589 [INFO]  Epoch[1] Validation-cross-entropy=0.038100
+2024-04-08 10:29:29,589 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:29,665 [INFO]  Epoch[2] Batch [0-48]	Speed: 10290.99 samples/sec	cross-entropy=0.048263	MTRANS-accuracy=3.408163
+2024-04-08 10:29:29,727 [INFO]  Epoch[2] Train-cross-entropy=0.032414
+2024-04-08 10:29:29,727 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.108696
+2024-04-08 10:29:29,727 [INFO]  Epoch[2] Time cost=0.138
+2024-04-08 10:29:29,730 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:29:29,735 [INFO]  Epoch[2] Validation-cross-entropy=0.026314
+2024-04-08 10:29:29,735 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:29,788 [INFO]  Epoch[3] Batch [0-48]	Speed: 14779.52 samples/sec	cross-entropy=0.034245	MTRANS-accuracy=3.408163
+2024-04-08 10:29:29,845 [INFO]  Epoch[3] Train-cross-entropy=0.024194
+2024-04-08 10:29:29,845 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.108696
+2024-04-08 10:29:29,845 [INFO]  Epoch[3] Time cost=0.110
+2024-04-08 10:29:29,848 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:29:29,852 [INFO]  Epoch[3] Validation-cross-entropy=0.024047
+2024-04-08 10:29:29,853 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:29,907 [INFO]  Epoch[4] Batch [0-48]	Speed: 14452.93 samples/sec	cross-entropy=0.029207	MTRANS-accuracy=3.408163
+2024-04-08 10:29:29,951 [INFO]  Epoch[4] Train-cross-entropy=0.020513
+2024-04-08 10:29:29,951 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.108696
+2024-04-08 10:29:29,951 [INFO]  Epoch[4] Time cost=0.098
+2024-04-08 10:29:29,953 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:29:29,958 [INFO]  Epoch[4] Validation-cross-entropy=0.021159
+2024-04-08 10:29:29,958 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:29,958 [INFO]  
+========== done (0.6312062740325928 s) fit model
+2024-04-08 10:29:50,439 [INFO]  
+========== start: fit model
+2024-04-08 10:29:50,440 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:29:50,497 [INFO]  Epoch[0] Batch [0-48]	Speed: 14157.80 samples/sec	cross-entropy=5.439491	MTRANS-accuracy=0.000000
+2024-04-08 10:29:50,598 [INFO]  Epoch[0] Train-cross-entropy=0.299313
+2024-04-08 10:29:50,598 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:29:50,598 [INFO]  Epoch[0] Time cost=0.157
+2024-04-08 10:29:50,600 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:29:50,612 [INFO]  Epoch[0] Validation-cross-entropy=0.243928
+2024-04-08 10:29:50,612 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:50,677 [INFO]  Epoch[1] Batch [0-48]	Speed: 12342.81 samples/sec	cross-entropy=0.190901	MTRANS-accuracy=0.000000
+2024-04-08 10:29:50,728 [INFO]  Epoch[1] Train-cross-entropy=0.089415
+2024-04-08 10:29:50,729 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:29:50,729 [INFO]  Epoch[1] Time cost=0.117
+2024-04-08 10:29:50,732 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:29:50,736 [INFO]  Epoch[1] Validation-cross-entropy=0.103009
+2024-04-08 10:29:50,737 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:50,790 [INFO]  Epoch[2] Batch [0-48]	Speed: 14778.50 samples/sec	cross-entropy=0.075273	MTRANS-accuracy=0.000000
+2024-04-08 10:29:50,841 [INFO]  Epoch[2] Train-cross-entropy=0.040687
+2024-04-08 10:29:50,841 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:29:50,841 [INFO]  Epoch[2] Time cost=0.105
+2024-04-08 10:29:50,844 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:29:50,848 [INFO]  Epoch[2] Validation-cross-entropy=0.044985
+2024-04-08 10:29:50,849 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:50,909 [INFO]  Epoch[3] Batch [0-48]	Speed: 13137.56 samples/sec	cross-entropy=0.043156	MTRANS-accuracy=0.000000
+2024-04-08 10:29:50,964 [INFO]  Epoch[3] Train-cross-entropy=0.028882
+2024-04-08 10:29:50,964 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:29:50,964 [INFO]  Epoch[3] Time cost=0.115
+2024-04-08 10:29:50,967 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:29:50,971 [INFO]  Epoch[3] Validation-cross-entropy=0.029816
+2024-04-08 10:29:50,972 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:51,022 [INFO]  Epoch[4] Batch [0-48]	Speed: 16045.72 samples/sec	cross-entropy=0.033717	MTRANS-accuracy=0.000000
+2024-04-08 10:29:51,072 [INFO]  Epoch[4] Train-cross-entropy=0.025043
+2024-04-08 10:29:51,072 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:29:51,072 [INFO]  Epoch[4] Time cost=0.100
+2024-04-08 10:29:51,075 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:29:51,079 [INFO]  Epoch[4] Validation-cross-entropy=0.028725
+2024-04-08 10:29:51,079 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:29:51,080 [INFO]  
+========== done (0.6403293609619141 s) fit model
+2024-04-08 10:30:10,581 [INFO]  
+========== start: fit model
+2024-04-08 10:30:10,581 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:30:10,698 [INFO]  Epoch[0] Batch [0-48]	Speed: 8086.56 samples/sec	cross-entropy=2.813385	MTRANS-accuracy=2.897959
+2024-04-08 10:30:10,910 [INFO]  Epoch[0] Train-cross-entropy=0.190280
+2024-04-08 10:30:10,910 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.521739
+2024-04-08 10:30:10,910 [INFO]  Epoch[0] Time cost=0.328
+2024-04-08 10:30:10,913 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:30:11,337 [INFO]  Epoch[0] Validation-cross-entropy=0.090390
+2024-04-08 10:30:11,337 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:11,384 [INFO]  Epoch[1] Batch [0-48]	Speed: 16594.85 samples/sec	cross-entropy=0.115880	MTRANS-accuracy=2.897959
+2024-04-08 10:30:11,413 [INFO]  Epoch[1] Train-cross-entropy=0.065895
+2024-04-08 10:30:11,413 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.521739
+2024-04-08 10:30:11,413 [INFO]  Epoch[1] Time cost=0.076
+2024-04-08 10:30:11,414 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:30:11,422 [INFO]  Epoch[1] Validation-cross-entropy=0.038179
+2024-04-08 10:30:11,422 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:11,475 [INFO]  Epoch[2] Batch [0-48]	Speed: 14788.20 samples/sec	cross-entropy=0.056644	MTRANS-accuracy=2.897959
+2024-04-08 10:30:11,534 [INFO]  Epoch[2] Train-cross-entropy=0.040053
+2024-04-08 10:30:11,535 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.521739
+2024-04-08 10:30:11,535 [INFO]  Epoch[2] Time cost=0.113
+2024-04-08 10:30:11,537 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:30:11,542 [INFO]  Epoch[2] Validation-cross-entropy=0.025230
+2024-04-08 10:30:11,542 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:11,611 [INFO]  Epoch[3] Batch [0-48]	Speed: 11402.77 samples/sec	cross-entropy=0.034036	MTRANS-accuracy=2.897959
+2024-04-08 10:30:11,668 [INFO]  Epoch[3] Train-cross-entropy=0.028063
+2024-04-08 10:30:11,669 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.521739
+2024-04-08 10:30:11,669 [INFO]  Epoch[3] Time cost=0.126
+2024-04-08 10:30:11,670 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:30:11,674 [INFO]  Epoch[3] Validation-cross-entropy=0.021785
+2024-04-08 10:30:11,674 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:11,710 [INFO]  Epoch[4] Batch [0-48]	Speed: 21480.56 samples/sec	cross-entropy=0.025001	MTRANS-accuracy=2.897959
+2024-04-08 10:30:11,746 [INFO]  Epoch[4] Train-cross-entropy=0.026529
+2024-04-08 10:30:11,746 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.521739
+2024-04-08 10:30:11,746 [INFO]  Epoch[4] Time cost=0.072
+2024-04-08 10:30:11,748 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:30:11,752 [INFO]  Epoch[4] Validation-cross-entropy=0.021170
+2024-04-08 10:30:11,752 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:11,752 [INFO]  
+========== done (1.1707336902618408 s) fit model
+2024-04-08 10:30:29,795 [INFO]  
+========== start: fit model
+2024-04-08 10:30:29,795 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:30:29,939 [INFO]  Epoch[0] Batch [0-48]	Speed: 5464.95 samples/sec	cross-entropy=2.242512	MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,000 [INFO]  Epoch[0] Train-cross-entropy=0.281401
+2024-04-08 10:30:30,000 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,000 [INFO]  Epoch[0] Time cost=0.204
+2024-04-08 10:30:30,002 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:30:30,007 [INFO]  Epoch[0] Validation-cross-entropy=0.163074
+2024-04-08 10:30:30,007 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,061 [INFO]  Epoch[1] Batch [0-48]	Speed: 14553.82 samples/sec	cross-entropy=0.148207	MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,111 [INFO]  Epoch[1] Train-cross-entropy=0.124227
+2024-04-08 10:30:30,111 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,111 [INFO]  Epoch[1] Time cost=0.104
+2024-04-08 10:30:30,112 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:30:30,117 [INFO]  Epoch[1] Validation-cross-entropy=0.093618
+2024-04-08 10:30:30,117 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,170 [INFO]  Epoch[2] Batch [0-48]	Speed: 14810.44 samples/sec	cross-entropy=0.080785	MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,220 [INFO]  Epoch[2] Train-cross-entropy=0.074228
+2024-04-08 10:30:30,220 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,220 [INFO]  Epoch[2] Time cost=0.103
+2024-04-08 10:30:30,222 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:30:30,226 [INFO]  Epoch[2] Validation-cross-entropy=0.057809
+2024-04-08 10:30:30,226 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,279 [INFO]  Epoch[3] Batch [0-48]	Speed: 14901.08 samples/sec	cross-entropy=0.044078	MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,329 [INFO]  Epoch[3] Train-cross-entropy=0.046682
+2024-04-08 10:30:30,329 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,329 [INFO]  Epoch[3] Time cost=0.103
+2024-04-08 10:30:30,331 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:30:30,335 [INFO]  Epoch[3] Validation-cross-entropy=0.048215
+2024-04-08 10:30:30,335 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,389 [INFO]  Epoch[4] Batch [0-48]	Speed: 14829.66 samples/sec	cross-entropy=0.024785	MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,451 [INFO]  Epoch[4] Train-cross-entropy=0.034361
+2024-04-08 10:30:30,451 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,451 [INFO]  Epoch[4] Time cost=0.115
+2024-04-08 10:30:30,453 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:30:30,458 [INFO]  Epoch[4] Validation-cross-entropy=0.037287
+2024-04-08 10:30:30,458 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:30,458 [INFO]  
+========== done (0.6633498668670654 s) fit model
+2024-04-08 10:30:51,066 [INFO]  
+========== start: fit model
+2024-04-08 10:30:51,066 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:30:51,715 [INFO]  Epoch[0] Batch [0-48]	Speed: 1210.73 samples/sec	cross-entropy=3.337288	MTRANS-accuracy=3.000000
+2024-04-08 10:30:51,792 [INFO]  Epoch[0] Train-cross-entropy=0.348202
+2024-04-08 10:30:51,792 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.391304
+2024-04-08 10:30:51,792 [INFO]  Epoch[0] Time cost=0.725
+2024-04-08 10:30:51,793 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:30:51,796 [INFO]  Epoch[0] Validation-cross-entropy=0.386585
+2024-04-08 10:30:51,796 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:51,824 [INFO]  Epoch[1] Batch [0-48]	Speed: 28329.67 samples/sec	cross-entropy=0.125935	MTRANS-accuracy=3.000000
+2024-04-08 10:30:51,865 [INFO]  Epoch[1] Train-cross-entropy=0.088616
+2024-04-08 10:30:51,865 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.391304
+2024-04-08 10:30:51,865 [INFO]  Epoch[1] Time cost=0.069
+2024-04-08 10:30:51,868 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:30:51,873 [INFO]  Epoch[1] Validation-cross-entropy=0.158534
+2024-04-08 10:30:51,873 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:51,962 [INFO]  Epoch[2] Batch [0-48]	Speed: 8768.65 samples/sec	cross-entropy=0.046737	MTRANS-accuracy=3.000000
+2024-04-08 10:30:51,999 [INFO]  Epoch[2] Train-cross-entropy=0.048237
+2024-04-08 10:30:51,999 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.391304
+2024-04-08 10:30:52,000 [INFO]  Epoch[2] Time cost=0.127
+2024-04-08 10:30:52,002 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:30:52,006 [INFO]  Epoch[2] Validation-cross-entropy=0.110964
+2024-04-08 10:30:52,006 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:52,066 [INFO]  Epoch[3] Batch [0-48]	Speed: 12994.58 samples/sec	cross-entropy=0.040491	MTRANS-accuracy=3.000000
+2024-04-08 10:30:52,111 [INFO]  Epoch[3] Train-cross-entropy=0.033073
+2024-04-08 10:30:52,111 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.391304
+2024-04-08 10:30:52,111 [INFO]  Epoch[3] Time cost=0.105
+2024-04-08 10:30:52,112 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:30:52,115 [INFO]  Epoch[3] Validation-cross-entropy=0.094979
+2024-04-08 10:30:52,115 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:52,143 [INFO]  Epoch[4] Batch [0-48]	Speed: 28217.75 samples/sec	cross-entropy=0.033823	MTRANS-accuracy=3.000000
+2024-04-08 10:30:52,185 [INFO]  Epoch[4] Train-cross-entropy=0.029318
+2024-04-08 10:30:52,185 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.391304
+2024-04-08 10:30:52,185 [INFO]  Epoch[4] Time cost=0.070
+2024-04-08 10:30:52,187 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:30:52,190 [INFO]  Epoch[4] Validation-cross-entropy=0.081255
+2024-04-08 10:30:52,190 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:30:52,190 [INFO]  
+========== done (1.1240346431732178 s) fit model
+2024-04-08 10:31:12,748 [INFO]  
+========== start: fit model
+2024-04-08 10:31:12,748 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:31:13,374 [INFO]  Epoch[0] Batch [0-48]	Speed: 1231.96 samples/sec	cross-entropy=4.054846	MTRANS-accuracy=0.000000
+2024-04-08 10:31:13,428 [INFO]  Epoch[0] Train-cross-entropy=0.400965
+2024-04-08 10:31:13,429 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:31:13,429 [INFO]  Epoch[0] Time cost=0.680
+2024-04-08 10:31:13,430 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:31:13,433 [INFO]  Epoch[0] Validation-cross-entropy=0.100263
+2024-04-08 10:31:13,433 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:13,536 [INFO]  Epoch[1] Batch [0-48]	Speed: 9265.66 samples/sec	cross-entropy=0.131306	MTRANS-accuracy=0.000000
+2024-04-08 10:31:13,593 [INFO]  Epoch[1] Train-cross-entropy=0.091501
+2024-04-08 10:31:13,593 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:31:13,593 [INFO]  Epoch[1] Time cost=0.160
+2024-04-08 10:31:13,595 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:31:13,600 [INFO]  Epoch[1] Validation-cross-entropy=0.031712
+2024-04-08 10:31:13,600 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:13,642 [INFO]  Epoch[2] Batch [0-48]	Speed: 18687.42 samples/sec	cross-entropy=0.054543	MTRANS-accuracy=0.000000
+2024-04-08 10:31:13,668 [INFO]  Epoch[2] Train-cross-entropy=0.041900
+2024-04-08 10:31:13,668 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:31:13,668 [INFO]  Epoch[2] Time cost=0.068
+2024-04-08 10:31:13,670 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:31:13,672 [INFO]  Epoch[2] Validation-cross-entropy=0.029455
+2024-04-08 10:31:13,672 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:13,707 [INFO]  Epoch[3] Batch [0-48]	Speed: 22725.98 samples/sec	cross-entropy=0.037662	MTRANS-accuracy=0.000000
+2024-04-08 10:31:13,784 [INFO]  Epoch[3] Train-cross-entropy=0.033919
+2024-04-08 10:31:13,784 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:31:13,784 [INFO]  Epoch[3] Time cost=0.112
+2024-04-08 10:31:13,788 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:31:13,836 [INFO]  Epoch[3] Validation-cross-entropy=0.027689
+2024-04-08 10:31:13,836 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:14,460 [INFO]  Epoch[4] Batch [0-48]	Speed: 1235.03 samples/sec	cross-entropy=0.030423	MTRANS-accuracy=0.000000
+2024-04-08 10:31:14,570 [INFO]  Epoch[4] Train-cross-entropy=0.028385
+2024-04-08 10:31:14,570 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:31:14,570 [INFO]  Epoch[4] Time cost=0.734
+2024-04-08 10:31:14,572 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:31:14,575 [INFO]  Epoch[4] Validation-cross-entropy=0.024176
+2024-04-08 10:31:14,575 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:14,575 [INFO]  
+========== done (1.8276278972625732 s) fit model
+2024-04-08 10:31:33,193 [INFO]  
+========== start: fit model
+2024-04-08 10:31:33,193 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:31:33,248 [INFO]  Epoch[0] Batch [0-48]	Speed: 15775.16 samples/sec	cross-entropy=7.586014	MTRANS-accuracy=0.000000
+2024-04-08 10:31:33,280 [INFO]  Epoch[0] Train-cross-entropy=0.409013
+2024-04-08 10:31:33,280 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:31:33,281 [INFO]  Epoch[0] Time cost=0.086
+2024-04-08 10:31:33,283 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:31:33,288 [INFO]  Epoch[0] Validation-cross-entropy=0.106097
+2024-04-08 10:31:33,288 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:33,331 [INFO]  Epoch[1] Batch [0-48]	Speed: 18675.72 samples/sec	cross-entropy=0.098937	MTRANS-accuracy=0.000000
+2024-04-08 10:31:33,360 [INFO]  Epoch[1] Train-cross-entropy=0.061468
+2024-04-08 10:31:33,360 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:31:33,361 [INFO]  Epoch[1] Time cost=0.072
+2024-04-08 10:31:33,362 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:31:33,747 [INFO]  Epoch[1] Validation-cross-entropy=0.036285
+2024-04-08 10:31:33,747 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:33,906 [INFO]  Epoch[2] Batch [0-48]	Speed: 4977.79 samples/sec	cross-entropy=0.040389	MTRANS-accuracy=0.000000
+2024-04-08 10:31:33,955 [INFO]  Epoch[2] Train-cross-entropy=0.038820
+2024-04-08 10:31:33,956 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:31:33,956 [INFO]  Epoch[2] Time cost=0.209
+2024-04-08 10:31:33,957 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:31:33,962 [INFO]  Epoch[2] Validation-cross-entropy=0.022367
+2024-04-08 10:31:33,962 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:34,016 [INFO]  Epoch[3] Batch [0-48]	Speed: 14612.64 samples/sec	cross-entropy=0.031746	MTRANS-accuracy=0.000000
+2024-04-08 10:31:34,066 [INFO]  Epoch[3] Train-cross-entropy=0.030705
+2024-04-08 10:31:34,066 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:31:34,067 [INFO]  Epoch[3] Time cost=0.104
+2024-04-08 10:31:34,068 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:31:34,073 [INFO]  Epoch[3] Validation-cross-entropy=0.016714
+2024-04-08 10:31:34,073 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:34,127 [INFO]  Epoch[4] Batch [0-48]	Speed: 14665.47 samples/sec	cross-entropy=0.025873	MTRANS-accuracy=0.000000
+2024-04-08 10:31:34,177 [INFO]  Epoch[4] Train-cross-entropy=0.027779
+2024-04-08 10:31:34,177 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:31:34,177 [INFO]  Epoch[4] Time cost=0.104
+2024-04-08 10:31:34,179 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:31:34,184 [INFO]  Epoch[4] Validation-cross-entropy=0.018634
+2024-04-08 10:31:34,184 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:34,184 [INFO]  
+========== done (0.9907970428466797 s) fit model
+2024-04-08 10:31:54,125 [INFO]  
+========== start: fit model
+2024-04-08 10:31:54,125 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:31:54,176 [INFO]  Epoch[0] Batch [0-48]	Speed: 16961.32 samples/sec	cross-entropy=2.393475	MTRANS-accuracy=3.020408
+2024-04-08 10:31:54,217 [INFO]  Epoch[0] Train-cross-entropy=0.217978
+2024-04-08 10:31:54,217 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.347826
+2024-04-08 10:31:54,217 [INFO]  Epoch[0] Time cost=0.090
+2024-04-08 10:31:54,218 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:31:54,234 [INFO]  Epoch[0] Validation-cross-entropy=0.105754
+2024-04-08 10:31:54,234 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:54,262 [INFO]  Epoch[1] Batch [0-48]	Speed: 28324.94 samples/sec	cross-entropy=0.090238	MTRANS-accuracy=3.020408
+2024-04-08 10:31:54,288 [INFO]  Epoch[1] Train-cross-entropy=0.058415
+2024-04-08 10:31:54,288 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.347826
+2024-04-08 10:31:54,288 [INFO]  Epoch[1] Time cost=0.054
+2024-04-08 10:31:54,292 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:31:54,353 [INFO]  Epoch[1] Validation-cross-entropy=0.050374
+2024-04-08 10:31:54,354 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:54,463 [INFO]  Epoch[2] Batch [0-48]	Speed: 9082.55 samples/sec	cross-entropy=0.045845	MTRANS-accuracy=3.020408
+2024-04-08 10:31:54,514 [INFO]  Epoch[2] Train-cross-entropy=0.033161
+2024-04-08 10:31:54,514 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.347826
+2024-04-08 10:31:54,514 [INFO]  Epoch[2] Time cost=0.160
+2024-04-08 10:31:54,516 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:31:54,521 [INFO]  Epoch[2] Validation-cross-entropy=0.032832
+2024-04-08 10:31:54,522 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:54,586 [INFO]  Epoch[3] Batch [0-48]	Speed: 12144.89 samples/sec	cross-entropy=0.031786	MTRANS-accuracy=3.020408
+2024-04-08 10:31:54,646 [INFO]  Epoch[3] Train-cross-entropy=0.022967
+2024-04-08 10:31:54,646 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.347826
+2024-04-08 10:31:54,646 [INFO]  Epoch[3] Time cost=0.125
+2024-04-08 10:31:54,649 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:31:54,654 [INFO]  Epoch[3] Validation-cross-entropy=0.028381
+2024-04-08 10:31:54,654 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:54,712 [INFO]  Epoch[4] Batch [0-48]	Speed: 13613.44 samples/sec	cross-entropy=0.026707	MTRANS-accuracy=3.020408
+2024-04-08 10:31:54,928 [INFO]  Epoch[4] Train-cross-entropy=0.018650
+2024-04-08 10:31:54,928 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.347826
+2024-04-08 10:31:54,928 [INFO]  Epoch[4] Time cost=0.274
+2024-04-08 10:31:54,931 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:31:54,936 [INFO]  Epoch[4] Validation-cross-entropy=0.027193
+2024-04-08 10:31:54,936 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:31:54,936 [INFO]  
+========== done (0.8108711242675781 s) fit model
+2024-04-08 10:32:14,228 [INFO]  
+========== start: fit model
+2024-04-08 10:32:14,229 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:32:14,729 [INFO]  Epoch[0] Batch [0-48]	Speed: 4550.15 samples/sec	cross-entropy=2.982408	MTRANS-accuracy=3.367347
+2024-04-08 10:32:14,763 [INFO]  Epoch[0] Train-cross-entropy=0.179472
+2024-04-08 10:32:14,763 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.195652
+2024-04-08 10:32:14,763 [INFO]  Epoch[0] Time cost=0.532
+2024-04-08 10:32:14,765 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:32:14,768 [INFO]  Epoch[0] Validation-cross-entropy=0.076960
+2024-04-08 10:32:14,768 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:14,881 [INFO]  Epoch[1] Batch [0-48]	Speed: 7419.77 samples/sec	cross-entropy=0.077002	MTRANS-accuracy=3.367347
+2024-04-08 10:32:14,930 [INFO]  Epoch[1] Train-cross-entropy=0.054070
+2024-04-08 10:32:14,930 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.195652
+2024-04-08 10:32:14,930 [INFO]  Epoch[1] Time cost=0.162
+2024-04-08 10:32:14,932 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:32:14,935 [INFO]  Epoch[1] Validation-cross-entropy=0.047193
+2024-04-08 10:32:14,935 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:15,006 [INFO]  Epoch[2] Batch [0-48]	Speed: 11031.56 samples/sec	cross-entropy=0.042634	MTRANS-accuracy=3.367347
+2024-04-08 10:32:15,038 [INFO]  Epoch[2] Train-cross-entropy=0.040532
+2024-04-08 10:32:15,038 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.195652
+2024-04-08 10:32:15,038 [INFO]  Epoch[2] Time cost=0.102
+2024-04-08 10:32:15,039 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:32:15,042 [INFO]  Epoch[2] Validation-cross-entropy=0.051760
+2024-04-08 10:32:15,042 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:15,073 [INFO]  Epoch[3] Batch [0-48]	Speed: 25306.19 samples/sec	cross-entropy=0.037198	MTRANS-accuracy=3.367347
+2024-04-08 10:32:15,180 [INFO]  Epoch[3] Train-cross-entropy=0.042010
+2024-04-08 10:32:15,181 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.195652
+2024-04-08 10:32:15,181 [INFO]  Epoch[3] Time cost=0.138
+2024-04-08 10:32:15,182 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:32:15,187 [INFO]  Epoch[3] Validation-cross-entropy=0.053999
+2024-04-08 10:32:15,187 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:15,229 [INFO]  Epoch[4] Batch [0-48]	Speed: 18719.35 samples/sec	cross-entropy=0.034382	MTRANS-accuracy=3.367347
+2024-04-08 10:32:15,264 [INFO]  Epoch[4] Train-cross-entropy=0.042706
+2024-04-08 10:32:15,264 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.195652
+2024-04-08 10:32:15,265 [INFO]  Epoch[4] Time cost=0.077
+2024-04-08 10:32:15,266 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:32:15,367 [INFO]  Epoch[4] Validation-cross-entropy=0.049081
+2024-04-08 10:32:15,367 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:15,367 [INFO]  
+========== done (1.1388742923736572 s) fit model
+2024-04-08 10:32:34,612 [INFO]  
+========== start: fit model
+2024-04-08 10:32:34,613 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:32:34,836 [INFO]  Epoch[0] Batch [0-48]	Speed: 5993.96 samples/sec	cross-entropy=5.234275	MTRANS-accuracy=2.979592
+2024-04-08 10:32:34,863 [INFO]  Epoch[0] Train-cross-entropy=0.391630
+2024-04-08 10:32:34,863 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.369565
+2024-04-08 10:32:34,863 [INFO]  Epoch[0] Time cost=0.250
+2024-04-08 10:32:34,865 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:32:34,867 [INFO]  Epoch[0] Validation-cross-entropy=0.156454
+2024-04-08 10:32:34,867 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:34,913 [INFO]  Epoch[1] Batch [0-48]	Speed: 16983.76 samples/sec	cross-entropy=0.119786	MTRANS-accuracy=2.979592
+2024-04-08 10:32:34,985 [INFO]  Epoch[1] Train-cross-entropy=0.069106
+2024-04-08 10:32:34,985 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.369565
+2024-04-08 10:32:34,985 [INFO]  Epoch[1] Time cost=0.117
+2024-04-08 10:32:34,986 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:32:34,989 [INFO]  Epoch[1] Validation-cross-entropy=0.068191
+2024-04-08 10:32:34,989 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:35,035 [INFO]  Epoch[2] Batch [0-48]	Speed: 17145.03 samples/sec	cross-entropy=0.043858	MTRANS-accuracy=2.979592
+2024-04-08 10:32:35,061 [INFO]  Epoch[2] Train-cross-entropy=0.043897
+2024-04-08 10:32:35,061 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.369565
+2024-04-08 10:32:35,061 [INFO]  Epoch[2] Time cost=0.072
+2024-04-08 10:32:35,062 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:32:35,077 [INFO]  Epoch[2] Validation-cross-entropy=0.046655
+2024-04-08 10:32:35,077 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:35,124 [INFO]  Epoch[3] Batch [0-48]	Speed: 16918.82 samples/sec	cross-entropy=0.029092	MTRANS-accuracy=2.979592
+2024-04-08 10:32:35,161 [INFO]  Epoch[3] Train-cross-entropy=0.039222
+2024-04-08 10:32:35,162 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.369565
+2024-04-08 10:32:35,162 [INFO]  Epoch[3] Time cost=0.085
+2024-04-08 10:32:35,164 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:32:35,169 [INFO]  Epoch[3] Validation-cross-entropy=0.043321
+2024-04-08 10:32:35,169 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:35,217 [INFO]  Epoch[4] Batch [0-48]	Speed: 16418.74 samples/sec	cross-entropy=0.025664	MTRANS-accuracy=2.979592
+2024-04-08 10:32:35,266 [INFO]  Epoch[4] Train-cross-entropy=0.036620
+2024-04-08 10:32:35,266 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.369565
+2024-04-08 10:32:35,266 [INFO]  Epoch[4] Time cost=0.097
+2024-04-08 10:32:35,268 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:32:35,273 [INFO]  Epoch[4] Validation-cross-entropy=0.038823
+2024-04-08 10:32:35,274 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:35,274 [INFO]  
+========== done (0.6614406108856201 s) fit model
+2024-04-08 10:32:55,058 [INFO]  
+========== start: fit model
+2024-04-08 10:32:55,058 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:32:55,221 [INFO]  Epoch[0] Batch [0-48]	Speed: 10601.05 samples/sec	cross-entropy=3.860552	MTRANS-accuracy=3.285714
+2024-04-08 10:32:55,255 [INFO]  Epoch[0] Train-cross-entropy=0.340029
+2024-04-08 10:32:55,255 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.000000
+2024-04-08 10:32:55,255 [INFO]  Epoch[0] Time cost=0.196
+2024-04-08 10:32:55,256 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:32:55,272 [INFO]  Epoch[0] Validation-cross-entropy=0.169877
+2024-04-08 10:32:55,272 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:55,335 [INFO]  Epoch[1] Batch [0-48]	Speed: 12605.81 samples/sec	cross-entropy=0.122203	MTRANS-accuracy=3.285714
+2024-04-08 10:32:55,361 [INFO]  Epoch[1] Train-cross-entropy=0.092846
+2024-04-08 10:32:55,361 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.000000
+2024-04-08 10:32:55,361 [INFO]  Epoch[1] Time cost=0.089
+2024-04-08 10:32:55,362 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:32:55,366 [INFO]  Epoch[1] Validation-cross-entropy=0.052936
+2024-04-08 10:32:55,366 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:55,427 [INFO]  Epoch[2] Batch [0-48]	Speed: 12804.18 samples/sec	cross-entropy=0.058763	MTRANS-accuracy=3.285714
+2024-04-08 10:32:55,462 [INFO]  Epoch[2] Train-cross-entropy=0.046891
+2024-04-08 10:32:55,462 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.000000
+2024-04-08 10:32:55,462 [INFO]  Epoch[2] Time cost=0.096
+2024-04-08 10:32:55,463 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:32:55,467 [INFO]  Epoch[2] Validation-cross-entropy=0.031169
+2024-04-08 10:32:55,467 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:55,732 [INFO]  Epoch[3] Batch [0-48]	Speed: 2909.41 samples/sec	cross-entropy=0.044019	MTRANS-accuracy=3.285714
+2024-04-08 10:32:55,885 [INFO]  Epoch[3] Train-cross-entropy=0.042022
+2024-04-08 10:32:55,885 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.000000
+2024-04-08 10:32:55,885 [INFO]  Epoch[3] Time cost=0.418
+2024-04-08 10:32:55,887 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:32:55,891 [INFO]  Epoch[3] Validation-cross-entropy=0.026008
+2024-04-08 10:32:55,891 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:55,946 [INFO]  Epoch[4] Batch [0-48]	Speed: 14531.43 samples/sec	cross-entropy=0.042620	MTRANS-accuracy=3.285714
+2024-04-08 10:32:56,011 [INFO]  Epoch[4] Train-cross-entropy=0.046719
+2024-04-08 10:32:56,011 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.000000
+2024-04-08 10:32:56,011 [INFO]  Epoch[4] Time cost=0.120
+2024-04-08 10:32:56,013 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:32:56,018 [INFO]  Epoch[4] Validation-cross-entropy=0.023628
+2024-04-08 10:32:56,018 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:32:56,018 [INFO]  
+========== done (0.9608399868011475 s) fit model
+2024-04-08 10:33:16,980 [INFO]  
+========== start: fit model
+2024-04-08 10:33:16,980 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:33:17,065 [INFO]  Epoch[0] Batch [0-48]	Speed: 12517.15 samples/sec	cross-entropy=5.310840	MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,111 [INFO]  Epoch[0] Train-cross-entropy=0.249271
+2024-04-08 10:33:17,112 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,112 [INFO]  Epoch[0] Time cost=0.131
+2024-04-08 10:33:17,114 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:33:17,149 [INFO]  Epoch[0] Validation-cross-entropy=0.187991
+2024-04-08 10:33:17,149 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,223 [INFO]  Epoch[1] Batch [0-48]	Speed: 10563.37 samples/sec	cross-entropy=0.109855	MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,321 [INFO]  Epoch[1] Train-cross-entropy=0.071808
+2024-04-08 10:33:17,321 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,321 [INFO]  Epoch[1] Time cost=0.172
+2024-04-08 10:33:17,323 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:33:17,328 [INFO]  Epoch[1] Validation-cross-entropy=0.064425
+2024-04-08 10:33:17,328 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,384 [INFO]  Epoch[2] Batch [0-48]	Speed: 14249.99 samples/sec	cross-entropy=0.051729	MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,434 [INFO]  Epoch[2] Train-cross-entropy=0.044567
+2024-04-08 10:33:17,435 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,435 [INFO]  Epoch[2] Time cost=0.106
+2024-04-08 10:33:17,437 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:33:17,442 [INFO]  Epoch[2] Validation-cross-entropy=0.056155
+2024-04-08 10:33:17,442 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,504 [INFO]  Epoch[3] Batch [0-48]	Speed: 12804.13 samples/sec	cross-entropy=0.037631	MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,544 [INFO]  Epoch[3] Train-cross-entropy=0.036313
+2024-04-08 10:33:17,545 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,545 [INFO]  Epoch[3] Time cost=0.102
+2024-04-08 10:33:17,547 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:33:17,552 [INFO]  Epoch[3] Validation-cross-entropy=0.047763
+2024-04-08 10:33:17,552 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,606 [INFO]  Epoch[4] Batch [0-48]	Speed: 14592.32 samples/sec	cross-entropy=0.029916	MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,656 [INFO]  Epoch[4] Train-cross-entropy=0.032509
+2024-04-08 10:33:17,656 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,656 [INFO]  Epoch[4] Time cost=0.104
+2024-04-08 10:33:17,658 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:33:17,663 [INFO]  Epoch[4] Validation-cross-entropy=0.043202
+2024-04-08 10:33:17,663 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:17,663 [INFO]  
+========== done (0.6836433410644531 s) fit model
+2024-04-08 10:33:37,283 [INFO]  
+========== start: fit model
+2024-04-08 10:33:37,283 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:33:37,340 [INFO]  Epoch[0] Batch [0-48]	Speed: 14595.36 samples/sec	cross-entropy=2.909428	MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,391 [INFO]  Epoch[0] Train-cross-entropy=0.224349
+2024-04-08 10:33:37,391 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,391 [INFO]  Epoch[0] Time cost=0.106
+2024-04-08 10:33:37,393 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:33:37,397 [INFO]  Epoch[0] Validation-cross-entropy=0.151110
+2024-04-08 10:33:37,397 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,452 [INFO]  Epoch[1] Batch [0-48]	Speed: 14503.95 samples/sec	cross-entropy=0.093544	MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,500 [INFO]  Epoch[1] Train-cross-entropy=0.068102
+2024-04-08 10:33:37,500 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,500 [INFO]  Epoch[1] Time cost=0.103
+2024-04-08 10:33:37,502 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:33:37,507 [INFO]  Epoch[1] Validation-cross-entropy=0.075224
+2024-04-08 10:33:37,507 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,561 [INFO]  Epoch[2] Batch [0-48]	Speed: 14665.40 samples/sec	cross-entropy=0.063761	MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,611 [INFO]  Epoch[2] Train-cross-entropy=0.037997
+2024-04-08 10:33:37,611 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,611 [INFO]  Epoch[2] Time cost=0.104
+2024-04-08 10:33:37,612 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:33:37,617 [INFO]  Epoch[2] Validation-cross-entropy=0.060778
+2024-04-08 10:33:37,617 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,670 [INFO]  Epoch[3] Batch [0-48]	Speed: 14852.91 samples/sec	cross-entropy=0.035906	MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,719 [INFO]  Epoch[3] Train-cross-entropy=0.028449
+2024-04-08 10:33:37,720 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,720 [INFO]  Epoch[3] Time cost=0.103
+2024-04-08 10:33:37,721 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:33:37,726 [INFO]  Epoch[3] Validation-cross-entropy=0.066051
+2024-04-08 10:33:37,726 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,779 [INFO]  Epoch[4] Batch [0-48]	Speed: 14782.84 samples/sec	cross-entropy=0.027900	MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,941 [INFO]  Epoch[4] Train-cross-entropy=0.024851
+2024-04-08 10:33:37,941 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,941 [INFO]  Epoch[4] Time cost=0.216
+2024-04-08 10:33:37,943 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:33:37,949 [INFO]  Epoch[4] Validation-cross-entropy=0.076194
+2024-04-08 10:33:37,950 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:37,950 [INFO]  
+========== done (0.6671221256256104 s) fit model
+2024-04-08 10:33:59,041 [INFO]  
+========== start: fit model
+2024-04-08 10:33:59,042 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:33:59,080 [INFO]  Epoch[0] Batch [0-48]	Speed: 22349.29 samples/sec	cross-entropy=3.063222	MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,109 [INFO]  Epoch[0] Train-cross-entropy=0.250923
+2024-04-08 10:33:59,109 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,109 [INFO]  Epoch[0] Time cost=0.067
+2024-04-08 10:33:59,112 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:33:59,116 [INFO]  Epoch[0] Validation-cross-entropy=0.239855
+2024-04-08 10:33:59,116 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,167 [INFO]  Epoch[1] Batch [0-48]	Speed: 15219.51 samples/sec	cross-entropy=0.114166	MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,218 [INFO]  Epoch[1] Train-cross-entropy=0.072348
+2024-04-08 10:33:59,218 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,218 [INFO]  Epoch[1] Time cost=0.102
+2024-04-08 10:33:59,221 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:33:59,225 [INFO]  Epoch[1] Validation-cross-entropy=0.071768
+2024-04-08 10:33:59,226 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,267 [INFO]  Epoch[2] Batch [0-48]	Speed: 19264.67 samples/sec	cross-entropy=0.062849	MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,305 [INFO]  Epoch[2] Train-cross-entropy=0.045770
+2024-04-08 10:33:59,306 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,306 [INFO]  Epoch[2] Time cost=0.080
+2024-04-08 10:33:59,308 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:33:59,312 [INFO]  Epoch[2] Validation-cross-entropy=0.053025
+2024-04-08 10:33:59,312 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,359 [INFO]  Epoch[3] Batch [0-48]	Speed: 16938.66 samples/sec	cross-entropy=0.048547	MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,409 [INFO]  Epoch[3] Train-cross-entropy=0.035298
+2024-04-08 10:33:59,409 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,409 [INFO]  Epoch[3] Time cost=0.097
+2024-04-08 10:33:59,411 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:33:59,416 [INFO]  Epoch[3] Validation-cross-entropy=0.036601
+2024-04-08 10:33:59,416 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,469 [INFO]  Epoch[4] Batch [0-48]	Speed: 14704.23 samples/sec	cross-entropy=0.035991	MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,519 [INFO]  Epoch[4] Train-cross-entropy=0.029563
+2024-04-08 10:33:59,519 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,519 [INFO]  Epoch[4] Time cost=0.104
+2024-04-08 10:33:59,521 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:33:59,526 [INFO]  Epoch[4] Validation-cross-entropy=0.029751
+2024-04-08 10:33:59,526 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:33:59,526 [INFO]  
+========== done (0.48445701599121094 s) fit model
+2024-04-08 10:34:19,555 [INFO]  
+========== start: fit model
+2024-04-08 10:34:19,555 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:34:19,609 [INFO]  Epoch[0] Batch [0-48]	Speed: 15194.82 samples/sec	cross-entropy=3.784370	MTRANS-accuracy=3.346939
+2024-04-08 10:34:19,660 [INFO]  Epoch[0] Train-cross-entropy=0.302319
+2024-04-08 10:34:19,660 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.326087
+2024-04-08 10:34:19,660 [INFO]  Epoch[0] Time cost=0.105
+2024-04-08 10:34:19,662 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:34:19,667 [INFO]  Epoch[0] Validation-cross-entropy=0.276355
+2024-04-08 10:34:19,667 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:34:19,720 [INFO]  Epoch[1] Batch [0-48]	Speed: 14807.44 samples/sec	cross-entropy=0.143225	MTRANS-accuracy=3.346939
+2024-04-08 10:34:19,771 [INFO]  Epoch[1] Train-cross-entropy=0.083527
+2024-04-08 10:34:19,772 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.326087
+2024-04-08 10:34:19,772 [INFO]  Epoch[1] Time cost=0.105
+2024-04-08 10:34:19,773 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:34:19,778 [INFO]  Epoch[1] Validation-cross-entropy=0.159324
+2024-04-08 10:34:19,778 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:34:19,832 [INFO]  Epoch[2] Batch [0-48]	Speed: 14530.84 samples/sec	cross-entropy=0.082291	MTRANS-accuracy=3.346939
+2024-04-08 10:34:19,937 [INFO]  Epoch[2] Train-cross-entropy=0.043521
+2024-04-08 10:34:19,937 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.326087
+2024-04-08 10:34:19,937 [INFO]  Epoch[2] Time cost=0.159
+2024-04-08 10:34:19,939 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:34:19,944 [INFO]  Epoch[2] Validation-cross-entropy=0.114326
+2024-04-08 10:34:19,944 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:34:19,997 [INFO]  Epoch[3] Batch [0-48]	Speed: 14783.38 samples/sec	cross-entropy=0.043334	MTRANS-accuracy=3.346939
+2024-04-08 10:34:20,082 [INFO]  Epoch[3] Train-cross-entropy=0.032000
+2024-04-08 10:34:20,082 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.326087
+2024-04-08 10:34:20,082 [INFO]  Epoch[3] Time cost=0.139
+2024-04-08 10:34:20,085 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:34:20,090 [INFO]  Epoch[3] Validation-cross-entropy=0.083086
+2024-04-08 10:34:20,090 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:34:20,138 [INFO]  Epoch[4] Batch [0-48]	Speed: 16457.24 samples/sec	cross-entropy=0.029535	MTRANS-accuracy=3.346939
+2024-04-08 10:34:20,189 [INFO]  Epoch[4] Train-cross-entropy=0.025203
+2024-04-08 10:34:20,189 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.326087
+2024-04-08 10:34:20,189 [INFO]  Epoch[4] Time cost=0.099
+2024-04-08 10:34:20,192 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:34:20,430 [INFO]  Epoch[4] Validation-cross-entropy=0.066381
+2024-04-08 10:34:20,430 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:34:20,430 [INFO]  
+========== done (0.875363826751709 s) fit model
+2024-04-08 10:34:41,473 [INFO]  
+========== start: fit model
+2024-04-08 10:34:41,473 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:34:41,518 [INFO]  Epoch[0] Batch [0-48]	Speed: 18581.56 samples/sec	cross-entropy=4.140192	MTRANS-accuracy=3.224490
+2024-04-08 10:34:41,549 [INFO]  Epoch[0] Train-cross-entropy=0.427782
+2024-04-08 10:34:41,549 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.173913
+2024-04-08 10:34:41,549 [INFO]  Epoch[0] Time cost=0.075
+2024-04-08 10:34:41,551 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:34:41,555 [INFO]  Epoch[0] Validation-cross-entropy=0.146462
+2024-04-08 10:34:41,555 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:34:41,587 [INFO]  Epoch[1] Batch [0-48]	Speed: 24771.04 samples/sec	cross-entropy=0.120265	MTRANS-accuracy=3.224490
+2024-04-08 10:34:41,634 [INFO]  Epoch[1] Train-cross-entropy=0.059211
+2024-04-08 10:34:41,634 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.173913
+2024-04-08 10:34:41,634 [INFO]  Epoch[1] Time cost=0.079
+2024-04-08 10:34:41,636 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:34:41,640 [INFO]  Epoch[1] Validation-cross-entropy=0.033922
+2024-04-08 10:34:41,640 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:34:41,682 [INFO]  Epoch[2] Batch [0-48]	Speed: 18782.98 samples/sec	cross-entropy=0.050760	MTRANS-accuracy=3.224490
+2024-04-08 10:34:41,713 [INFO]  Epoch[2] Train-cross-entropy=0.038475
+2024-04-08 10:34:41,713 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.173913
+2024-04-08 10:34:41,713 [INFO]  Epoch[2] Time cost=0.073
+2024-04-08 10:34:41,715 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:34:41,720 [INFO]  Epoch[2] Validation-cross-entropy=0.024750
+2024-04-08 10:34:41,720 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:34:41,774 [INFO]  Epoch[3] Batch [0-48]	Speed: 14619.27 samples/sec	cross-entropy=0.035778	MTRANS-accuracy=3.224490
+2024-04-08 10:34:41,825 [INFO]  Epoch[3] Train-cross-entropy=0.030695
+2024-04-08 10:34:41,825 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.173913
+2024-04-08 10:34:41,825 [INFO]  Epoch[3] Time cost=0.105
+2024-04-08 10:34:41,827 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:34:41,832 [INFO]  Epoch[3] Validation-cross-entropy=0.020080
+2024-04-08 10:34:41,832 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:34:41,884 [INFO]  Epoch[4] Batch [0-48]	Speed: 15142.25 samples/sec	cross-entropy=0.027516	MTRANS-accuracy=3.224490
+2024-04-08 10:34:41,937 [INFO]  Epoch[4] Train-cross-entropy=0.024984
+2024-04-08 10:34:41,937 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.173913
+2024-04-08 10:34:41,937 [INFO]  Epoch[4] Time cost=0.105
+2024-04-08 10:34:41,940 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:34:41,954 [INFO]  Epoch[4] Validation-cross-entropy=0.017075
+2024-04-08 10:34:41,954 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:34:41,954 [INFO]  
+========== done (0.4813196659088135 s) fit model
+2024-04-08 10:35:01,603 [INFO]  
+========== start: fit model
+2024-04-08 10:35:01,603 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:35:01,663 [INFO]  Epoch[0] Batch [0-48]	Speed: 14958.02 samples/sec	cross-entropy=5.818949	MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,037 [INFO]  Epoch[0] Train-cross-entropy=0.265011
+2024-04-08 10:35:02,037 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,037 [INFO]  Epoch[0] Time cost=0.433
+2024-04-08 10:35:02,041 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:35:02,081 [INFO]  Epoch[0] Validation-cross-entropy=0.113384
+2024-04-08 10:35:02,081 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,133 [INFO]  Epoch[1] Batch [0-48]	Speed: 15126.39 samples/sec	cross-entropy=0.110971	MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,183 [INFO]  Epoch[1] Train-cross-entropy=0.077452
+2024-04-08 10:35:02,183 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,183 [INFO]  Epoch[1] Time cost=0.102
+2024-04-08 10:35:02,185 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:35:02,190 [INFO]  Epoch[1] Validation-cross-entropy=0.050790
+2024-04-08 10:35:02,190 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,243 [INFO]  Epoch[2] Batch [0-48]	Speed: 14719.21 samples/sec	cross-entropy=0.051092	MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,293 [INFO]  Epoch[2] Train-cross-entropy=0.041804
+2024-04-08 10:35:02,293 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,293 [INFO]  Epoch[2] Time cost=0.103
+2024-04-08 10:35:02,295 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:35:02,299 [INFO]  Epoch[2] Validation-cross-entropy=0.041345
+2024-04-08 10:35:02,299 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,353 [INFO]  Epoch[3] Batch [0-48]	Speed: 14759.88 samples/sec	cross-entropy=0.038534	MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,405 [INFO]  Epoch[3] Train-cross-entropy=0.032075
+2024-04-08 10:35:02,405 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,405 [INFO]  Epoch[3] Time cost=0.106
+2024-04-08 10:35:02,408 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:35:02,412 [INFO]  Epoch[3] Validation-cross-entropy=0.037508
+2024-04-08 10:35:02,413 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,469 [INFO]  Epoch[4] Batch [0-48]	Speed: 14047.04 samples/sec	cross-entropy=0.029551	MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,518 [INFO]  Epoch[4] Train-cross-entropy=0.028644
+2024-04-08 10:35:02,519 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,519 [INFO]  Epoch[4] Time cost=0.106
+2024-04-08 10:35:02,521 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:35:02,526 [INFO]  Epoch[4] Validation-cross-entropy=0.036717
+2024-04-08 10:35:02,526 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:02,526 [INFO]  
+========== done (0.923518180847168 s) fit model
+2024-04-08 10:35:22,209 [INFO]  
+========== start: fit model
+2024-04-08 10:35:22,209 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:35:22,247 [INFO]  Epoch[0] Batch [0-48]	Speed: 21825.50 samples/sec	cross-entropy=3.028912	MTRANS-accuracy=3.183673
+2024-04-08 10:35:22,280 [INFO]  Epoch[0] Train-cross-entropy=0.321305
+2024-04-08 10:35:22,280 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.130435
+2024-04-08 10:35:22,280 [INFO]  Epoch[0] Time cost=0.070
+2024-04-08 10:35:22,282 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:35:22,292 [INFO]  Epoch[0] Validation-cross-entropy=0.210646
+2024-04-08 10:35:22,292 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:22,354 [INFO]  Epoch[1] Batch [0-48]	Speed: 12704.15 samples/sec	cross-entropy=0.153168	MTRANS-accuracy=3.183673
+2024-04-08 10:35:22,389 [INFO]  Epoch[1] Train-cross-entropy=0.089439
+2024-04-08 10:35:22,389 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.130435
+2024-04-08 10:35:22,389 [INFO]  Epoch[1] Time cost=0.096
+2024-04-08 10:35:22,390 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:35:22,395 [INFO]  Epoch[1] Validation-cross-entropy=0.092513
+2024-04-08 10:35:22,395 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:22,452 [INFO]  Epoch[2] Batch [0-48]	Speed: 13793.51 samples/sec	cross-entropy=0.069252	MTRANS-accuracy=3.183673
+2024-04-08 10:35:22,503 [INFO]  Epoch[2] Train-cross-entropy=0.045156
+2024-04-08 10:35:22,503 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.130435
+2024-04-08 10:35:22,503 [INFO]  Epoch[2] Time cost=0.108
+2024-04-08 10:35:22,504 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:35:22,509 [INFO]  Epoch[2] Validation-cross-entropy=0.051322
+2024-04-08 10:35:22,509 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:22,563 [INFO]  Epoch[3] Batch [0-48]	Speed: 14545.54 samples/sec	cross-entropy=0.041695	MTRANS-accuracy=3.183673
+2024-04-08 10:35:22,617 [INFO]  Epoch[3] Train-cross-entropy=0.033963
+2024-04-08 10:35:22,617 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.130435
+2024-04-08 10:35:22,617 [INFO]  Epoch[3] Time cost=0.108
+2024-04-08 10:35:22,620 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:35:22,625 [INFO]  Epoch[3] Validation-cross-entropy=0.036210
+2024-04-08 10:35:22,625 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:22,684 [INFO]  Epoch[4] Batch [0-48]	Speed: 13328.47 samples/sec	cross-entropy=0.028800	MTRANS-accuracy=3.183673
+2024-04-08 10:35:22,740 [INFO]  Epoch[4] Train-cross-entropy=0.024751
+2024-04-08 10:35:22,740 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.130435
+2024-04-08 10:35:22,740 [INFO]  Epoch[4] Time cost=0.115
+2024-04-08 10:35:22,742 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:35:22,747 [INFO]  Epoch[4] Validation-cross-entropy=0.032300
+2024-04-08 10:35:22,747 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:22,747 [INFO]  
+========== done (0.5374107360839844 s) fit model
+2024-04-08 10:35:41,488 [INFO]  
+========== start: fit model
+2024-04-08 10:35:41,489 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:35:41,543 [INFO]  Epoch[0] Batch [0-48]	Speed: 15232.25 samples/sec	cross-entropy=4.837379	MTRANS-accuracy=3.469388
+2024-04-08 10:35:41,589 [INFO]  Epoch[0] Train-cross-entropy=0.421512
+2024-04-08 10:35:41,589 [INFO]  Epoch[0] Train-MTRANS-accuracy=2.934783
+2024-04-08 10:35:41,589 [INFO]  Epoch[0] Time cost=0.099
+2024-04-08 10:35:41,591 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:35:41,595 [INFO]  Epoch[0] Validation-cross-entropy=0.216521
+2024-04-08 10:35:41,595 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:41,648 [INFO]  Epoch[1] Batch [0-48]	Speed: 15103.34 samples/sec	cross-entropy=0.134499	MTRANS-accuracy=3.469388
+2024-04-08 10:35:41,695 [INFO]  Epoch[1] Train-cross-entropy=0.089432
+2024-04-08 10:35:41,695 [INFO]  Epoch[1] Train-MTRANS-accuracy=2.934783
+2024-04-08 10:35:41,695 [INFO]  Epoch[1] Time cost=0.099
+2024-04-08 10:35:41,696 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:35:41,700 [INFO]  Epoch[1] Validation-cross-entropy=0.068924
+2024-04-08 10:35:41,700 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:41,736 [INFO]  Epoch[2] Batch [0-48]	Speed: 22002.61 samples/sec	cross-entropy=0.058123	MTRANS-accuracy=3.469388
+2024-04-08 10:35:41,898 [INFO]  Epoch[2] Train-cross-entropy=0.063036
+2024-04-08 10:35:41,899 [INFO]  Epoch[2] Train-MTRANS-accuracy=2.934783
+2024-04-08 10:35:41,899 [INFO]  Epoch[2] Time cost=0.199
+2024-04-08 10:35:41,900 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:35:41,905 [INFO]  Epoch[2] Validation-cross-entropy=0.048224
+2024-04-08 10:35:41,905 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:41,996 [INFO]  Epoch[3] Batch [0-48]	Speed: 8564.38 samples/sec	cross-entropy=0.041779	MTRANS-accuracy=3.469388
+2024-04-08 10:35:42,477 [INFO]  Epoch[3] Train-cross-entropy=0.049219
+2024-04-08 10:35:42,477 [INFO]  Epoch[3] Train-MTRANS-accuracy=2.934783
+2024-04-08 10:35:42,478 [INFO]  Epoch[3] Time cost=0.572
+2024-04-08 10:35:42,479 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:35:42,484 [INFO]  Epoch[3] Validation-cross-entropy=0.039317
+2024-04-08 10:35:42,484 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:42,537 [INFO]  Epoch[4] Batch [0-48]	Speed: 14822.98 samples/sec	cross-entropy=0.033302	MTRANS-accuracy=3.469388
+2024-04-08 10:35:42,587 [INFO]  Epoch[4] Train-cross-entropy=0.041464
+2024-04-08 10:35:42,587 [INFO]  Epoch[4] Train-MTRANS-accuracy=2.934783
+2024-04-08 10:35:42,587 [INFO]  Epoch[4] Time cost=0.103
+2024-04-08 10:35:42,588 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:35:42,593 [INFO]  Epoch[4] Validation-cross-entropy=0.033495
+2024-04-08 10:35:42,593 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:35:42,593 [INFO]  
+========== done (1.1046216487884521 s) fit model
+2024-04-08 10:36:01,978 [INFO]  
+========== start: fit model
+2024-04-08 10:36:01,978 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:36:02,053 [INFO]  Epoch[0] Batch [0-48]	Speed: 14457.79 samples/sec	cross-entropy=4.166871	MTRANS-accuracy=3.020408
+2024-04-08 10:36:02,080 [INFO]  Epoch[0] Train-cross-entropy=0.379532
+2024-04-08 10:36:02,080 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.239130
+2024-04-08 10:36:02,080 [INFO]  Epoch[0] Time cost=0.101
+2024-04-08 10:36:02,081 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:36:02,084 [INFO]  Epoch[0] Validation-cross-entropy=0.622065
+2024-04-08 10:36:02,084 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:02,128 [INFO]  Epoch[1] Batch [0-48]	Speed: 18114.79 samples/sec	cross-entropy=0.187967	MTRANS-accuracy=3.020408
+2024-04-08 10:36:02,167 [INFO]  Epoch[1] Train-cross-entropy=0.134383
+2024-04-08 10:36:02,167 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.239130
+2024-04-08 10:36:02,167 [INFO]  Epoch[1] Time cost=0.083
+2024-04-08 10:36:02,170 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:36:02,175 [INFO]  Epoch[1] Validation-cross-entropy=0.158045
+2024-04-08 10:36:02,175 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:02,207 [INFO]  Epoch[2] Batch [0-48]	Speed: 24513.72 samples/sec	cross-entropy=0.089849	MTRANS-accuracy=3.020408
+2024-04-08 10:36:02,237 [INFO]  Epoch[2] Train-cross-entropy=0.067288
+2024-04-08 10:36:02,237 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.239130
+2024-04-08 10:36:02,237 [INFO]  Epoch[2] Time cost=0.063
+2024-04-08 10:36:02,240 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:36:02,268 [INFO]  Epoch[2] Validation-cross-entropy=0.099601
+2024-04-08 10:36:02,268 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:02,298 [INFO]  Epoch[3] Batch [0-48]	Speed: 26221.87 samples/sec	cross-entropy=0.050832	MTRANS-accuracy=3.020408
+2024-04-08 10:36:02,356 [INFO]  Epoch[3] Train-cross-entropy=0.043884
+2024-04-08 10:36:02,356 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.239130
+2024-04-08 10:36:02,357 [INFO]  Epoch[3] Time cost=0.089
+2024-04-08 10:36:02,358 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:36:02,362 [INFO]  Epoch[3] Validation-cross-entropy=0.090765
+2024-04-08 10:36:02,362 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:02,403 [INFO]  Epoch[4] Batch [0-48]	Speed: 18970.59 samples/sec	cross-entropy=0.037554	MTRANS-accuracy=3.020408
+2024-04-08 10:36:02,432 [INFO]  Epoch[4] Train-cross-entropy=0.032986
+2024-04-08 10:36:02,432 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.239130
+2024-04-08 10:36:02,432 [INFO]  Epoch[4] Time cost=0.070
+2024-04-08 10:36:02,433 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:36:02,438 [INFO]  Epoch[4] Validation-cross-entropy=0.072549
+2024-04-08 10:36:02,438 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:02,438 [INFO]  
+========== done (0.45984435081481934 s) fit model
+2024-04-08 10:36:21,981 [INFO]  
+========== start: fit model
+2024-04-08 10:36:21,981 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:36:22,055 [INFO]  Epoch[0] Batch [0-48]	Speed: 11488.25 samples/sec	cross-entropy=2.610676	MTRANS-accuracy=3.428571
+2024-04-08 10:36:22,133 [INFO]  Epoch[0] Train-cross-entropy=0.286122
+2024-04-08 10:36:22,133 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.065217
+2024-04-08 10:36:22,133 [INFO]  Epoch[0] Time cost=0.149
+2024-04-08 10:36:22,136 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:36:22,141 [INFO]  Epoch[0] Validation-cross-entropy=0.157602
+2024-04-08 10:36:22,141 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:22,180 [INFO]  Epoch[1] Batch [0-48]	Speed: 19836.72 samples/sec	cross-entropy=0.127331	MTRANS-accuracy=3.428571
+2024-04-08 10:36:22,230 [INFO]  Epoch[1] Train-cross-entropy=0.068679
+2024-04-08 10:36:22,230 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.065217
+2024-04-08 10:36:22,230 [INFO]  Epoch[1] Time cost=0.089
+2024-04-08 10:36:22,232 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:36:22,237 [INFO]  Epoch[1] Validation-cross-entropy=0.040635
+2024-04-08 10:36:22,237 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:22,291 [INFO]  Epoch[2] Batch [0-48]	Speed: 14591.46 samples/sec	cross-entropy=0.031724	MTRANS-accuracy=3.428571
+2024-04-08 10:36:22,342 [INFO]  Epoch[2] Train-cross-entropy=0.029010
+2024-04-08 10:36:22,342 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.065217
+2024-04-08 10:36:22,342 [INFO]  Epoch[2] Time cost=0.105
+2024-04-08 10:36:22,343 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:36:22,348 [INFO]  Epoch[2] Validation-cross-entropy=0.021018
+2024-04-08 10:36:22,348 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:22,402 [INFO]  Epoch[3] Batch [0-48]	Speed: 14545.87 samples/sec	cross-entropy=0.021798	MTRANS-accuracy=3.428571
+2024-04-08 10:36:22,439 [INFO]  Epoch[3] Train-cross-entropy=0.021515
+2024-04-08 10:36:22,439 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.065217
+2024-04-08 10:36:22,440 [INFO]  Epoch[3] Time cost=0.091
+2024-04-08 10:36:22,442 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:36:22,445 [INFO]  Epoch[3] Validation-cross-entropy=0.016124
+2024-04-08 10:36:22,445 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:22,943 [INFO]  Epoch[4] Batch [0-48]	Speed: 1547.61 samples/sec	cross-entropy=0.018493	MTRANS-accuracy=3.428571
+2024-04-08 10:36:22,993 [INFO]  Epoch[4] Train-cross-entropy=0.018257
+2024-04-08 10:36:22,993 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.065217
+2024-04-08 10:36:22,993 [INFO]  Epoch[4] Time cost=0.548
+2024-04-08 10:36:22,996 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:36:23,001 [INFO]  Epoch[4] Validation-cross-entropy=0.013241
+2024-04-08 10:36:23,001 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:23,001 [INFO]  
+========== done (1.0200979709625244 s) fit model
+2024-04-08 10:36:41,324 [INFO]  
+========== start: fit model
+2024-04-08 10:36:41,324 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:36:41,463 [INFO]  Epoch[0] Batch [0-48]	Speed: 8559.14 samples/sec	cross-entropy=3.702311	MTRANS-accuracy=3.122449
+2024-04-08 10:36:41,509 [INFO]  Epoch[0] Train-cross-entropy=0.286031
+2024-04-08 10:36:41,509 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.217391
+2024-04-08 10:36:41,509 [INFO]  Epoch[0] Time cost=0.184
+2024-04-08 10:36:41,511 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:36:41,515 [INFO]  Epoch[0] Validation-cross-entropy=0.332481
+2024-04-08 10:36:41,515 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:41,569 [INFO]  Epoch[1] Batch [0-48]	Speed: 14742.52 samples/sec	cross-entropy=0.193883	MTRANS-accuracy=3.122449
+2024-04-08 10:36:41,619 [INFO]  Epoch[1] Train-cross-entropy=0.098369
+2024-04-08 10:36:41,619 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.217391
+2024-04-08 10:36:41,619 [INFO]  Epoch[1] Time cost=0.103
+2024-04-08 10:36:41,620 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:36:41,625 [INFO]  Epoch[1] Validation-cross-entropy=0.152071
+2024-04-08 10:36:41,625 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:41,682 [INFO]  Epoch[2] Batch [0-48]	Speed: 13908.81 samples/sec	cross-entropy=0.085871	MTRANS-accuracy=3.122449
+2024-04-08 10:36:41,734 [INFO]  Epoch[2] Train-cross-entropy=0.057308
+2024-04-08 10:36:41,734 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.217391
+2024-04-08 10:36:41,734 [INFO]  Epoch[2] Time cost=0.109
+2024-04-08 10:36:41,737 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:36:41,742 [INFO]  Epoch[2] Validation-cross-entropy=0.078524
+2024-04-08 10:36:41,742 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:41,796 [INFO]  Epoch[3] Batch [0-48]	Speed: 14546.92 samples/sec	cross-entropy=0.050615	MTRANS-accuracy=3.122449
+2024-04-08 10:36:41,846 [INFO]  Epoch[3] Train-cross-entropy=0.040761
+2024-04-08 10:36:41,846 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.217391
+2024-04-08 10:36:41,847 [INFO]  Epoch[3] Time cost=0.104
+2024-04-08 10:36:41,849 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:36:41,854 [INFO]  Epoch[3] Validation-cross-entropy=0.053746
+2024-04-08 10:36:41,854 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:41,907 [INFO]  Epoch[4] Batch [0-48]	Speed: 14758.73 samples/sec	cross-entropy=0.036868	MTRANS-accuracy=3.122449
+2024-04-08 10:36:41,958 [INFO]  Epoch[4] Train-cross-entropy=0.033400
+2024-04-08 10:36:41,958 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.217391
+2024-04-08 10:36:41,958 [INFO]  Epoch[4] Time cost=0.104
+2024-04-08 10:36:41,961 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:36:41,966 [INFO]  Epoch[4] Validation-cross-entropy=0.044567
+2024-04-08 10:36:41,966 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:36:41,966 [INFO]  
+========== done (0.6421425342559814 s) fit model
+2024-04-08 10:37:02,311 [INFO]  
+========== start: fit model
+2024-04-08 10:37:02,311 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:37:02,377 [INFO]  Epoch[0] Batch [0-48]	Speed: 11901.20 samples/sec	cross-entropy=4.524202	MTRANS-accuracy=3.326531
+2024-04-08 10:37:02,409 [INFO]  Epoch[0] Train-cross-entropy=0.345496
+2024-04-08 10:37:02,409 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.152174
+2024-04-08 10:37:02,409 [INFO]  Epoch[0] Time cost=0.098
+2024-04-08 10:37:02,411 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:37:02,414 [INFO]  Epoch[0] Validation-cross-entropy=0.134336
+2024-04-08 10:37:02,414 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:02,451 [INFO]  Epoch[1] Batch [0-48]	Speed: 21746.96 samples/sec	cross-entropy=0.091929	MTRANS-accuracy=3.326531
+2024-04-08 10:37:02,486 [INFO]  Epoch[1] Train-cross-entropy=0.058023
+2024-04-08 10:37:02,486 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.152174
+2024-04-08 10:37:02,486 [INFO]  Epoch[1] Time cost=0.071
+2024-04-08 10:37:02,489 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:37:02,496 [INFO]  Epoch[1] Validation-cross-entropy=0.065223
+2024-04-08 10:37:02,496 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:02,534 [INFO]  Epoch[2] Batch [0-48]	Speed: 20861.91 samples/sec	cross-entropy=0.044084	MTRANS-accuracy=3.326531
+2024-04-08 10:37:02,580 [INFO]  Epoch[2] Train-cross-entropy=0.031847
+2024-04-08 10:37:02,580 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.152174
+2024-04-08 10:37:02,580 [INFO]  Epoch[2] Time cost=0.084
+2024-04-08 10:37:02,583 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:37:02,587 [INFO]  Epoch[2] Validation-cross-entropy=0.046845
+2024-04-08 10:37:02,588 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:02,641 [INFO]  Epoch[3] Batch [0-48]	Speed: 14871.91 samples/sec	cross-entropy=0.030572	MTRANS-accuracy=3.326531
+2024-04-08 10:37:02,694 [INFO]  Epoch[3] Train-cross-entropy=0.024602
+2024-04-08 10:37:02,694 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.152174
+2024-04-08 10:37:02,695 [INFO]  Epoch[3] Time cost=0.107
+2024-04-08 10:37:02,696 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:37:02,701 [INFO]  Epoch[3] Validation-cross-entropy=0.036431
+2024-04-08 10:37:02,701 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:02,755 [INFO]  Epoch[4] Batch [0-48]	Speed: 14571.92 samples/sec	cross-entropy=0.024590	MTRANS-accuracy=3.326531
+2024-04-08 10:37:02,804 [INFO]  Epoch[4] Train-cross-entropy=0.020793
+2024-04-08 10:37:02,804 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.152174
+2024-04-08 10:37:02,804 [INFO]  Epoch[4] Time cost=0.104
+2024-04-08 10:37:02,806 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:37:02,810 [INFO]  Epoch[4] Validation-cross-entropy=0.030918
+2024-04-08 10:37:02,810 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:02,810 [INFO]  
+========== done (0.49975013732910156 s) fit model
+2024-04-08 10:37:23,010 [INFO]  
+========== start: fit model
+2024-04-08 10:37:23,010 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:37:23,057 [INFO]  Epoch[0] Batch [0-48]	Speed: 17257.74 samples/sec	cross-entropy=4.125194	MTRANS-accuracy=0.000000
+2024-04-08 10:37:23,113 [INFO]  Epoch[0] Train-cross-entropy=0.364287
+2024-04-08 10:37:23,113 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:37:23,113 [INFO]  Epoch[0] Time cost=0.102
+2024-04-08 10:37:23,115 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:37:23,120 [INFO]  Epoch[0] Validation-cross-entropy=0.125081
+2024-04-08 10:37:23,120 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:23,730 [INFO]  Epoch[1] Batch [0-48]	Speed: 1262.21 samples/sec	cross-entropy=0.110090	MTRANS-accuracy=0.000000
+2024-04-08 10:37:23,781 [INFO]  Epoch[1] Train-cross-entropy=0.096405
+2024-04-08 10:37:23,781 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:37:23,781 [INFO]  Epoch[1] Time cost=0.661
+2024-04-08 10:37:23,783 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:37:23,788 [INFO]  Epoch[1] Validation-cross-entropy=0.086999
+2024-04-08 10:37:23,788 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:23,843 [INFO]  Epoch[2] Batch [0-48]	Speed: 14533.13 samples/sec	cross-entropy=0.054762	MTRANS-accuracy=0.000000
+2024-04-08 10:37:23,894 [INFO]  Epoch[2] Train-cross-entropy=0.047537
+2024-04-08 10:37:23,894 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:37:23,894 [INFO]  Epoch[2] Time cost=0.105
+2024-04-08 10:37:23,895 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:37:23,900 [INFO]  Epoch[2] Validation-cross-entropy=0.066673
+2024-04-08 10:37:23,901 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:23,955 [INFO]  Epoch[3] Batch [0-48]	Speed: 14435.76 samples/sec	cross-entropy=0.041697	MTRANS-accuracy=0.000000
+2024-04-08 10:37:24,011 [INFO]  Epoch[3] Train-cross-entropy=0.032796
+2024-04-08 10:37:24,011 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:37:24,011 [INFO]  Epoch[3] Time cost=0.110
+2024-04-08 10:37:24,013 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:37:24,021 [INFO]  Epoch[3] Validation-cross-entropy=0.045879
+2024-04-08 10:37:24,021 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:24,100 [INFO]  Epoch[4] Batch [0-48]	Speed: 9852.98 samples/sec	cross-entropy=0.030223	MTRANS-accuracy=0.000000
+2024-04-08 10:37:24,168 [INFO]  Epoch[4] Train-cross-entropy=0.026636
+2024-04-08 10:37:24,168 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-08 10:37:24,168 [INFO]  Epoch[4] Time cost=0.147
+2024-04-08 10:37:24,169 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:37:24,172 [INFO]  Epoch[4] Validation-cross-entropy=0.042102
+2024-04-08 10:37:24,172 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:24,172 [INFO]  
+========== done (1.1623620986938477 s) fit model
+2024-04-08 10:37:43,636 [INFO]  
+========== start: fit model
+2024-04-08 10:37:43,636 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:37:43,773 [INFO]  Epoch[0] Batch [0-48]	Speed: 16283.87 samples/sec	cross-entropy=5.895470	MTRANS-accuracy=3.244898
+2024-04-08 10:37:43,886 [INFO]  Epoch[0] Train-cross-entropy=0.426472
+2024-04-08 10:37:43,886 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.130435
+2024-04-08 10:37:43,886 [INFO]  Epoch[0] Time cost=0.249
+2024-04-08 10:37:43,888 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:37:43,893 [INFO]  Epoch[0] Validation-cross-entropy=0.323625
+2024-04-08 10:37:43,893 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:43,947 [INFO]  Epoch[1] Batch [0-48]	Speed: 14631.96 samples/sec	cross-entropy=0.153094	MTRANS-accuracy=3.244898
+2024-04-08 10:37:44,002 [INFO]  Epoch[1] Train-cross-entropy=0.104834
+2024-04-08 10:37:44,002 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.130435
+2024-04-08 10:37:44,002 [INFO]  Epoch[1] Time cost=0.109
+2024-04-08 10:37:44,004 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:37:44,012 [INFO]  Epoch[1] Validation-cross-entropy=0.204473
+2024-04-08 10:37:44,012 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:44,109 [INFO]  Epoch[2] Batch [0-48]	Speed: 8027.64 samples/sec	cross-entropy=0.063709	MTRANS-accuracy=3.244898
+2024-04-08 10:37:44,180 [INFO]  Epoch[2] Train-cross-entropy=0.060172
+2024-04-08 10:37:44,180 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.130435
+2024-04-08 10:37:44,180 [INFO]  Epoch[2] Time cost=0.169
+2024-04-08 10:37:44,182 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:37:44,192 [INFO]  Epoch[2] Validation-cross-entropy=0.126987
+2024-04-08 10:37:44,192 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:44,277 [INFO]  Epoch[3] Batch [0-48]	Speed: 9138.69 samples/sec	cross-entropy=0.035781	MTRANS-accuracy=3.244898
+2024-04-08 10:37:44,387 [INFO]  Epoch[3] Train-cross-entropy=0.039271
+2024-04-08 10:37:44,388 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.130435
+2024-04-08 10:37:44,388 [INFO]  Epoch[3] Time cost=0.196
+2024-04-08 10:37:44,390 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:37:44,395 [INFO]  Epoch[3] Validation-cross-entropy=0.088669
+2024-04-08 10:37:44,395 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:44,449 [INFO]  Epoch[4] Batch [0-48]	Speed: 14744.48 samples/sec	cross-entropy=0.025308	MTRANS-accuracy=3.244898
+2024-04-08 10:37:44,499 [INFO]  Epoch[4] Train-cross-entropy=0.028172
+2024-04-08 10:37:44,499 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.130435
+2024-04-08 10:37:44,499 [INFO]  Epoch[4] Time cost=0.104
+2024-04-08 10:37:44,502 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:37:44,506 [INFO]  Epoch[4] Validation-cross-entropy=0.075354
+2024-04-08 10:37:44,507 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:37:44,507 [INFO]  
+========== done (0.8711802959442139 s) fit model
+2024-04-08 10:38:04,660 [INFO]  
+========== start: fit model
+2024-04-08 10:38:04,660 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:38:04,803 [INFO]  Epoch[0] Batch [0-48]	Speed: 5693.00 samples/sec	cross-entropy=2.444966	MTRANS-accuracy=3.428571
+2024-04-08 10:38:04,869 [INFO]  Epoch[0] Train-cross-entropy=0.298487
+2024-04-08 10:38:04,870 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.239130
+2024-04-08 10:38:04,870 [INFO]  Epoch[0] Time cost=0.209
+2024-04-08 10:38:04,872 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:38:04,877 [INFO]  Epoch[0] Validation-cross-entropy=0.096744
+2024-04-08 10:38:04,877 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:38:05,171 [INFO]  Epoch[1] Batch [0-48]	Speed: 2631.01 samples/sec	cross-entropy=0.103416	MTRANS-accuracy=3.428571
+2024-04-08 10:38:05,414 [INFO]  Epoch[1] Train-cross-entropy=0.130410
+2024-04-08 10:38:05,414 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.239130
+2024-04-08 10:38:05,414 [INFO]  Epoch[1] Time cost=0.537
+2024-04-08 10:38:05,416 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:38:05,437 [INFO]  Epoch[1] Validation-cross-entropy=0.025290
+2024-04-08 10:38:05,437 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:38:05,512 [INFO]  Epoch[2] Batch [0-48]	Speed: 10360.70 samples/sec	cross-entropy=0.058657	MTRANS-accuracy=3.428571
+2024-04-08 10:38:05,571 [INFO]  Epoch[2] Train-cross-entropy=0.057684
+2024-04-08 10:38:05,571 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.239130
+2024-04-08 10:38:05,571 [INFO]  Epoch[2] Time cost=0.134
+2024-04-08 10:38:05,572 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:38:05,575 [INFO]  Epoch[2] Validation-cross-entropy=0.023874
+2024-04-08 10:38:05,575 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:38:05,620 [INFO]  Epoch[3] Batch [0-48]	Speed: 17402.72 samples/sec	cross-entropy=0.043007	MTRANS-accuracy=3.428571
+2024-04-08 10:38:05,655 [INFO]  Epoch[3] Train-cross-entropy=0.034986
+2024-04-08 10:38:05,655 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.239130
+2024-04-08 10:38:05,655 [INFO]  Epoch[3] Time cost=0.080
+2024-04-08 10:38:05,657 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:38:05,661 [INFO]  Epoch[3] Validation-cross-entropy=0.021010
+2024-04-08 10:38:05,661 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:38:05,693 [INFO]  Epoch[4] Batch [0-48]	Speed: 24819.71 samples/sec	cross-entropy=0.032620	MTRANS-accuracy=3.428571
+2024-04-08 10:38:05,724 [INFO]  Epoch[4] Train-cross-entropy=0.024479
+2024-04-08 10:38:05,724 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.239130
+2024-04-08 10:38:05,724 [INFO]  Epoch[4] Time cost=0.063
+2024-04-08 10:38:05,726 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:38:05,730 [INFO]  Epoch[4] Validation-cross-entropy=0.017929
+2024-04-08 10:38:05,730 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:38:05,730 [INFO]  
+========== done (1.070403814315796 s) fit model
+2024-04-08 10:38:17,006 [INFO]  
+========== start: fit model
+2024-04-08 10:38:17,006 [WARNING]  Already bound, ignoring bind()
+2024-04-08 10:38:17,038 [INFO]  Epoch[0] Batch [0-48]	Speed: 25297.65 samples/sec	cross-entropy=3.928355	MTRANS-accuracy=3.469388
+2024-04-08 10:38:17,065 [INFO]  Epoch[0] Train-cross-entropy=0.205781
+2024-04-08 10:38:17,065 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.065217
+2024-04-08 10:38:17,065 [INFO]  Epoch[0] Time cost=0.058
+2024-04-08 10:38:17,066 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-08 10:38:17,069 [INFO]  Epoch[0] Validation-cross-entropy=0.141003
+2024-04-08 10:38:17,069 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:38:17,097 [INFO]  Epoch[1] Batch [0-48]	Speed: 28374.34 samples/sec	cross-entropy=0.118917	MTRANS-accuracy=3.469388
+2024-04-08 10:38:17,123 [INFO]  Epoch[1] Train-cross-entropy=0.075851
+2024-04-08 10:38:17,123 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.065217
+2024-04-08 10:38:17,123 [INFO]  Epoch[1] Time cost=0.054
+2024-04-08 10:38:17,125 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-08 10:38:17,127 [INFO]  Epoch[1] Validation-cross-entropy=0.051478
+2024-04-08 10:38:17,128 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:38:17,156 [INFO]  Epoch[2] Batch [0-48]	Speed: 27252.10 samples/sec	cross-entropy=0.053156	MTRANS-accuracy=3.469388
+2024-04-08 10:38:17,183 [INFO]  Epoch[2] Train-cross-entropy=0.043876
+2024-04-08 10:38:17,183 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.065217
+2024-04-08 10:38:17,183 [INFO]  Epoch[2] Time cost=0.055
+2024-04-08 10:38:17,184 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-08 10:38:17,187 [INFO]  Epoch[2] Validation-cross-entropy=0.030758
+2024-04-08 10:38:17,187 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:38:17,216 [INFO]  Epoch[3] Batch [0-48]	Speed: 27630.08 samples/sec	cross-entropy=0.039484	MTRANS-accuracy=3.469388
+2024-04-08 10:38:17,242 [INFO]  Epoch[3] Train-cross-entropy=0.031061
+2024-04-08 10:38:17,242 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.065217
+2024-04-08 10:38:17,242 [INFO]  Epoch[3] Time cost=0.055
+2024-04-08 10:38:17,243 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-08 10:38:17,246 [INFO]  Epoch[3] Validation-cross-entropy=0.023391
+2024-04-08 10:38:17,246 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:38:17,274 [INFO]  Epoch[4] Batch [0-48]	Speed: 28399.61 samples/sec	cross-entropy=0.032484	MTRANS-accuracy=3.469388
+2024-04-08 10:38:17,300 [INFO]  Epoch[4] Train-cross-entropy=0.023820
+2024-04-08 10:38:17,300 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.065217
+2024-04-08 10:38:17,300 [INFO]  Epoch[4] Time cost=0.054
+2024-04-08 10:38:17,302 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-08 10:38:17,305 [INFO]  Epoch[4] Validation-cross-entropy=0.018714
+2024-04-08 10:38:17,305 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-08 10:38:17,305 [INFO]  
+========== done (0.2991158962249756 s) fit model
+2024-04-09 14:10:08,341 [INFO]  
+========== start: fit model
+2024-04-09 14:10:08,341 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:10:08,415 [INFO]  Epoch[0] Batch [0-48]	Speed: 12302.17 samples/sec	cross-entropy=3.006652	MTRANS-accuracy=3.265306
+2024-04-09 14:10:08,468 [INFO]  Epoch[0] Train-cross-entropy=0.317234
+2024-04-09 14:10:08,468 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.173913
+2024-04-09 14:10:08,468 [INFO]  Epoch[0] Time cost=0.127
+2024-04-09 14:10:08,471 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:10:08,476 [INFO]  Epoch[0] Validation-cross-entropy=0.157130
+2024-04-09 14:10:08,477 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:08,524 [INFO]  Epoch[1] Batch [0-48]	Speed: 16783.77 samples/sec	cross-entropy=0.132925	MTRANS-accuracy=3.265306
+2024-04-09 14:10:08,572 [INFO]  Epoch[1] Train-cross-entropy=0.115845
+2024-04-09 14:10:08,572 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.173913
+2024-04-09 14:10:08,572 [INFO]  Epoch[1] Time cost=0.095
+2024-04-09 14:10:08,574 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:10:08,579 [INFO]  Epoch[1] Validation-cross-entropy=0.089105
+2024-04-09 14:10:08,579 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:08,618 [INFO]  Epoch[2] Batch [0-48]	Speed: 20181.09 samples/sec	cross-entropy=0.078289	MTRANS-accuracy=3.265306
+2024-04-09 14:10:08,654 [INFO]  Epoch[2] Train-cross-entropy=0.087546
+2024-04-09 14:10:08,654 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.173913
+2024-04-09 14:10:08,654 [INFO]  Epoch[2] Time cost=0.075
+2024-04-09 14:10:08,656 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:10:08,666 [INFO]  Epoch[2] Validation-cross-entropy=0.067377
+2024-04-09 14:10:08,667 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:08,720 [INFO]  Epoch[3] Batch [0-48]	Speed: 14816.70 samples/sec	cross-entropy=0.062457	MTRANS-accuracy=3.265306
+2024-04-09 14:10:08,769 [INFO]  Epoch[3] Train-cross-entropy=0.064978
+2024-04-09 14:10:08,770 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.173913
+2024-04-09 14:10:08,770 [INFO]  Epoch[3] Time cost=0.103
+2024-04-09 14:10:08,771 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:10:08,776 [INFO]  Epoch[3] Validation-cross-entropy=0.055098
+2024-04-09 14:10:08,776 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:08,829 [INFO]  Epoch[4] Batch [0-48]	Speed: 14861.20 samples/sec	cross-entropy=0.050784	MTRANS-accuracy=3.265306
+2024-04-09 14:10:08,879 [INFO]  Epoch[4] Train-cross-entropy=0.049681
+2024-04-09 14:10:08,879 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.173913
+2024-04-09 14:10:08,879 [INFO]  Epoch[4] Time cost=0.103
+2024-04-09 14:10:08,880 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:10:08,885 [INFO]  Epoch[4] Validation-cross-entropy=0.046612
+2024-04-09 14:10:08,885 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:08,885 [INFO]  
+========== done (0.5440225601196289 s) fit model
+2024-04-09 14:10:27,117 [INFO]  
+========== start: fit model
+2024-04-09 14:10:27,117 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:10:27,434 [INFO]  Epoch[0] Batch [0-48]	Speed: 7494.06 samples/sec	cross-entropy=6.669653	MTRANS-accuracy=2.857143
+2024-04-09 14:10:27,480 [INFO]  Epoch[0] Train-cross-entropy=0.378698
+2024-04-09 14:10:27,480 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.434783
+2024-04-09 14:10:27,480 [INFO]  Epoch[0] Time cost=0.362
+2024-04-09 14:10:27,482 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:10:27,487 [INFO]  Epoch[0] Validation-cross-entropy=0.190667
+2024-04-09 14:10:27,487 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:27,540 [INFO]  Epoch[1] Batch [0-48]	Speed: 14697.11 samples/sec	cross-entropy=0.142454	MTRANS-accuracy=2.857143
+2024-04-09 14:10:27,590 [INFO]  Epoch[1] Train-cross-entropy=0.091634
+2024-04-09 14:10:27,591 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.434783
+2024-04-09 14:10:27,591 [INFO]  Epoch[1] Time cost=0.104
+2024-04-09 14:10:27,592 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:10:27,597 [INFO]  Epoch[1] Validation-cross-entropy=0.115503
+2024-04-09 14:10:27,597 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:27,650 [INFO]  Epoch[2] Batch [0-48]	Speed: 14628.70 samples/sec	cross-entropy=0.079576	MTRANS-accuracy=2.857143
+2024-04-09 14:10:27,701 [INFO]  Epoch[2] Train-cross-entropy=0.065790
+2024-04-09 14:10:27,701 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.434783
+2024-04-09 14:10:27,701 [INFO]  Epoch[2] Time cost=0.104
+2024-04-09 14:10:27,702 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:10:27,707 [INFO]  Epoch[2] Validation-cross-entropy=0.105229
+2024-04-09 14:10:27,707 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:27,768 [INFO]  Epoch[3] Batch [0-48]	Speed: 12943.93 samples/sec	cross-entropy=0.068185	MTRANS-accuracy=2.857143
+2024-04-09 14:10:27,818 [INFO]  Epoch[3] Train-cross-entropy=0.056432
+2024-04-09 14:10:27,818 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.434783
+2024-04-09 14:10:27,818 [INFO]  Epoch[3] Time cost=0.111
+2024-04-09 14:10:27,819 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:10:27,824 [INFO]  Epoch[3] Validation-cross-entropy=0.096947
+2024-04-09 14:10:27,824 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:27,878 [INFO]  Epoch[4] Batch [0-48]	Speed: 14667.74 samples/sec	cross-entropy=0.060671	MTRANS-accuracy=2.857143
+2024-04-09 14:10:27,938 [INFO]  Epoch[4] Train-cross-entropy=0.048258
+2024-04-09 14:10:27,938 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.434783
+2024-04-09 14:10:27,938 [INFO]  Epoch[4] Time cost=0.114
+2024-04-09 14:10:27,940 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:10:27,943 [INFO]  Epoch[4] Validation-cross-entropy=0.087622
+2024-04-09 14:10:27,943 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:27,943 [INFO]  
+========== done (0.8262124061584473 s) fit model
+2024-04-09 14:10:45,112 [INFO]  
+========== start: fit model
+2024-04-09 14:10:45,112 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:10:45,319 [INFO]  Epoch[0] Batch [0-48]	Speed: 12134.69 samples/sec	cross-entropy=4.014024	MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,365 [INFO]  Epoch[0] Train-cross-entropy=0.244263
+2024-04-09 14:10:45,365 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,365 [INFO]  Epoch[0] Time cost=0.252
+2024-04-09 14:10:45,368 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:10:45,372 [INFO]  Epoch[0] Validation-cross-entropy=0.201448
+2024-04-09 14:10:45,373 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,434 [INFO]  Epoch[1] Batch [0-48]	Speed: 12817.07 samples/sec	cross-entropy=0.130214	MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,491 [INFO]  Epoch[1] Train-cross-entropy=0.096987
+2024-04-09 14:10:45,491 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,491 [INFO]  Epoch[1] Time cost=0.118
+2024-04-09 14:10:45,492 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:10:45,496 [INFO]  Epoch[1] Validation-cross-entropy=0.100485
+2024-04-09 14:10:45,497 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,551 [INFO]  Epoch[2] Batch [0-48]	Speed: 14542.45 samples/sec	cross-entropy=0.074450	MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,600 [INFO]  Epoch[2] Train-cross-entropy=0.072789
+2024-04-09 14:10:45,600 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,600 [INFO]  Epoch[2] Time cost=0.104
+2024-04-09 14:10:45,602 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:10:45,606 [INFO]  Epoch[2] Validation-cross-entropy=0.081786
+2024-04-09 14:10:45,606 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,667 [INFO]  Epoch[3] Batch [0-48]	Speed: 12918.33 samples/sec	cross-entropy=0.058727	MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,716 [INFO]  Epoch[3] Train-cross-entropy=0.058939
+2024-04-09 14:10:45,716 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,716 [INFO]  Epoch[3] Time cost=0.110
+2024-04-09 14:10:45,718 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:10:45,725 [INFO]  Epoch[3] Validation-cross-entropy=0.069965
+2024-04-09 14:10:45,725 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,788 [INFO]  Epoch[4] Batch [0-48]	Speed: 12406.22 samples/sec	cross-entropy=0.048222	MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,835 [INFO]  Epoch[4] Train-cross-entropy=0.048574
+2024-04-09 14:10:45,835 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,835 [INFO]  Epoch[4] Time cost=0.110
+2024-04-09 14:10:45,837 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:10:45,840 [INFO]  Epoch[4] Validation-cross-entropy=0.060821
+2024-04-09 14:10:45,840 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:10:45,840 [INFO]  
+========== done (0.7277982234954834 s) fit model
+2024-04-09 14:11:04,084 [INFO]  
+========== start: fit model
+2024-04-09 14:11:04,084 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:11:04,197 [INFO]  Epoch[0] Batch [0-48]	Speed: 7116.61 samples/sec	cross-entropy=2.543944	MTRANS-accuracy=3.408163
+2024-04-09 14:11:04,292 [INFO]  Epoch[0] Train-cross-entropy=0.209411
+2024-04-09 14:11:04,292 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.108696
+2024-04-09 14:11:04,292 [INFO]  Epoch[0] Time cost=0.206
+2024-04-09 14:11:04,293 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:11:04,298 [INFO]  Epoch[0] Validation-cross-entropy=0.106935
+2024-04-09 14:11:04,298 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:04,349 [INFO]  Epoch[1] Batch [0-48]	Speed: 15449.52 samples/sec	cross-entropy=0.120456	MTRANS-accuracy=3.408163
+2024-04-09 14:11:04,394 [INFO]  Epoch[1] Train-cross-entropy=0.077447
+2024-04-09 14:11:04,394 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.108696
+2024-04-09 14:11:04,394 [INFO]  Epoch[1] Time cost=0.096
+2024-04-09 14:11:04,396 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:11:04,399 [INFO]  Epoch[1] Validation-cross-entropy=0.058516
+2024-04-09 14:11:04,400 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:04,439 [INFO]  Epoch[2] Batch [0-48]	Speed: 20068.44 samples/sec	cross-entropy=0.078631	MTRANS-accuracy=3.408163
+2024-04-09 14:11:04,486 [INFO]  Epoch[2] Train-cross-entropy=0.060582
+2024-04-09 14:11:04,486 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.108696
+2024-04-09 14:11:04,486 [INFO]  Epoch[2] Time cost=0.086
+2024-04-09 14:11:04,488 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:11:04,503 [INFO]  Epoch[2] Validation-cross-entropy=0.046819
+2024-04-09 14:11:04,503 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:04,559 [INFO]  Epoch[3] Batch [0-48]	Speed: 14219.23 samples/sec	cross-entropy=0.063951	MTRANS-accuracy=3.408163
+2024-04-09 14:11:04,620 [INFO]  Epoch[3] Train-cross-entropy=0.048834
+2024-04-09 14:11:04,621 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.108696
+2024-04-09 14:11:04,621 [INFO]  Epoch[3] Time cost=0.117
+2024-04-09 14:11:04,623 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:11:04,628 [INFO]  Epoch[3] Validation-cross-entropy=0.039138
+2024-04-09 14:11:04,628 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:04,679 [INFO]  Epoch[4] Batch [0-48]	Speed: 15407.40 samples/sec	cross-entropy=0.052096	MTRANS-accuracy=3.408163
+2024-04-09 14:11:04,728 [INFO]  Epoch[4] Train-cross-entropy=0.039645
+2024-04-09 14:11:04,728 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.108696
+2024-04-09 14:11:04,729 [INFO]  Epoch[4] Time cost=0.101
+2024-04-09 14:11:04,731 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:11:04,735 [INFO]  Epoch[4] Validation-cross-entropy=0.033308
+2024-04-09 14:11:04,736 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:04,736 [INFO]  
+========== done (0.6515963077545166 s) fit model
+2024-04-09 14:11:22,961 [INFO]  
+========== start: fit model
+2024-04-09 14:11:22,961 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:11:23,002 [INFO]  Epoch[0] Batch [0-48]	Speed: 20783.98 samples/sec	cross-entropy=5.243516	MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,037 [INFO]  Epoch[0] Train-cross-entropy=0.319965
+2024-04-09 14:11:23,037 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,037 [INFO]  Epoch[0] Time cost=0.075
+2024-04-09 14:11:23,039 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:11:23,042 [INFO]  Epoch[0] Validation-cross-entropy=0.245915
+2024-04-09 14:11:23,042 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,201 [INFO]  Epoch[1] Batch [0-48]	Speed: 4855.91 samples/sec	cross-entropy=0.133236	MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,245 [INFO]  Epoch[1] Train-cross-entropy=0.088639
+2024-04-09 14:11:23,245 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,245 [INFO]  Epoch[1] Time cost=0.203
+2024-04-09 14:11:23,248 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:11:23,253 [INFO]  Epoch[1] Validation-cross-entropy=0.102821
+2024-04-09 14:11:23,253 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,306 [INFO]  Epoch[2] Batch [0-48]	Speed: 14767.12 samples/sec	cross-entropy=0.076269	MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,357 [INFO]  Epoch[2] Train-cross-entropy=0.061901
+2024-04-09 14:11:23,357 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,357 [INFO]  Epoch[2] Time cost=0.104
+2024-04-09 14:11:23,359 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:11:23,365 [INFO]  Epoch[2] Validation-cross-entropy=0.069721
+2024-04-09 14:11:23,365 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,418 [INFO]  Epoch[3] Batch [0-48]	Speed: 14766.58 samples/sec	cross-entropy=0.061668	MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,475 [INFO]  Epoch[3] Train-cross-entropy=0.049624
+2024-04-09 14:11:23,475 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,475 [INFO]  Epoch[3] Time cost=0.110
+2024-04-09 14:11:23,478 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:11:23,484 [INFO]  Epoch[3] Validation-cross-entropy=0.059263
+2024-04-09 14:11:23,484 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,537 [INFO]  Epoch[4] Batch [0-48]	Speed: 14748.59 samples/sec	cross-entropy=0.053505	MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,588 [INFO]  Epoch[4] Train-cross-entropy=0.041851
+2024-04-09 14:11:23,588 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,588 [INFO]  Epoch[4] Time cost=0.104
+2024-04-09 14:11:23,590 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:11:23,596 [INFO]  Epoch[4] Validation-cross-entropy=0.053437
+2024-04-09 14:11:23,596 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:23,596 [INFO]  
+========== done (0.6349365711212158 s) fit model
+2024-04-09 14:11:42,137 [INFO]  
+========== start: fit model
+2024-04-09 14:11:42,137 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:11:42,168 [INFO]  Epoch[0] Batch [0-48]	Speed: 27260.63 samples/sec	cross-entropy=4.549398	MTRANS-accuracy=2.897959
+2024-04-09 14:11:42,194 [INFO]  Epoch[0] Train-cross-entropy=0.325528
+2024-04-09 14:11:42,194 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.521739
+2024-04-09 14:11:42,194 [INFO]  Epoch[0] Time cost=0.056
+2024-04-09 14:11:42,195 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:11:42,198 [INFO]  Epoch[0] Validation-cross-entropy=0.190165
+2024-04-09 14:11:42,198 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:42,514 [INFO]  Epoch[1] Batch [0-48]	Speed: 2436.15 samples/sec	cross-entropy=0.132813	MTRANS-accuracy=2.897959
+2024-04-09 14:11:42,564 [INFO]  Epoch[1] Train-cross-entropy=0.085858
+2024-04-09 14:11:42,564 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.521739
+2024-04-09 14:11:42,564 [INFO]  Epoch[1] Time cost=0.366
+2024-04-09 14:11:42,567 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:11:42,572 [INFO]  Epoch[1] Validation-cross-entropy=0.068560
+2024-04-09 14:11:42,572 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:42,629 [INFO]  Epoch[2] Batch [0-48]	Speed: 13794.39 samples/sec	cross-entropy=0.083681	MTRANS-accuracy=2.897959
+2024-04-09 14:11:42,662 [INFO]  Epoch[2] Train-cross-entropy=0.053892
+2024-04-09 14:11:42,662 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.521739
+2024-04-09 14:11:42,662 [INFO]  Epoch[2] Time cost=0.090
+2024-04-09 14:11:42,663 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:11:42,668 [INFO]  Epoch[2] Validation-cross-entropy=0.051419
+2024-04-09 14:11:42,668 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:42,721 [INFO]  Epoch[3] Batch [0-48]	Speed: 14907.49 samples/sec	cross-entropy=0.067732	MTRANS-accuracy=2.897959
+2024-04-09 14:11:42,770 [INFO]  Epoch[3] Train-cross-entropy=0.044539
+2024-04-09 14:11:42,770 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.521739
+2024-04-09 14:11:42,770 [INFO]  Epoch[3] Time cost=0.102
+2024-04-09 14:11:42,772 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:11:42,776 [INFO]  Epoch[3] Validation-cross-entropy=0.043437
+2024-04-09 14:11:42,776 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:42,832 [INFO]  Epoch[4] Batch [0-48]	Speed: 13963.07 samples/sec	cross-entropy=0.055668	MTRANS-accuracy=2.897959
+2024-04-09 14:11:42,883 [INFO]  Epoch[4] Train-cross-entropy=0.037828
+2024-04-09 14:11:42,883 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.521739
+2024-04-09 14:11:42,883 [INFO]  Epoch[4] Time cost=0.107
+2024-04-09 14:11:42,885 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:11:42,889 [INFO]  Epoch[4] Validation-cross-entropy=0.040109
+2024-04-09 14:11:42,890 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:42,890 [INFO]  
+========== done (0.7528355121612549 s) fit model
+2024-04-09 14:11:56,893 [INFO]  
+========== start: fit model
+2024-04-09 14:11:56,893 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:11:56,926 [INFO]  Epoch[0] Batch [0-48]	Speed: 25463.63 samples/sec	cross-entropy=5.057550	MTRANS-accuracy=0.000000
+2024-04-09 14:11:56,952 [INFO]  Epoch[0] Train-cross-entropy=0.349832
+2024-04-09 14:11:56,952 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:11:56,952 [INFO]  Epoch[0] Time cost=0.058
+2024-04-09 14:11:56,953 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:11:56,956 [INFO]  Epoch[0] Validation-cross-entropy=0.139082
+2024-04-09 14:11:56,956 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:56,984 [INFO]  Epoch[1] Batch [0-48]	Speed: 28512.98 samples/sec	cross-entropy=0.128515	MTRANS-accuracy=0.000000
+2024-04-09 14:11:57,012 [INFO]  Epoch[1] Train-cross-entropy=0.087071
+2024-04-09 14:11:57,012 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:11:57,012 [INFO]  Epoch[1] Time cost=0.056
+2024-04-09 14:11:57,014 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:11:57,017 [INFO]  Epoch[1] Validation-cross-entropy=0.056993
+2024-04-09 14:11:57,017 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:57,053 [INFO]  Epoch[2] Batch [0-48]	Speed: 22046.58 samples/sec	cross-entropy=0.066002	MTRANS-accuracy=0.000000
+2024-04-09 14:11:57,086 [INFO]  Epoch[2] Train-cross-entropy=0.061668
+2024-04-09 14:11:57,086 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:11:57,086 [INFO]  Epoch[2] Time cost=0.069
+2024-04-09 14:11:57,088 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:11:57,091 [INFO]  Epoch[2] Validation-cross-entropy=0.040976
+2024-04-09 14:11:57,092 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:57,127 [INFO]  Epoch[3] Batch [0-48]	Speed: 22169.48 samples/sec	cross-entropy=0.049611	MTRANS-accuracy=0.000000
+2024-04-09 14:11:57,160 [INFO]  Epoch[3] Train-cross-entropy=0.050143
+2024-04-09 14:11:57,160 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:11:57,160 [INFO]  Epoch[3] Time cost=0.069
+2024-04-09 14:11:57,162 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:11:57,165 [INFO]  Epoch[3] Validation-cross-entropy=0.033405
+2024-04-09 14:11:57,165 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:57,201 [INFO]  Epoch[4] Batch [0-48]	Speed: 22051.86 samples/sec	cross-entropy=0.041268	MTRANS-accuracy=0.000000
+2024-04-09 14:11:57,231 [INFO]  Epoch[4] Train-cross-entropy=0.041796
+2024-04-09 14:11:57,231 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:11:57,231 [INFO]  Epoch[4] Time cost=0.066
+2024-04-09 14:11:57,233 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:11:57,235 [INFO]  Epoch[4] Validation-cross-entropy=0.029352
+2024-04-09 14:11:57,235 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:11:57,235 [INFO]  
+========== done (0.34253597259521484 s) fit model
+2024-04-09 14:12:05,926 [INFO]  
+========== start: fit model
+2024-04-09 14:12:05,926 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:12:05,956 [INFO]  Epoch[0] Batch [0-48]	Speed: 28069.48 samples/sec	cross-entropy=3.995131	MTRANS-accuracy=3.000000
+2024-04-09 14:12:05,982 [INFO]  Epoch[0] Train-cross-entropy=0.244445
+2024-04-09 14:12:05,982 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.391304
+2024-04-09 14:12:05,982 [INFO]  Epoch[0] Time cost=0.054
+2024-04-09 14:12:05,983 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:12:05,986 [INFO]  Epoch[0] Validation-cross-entropy=0.113500
+2024-04-09 14:12:05,986 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:06,020 [INFO]  Epoch[1] Batch [0-48]	Speed: 23220.39 samples/sec	cross-entropy=0.095178	MTRANS-accuracy=3.000000
+2024-04-09 14:12:06,046 [INFO]  Epoch[1] Train-cross-entropy=0.073907
+2024-04-09 14:12:06,046 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.391304
+2024-04-09 14:12:06,046 [INFO]  Epoch[1] Time cost=0.060
+2024-04-09 14:12:06,047 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:12:06,050 [INFO]  Epoch[1] Validation-cross-entropy=0.085117
+2024-04-09 14:12:06,050 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:06,077 [INFO]  Epoch[2] Batch [0-48]	Speed: 28662.92 samples/sec	cross-entropy=0.055645	MTRANS-accuracy=3.000000
+2024-04-09 14:12:06,103 [INFO]  Epoch[2] Train-cross-entropy=0.062213
+2024-04-09 14:12:06,103 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.391304
+2024-04-09 14:12:06,103 [INFO]  Epoch[2] Time cost=0.053
+2024-04-09 14:12:06,105 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:12:06,107 [INFO]  Epoch[2] Validation-cross-entropy=0.073494
+2024-04-09 14:12:06,107 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:06,136 [INFO]  Epoch[3] Batch [0-48]	Speed: 27865.75 samples/sec	cross-entropy=0.045588	MTRANS-accuracy=3.000000
+2024-04-09 14:12:06,174 [INFO]  Epoch[3] Train-cross-entropy=0.051543
+2024-04-09 14:12:06,174 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.391304
+2024-04-09 14:12:06,174 [INFO]  Epoch[3] Time cost=0.066
+2024-04-09 14:12:06,176 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:12:06,179 [INFO]  Epoch[3] Validation-cross-entropy=0.063897
+2024-04-09 14:12:06,179 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:06,207 [INFO]  Epoch[4] Batch [0-48]	Speed: 28233.08 samples/sec	cross-entropy=0.039065	MTRANS-accuracy=3.000000
+2024-04-09 14:12:06,233 [INFO]  Epoch[4] Train-cross-entropy=0.042212
+2024-04-09 14:12:06,233 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.391304
+2024-04-09 14:12:06,233 [INFO]  Epoch[4] Time cost=0.054
+2024-04-09 14:12:06,234 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:12:06,237 [INFO]  Epoch[4] Validation-cross-entropy=0.059632
+2024-04-09 14:12:06,237 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:06,237 [INFO]  
+========== done (0.3108203411102295 s) fit model
+2024-04-09 14:12:14,821 [INFO]  
+========== start: fit model
+2024-04-09 14:12:14,821 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:12:14,876 [INFO]  Epoch[0] Batch [0-48]	Speed: 15874.52 samples/sec	cross-entropy=2.582871	MTRANS-accuracy=0.000000
+2024-04-09 14:12:14,913 [INFO]  Epoch[0] Train-cross-entropy=0.263805
+2024-04-09 14:12:14,913 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:12:14,913 [INFO]  Epoch[0] Time cost=0.091
+2024-04-09 14:12:14,916 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:12:14,923 [INFO]  Epoch[0] Validation-cross-entropy=0.164799
+2024-04-09 14:12:14,923 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:14,966 [INFO]  Epoch[1] Batch [0-48]	Speed: 18324.59 samples/sec	cross-entropy=0.107332	MTRANS-accuracy=0.000000
+2024-04-09 14:12:15,019 [INFO]  Epoch[1] Train-cross-entropy=0.080936
+2024-04-09 14:12:15,020 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:12:15,020 [INFO]  Epoch[1] Time cost=0.097
+2024-04-09 14:12:15,022 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:12:15,030 [INFO]  Epoch[1] Validation-cross-entropy=0.107139
+2024-04-09 14:12:15,031 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:15,249 [INFO]  Epoch[2] Batch [0-48]	Speed: 3548.36 samples/sec	cross-entropy=0.070474	MTRANS-accuracy=0.000000
+2024-04-09 14:12:15,289 [INFO]  Epoch[2] Train-cross-entropy=0.060574
+2024-04-09 14:12:15,290 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:12:15,290 [INFO]  Epoch[2] Time cost=0.259
+2024-04-09 14:12:15,292 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:12:15,296 [INFO]  Epoch[2] Validation-cross-entropy=0.099323
+2024-04-09 14:12:15,296 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:15,349 [INFO]  Epoch[3] Batch [0-48]	Speed: 14899.42 samples/sec	cross-entropy=0.055198	MTRANS-accuracy=0.000000
+2024-04-09 14:12:15,399 [INFO]  Epoch[3] Train-cross-entropy=0.049087
+2024-04-09 14:12:15,399 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:12:15,399 [INFO]  Epoch[3] Time cost=0.102
+2024-04-09 14:12:15,401 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:12:15,406 [INFO]  Epoch[3] Validation-cross-entropy=0.080194
+2024-04-09 14:12:15,406 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:15,459 [INFO]  Epoch[4] Batch [0-48]	Speed: 14963.37 samples/sec	cross-entropy=0.043894	MTRANS-accuracy=0.000000
+2024-04-09 14:12:15,518 [INFO]  Epoch[4] Train-cross-entropy=0.039650
+2024-04-09 14:12:15,518 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:12:15,518 [INFO]  Epoch[4] Time cost=0.112
+2024-04-09 14:12:15,521 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:12:15,564 [INFO]  Epoch[4] Validation-cross-entropy=0.066428
+2024-04-09 14:12:15,564 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:15,564 [INFO]  
+========== done (0.7431397438049316 s) fit model
+2024-04-09 14:12:33,532 [INFO]  
+========== start: fit model
+2024-04-09 14:12:33,532 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:12:33,599 [INFO]  Epoch[0] Batch [0-48]	Speed: 11949.36 samples/sec	cross-entropy=4.969121	MTRANS-accuracy=0.000000
+2024-04-09 14:12:33,629 [INFO]  Epoch[0] Train-cross-entropy=0.286728
+2024-04-09 14:12:33,630 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:12:33,630 [INFO]  Epoch[0] Time cost=0.096
+2024-04-09 14:12:33,631 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:12:33,654 [INFO]  Epoch[0] Validation-cross-entropy=0.169419
+2024-04-09 14:12:33,654 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:33,709 [INFO]  Epoch[1] Batch [0-48]	Speed: 14458.31 samples/sec	cross-entropy=0.128610	MTRANS-accuracy=0.000000
+2024-04-09 14:12:33,759 [INFO]  Epoch[1] Train-cross-entropy=0.090428
+2024-04-09 14:12:33,759 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:12:33,759 [INFO]  Epoch[1] Time cost=0.105
+2024-04-09 14:12:33,760 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:12:33,765 [INFO]  Epoch[1] Validation-cross-entropy=0.080839
+2024-04-09 14:12:33,765 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:33,824 [INFO]  Epoch[2] Batch [0-48]	Speed: 13260.93 samples/sec	cross-entropy=0.079113	MTRANS-accuracy=0.000000
+2024-04-09 14:12:34,068 [INFO]  Epoch[2] Train-cross-entropy=0.068240
+2024-04-09 14:12:34,068 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:12:34,068 [INFO]  Epoch[2] Time cost=0.303
+2024-04-09 14:12:34,070 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:12:34,076 [INFO]  Epoch[2] Validation-cross-entropy=0.061539
+2024-04-09 14:12:34,076 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:34,129 [INFO]  Epoch[3] Batch [0-48]	Speed: 14712.49 samples/sec	cross-entropy=0.064575	MTRANS-accuracy=0.000000
+2024-04-09 14:12:34,180 [INFO]  Epoch[3] Train-cross-entropy=0.057790
+2024-04-09 14:12:34,180 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:12:34,180 [INFO]  Epoch[3] Time cost=0.104
+2024-04-09 14:12:34,182 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:12:34,188 [INFO]  Epoch[3] Validation-cross-entropy=0.054426
+2024-04-09 14:12:34,188 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:34,232 [INFO]  Epoch[4] Batch [0-48]	Speed: 17884.57 samples/sec	cross-entropy=0.053452	MTRANS-accuracy=0.000000
+2024-04-09 14:12:34,267 [INFO]  Epoch[4] Train-cross-entropy=0.047680
+2024-04-09 14:12:34,267 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:12:34,267 [INFO]  Epoch[4] Time cost=0.079
+2024-04-09 14:12:34,270 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:12:34,275 [INFO]  Epoch[4] Validation-cross-entropy=0.048152
+2024-04-09 14:12:34,275 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:34,276 [INFO]  
+========== done (0.7436161041259766 s) fit model
+2024-04-09 14:12:52,117 [INFO]  
+========== start: fit model
+2024-04-09 14:12:52,117 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:12:52,173 [INFO]  Epoch[0] Batch [0-48]	Speed: 14878.02 samples/sec	cross-entropy=4.449705	MTRANS-accuracy=3.020408
+2024-04-09 14:12:52,585 [INFO]  Epoch[0] Train-cross-entropy=0.235135
+2024-04-09 14:12:52,586 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.347826
+2024-04-09 14:12:52,586 [INFO]  Epoch[0] Time cost=0.468
+2024-04-09 14:12:52,588 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:12:52,592 [INFO]  Epoch[0] Validation-cross-entropy=0.099786
+2024-04-09 14:12:52,592 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:52,677 [INFO]  Epoch[1] Batch [0-48]	Speed: 9153.34 samples/sec	cross-entropy=0.111211	MTRANS-accuracy=3.020408
+2024-04-09 14:12:52,722 [INFO]  Epoch[1] Train-cross-entropy=0.095718
+2024-04-09 14:12:52,722 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.347826
+2024-04-09 14:12:52,722 [INFO]  Epoch[1] Time cost=0.130
+2024-04-09 14:12:52,725 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:12:52,730 [INFO]  Epoch[1] Validation-cross-entropy=0.065326
+2024-04-09 14:12:52,731 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:52,759 [INFO]  Epoch[2] Batch [0-48]	Speed: 28031.86 samples/sec	cross-entropy=0.074961	MTRANS-accuracy=3.020408
+2024-04-09 14:12:52,788 [INFO]  Epoch[2] Train-cross-entropy=0.068924
+2024-04-09 14:12:52,789 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.347826
+2024-04-09 14:12:52,789 [INFO]  Epoch[2] Time cost=0.058
+2024-04-09 14:12:52,790 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:12:52,793 [INFO]  Epoch[2] Validation-cross-entropy=0.055852
+2024-04-09 14:12:52,793 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:52,839 [INFO]  Epoch[3] Batch [0-48]	Speed: 16809.00 samples/sec	cross-entropy=0.061157	MTRANS-accuracy=3.020408
+2024-04-09 14:12:53,292 [INFO]  Epoch[3] Train-cross-entropy=0.053189
+2024-04-09 14:12:53,292 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.347826
+2024-04-09 14:12:53,292 [INFO]  Epoch[3] Time cost=0.499
+2024-04-09 14:12:53,294 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:12:53,298 [INFO]  Epoch[3] Validation-cross-entropy=0.046311
+2024-04-09 14:12:53,298 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:53,352 [INFO]  Epoch[4] Batch [0-48]	Speed: 14800.57 samples/sec	cross-entropy=0.049940	MTRANS-accuracy=3.020408
+2024-04-09 14:12:53,401 [INFO]  Epoch[4] Train-cross-entropy=0.042566
+2024-04-09 14:12:53,401 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.347826
+2024-04-09 14:12:53,401 [INFO]  Epoch[4] Time cost=0.103
+2024-04-09 14:12:53,403 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:12:53,408 [INFO]  Epoch[4] Validation-cross-entropy=0.038796
+2024-04-09 14:12:53,408 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:12:53,408 [INFO]  
+========== done (1.291001796722412 s) fit model
+2024-04-09 14:13:10,475 [INFO]  
+========== start: fit model
+2024-04-09 14:13:10,475 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:13:10,617 [INFO]  Epoch[0] Batch [0-48]	Speed: 8121.41 samples/sec	cross-entropy=3.974256	MTRANS-accuracy=3.367347
+2024-04-09 14:13:10,666 [INFO]  Epoch[0] Train-cross-entropy=0.308702
+2024-04-09 14:13:10,666 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.195652
+2024-04-09 14:13:10,666 [INFO]  Epoch[0] Time cost=0.190
+2024-04-09 14:13:10,668 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:13:10,672 [INFO]  Epoch[0] Validation-cross-entropy=0.161196
+2024-04-09 14:13:10,672 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:10,726 [INFO]  Epoch[1] Batch [0-48]	Speed: 14748.66 samples/sec	cross-entropy=0.131379	MTRANS-accuracy=3.367347
+2024-04-09 14:13:10,776 [INFO]  Epoch[1] Train-cross-entropy=0.091317
+2024-04-09 14:13:10,776 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.195652
+2024-04-09 14:13:10,776 [INFO]  Epoch[1] Time cost=0.103
+2024-04-09 14:13:10,777 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:13:10,782 [INFO]  Epoch[1] Validation-cross-entropy=0.087881
+2024-04-09 14:13:10,782 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:10,836 [INFO]  Epoch[2] Batch [0-48]	Speed: 14389.46 samples/sec	cross-entropy=0.076906	MTRANS-accuracy=3.367347
+2024-04-09 14:13:10,888 [INFO]  Epoch[2] Train-cross-entropy=0.070180
+2024-04-09 14:13:10,888 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.195652
+2024-04-09 14:13:10,888 [INFO]  Epoch[2] Time cost=0.106
+2024-04-09 14:13:10,890 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:13:10,897 [INFO]  Epoch[2] Validation-cross-entropy=0.074349
+2024-04-09 14:13:10,897 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:10,953 [INFO]  Epoch[3] Batch [0-48]	Speed: 14010.75 samples/sec	cross-entropy=0.061138	MTRANS-accuracy=3.367347
+2024-04-09 14:13:11,003 [INFO]  Epoch[3] Train-cross-entropy=0.059034
+2024-04-09 14:13:11,003 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.195652
+2024-04-09 14:13:11,003 [INFO]  Epoch[3] Time cost=0.106
+2024-04-09 14:13:11,633 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:13:11,641 [INFO]  Epoch[3] Validation-cross-entropy=0.066579
+2024-04-09 14:13:11,641 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:11,683 [INFO]  Epoch[4] Batch [0-48]	Speed: 19466.66 samples/sec	cross-entropy=0.050904	MTRANS-accuracy=3.367347
+2024-04-09 14:13:11,711 [INFO]  Epoch[4] Train-cross-entropy=0.049864
+2024-04-09 14:13:11,711 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.195652
+2024-04-09 14:13:11,711 [INFO]  Epoch[4] Time cost=0.069
+2024-04-09 14:13:11,712 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:13:11,715 [INFO]  Epoch[4] Validation-cross-entropy=0.058848
+2024-04-09 14:13:11,715 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:11,715 [INFO]  
+========== done (1.2399415969848633 s) fit model
+2024-04-09 14:13:29,862 [INFO]  
+========== start: fit model
+2024-04-09 14:13:29,862 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:13:29,927 [INFO]  Epoch[0] Batch [0-48]	Speed: 12145.07 samples/sec	cross-entropy=3.257952	MTRANS-accuracy=2.979592
+2024-04-09 14:13:29,955 [INFO]  Epoch[0] Train-cross-entropy=0.240601
+2024-04-09 14:13:29,955 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.369565
+2024-04-09 14:13:29,955 [INFO]  Epoch[0] Time cost=0.092
+2024-04-09 14:13:29,957 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:13:29,961 [INFO]  Epoch[0] Validation-cross-entropy=0.159699
+2024-04-09 14:13:29,961 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:30,004 [INFO]  Epoch[1] Batch [0-48]	Speed: 18625.18 samples/sec	cross-entropy=0.094521	MTRANS-accuracy=2.979592
+2024-04-09 14:13:30,085 [INFO]  Epoch[1] Train-cross-entropy=0.082494
+2024-04-09 14:13:30,085 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.369565
+2024-04-09 14:13:30,085 [INFO]  Epoch[1] Time cost=0.124
+2024-04-09 14:13:30,087 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:13:30,250 [INFO]  Epoch[1] Validation-cross-entropy=0.071495
+2024-04-09 14:13:30,250 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:30,304 [INFO]  Epoch[2] Batch [0-48]	Speed: 14811.73 samples/sec	cross-entropy=0.068049	MTRANS-accuracy=2.979592
+2024-04-09 14:13:30,597 [INFO]  Epoch[2] Train-cross-entropy=0.064584
+2024-04-09 14:13:30,597 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.369565
+2024-04-09 14:13:30,597 [INFO]  Epoch[2] Time cost=0.347
+2024-04-09 14:13:30,599 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:13:30,604 [INFO]  Epoch[2] Validation-cross-entropy=0.058953
+2024-04-09 14:13:30,604 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:30,656 [INFO]  Epoch[3] Batch [0-48]	Speed: 15122.56 samples/sec	cross-entropy=0.056448	MTRANS-accuracy=2.979592
+2024-04-09 14:13:30,706 [INFO]  Epoch[3] Train-cross-entropy=0.054880
+2024-04-09 14:13:30,707 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.369565
+2024-04-09 14:13:30,707 [INFO]  Epoch[3] Time cost=0.102
+2024-04-09 14:13:30,708 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:13:30,712 [INFO]  Epoch[3] Validation-cross-entropy=0.051492
+2024-04-09 14:13:30,712 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:30,766 [INFO]  Epoch[4] Batch [0-48]	Speed: 14584.33 samples/sec	cross-entropy=0.048530	MTRANS-accuracy=2.979592
+2024-04-09 14:13:30,817 [INFO]  Epoch[4] Train-cross-entropy=0.047598
+2024-04-09 14:13:30,817 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.369565
+2024-04-09 14:13:30,817 [INFO]  Epoch[4] Time cost=0.104
+2024-04-09 14:13:30,818 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:13:30,823 [INFO]  Epoch[4] Validation-cross-entropy=0.046843
+2024-04-09 14:13:30,823 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:30,823 [INFO]  
+========== done (0.9610776901245117 s) fit model
+2024-04-09 14:13:47,041 [INFO]  
+========== start: fit model
+2024-04-09 14:13:47,042 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:13:47,116 [INFO]  Epoch[0] Batch [0-48]	Speed: 11718.58 samples/sec	cross-entropy=4.013258	MTRANS-accuracy=3.285714
+2024-04-09 14:13:47,251 [INFO]  Epoch[0] Train-cross-entropy=0.276071
+2024-04-09 14:13:47,251 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.000000
+2024-04-09 14:13:47,251 [INFO]  Epoch[0] Time cost=0.209
+2024-04-09 14:13:47,253 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:13:47,257 [INFO]  Epoch[0] Validation-cross-entropy=0.250074
+2024-04-09 14:13:47,257 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:47,311 [INFO]  Epoch[1] Batch [0-48]	Speed: 14689.34 samples/sec	cross-entropy=0.140858	MTRANS-accuracy=3.285714
+2024-04-09 14:13:47,361 [INFO]  Epoch[1] Train-cross-entropy=0.099973
+2024-04-09 14:13:47,361 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.000000
+2024-04-09 14:13:47,361 [INFO]  Epoch[1] Time cost=0.103
+2024-04-09 14:13:47,362 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:13:47,367 [INFO]  Epoch[1] Validation-cross-entropy=0.139252
+2024-04-09 14:13:47,367 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:47,421 [INFO]  Epoch[2] Batch [0-48]	Speed: 14626.64 samples/sec	cross-entropy=0.077756	MTRANS-accuracy=3.285714
+2024-04-09 14:13:47,470 [INFO]  Epoch[2] Train-cross-entropy=0.068170
+2024-04-09 14:13:47,471 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.000000
+2024-04-09 14:13:47,471 [INFO]  Epoch[2] Time cost=0.104
+2024-04-09 14:13:47,472 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:13:47,477 [INFO]  Epoch[2] Validation-cross-entropy=0.082987
+2024-04-09 14:13:47,477 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:47,530 [INFO]  Epoch[3] Batch [0-48]	Speed: 14680.10 samples/sec	cross-entropy=0.055653	MTRANS-accuracy=3.285714
+2024-04-09 14:13:47,583 [INFO]  Epoch[3] Train-cross-entropy=0.052472
+2024-04-09 14:13:47,583 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.000000
+2024-04-09 14:13:47,584 [INFO]  Epoch[3] Time cost=0.107
+2024-04-09 14:13:47,585 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:13:47,590 [INFO]  Epoch[3] Validation-cross-entropy=0.062643
+2024-04-09 14:13:47,590 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:47,941 [INFO]  Epoch[4] Batch [0-48]	Speed: 2195.69 samples/sec	cross-entropy=0.044525	MTRANS-accuracy=3.285714
+2024-04-09 14:13:47,989 [INFO]  Epoch[4] Train-cross-entropy=0.042290
+2024-04-09 14:13:47,989 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.000000
+2024-04-09 14:13:47,989 [INFO]  Epoch[4] Time cost=0.399
+2024-04-09 14:13:47,991 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:13:47,996 [INFO]  Epoch[4] Validation-cross-entropy=0.053176
+2024-04-09 14:13:47,996 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:13:47,996 [INFO]  
+========== done (0.9543061256408691 s) fit model
+2024-04-09 14:14:06,522 [INFO]  
+========== start: fit model
+2024-04-09 14:14:06,522 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:14:06,613 [INFO]  Epoch[0] Batch [0-48]	Speed: 15874.36 samples/sec	cross-entropy=3.318884	MTRANS-accuracy=0.000000
+2024-04-09 14:14:06,639 [INFO]  Epoch[0] Train-cross-entropy=0.285073
+2024-04-09 14:14:06,639 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:06,639 [INFO]  Epoch[0] Time cost=0.116
+2024-04-09 14:14:06,641 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:14:06,644 [INFO]  Epoch[0] Validation-cross-entropy=0.153039
+2024-04-09 14:14:06,644 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:06,874 [INFO]  Epoch[1] Batch [0-48]	Speed: 3340.09 samples/sec	cross-entropy=0.107198	MTRANS-accuracy=0.000000
+2024-04-09 14:14:06,933 [INFO]  Epoch[1] Train-cross-entropy=0.075764
+2024-04-09 14:14:06,933 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:06,933 [INFO]  Epoch[1] Time cost=0.289
+2024-04-09 14:14:06,934 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:14:06,939 [INFO]  Epoch[1] Validation-cross-entropy=0.068301
+2024-04-09 14:14:06,939 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:06,994 [INFO]  Epoch[2] Batch [0-48]	Speed: 14459.22 samples/sec	cross-entropy=0.059603	MTRANS-accuracy=0.000000
+2024-04-09 14:14:07,045 [INFO]  Epoch[2] Train-cross-entropy=0.059250
+2024-04-09 14:14:07,045 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:07,045 [INFO]  Epoch[2] Time cost=0.106
+2024-04-09 14:14:07,046 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:14:07,051 [INFO]  Epoch[2] Validation-cross-entropy=0.058468
+2024-04-09 14:14:07,051 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:07,105 [INFO]  Epoch[3] Batch [0-48]	Speed: 14525.47 samples/sec	cross-entropy=0.049012	MTRANS-accuracy=0.000000
+2024-04-09 14:14:07,162 [INFO]  Epoch[3] Train-cross-entropy=0.048247
+2024-04-09 14:14:07,162 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:07,162 [INFO]  Epoch[3] Time cost=0.111
+2024-04-09 14:14:07,164 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:14:07,168 [INFO]  Epoch[3] Validation-cross-entropy=0.050046
+2024-04-09 14:14:07,168 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:07,225 [INFO]  Epoch[4] Batch [0-48]	Speed: 13793.45 samples/sec	cross-entropy=0.040244	MTRANS-accuracy=0.000000
+2024-04-09 14:14:07,517 [INFO]  Epoch[4] Train-cross-entropy=0.039547
+2024-04-09 14:14:07,517 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:07,518 [INFO]  Epoch[4] Time cost=0.349
+2024-04-09 14:14:07,520 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:14:07,524 [INFO]  Epoch[4] Validation-cross-entropy=0.043310
+2024-04-09 14:14:07,525 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:07,525 [INFO]  
+========== done (1.0027620792388916 s) fit model
+2024-04-09 14:14:25,880 [INFO]  
+========== start: fit model
+2024-04-09 14:14:25,881 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:14:25,964 [INFO]  Epoch[0] Batch [0-48]	Speed: 10061.42 samples/sec	cross-entropy=3.280074	MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,199 [INFO]  Epoch[0] Train-cross-entropy=0.272096
+2024-04-09 14:14:26,199 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,199 [INFO]  Epoch[0] Time cost=0.318
+2024-04-09 14:14:26,201 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:14:26,206 [INFO]  Epoch[0] Validation-cross-entropy=0.160501
+2024-04-09 14:14:26,206 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,280 [INFO]  Epoch[1] Batch [0-48]	Speed: 10541.97 samples/sec	cross-entropy=0.095652	MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,327 [INFO]  Epoch[1] Train-cross-entropy=0.086353
+2024-04-09 14:14:26,327 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,328 [INFO]  Epoch[1] Time cost=0.122
+2024-04-09 14:14:26,330 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:14:26,335 [INFO]  Epoch[1] Validation-cross-entropy=0.100992
+2024-04-09 14:14:26,335 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,389 [INFO]  Epoch[2] Batch [0-48]	Speed: 14627.44 samples/sec	cross-entropy=0.061975	MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,440 [INFO]  Epoch[2] Train-cross-entropy=0.062898
+2024-04-09 14:14:26,440 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,440 [INFO]  Epoch[2] Time cost=0.104
+2024-04-09 14:14:26,442 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:14:26,447 [INFO]  Epoch[2] Validation-cross-entropy=0.088031
+2024-04-09 14:14:26,448 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,501 [INFO]  Epoch[3] Batch [0-48]	Speed: 14696.24 samples/sec	cross-entropy=0.051144	MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,575 [INFO]  Epoch[3] Train-cross-entropy=0.052063
+2024-04-09 14:14:26,575 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,575 [INFO]  Epoch[3] Time cost=0.127
+2024-04-09 14:14:26,577 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:14:26,582 [INFO]  Epoch[3] Validation-cross-entropy=0.073815
+2024-04-09 14:14:26,583 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,643 [INFO]  Epoch[4] Batch [0-48]	Speed: 13151.78 samples/sec	cross-entropy=0.042769	MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,696 [INFO]  Epoch[4] Train-cross-entropy=0.043593
+2024-04-09 14:14:26,696 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,697 [INFO]  Epoch[4] Time cost=0.114
+2024-04-09 14:14:26,699 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:14:26,705 [INFO]  Epoch[4] Validation-cross-entropy=0.062262
+2024-04-09 14:14:26,705 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:26,705 [INFO]  
+========== done (0.8249588012695312 s) fit model
+2024-04-09 14:14:45,344 [INFO]  
+========== start: fit model
+2024-04-09 14:14:45,344 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:14:45,398 [INFO]  Epoch[0] Batch [0-48]	Speed: 16603.48 samples/sec	cross-entropy=3.830476	MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,428 [INFO]  Epoch[0] Train-cross-entropy=0.313416
+2024-04-09 14:14:45,428 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,428 [INFO]  Epoch[0] Time cost=0.082
+2024-04-09 14:14:45,429 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:14:45,434 [INFO]  Epoch[0] Validation-cross-entropy=0.131444
+2024-04-09 14:14:45,434 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,489 [INFO]  Epoch[1] Batch [0-48]	Speed: 14293.24 samples/sec	cross-entropy=0.113525	MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,519 [INFO]  Epoch[1] Train-cross-entropy=0.079858
+2024-04-09 14:14:45,519 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,519 [INFO]  Epoch[1] Time cost=0.085
+2024-04-09 14:14:45,520 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:14:45,533 [INFO]  Epoch[1] Validation-cross-entropy=0.060426
+2024-04-09 14:14:45,533 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,587 [INFO]  Epoch[2] Batch [0-48]	Speed: 14485.69 samples/sec	cross-entropy=0.065868	MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,622 [INFO]  Epoch[2] Train-cross-entropy=0.058290
+2024-04-09 14:14:45,622 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,622 [INFO]  Epoch[2] Time cost=0.089
+2024-04-09 14:14:45,623 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:14:45,667 [INFO]  Epoch[2] Validation-cross-entropy=0.048619
+2024-04-09 14:14:45,667 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,716 [INFO]  Epoch[3] Batch [0-48]	Speed: 15859.59 samples/sec	cross-entropy=0.053713	MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,747 [INFO]  Epoch[3] Train-cross-entropy=0.046312
+2024-04-09 14:14:45,747 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,747 [INFO]  Epoch[3] Time cost=0.081
+2024-04-09 14:14:45,750 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:14:45,753 [INFO]  Epoch[3] Validation-cross-entropy=0.040743
+2024-04-09 14:14:45,753 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,789 [INFO]  Epoch[4] Batch [0-48]	Speed: 21974.99 samples/sec	cross-entropy=0.044390	MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,820 [INFO]  Epoch[4] Train-cross-entropy=0.038173
+2024-04-09 14:14:45,820 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,820 [INFO]  Epoch[4] Time cost=0.067
+2024-04-09 14:14:45,822 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:14:45,826 [INFO]  Epoch[4] Validation-cross-entropy=0.034993
+2024-04-09 14:14:45,826 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:14:45,826 [INFO]  
+========== done (0.48186445236206055 s) fit model
+2024-04-09 14:15:02,625 [INFO]  
+========== start: fit model
+2024-04-09 14:15:02,625 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:15:02,745 [INFO]  Epoch[0] Batch [0-48]	Speed: 7728.75 samples/sec	cross-entropy=5.210644	MTRANS-accuracy=3.346939
+2024-04-09 14:15:02,785 [INFO]  Epoch[0] Train-cross-entropy=0.339050
+2024-04-09 14:15:02,785 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.326087
+2024-04-09 14:15:02,786 [INFO]  Epoch[0] Time cost=0.160
+2024-04-09 14:15:02,788 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:15:02,793 [INFO]  Epoch[0] Validation-cross-entropy=0.137307
+2024-04-09 14:15:02,793 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:02,831 [INFO]  Epoch[1] Batch [0-48]	Speed: 20873.81 samples/sec	cross-entropy=0.123226	MTRANS-accuracy=3.346939
+2024-04-09 14:15:02,861 [INFO]  Epoch[1] Train-cross-entropy=0.077588
+2024-04-09 14:15:02,861 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.326087
+2024-04-09 14:15:02,861 [INFO]  Epoch[1] Time cost=0.068
+2024-04-09 14:15:02,863 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:15:02,872 [INFO]  Epoch[1] Validation-cross-entropy=0.090807
+2024-04-09 14:15:02,872 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:02,921 [INFO]  Epoch[2] Batch [0-48]	Speed: 15999.57 samples/sec	cross-entropy=0.065350	MTRANS-accuracy=3.346939
+2024-04-09 14:15:03,001 [INFO]  Epoch[2] Train-cross-entropy=0.057875
+2024-04-09 14:15:03,001 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.326087
+2024-04-09 14:15:03,001 [INFO]  Epoch[2] Time cost=0.129
+2024-04-09 14:15:03,002 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:15:03,006 [INFO]  Epoch[2] Validation-cross-entropy=0.075801
+2024-04-09 14:15:03,006 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:03,046 [INFO]  Epoch[3] Batch [0-48]	Speed: 19815.49 samples/sec	cross-entropy=0.049824	MTRANS-accuracy=3.346939
+2024-04-09 14:15:03,098 [INFO]  Epoch[3] Train-cross-entropy=0.050115
+2024-04-09 14:15:03,098 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.326087
+2024-04-09 14:15:03,099 [INFO]  Epoch[3] Time cost=0.092
+2024-04-09 14:15:03,101 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:15:03,106 [INFO]  Epoch[3] Validation-cross-entropy=0.064908
+2024-04-09 14:15:03,106 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:03,160 [INFO]  Epoch[4] Batch [0-48]	Speed: 14564.87 samples/sec	cross-entropy=0.040417	MTRANS-accuracy=3.346939
+2024-04-09 14:15:03,235 [INFO]  Epoch[4] Train-cross-entropy=0.043869
+2024-04-09 14:15:03,236 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.326087
+2024-04-09 14:15:03,236 [INFO]  Epoch[4] Time cost=0.130
+2024-04-09 14:15:03,239 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:15:03,259 [INFO]  Epoch[4] Validation-cross-entropy=0.056390
+2024-04-09 14:15:03,259 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:03,259 [INFO]  
+========== done (0.6340513229370117 s) fit model
+2024-04-09 14:15:21,773 [INFO]  
+========== start: fit model
+2024-04-09 14:15:21,773 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:15:21,862 [INFO]  Epoch[0] Batch [0-48]	Speed: 9711.70 samples/sec	cross-entropy=3.587505	MTRANS-accuracy=3.224490
+2024-04-09 14:15:21,897 [INFO]  Epoch[0] Train-cross-entropy=0.216140
+2024-04-09 14:15:21,897 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.173913
+2024-04-09 14:15:21,897 [INFO]  Epoch[0] Time cost=0.123
+2024-04-09 14:15:21,899 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:15:21,902 [INFO]  Epoch[0] Validation-cross-entropy=0.123360
+2024-04-09 14:15:21,902 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:21,940 [INFO]  Epoch[1] Batch [0-48]	Speed: 21084.35 samples/sec	cross-entropy=0.092719	MTRANS-accuracy=3.224490
+2024-04-09 14:15:21,974 [INFO]  Epoch[1] Train-cross-entropy=0.075496
+2024-04-09 14:15:21,974 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.173913
+2024-04-09 14:15:21,974 [INFO]  Epoch[1] Time cost=0.072
+2024-04-09 14:15:22,048 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:15:22,189 [INFO]  Epoch[1] Validation-cross-entropy=0.064139
+2024-04-09 14:15:22,190 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:22,243 [INFO]  Epoch[2] Batch [0-48]	Speed: 14817.25 samples/sec	cross-entropy=0.057619	MTRANS-accuracy=3.224490
+2024-04-09 14:15:22,304 [INFO]  Epoch[2] Train-cross-entropy=0.055096
+2024-04-09 14:15:22,304 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.173913
+2024-04-09 14:15:22,304 [INFO]  Epoch[2] Time cost=0.115
+2024-04-09 14:15:22,306 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:15:22,311 [INFO]  Epoch[2] Validation-cross-entropy=0.054858
+2024-04-09 14:15:22,311 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:22,363 [INFO]  Epoch[3] Batch [0-48]	Speed: 15225.13 samples/sec	cross-entropy=0.046807	MTRANS-accuracy=3.224490
+2024-04-09 14:15:22,397 [INFO]  Epoch[3] Train-cross-entropy=0.045110
+2024-04-09 14:15:22,398 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.173913
+2024-04-09 14:15:22,398 [INFO]  Epoch[3] Time cost=0.087
+2024-04-09 14:15:22,399 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:15:22,409 [INFO]  Epoch[3] Validation-cross-entropy=0.048070
+2024-04-09 14:15:22,410 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:22,450 [INFO]  Epoch[4] Batch [0-48]	Speed: 19373.35 samples/sec	cross-entropy=0.039239	MTRANS-accuracy=3.224490
+2024-04-09 14:15:22,594 [INFO]  Epoch[4] Train-cross-entropy=0.037159
+2024-04-09 14:15:22,594 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.173913
+2024-04-09 14:15:22,594 [INFO]  Epoch[4] Time cost=0.185
+2024-04-09 14:15:22,597 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:15:22,602 [INFO]  Epoch[4] Validation-cross-entropy=0.042040
+2024-04-09 14:15:22,602 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:22,602 [INFO]  
+========== done (0.8294861316680908 s) fit model
+2024-04-09 14:15:40,386 [INFO]  
+========== start: fit model
+2024-04-09 14:15:40,387 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:15:40,734 [INFO]  Epoch[0] Batch [0-48]	Speed: 2235.28 samples/sec	cross-entropy=2.596359	MTRANS-accuracy=0.000000
+2024-04-09 14:15:40,768 [INFO]  Epoch[0] Train-cross-entropy=0.205722
+2024-04-09 14:15:40,769 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:15:40,769 [INFO]  Epoch[0] Time cost=0.381
+2024-04-09 14:15:40,771 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:15:40,815 [INFO]  Epoch[0] Validation-cross-entropy=0.104780
+2024-04-09 14:15:40,815 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:40,876 [INFO]  Epoch[1] Batch [0-48]	Speed: 12908.86 samples/sec	cross-entropy=0.097654	MTRANS-accuracy=0.000000
+2024-04-09 14:15:40,909 [INFO]  Epoch[1] Train-cross-entropy=0.073781
+2024-04-09 14:15:40,909 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:15:40,909 [INFO]  Epoch[1] Time cost=0.095
+2024-04-09 14:15:40,911 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:15:40,915 [INFO]  Epoch[1] Validation-cross-entropy=0.057428
+2024-04-09 14:15:40,915 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:40,961 [INFO]  Epoch[2] Batch [0-48]	Speed: 17056.43 samples/sec	cross-entropy=0.062072	MTRANS-accuracy=0.000000
+2024-04-09 14:15:41,009 [INFO]  Epoch[2] Train-cross-entropy=0.056020
+2024-04-09 14:15:41,009 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:15:41,009 [INFO]  Epoch[2] Time cost=0.094
+2024-04-09 14:15:41,010 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:15:41,014 [INFO]  Epoch[2] Validation-cross-entropy=0.047189
+2024-04-09 14:15:41,014 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:41,054 [INFO]  Epoch[3] Batch [0-48]	Speed: 19866.45 samples/sec	cross-entropy=0.051458	MTRANS-accuracy=0.000000
+2024-04-09 14:15:41,093 [INFO]  Epoch[3] Train-cross-entropy=0.046759
+2024-04-09 14:15:41,093 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:15:41,093 [INFO]  Epoch[3] Time cost=0.079
+2024-04-09 14:15:41,095 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:15:41,099 [INFO]  Epoch[3] Validation-cross-entropy=0.041768
+2024-04-09 14:15:41,099 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:41,136 [INFO]  Epoch[4] Batch [0-48]	Speed: 21487.16 samples/sec	cross-entropy=0.043405	MTRANS-accuracy=0.000000
+2024-04-09 14:15:41,170 [INFO]  Epoch[4] Train-cross-entropy=0.040214
+2024-04-09 14:15:41,170 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:15:41,171 [INFO]  Epoch[4] Time cost=0.071
+2024-04-09 14:15:41,173 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:15:41,180 [INFO]  Epoch[4] Validation-cross-entropy=0.038201
+2024-04-09 14:15:41,180 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:41,180 [INFO]  
+========== done (0.7939088344573975 s) fit model
+2024-04-09 14:15:59,854 [INFO]  
+========== start: fit model
+2024-04-09 14:15:59,855 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:15:59,901 [INFO]  Epoch[0] Batch [0-48]	Speed: 22516.76 samples/sec	cross-entropy=4.621584	MTRANS-accuracy=3.183673
+2024-04-09 14:15:59,928 [INFO]  Epoch[0] Train-cross-entropy=0.326900
+2024-04-09 14:15:59,928 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.130435
+2024-04-09 14:15:59,928 [INFO]  Epoch[0] Time cost=0.072
+2024-04-09 14:15:59,929 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:15:59,932 [INFO]  Epoch[0] Validation-cross-entropy=0.191578
+2024-04-09 14:15:59,932 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:15:59,961 [INFO]  Epoch[1] Batch [0-48]	Speed: 27929.30 samples/sec	cross-entropy=0.131173	MTRANS-accuracy=3.183673
+2024-04-09 14:15:59,989 [INFO]  Epoch[1] Train-cross-entropy=0.089131
+2024-04-09 14:15:59,989 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.130435
+2024-04-09 14:15:59,989 [INFO]  Epoch[1] Time cost=0.057
+2024-04-09 14:15:59,991 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:15:59,994 [INFO]  Epoch[1] Validation-cross-entropy=0.066139
+2024-04-09 14:15:59,994 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:00,023 [INFO]  Epoch[2] Batch [0-48]	Speed: 27132.05 samples/sec	cross-entropy=0.071089	MTRANS-accuracy=3.183673
+2024-04-09 14:16:00,049 [INFO]  Epoch[2] Train-cross-entropy=0.064171
+2024-04-09 14:16:00,049 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.130435
+2024-04-09 14:16:00,049 [INFO]  Epoch[2] Time cost=0.055
+2024-04-09 14:16:00,050 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:16:00,053 [INFO]  Epoch[2] Validation-cross-entropy=0.055468
+2024-04-09 14:16:00,053 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:00,081 [INFO]  Epoch[3] Batch [0-48]	Speed: 28160.77 samples/sec	cross-entropy=0.061367	MTRANS-accuracy=3.183673
+2024-04-09 14:16:00,107 [INFO]  Epoch[3] Train-cross-entropy=0.051940
+2024-04-09 14:16:00,107 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.130435
+2024-04-09 14:16:00,107 [INFO]  Epoch[3] Time cost=0.054
+2024-04-09 14:16:00,109 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:16:00,111 [INFO]  Epoch[3] Validation-cross-entropy=0.052418
+2024-04-09 14:16:00,112 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:00,139 [INFO]  Epoch[4] Batch [0-48]	Speed: 28348.37 samples/sec	cross-entropy=0.053222	MTRANS-accuracy=3.183673
+2024-04-09 14:16:00,165 [INFO]  Epoch[4] Train-cross-entropy=0.042270
+2024-04-09 14:16:00,165 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.130435
+2024-04-09 14:16:00,165 [INFO]  Epoch[4] Time cost=0.054
+2024-04-09 14:16:00,167 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:16:00,170 [INFO]  Epoch[4] Validation-cross-entropy=0.051405
+2024-04-09 14:16:00,170 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:00,170 [INFO]  
+========== done (0.315216064453125 s) fit model
+2024-04-09 14:16:08,487 [INFO]  
+========== start: fit model
+2024-04-09 14:16:08,487 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:16:08,519 [INFO]  Epoch[0] Batch [0-48]	Speed: 25423.03 samples/sec	cross-entropy=3.645064	MTRANS-accuracy=3.469388
+2024-04-09 14:16:08,545 [INFO]  Epoch[0] Train-cross-entropy=0.185442
+2024-04-09 14:16:08,545 [INFO]  Epoch[0] Train-MTRANS-accuracy=2.934783
+2024-04-09 14:16:08,545 [INFO]  Epoch[0] Time cost=0.057
+2024-04-09 14:16:08,546 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:16:08,549 [INFO]  Epoch[0] Validation-cross-entropy=0.084409
+2024-04-09 14:16:08,549 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:08,577 [INFO]  Epoch[1] Batch [0-48]	Speed: 28355.11 samples/sec	cross-entropy=0.082220	MTRANS-accuracy=3.469388
+2024-04-09 14:16:08,603 [INFO]  Epoch[1] Train-cross-entropy=0.068932
+2024-04-09 14:16:08,603 [INFO]  Epoch[1] Train-MTRANS-accuracy=2.934783
+2024-04-09 14:16:08,603 [INFO]  Epoch[1] Time cost=0.053
+2024-04-09 14:16:08,604 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:16:08,607 [INFO]  Epoch[1] Validation-cross-entropy=0.053993
+2024-04-09 14:16:08,607 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:08,634 [INFO]  Epoch[2] Batch [0-48]	Speed: 28964.21 samples/sec	cross-entropy=0.057443	MTRANS-accuracy=3.469388
+2024-04-09 14:16:08,660 [INFO]  Epoch[2] Train-cross-entropy=0.058167
+2024-04-09 14:16:08,660 [INFO]  Epoch[2] Train-MTRANS-accuracy=2.934783
+2024-04-09 14:16:08,660 [INFO]  Epoch[2] Time cost=0.053
+2024-04-09 14:16:08,661 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:16:08,664 [INFO]  Epoch[2] Validation-cross-entropy=0.051675
+2024-04-09 14:16:08,664 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:08,691 [INFO]  Epoch[3] Batch [0-48]	Speed: 28282.91 samples/sec	cross-entropy=0.047395	MTRANS-accuracy=3.469388
+2024-04-09 14:16:08,717 [INFO]  Epoch[3] Train-cross-entropy=0.048912
+2024-04-09 14:16:08,717 [INFO]  Epoch[3] Train-MTRANS-accuracy=2.934783
+2024-04-09 14:16:08,717 [INFO]  Epoch[3] Time cost=0.054
+2024-04-09 14:16:08,718 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:16:08,721 [INFO]  Epoch[3] Validation-cross-entropy=0.050160
+2024-04-09 14:16:08,721 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:08,749 [INFO]  Epoch[4] Batch [0-48]	Speed: 28795.65 samples/sec	cross-entropy=0.040400	MTRANS-accuracy=3.469388
+2024-04-09 14:16:08,774 [INFO]  Epoch[4] Train-cross-entropy=0.040511
+2024-04-09 14:16:08,774 [INFO]  Epoch[4] Train-MTRANS-accuracy=2.934783
+2024-04-09 14:16:08,774 [INFO]  Epoch[4] Time cost=0.053
+2024-04-09 14:16:08,776 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:16:08,778 [INFO]  Epoch[4] Validation-cross-entropy=0.049176
+2024-04-09 14:16:08,778 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:08,778 [INFO]  
+========== done (0.2916750907897949 s) fit model
+2024-04-09 14:16:17,065 [INFO]  
+========== start: fit model
+2024-04-09 14:16:17,065 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:16:17,113 [INFO]  Epoch[0] Batch [0-48]	Speed: 16671.11 samples/sec	cross-entropy=5.603571	MTRANS-accuracy=3.020408
+2024-04-09 14:16:17,139 [INFO]  Epoch[0] Train-cross-entropy=0.307503
+2024-04-09 14:16:17,139 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.239130
+2024-04-09 14:16:17,139 [INFO]  Epoch[0] Time cost=0.073
+2024-04-09 14:16:17,141 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:16:17,143 [INFO]  Epoch[0] Validation-cross-entropy=0.244399
+2024-04-09 14:16:17,143 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:17,171 [INFO]  Epoch[1] Batch [0-48]	Speed: 28241.25 samples/sec	cross-entropy=0.158502	MTRANS-accuracy=3.020408
+2024-04-09 14:16:17,197 [INFO]  Epoch[1] Train-cross-entropy=0.105342
+2024-04-09 14:16:17,197 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.239130
+2024-04-09 14:16:17,197 [INFO]  Epoch[1] Time cost=0.054
+2024-04-09 14:16:17,199 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:16:17,201 [INFO]  Epoch[1] Validation-cross-entropy=0.126852
+2024-04-09 14:16:17,202 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:17,229 [INFO]  Epoch[2] Batch [0-48]	Speed: 28347.87 samples/sec	cross-entropy=0.079273	MTRANS-accuracy=3.020408
+2024-04-09 14:16:17,255 [INFO]  Epoch[2] Train-cross-entropy=0.071437
+2024-04-09 14:16:17,256 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.239130
+2024-04-09 14:16:17,256 [INFO]  Epoch[2] Time cost=0.054
+2024-04-09 14:16:17,257 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:16:17,260 [INFO]  Epoch[2] Validation-cross-entropy=0.101645
+2024-04-09 14:16:17,260 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:17,288 [INFO]  Epoch[3] Batch [0-48]	Speed: 28077.80 samples/sec	cross-entropy=0.059086	MTRANS-accuracy=3.020408
+2024-04-09 14:16:17,314 [INFO]  Epoch[3] Train-cross-entropy=0.057642
+2024-04-09 14:16:17,314 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.239130
+2024-04-09 14:16:17,314 [INFO]  Epoch[3] Time cost=0.054
+2024-04-09 14:16:17,315 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:16:17,318 [INFO]  Epoch[3] Validation-cross-entropy=0.087075
+2024-04-09 14:16:17,318 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:17,346 [INFO]  Epoch[4] Batch [0-48]	Speed: 28338.40 samples/sec	cross-entropy=0.048936	MTRANS-accuracy=3.020408
+2024-04-09 14:16:17,372 [INFO]  Epoch[4] Train-cross-entropy=0.048364
+2024-04-09 14:16:17,372 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.239130
+2024-04-09 14:16:17,372 [INFO]  Epoch[4] Time cost=0.054
+2024-04-09 14:16:17,374 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:16:17,377 [INFO]  Epoch[4] Validation-cross-entropy=0.072692
+2024-04-09 14:16:17,377 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:17,377 [INFO]  
+========== done (0.3120152950286865 s) fit model
+2024-04-09 14:16:25,816 [INFO]  
+========== start: fit model
+2024-04-09 14:16:25,816 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:16:25,848 [INFO]  Epoch[0] Batch [0-48]	Speed: 25906.59 samples/sec	cross-entropy=3.640052	MTRANS-accuracy=3.428571
+2024-04-09 14:16:25,874 [INFO]  Epoch[0] Train-cross-entropy=0.275264
+2024-04-09 14:16:25,874 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.065217
+2024-04-09 14:16:25,874 [INFO]  Epoch[0] Time cost=0.057
+2024-04-09 14:16:25,876 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:16:25,878 [INFO]  Epoch[0] Validation-cross-entropy=0.122558
+2024-04-09 14:16:25,879 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:25,906 [INFO]  Epoch[1] Batch [0-48]	Speed: 28311.50 samples/sec	cross-entropy=0.097826	MTRANS-accuracy=3.428571
+2024-04-09 14:16:25,932 [INFO]  Epoch[1] Train-cross-entropy=0.074986
+2024-04-09 14:16:25,932 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.065217
+2024-04-09 14:16:25,932 [INFO]  Epoch[1] Time cost=0.054
+2024-04-09 14:16:25,934 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:16:25,936 [INFO]  Epoch[1] Validation-cross-entropy=0.085484
+2024-04-09 14:16:25,936 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:25,964 [INFO]  Epoch[2] Batch [0-48]	Speed: 28561.52 samples/sec	cross-entropy=0.060396	MTRANS-accuracy=3.428571
+2024-04-09 14:16:25,990 [INFO]  Epoch[2] Train-cross-entropy=0.052184
+2024-04-09 14:16:25,990 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.065217
+2024-04-09 14:16:25,990 [INFO]  Epoch[2] Time cost=0.054
+2024-04-09 14:16:25,991 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:16:25,994 [INFO]  Epoch[2] Validation-cross-entropy=0.068065
+2024-04-09 14:16:25,994 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:26,022 [INFO]  Epoch[3] Batch [0-48]	Speed: 27856.12 samples/sec	cross-entropy=0.049955	MTRANS-accuracy=3.428571
+2024-04-09 14:16:26,048 [INFO]  Epoch[3] Train-cross-entropy=0.043790
+2024-04-09 14:16:26,048 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.065217
+2024-04-09 14:16:26,048 [INFO]  Epoch[3] Time cost=0.054
+2024-04-09 14:16:26,049 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:16:26,052 [INFO]  Epoch[3] Validation-cross-entropy=0.062573
+2024-04-09 14:16:26,052 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:26,080 [INFO]  Epoch[4] Batch [0-48]	Speed: 28408.12 samples/sec	cross-entropy=0.042192	MTRANS-accuracy=3.428571
+2024-04-09 14:16:26,106 [INFO]  Epoch[4] Train-cross-entropy=0.037914
+2024-04-09 14:16:26,106 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.065217
+2024-04-09 14:16:26,106 [INFO]  Epoch[4] Time cost=0.054
+2024-04-09 14:16:26,107 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:16:26,110 [INFO]  Epoch[4] Validation-cross-entropy=0.056573
+2024-04-09 14:16:26,110 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:26,110 [INFO]  
+========== done (0.29367971420288086 s) fit model
+2024-04-09 14:16:34,269 [INFO]  
+========== start: fit model
+2024-04-09 14:16:34,269 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:16:34,299 [INFO]  Epoch[0] Batch [0-48]	Speed: 28266.03 samples/sec	cross-entropy=3.071748	MTRANS-accuracy=3.122449
+2024-04-09 14:16:34,325 [INFO]  Epoch[0] Train-cross-entropy=0.194045
+2024-04-09 14:16:34,325 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.217391
+2024-04-09 14:16:34,325 [INFO]  Epoch[0] Time cost=0.055
+2024-04-09 14:16:34,326 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:16:34,329 [INFO]  Epoch[0] Validation-cross-entropy=0.116083
+2024-04-09 14:16:34,329 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:34,357 [INFO]  Epoch[1] Batch [0-48]	Speed: 28327.68 samples/sec	cross-entropy=0.090513	MTRANS-accuracy=3.122449
+2024-04-09 14:16:34,383 [INFO]  Epoch[1] Train-cross-entropy=0.065628
+2024-04-09 14:16:34,383 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.217391
+2024-04-09 14:16:34,383 [INFO]  Epoch[1] Time cost=0.054
+2024-04-09 14:16:34,384 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:16:34,387 [INFO]  Epoch[1] Validation-cross-entropy=0.054496
+2024-04-09 14:16:34,387 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:34,415 [INFO]  Epoch[2] Batch [0-48]	Speed: 28415.39 samples/sec	cross-entropy=0.053803	MTRANS-accuracy=3.122449
+2024-04-09 14:16:34,441 [INFO]  Epoch[2] Train-cross-entropy=0.046276
+2024-04-09 14:16:34,441 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.217391
+2024-04-09 14:16:34,441 [INFO]  Epoch[2] Time cost=0.054
+2024-04-09 14:16:34,443 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:16:34,445 [INFO]  Epoch[2] Validation-cross-entropy=0.048135
+2024-04-09 14:16:34,446 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:34,473 [INFO]  Epoch[3] Batch [0-48]	Speed: 28167.17 samples/sec	cross-entropy=0.041564	MTRANS-accuracy=3.122449
+2024-04-09 14:16:34,500 [INFO]  Epoch[3] Train-cross-entropy=0.038570
+2024-04-09 14:16:34,500 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.217391
+2024-04-09 14:16:34,500 [INFO]  Epoch[3] Time cost=0.054
+2024-04-09 14:16:34,501 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:16:34,504 [INFO]  Epoch[3] Validation-cross-entropy=0.044629
+2024-04-09 14:16:34,504 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:34,532 [INFO]  Epoch[4] Batch [0-48]	Speed: 28378.34 samples/sec	cross-entropy=0.033910	MTRANS-accuracy=3.122449
+2024-04-09 14:16:34,558 [INFO]  Epoch[4] Train-cross-entropy=0.032272
+2024-04-09 14:16:34,558 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.217391
+2024-04-09 14:16:34,558 [INFO]  Epoch[4] Time cost=0.054
+2024-04-09 14:16:34,559 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:16:34,562 [INFO]  Epoch[4] Validation-cross-entropy=0.040780
+2024-04-09 14:16:34,562 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:34,562 [INFO]  
+========== done (0.2926301956176758 s) fit model
+2024-04-09 14:16:42,962 [INFO]  
+========== start: fit model
+2024-04-09 14:16:42,963 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:16:42,991 [INFO]  Epoch[0] Batch [0-48]	Speed: 28870.24 samples/sec	cross-entropy=3.994296	MTRANS-accuracy=3.326531
+2024-04-09 14:16:43,017 [INFO]  Epoch[0] Train-cross-entropy=0.317184
+2024-04-09 14:16:43,017 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.152174
+2024-04-09 14:16:43,017 [INFO]  Epoch[0] Time cost=0.053
+2024-04-09 14:16:43,018 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:16:43,021 [INFO]  Epoch[0] Validation-cross-entropy=0.133573
+2024-04-09 14:16:43,021 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:43,048 [INFO]  Epoch[1] Batch [0-48]	Speed: 28978.54 samples/sec	cross-entropy=0.137429	MTRANS-accuracy=3.326531
+2024-04-09 14:16:43,073 [INFO]  Epoch[1] Train-cross-entropy=0.101202
+2024-04-09 14:16:43,074 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.152174
+2024-04-09 14:16:43,074 [INFO]  Epoch[1] Time cost=0.053
+2024-04-09 14:16:43,075 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:16:43,078 [INFO]  Epoch[1] Validation-cross-entropy=0.062295
+2024-04-09 14:16:43,078 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:43,112 [INFO]  Epoch[2] Batch [0-48]	Speed: 22615.88 samples/sec	cross-entropy=0.074459	MTRANS-accuracy=3.326531
+2024-04-09 14:16:43,139 [INFO]  Epoch[2] Train-cross-entropy=0.068477
+2024-04-09 14:16:43,139 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.152174
+2024-04-09 14:16:43,139 [INFO]  Epoch[2] Time cost=0.061
+2024-04-09 14:16:43,140 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:16:43,143 [INFO]  Epoch[2] Validation-cross-entropy=0.050115
+2024-04-09 14:16:43,143 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:43,170 [INFO]  Epoch[3] Batch [0-48]	Speed: 29040.19 samples/sec	cross-entropy=0.059878	MTRANS-accuracy=3.326531
+2024-04-09 14:16:43,196 [INFO]  Epoch[3] Train-cross-entropy=0.055734
+2024-04-09 14:16:43,196 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.152174
+2024-04-09 14:16:43,196 [INFO]  Epoch[3] Time cost=0.053
+2024-04-09 14:16:43,197 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:16:43,200 [INFO]  Epoch[3] Validation-cross-entropy=0.045146
+2024-04-09 14:16:43,200 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:43,227 [INFO]  Epoch[4] Batch [0-48]	Speed: 28964.73 samples/sec	cross-entropy=0.049637	MTRANS-accuracy=3.326531
+2024-04-09 14:16:43,253 [INFO]  Epoch[4] Train-cross-entropy=0.046470
+2024-04-09 14:16:43,253 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.152174
+2024-04-09 14:16:43,253 [INFO]  Epoch[4] Time cost=0.054
+2024-04-09 14:16:43,254 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:16:43,257 [INFO]  Epoch[4] Validation-cross-entropy=0.040017
+2024-04-09 14:16:43,257 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:43,257 [INFO]  
+========== done (0.2948896884918213 s) fit model
+2024-04-09 14:16:51,505 [INFO]  
+========== start: fit model
+2024-04-09 14:16:51,505 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:16:51,536 [INFO]  Epoch[0] Batch [0-48]	Speed: 26628.74 samples/sec	cross-entropy=2.071284	MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,562 [INFO]  Epoch[0] Train-cross-entropy=0.200125
+2024-04-09 14:16:51,562 [INFO]  Epoch[0] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,562 [INFO]  Epoch[0] Time cost=0.056
+2024-04-09 14:16:51,563 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:16:51,566 [INFO]  Epoch[0] Validation-cross-entropy=0.143499
+2024-04-09 14:16:51,566 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,593 [INFO]  Epoch[1] Batch [0-48]	Speed: 28718.12 samples/sec	cross-entropy=0.111073	MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,619 [INFO]  Epoch[1] Train-cross-entropy=0.093439
+2024-04-09 14:16:51,619 [INFO]  Epoch[1] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,619 [INFO]  Epoch[1] Time cost=0.053
+2024-04-09 14:16:51,620 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:16:51,623 [INFO]  Epoch[1] Validation-cross-entropy=0.098421
+2024-04-09 14:16:51,623 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,651 [INFO]  Epoch[2] Batch [0-48]	Speed: 28663.94 samples/sec	cross-entropy=0.081451	MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,677 [INFO]  Epoch[2] Train-cross-entropy=0.070780
+2024-04-09 14:16:51,677 [INFO]  Epoch[2] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,677 [INFO]  Epoch[2] Time cost=0.054
+2024-04-09 14:16:51,678 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:16:51,681 [INFO]  Epoch[2] Validation-cross-entropy=0.079597
+2024-04-09 14:16:51,681 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,708 [INFO]  Epoch[3] Batch [0-48]	Speed: 28642.28 samples/sec	cross-entropy=0.066381	MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,734 [INFO]  Epoch[3] Train-cross-entropy=0.057059
+2024-04-09 14:16:51,735 [INFO]  Epoch[3] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,735 [INFO]  Epoch[3] Time cost=0.054
+2024-04-09 14:16:51,736 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:16:51,739 [INFO]  Epoch[3] Validation-cross-entropy=0.066453
+2024-04-09 14:16:51,739 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,766 [INFO]  Epoch[4] Batch [0-48]	Speed: 28659.10 samples/sec	cross-entropy=0.054101	MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,792 [INFO]  Epoch[4] Train-cross-entropy=0.045801
+2024-04-09 14:16:51,792 [INFO]  Epoch[4] Train-MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,792 [INFO]  Epoch[4] Time cost=0.053
+2024-04-09 14:16:51,793 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:16:51,796 [INFO]  Epoch[4] Validation-cross-entropy=0.058134
+2024-04-09 14:16:51,796 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:16:51,796 [INFO]  
+========== done (0.2915503978729248 s) fit model
+2024-04-09 14:17:00,164 [INFO]  
+========== start: fit model
+2024-04-09 14:17:00,164 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:17:00,197 [INFO]  Epoch[0] Batch [0-48]	Speed: 24755.43 samples/sec	cross-entropy=5.970253	MTRANS-accuracy=3.244898
+2024-04-09 14:17:00,223 [INFO]  Epoch[0] Train-cross-entropy=0.385062
+2024-04-09 14:17:00,223 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.130435
+2024-04-09 14:17:00,223 [INFO]  Epoch[0] Time cost=0.058
+2024-04-09 14:17:00,224 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:17:00,227 [INFO]  Epoch[0] Validation-cross-entropy=0.172316
+2024-04-09 14:17:00,227 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:00,255 [INFO]  Epoch[1] Batch [0-48]	Speed: 28683.60 samples/sec	cross-entropy=0.131289	MTRANS-accuracy=3.244898
+2024-04-09 14:17:00,280 [INFO]  Epoch[1] Train-cross-entropy=0.086164
+2024-04-09 14:17:00,281 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.130435
+2024-04-09 14:17:00,281 [INFO]  Epoch[1] Time cost=0.053
+2024-04-09 14:17:00,282 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:17:00,285 [INFO]  Epoch[1] Validation-cross-entropy=0.077273
+2024-04-09 14:17:00,285 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:00,312 [INFO]  Epoch[2] Batch [0-48]	Speed: 28628.28 samples/sec	cross-entropy=0.075251	MTRANS-accuracy=3.244898
+2024-04-09 14:17:00,338 [INFO]  Epoch[2] Train-cross-entropy=0.063092
+2024-04-09 14:17:00,338 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.130435
+2024-04-09 14:17:00,338 [INFO]  Epoch[2] Time cost=0.053
+2024-04-09 14:17:00,340 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:17:00,342 [INFO]  Epoch[2] Validation-cross-entropy=0.064847
+2024-04-09 14:17:00,342 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:00,370 [INFO]  Epoch[3] Batch [0-48]	Speed: 28258.59 samples/sec	cross-entropy=0.057411	MTRANS-accuracy=3.244898
+2024-04-09 14:17:00,396 [INFO]  Epoch[3] Train-cross-entropy=0.052186
+2024-04-09 14:17:00,396 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.130435
+2024-04-09 14:17:00,396 [INFO]  Epoch[3] Time cost=0.054
+2024-04-09 14:17:00,398 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:17:00,400 [INFO]  Epoch[3] Validation-cross-entropy=0.059917
+2024-04-09 14:17:00,401 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:00,428 [INFO]  Epoch[4] Batch [0-48]	Speed: 28310.00 samples/sec	cross-entropy=0.047589	MTRANS-accuracy=3.244898
+2024-04-09 14:17:00,454 [INFO]  Epoch[4] Train-cross-entropy=0.044059
+2024-04-09 14:17:00,454 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.130435
+2024-04-09 14:17:00,454 [INFO]  Epoch[4] Time cost=0.054
+2024-04-09 14:17:00,455 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:17:00,458 [INFO]  Epoch[4] Validation-cross-entropy=0.055502
+2024-04-09 14:17:00,458 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:00,458 [INFO]  
+========== done (0.29465246200561523 s) fit model
+2024-04-09 14:17:08,557 [INFO]  
+========== start: fit model
+2024-04-09 14:17:08,557 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:17:08,589 [INFO]  Epoch[0] Batch [0-48]	Speed: 25399.98 samples/sec	cross-entropy=2.227877	MTRANS-accuracy=3.428571
+2024-04-09 14:17:08,615 [INFO]  Epoch[0] Train-cross-entropy=0.248226
+2024-04-09 14:17:08,615 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.239130
+2024-04-09 14:17:08,615 [INFO]  Epoch[0] Time cost=0.057
+2024-04-09 14:17:08,616 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:17:08,619 [INFO]  Epoch[0] Validation-cross-entropy=0.205854
+2024-04-09 14:17:08,619 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:08,646 [INFO]  Epoch[1] Batch [0-48]	Speed: 28870.24 samples/sec	cross-entropy=0.140540	MTRANS-accuracy=3.428571
+2024-04-09 14:17:08,672 [INFO]  Epoch[1] Train-cross-entropy=0.100200
+2024-04-09 14:17:08,672 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.239130
+2024-04-09 14:17:08,672 [INFO]  Epoch[1] Time cost=0.053
+2024-04-09 14:17:08,673 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:17:08,676 [INFO]  Epoch[1] Validation-cross-entropy=0.098704
+2024-04-09 14:17:08,676 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:08,704 [INFO]  Epoch[2] Batch [0-48]	Speed: 28759.91 samples/sec	cross-entropy=0.077572	MTRANS-accuracy=3.428571
+2024-04-09 14:17:08,731 [INFO]  Epoch[2] Train-cross-entropy=0.062958
+2024-04-09 14:17:08,731 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.239130
+2024-04-09 14:17:08,731 [INFO]  Epoch[2] Time cost=0.054
+2024-04-09 14:17:08,732 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:17:08,735 [INFO]  Epoch[2] Validation-cross-entropy=0.071008
+2024-04-09 14:17:08,735 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:08,762 [INFO]  Epoch[3] Batch [0-48]	Speed: 28727.60 samples/sec	cross-entropy=0.057436	MTRANS-accuracy=3.428571
+2024-04-09 14:17:08,788 [INFO]  Epoch[3] Train-cross-entropy=0.050449
+2024-04-09 14:17:08,788 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.239130
+2024-04-09 14:17:08,788 [INFO]  Epoch[3] Time cost=0.053
+2024-04-09 14:17:08,789 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:17:08,792 [INFO]  Epoch[3] Validation-cross-entropy=0.057336
+2024-04-09 14:17:08,792 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:08,820 [INFO]  Epoch[4] Batch [0-48]	Speed: 28740.93 samples/sec	cross-entropy=0.045656	MTRANS-accuracy=3.428571
+2024-04-09 14:17:08,845 [INFO]  Epoch[4] Train-cross-entropy=0.042098
+2024-04-09 14:17:08,845 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.239130
+2024-04-09 14:17:08,845 [INFO]  Epoch[4] Time cost=0.053
+2024-04-09 14:17:08,847 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:17:08,849 [INFO]  Epoch[4] Validation-cross-entropy=0.049314
+2024-04-09 14:17:08,849 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:08,850 [INFO]  
+========== done (0.29295992851257324 s) fit model
+2024-04-09 14:17:17,121 [INFO]  
+========== start: fit model
+2024-04-09 14:17:17,121 [WARNING]  Already bound, ignoring bind()
+2024-04-09 14:17:17,152 [INFO]  Epoch[0] Batch [0-48]	Speed: 27286.73 samples/sec	cross-entropy=5.852410	MTRANS-accuracy=3.469388
+2024-04-09 14:17:17,178 [INFO]  Epoch[0] Train-cross-entropy=0.408095
+2024-04-09 14:17:17,178 [INFO]  Epoch[0] Train-MTRANS-accuracy=3.065217
+2024-04-09 14:17:17,178 [INFO]  Epoch[0] Time cost=0.056
+2024-04-09 14:17:17,180 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0000.params"
+2024-04-09 14:17:17,182 [INFO]  Epoch[0] Validation-cross-entropy=0.176980
+2024-04-09 14:17:17,183 [INFO]  Epoch[0] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:17,210 [INFO]  Epoch[1] Batch [0-48]	Speed: 28257.60 samples/sec	cross-entropy=0.172536	MTRANS-accuracy=3.469388
+2024-04-09 14:17:17,237 [INFO]  Epoch[1] Train-cross-entropy=0.103854
+2024-04-09 14:17:17,237 [INFO]  Epoch[1] Train-MTRANS-accuracy=3.065217
+2024-04-09 14:17:17,237 [INFO]  Epoch[1] Time cost=0.054
+2024-04-09 14:17:17,238 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0001.params"
+2024-04-09 14:17:17,241 [INFO]  Epoch[1] Validation-cross-entropy=0.105470
+2024-04-09 14:17:17,241 [INFO]  Epoch[1] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:17,270 [INFO]  Epoch[2] Batch [0-48]	Speed: 27760.57 samples/sec	cross-entropy=0.082984	MTRANS-accuracy=3.469388
+2024-04-09 14:17:17,296 [INFO]  Epoch[2] Train-cross-entropy=0.063796
+2024-04-09 14:17:17,296 [INFO]  Epoch[2] Train-MTRANS-accuracy=3.065217
+2024-04-09 14:17:17,296 [INFO]  Epoch[2] Time cost=0.055
+2024-04-09 14:17:17,298 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0002.params"
+2024-04-09 14:17:17,301 [INFO]  Epoch[2] Validation-cross-entropy=0.081861
+2024-04-09 14:17:17,301 [INFO]  Epoch[2] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:17,329 [INFO]  Epoch[3] Batch [0-48]	Speed: 28247.44 samples/sec	cross-entropy=0.061674	MTRANS-accuracy=3.469388
+2024-04-09 14:17:17,355 [INFO]  Epoch[3] Train-cross-entropy=0.051806
+2024-04-09 14:17:17,355 [INFO]  Epoch[3] Train-MTRANS-accuracy=3.065217
+2024-04-09 14:17:17,355 [INFO]  Epoch[3] Time cost=0.054
+2024-04-09 14:17:17,356 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0003.params"
+2024-04-09 14:17:17,359 [INFO]  Epoch[3] Validation-cross-entropy=0.071753
+2024-04-09 14:17:17,359 [INFO]  Epoch[3] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:17,387 [INFO]  Epoch[4] Batch [0-48]	Speed: 28263.31 samples/sec	cross-entropy=0.050873	MTRANS-accuracy=3.469388
+2024-04-09 14:17:17,414 [INFO]  Epoch[4] Train-cross-entropy=0.044246
+2024-04-09 14:17:17,414 [INFO]  Epoch[4] Train-MTRANS-accuracy=3.065217
+2024-04-09 14:17:17,414 [INFO]  Epoch[4] Time cost=0.055
+2024-04-09 14:17:17,416 [INFO]  Saved checkpoint to "./imputer_model/20_obesity/imputer_model_MTRANS/model-0004.params"
+2024-04-09 14:17:17,419 [INFO]  Epoch[4] Validation-cross-entropy=0.065055
+2024-04-09 14:17:17,419 [INFO]  Epoch[4] Validation-MTRANS-accuracy=0.000000
+2024-04-09 14:17:17,419 [INFO]  
+========== done (0.2974550724029541 s) fit model

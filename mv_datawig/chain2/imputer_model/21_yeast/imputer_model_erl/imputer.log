@@ -1,0 +1,1200 @@
+2024-04-08 18:36:58,952 [INFO]  
+========== start: fit model
+2024-04-08 18:36:58,952 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:36:59,049 [INFO]  Epoch[0] Batch [0-34]	Speed: 14587.20 samples/sec	cross-entropy=16.877191	erl-accuracy=2.971429
+2024-04-08 18:36:59,067 [INFO]  Epoch[0] Train-cross-entropy=1.529427
+2024-04-08 18:36:59,067 [INFO]  Epoch[0] Train-erl-accuracy=3.500000
+2024-04-08 18:36:59,067 [INFO]  Epoch[0] Time cost=0.114
+2024-04-08 18:36:59,069 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:36:59,071 [INFO]  Epoch[0] Validation-cross-entropy=0.260991
+2024-04-08 18:36:59,071 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:36:59,092 [INFO]  Epoch[1] Batch [0-34]	Speed: 27816.81 samples/sec	cross-entropy=0.039773	erl-accuracy=2.971429
+2024-04-08 18:36:59,110 [INFO]  Epoch[1] Train-cross-entropy=0.024523
+2024-04-08 18:36:59,110 [INFO]  Epoch[1] Train-erl-accuracy=3.500000
+2024-04-08 18:36:59,110 [INFO]  Epoch[1] Time cost=0.039
+2024-04-08 18:36:59,112 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:36:59,114 [INFO]  Epoch[1] Validation-cross-entropy=0.000001
+2024-04-08 18:36:59,114 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:36:59,134 [INFO]  Epoch[2] Batch [0-34]	Speed: 28011.11 samples/sec	cross-entropy=0.003232	erl-accuracy=2.971429
+2024-04-08 18:36:59,153 [INFO]  Epoch[2] Train-cross-entropy=0.000053
+2024-04-08 18:36:59,153 [INFO]  Epoch[2] Train-erl-accuracy=3.500000
+2024-04-08 18:36:59,153 [INFO]  Epoch[2] Time cost=0.039
+2024-04-08 18:36:59,154 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:36:59,156 [INFO]  Epoch[2] Validation-cross-entropy=0.000006
+2024-04-08 18:36:59,156 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:36:59,177 [INFO]  Epoch[3] Batch [0-34]	Speed: 27910.38 samples/sec	cross-entropy=0.000017	erl-accuracy=2.971429
+2024-04-08 18:36:59,195 [INFO]  Epoch[3] Train-cross-entropy=0.000002
+2024-04-08 18:36:59,195 [INFO]  Epoch[3] Train-erl-accuracy=3.500000
+2024-04-08 18:36:59,195 [INFO]  Epoch[3] Time cost=0.039
+2024-04-08 18:36:59,197 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:36:59,199 [INFO]  Epoch[3] Validation-cross-entropy=0.000001
+2024-04-08 18:36:59,199 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:36:59,219 [INFO]  Epoch[4] Batch [0-34]	Speed: 28408.70 samples/sec	cross-entropy=0.000001	erl-accuracy=2.971429
+2024-04-08 18:36:59,237 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:36:59,237 [INFO]  Epoch[4] Train-erl-accuracy=3.500000
+2024-04-08 18:36:59,237 [INFO]  Epoch[4] Time cost=0.038
+2024-04-08 18:36:59,239 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:36:59,241 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:36:59,241 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:36:59,241 [INFO]  
+========== done (0.28911495208740234 s) fit model
+2024-04-08 18:37:02,869 [INFO]  
+========== start: fit model
+2024-04-08 18:37:02,870 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:37:02,897 [INFO]  Epoch[0] Batch [0-34]	Speed: 21820.26 samples/sec	cross-entropy=2.224676	erl-accuracy=0.000000
+2024-04-08 18:37:02,920 [INFO]  Epoch[0] Train-cross-entropy=0.103799
+2024-04-08 18:37:02,920 [INFO]  Epoch[0] Train-erl-accuracy=0.000000
+2024-04-08 18:37:02,920 [INFO]  Epoch[0] Time cost=0.050
+2024-04-08 18:37:02,922 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:37:02,925 [INFO]  Epoch[0] Validation-cross-entropy=0.006078
+2024-04-08 18:37:02,925 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:02,950 [INFO]  Epoch[1] Batch [0-34]	Speed: 22161.05 samples/sec	cross-entropy=0.000361	erl-accuracy=0.000000
+2024-04-08 18:37:02,974 [INFO]  Epoch[1] Train-cross-entropy=0.000072
+2024-04-08 18:37:02,974 [INFO]  Epoch[1] Train-erl-accuracy=0.000000
+2024-04-08 18:37:02,974 [INFO]  Epoch[1] Time cost=0.049
+2024-04-08 18:37:02,976 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:37:02,978 [INFO]  Epoch[1] Validation-cross-entropy=0.000106
+2024-04-08 18:37:02,978 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:03,004 [INFO]  Epoch[2] Batch [0-34]	Speed: 21912.47 samples/sec	cross-entropy=0.000225	erl-accuracy=0.000000
+2024-04-08 18:37:03,027 [INFO]  Epoch[2] Train-cross-entropy=0.000302
+2024-04-08 18:37:03,027 [INFO]  Epoch[2] Train-erl-accuracy=0.000000
+2024-04-08 18:37:03,028 [INFO]  Epoch[2] Time cost=0.049
+2024-04-08 18:37:03,029 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:37:03,032 [INFO]  Epoch[2] Validation-cross-entropy=0.001583
+2024-04-08 18:37:03,032 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:03,057 [INFO]  Epoch[3] Batch [0-34]	Speed: 22121.30 samples/sec	cross-entropy=0.003529	erl-accuracy=0.000000
+2024-04-08 18:37:03,080 [INFO]  Epoch[3] Train-cross-entropy=0.012806
+2024-04-08 18:37:03,081 [INFO]  Epoch[3] Train-erl-accuracy=0.000000
+2024-04-08 18:37:03,081 [INFO]  Epoch[3] Time cost=0.049
+2024-04-08 18:37:03,082 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:37:03,085 [INFO]  Epoch[3] Validation-cross-entropy=0.105495
+2024-04-08 18:37:03,085 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:03,110 [INFO]  Epoch[4] Batch [0-34]	Speed: 22329.78 samples/sec	cross-entropy=0.222877	erl-accuracy=0.000000
+2024-04-08 18:37:03,134 [INFO]  Epoch[4] Train-cross-entropy=0.922960
+2024-04-08 18:37:03,134 [INFO]  Epoch[4] Train-erl-accuracy=0.000000
+2024-04-08 18:37:03,134 [INFO]  Epoch[4] Time cost=0.049
+2024-04-08 18:37:03,135 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:37:03,138 [INFO]  Epoch[4] Validation-cross-entropy=6.065293
+2024-04-08 18:37:03,138 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:03,138 [INFO]  
+========== done (0.2686939239501953 s) fit model
+2024-04-08 18:37:11,154 [INFO]  
+========== start: fit model
+2024-04-08 18:37:11,154 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:37:11,213 [INFO]  Epoch[0] Batch [0-34]	Speed: 11740.29 samples/sec	cross-entropy=3.047619	erl-accuracy=3.200000
+2024-04-08 18:37:11,293 [INFO]  Epoch[0] Train-cross-entropy=0.369478
+2024-04-08 18:37:11,293 [INFO]  Epoch[0] Train-erl-accuracy=3.125000
+2024-04-08 18:37:11,293 [INFO]  Epoch[0] Time cost=0.138
+2024-04-08 18:37:11,295 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:37:11,301 [INFO]  Epoch[0] Validation-cross-entropy=0.000003
+2024-04-08 18:37:11,301 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:11,341 [INFO]  Epoch[1] Batch [0-34]	Speed: 13756.79 samples/sec	cross-entropy=0.004922	erl-accuracy=3.200000
+2024-04-08 18:37:11,391 [INFO]  Epoch[1] Train-cross-entropy=0.000233
+2024-04-08 18:37:11,391 [INFO]  Epoch[1] Train-erl-accuracy=3.125000
+2024-04-08 18:37:11,391 [INFO]  Epoch[1] Time cost=0.090
+2024-04-08 18:37:11,395 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:37:11,431 [INFO]  Epoch[1] Validation-cross-entropy=0.000000
+2024-04-08 18:37:11,431 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:11,468 [INFO]  Epoch[2] Batch [0-34]	Speed: 15186.54 samples/sec	cross-entropy=0.000094	erl-accuracy=3.200000
+2024-04-08 18:37:11,662 [INFO]  Epoch[2] Train-cross-entropy=0.000037
+2024-04-08 18:37:11,662 [INFO]  Epoch[2] Train-erl-accuracy=3.125000
+2024-04-08 18:37:11,662 [INFO]  Epoch[2] Time cost=0.231
+2024-04-08 18:37:11,664 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:37:11,686 [INFO]  Epoch[2] Validation-cross-entropy=0.000000
+2024-04-08 18:37:11,686 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:11,721 [INFO]  Epoch[3] Batch [0-34]	Speed: 15907.23 samples/sec	cross-entropy=0.000038	erl-accuracy=3.200000
+2024-04-08 18:37:11,745 [INFO]  Epoch[3] Train-cross-entropy=0.000028
+2024-04-08 18:37:11,745 [INFO]  Epoch[3] Train-erl-accuracy=3.125000
+2024-04-08 18:37:11,745 [INFO]  Epoch[3] Time cost=0.059
+2024-04-08 18:37:11,747 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:37:11,749 [INFO]  Epoch[3] Validation-cross-entropy=0.000000
+2024-04-08 18:37:11,749 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:11,788 [INFO]  Epoch[4] Batch [0-34]	Speed: 14263.13 samples/sec	cross-entropy=0.000044	erl-accuracy=3.200000
+2024-04-08 18:37:11,815 [INFO]  Epoch[4] Train-cross-entropy=0.000026
+2024-04-08 18:37:11,815 [INFO]  Epoch[4] Train-erl-accuracy=3.125000
+2024-04-08 18:37:11,815 [INFO]  Epoch[4] Time cost=0.066
+2024-04-08 18:37:11,817 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:37:11,820 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:37:11,820 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:11,820 [INFO]  
+========== done (0.6656734943389893 s) fit model
+2024-04-08 18:37:19,701 [INFO]  
+========== start: fit model
+2024-04-08 18:37:19,701 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:37:19,738 [INFO]  Epoch[0] Batch [0-34]	Speed: 16045.72 samples/sec	cross-entropy=42.395861	erl-accuracy=0.000000
+2024-04-08 18:37:19,765 [INFO]  Epoch[0] Train-cross-entropy=1.775398
+2024-04-08 18:37:19,765 [INFO]  Epoch[0] Train-erl-accuracy=0.000000
+2024-04-08 18:37:19,765 [INFO]  Epoch[0] Time cost=0.063
+2024-04-08 18:37:19,767 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:37:19,770 [INFO]  Epoch[0] Validation-cross-entropy=0.245536
+2024-04-08 18:37:19,770 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:19,798 [INFO]  Epoch[1] Batch [0-34]	Speed: 19741.66 samples/sec	cross-entropy=0.016429	erl-accuracy=0.000000
+2024-04-08 18:37:19,824 [INFO]  Epoch[1] Train-cross-entropy=0.001759
+2024-04-08 18:37:19,824 [INFO]  Epoch[1] Train-erl-accuracy=0.000000
+2024-04-08 18:37:19,824 [INFO]  Epoch[1] Time cost=0.054
+2024-04-08 18:37:19,826 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:37:19,828 [INFO]  Epoch[1] Validation-cross-entropy=0.000197
+2024-04-08 18:37:19,828 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:19,856 [INFO]  Epoch[2] Batch [0-34]	Speed: 20735.95 samples/sec	cross-entropy=0.000031	erl-accuracy=0.000000
+2024-04-08 18:37:19,881 [INFO]  Epoch[2] Train-cross-entropy=0.000000
+2024-04-08 18:37:19,881 [INFO]  Epoch[2] Train-erl-accuracy=0.000000
+2024-04-08 18:37:19,881 [INFO]  Epoch[2] Time cost=0.053
+2024-04-08 18:37:19,883 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:37:19,885 [INFO]  Epoch[2] Validation-cross-entropy=0.000001
+2024-04-08 18:37:19,885 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:19,912 [INFO]  Epoch[3] Batch [0-34]	Speed: 21294.46 samples/sec	cross-entropy=0.000000	erl-accuracy=0.000000
+2024-04-08 18:37:19,937 [INFO]  Epoch[3] Train-cross-entropy=0.000000
+2024-04-08 18:37:19,937 [INFO]  Epoch[3] Train-erl-accuracy=0.000000
+2024-04-08 18:37:19,937 [INFO]  Epoch[3] Time cost=0.051
+2024-04-08 18:37:19,938 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:37:19,941 [INFO]  Epoch[3] Validation-cross-entropy=0.000000
+2024-04-08 18:37:19,941 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:19,982 [INFO]  Epoch[4] Batch [0-34]	Speed: 13797.89 samples/sec	cross-entropy=0.000000	erl-accuracy=0.000000
+2024-04-08 18:37:20,018 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:37:20,019 [INFO]  Epoch[4] Train-erl-accuracy=0.000000
+2024-04-08 18:37:20,019 [INFO]  Epoch[4] Time cost=0.077
+2024-04-08 18:37:20,020 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:37:20,024 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:37:20,024 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:20,024 [INFO]  
+========== done (0.3227372169494629 s) fit model
+2024-04-08 18:37:27,211 [INFO]  
+========== start: fit model
+2024-04-08 18:37:27,211 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:37:27,245 [INFO]  Epoch[0] Batch [0-34]	Speed: 17391.15 samples/sec	cross-entropy=36.922271	erl-accuracy=0.000000
+2024-04-08 18:37:27,266 [INFO]  Epoch[0] Train-cross-entropy=0.140372
+2024-04-08 18:37:27,266 [INFO]  Epoch[0] Train-erl-accuracy=0.000000
+2024-04-08 18:37:27,266 [INFO]  Epoch[0] Time cost=0.054
+2024-04-08 18:37:27,268 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:37:27,271 [INFO]  Epoch[0] Validation-cross-entropy=0.225815
+2024-04-08 18:37:27,271 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:27,295 [INFO]  Epoch[1] Batch [0-34]	Speed: 23959.40 samples/sec	cross-entropy=0.092260	erl-accuracy=0.000000
+2024-04-08 18:37:27,329 [INFO]  Epoch[1] Train-cross-entropy=0.022068
+2024-04-08 18:37:27,329 [INFO]  Epoch[1] Train-erl-accuracy=0.000000
+2024-04-08 18:37:27,330 [INFO]  Epoch[1] Time cost=0.058
+2024-04-08 18:37:27,331 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:37:27,335 [INFO]  Epoch[1] Validation-cross-entropy=0.001055
+2024-04-08 18:37:27,335 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:27,385 [INFO]  Epoch[2] Batch [0-34]	Speed: 11082.35 samples/sec	cross-entropy=0.000015	erl-accuracy=0.000000
+2024-04-08 18:37:27,443 [INFO]  Epoch[2] Train-cross-entropy=0.000003
+2024-04-08 18:37:27,443 [INFO]  Epoch[2] Train-erl-accuracy=0.000000
+2024-04-08 18:37:27,443 [INFO]  Epoch[2] Time cost=0.108
+2024-04-08 18:37:27,445 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:37:27,448 [INFO]  Epoch[2] Validation-cross-entropy=0.000000
+2024-04-08 18:37:27,448 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:27,487 [INFO]  Epoch[3] Batch [0-34]	Speed: 14568.76 samples/sec	cross-entropy=0.000000	erl-accuracy=0.000000
+2024-04-08 18:37:27,526 [INFO]  Epoch[3] Train-cross-entropy=0.000000
+2024-04-08 18:37:27,526 [INFO]  Epoch[3] Train-erl-accuracy=0.000000
+2024-04-08 18:37:27,526 [INFO]  Epoch[3] Time cost=0.078
+2024-04-08 18:37:27,529 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:37:27,752 [INFO]  Epoch[3] Validation-cross-entropy=0.000000
+2024-04-08 18:37:27,753 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:27,795 [INFO]  Epoch[4] Batch [0-34]	Speed: 13267.87 samples/sec	cross-entropy=0.000000	erl-accuracy=0.000000
+2024-04-08 18:37:27,829 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:37:27,829 [INFO]  Epoch[4] Train-erl-accuracy=0.000000
+2024-04-08 18:37:27,829 [INFO]  Epoch[4] Time cost=0.076
+2024-04-08 18:37:27,831 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:37:27,836 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:37:27,836 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:27,836 [INFO]  
+========== done (0.6252832412719727 s) fit model
+2024-04-08 18:37:35,517 [INFO]  
+========== start: fit model
+2024-04-08 18:37:35,517 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:37:35,539 [INFO]  Epoch[0] Batch [0-34]	Speed: 27451.02 samples/sec	cross-entropy=19.875259	erl-accuracy=3.200000
+2024-04-08 18:37:35,586 [INFO]  Epoch[0] Train-cross-entropy=0.727491
+2024-04-08 18:37:35,586 [INFO]  Epoch[0] Train-erl-accuracy=2.875000
+2024-04-08 18:37:35,587 [INFO]  Epoch[0] Time cost=0.068
+2024-04-08 18:37:35,588 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:37:35,590 [INFO]  Epoch[0] Validation-cross-entropy=0.089339
+2024-04-08 18:37:35,590 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:35,610 [INFO]  Epoch[1] Batch [0-34]	Speed: 28579.86 samples/sec	cross-entropy=0.026941	erl-accuracy=3.200000
+2024-04-08 18:37:35,638 [INFO]  Epoch[1] Train-cross-entropy=0.001675
+2024-04-08 18:37:35,638 [INFO]  Epoch[1] Train-erl-accuracy=2.875000
+2024-04-08 18:37:35,638 [INFO]  Epoch[1] Time cost=0.048
+2024-04-08 18:37:35,640 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:37:35,642 [INFO]  Epoch[1] Validation-cross-entropy=0.003480
+2024-04-08 18:37:35,642 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:35,836 [INFO]  Epoch[2] Batch [0-34]	Speed: 2825.03 samples/sec	cross-entropy=0.001080	erl-accuracy=3.200000
+2024-04-08 18:37:35,876 [INFO]  Epoch[2] Train-cross-entropy=0.000121
+2024-04-08 18:37:35,876 [INFO]  Epoch[2] Train-erl-accuracy=2.875000
+2024-04-08 18:37:35,876 [INFO]  Epoch[2] Time cost=0.234
+2024-04-08 18:37:35,878 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:37:35,897 [INFO]  Epoch[2] Validation-cross-entropy=0.000566
+2024-04-08 18:37:35,897 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:35,934 [INFO]  Epoch[3] Batch [0-34]	Speed: 15023.84 samples/sec	cross-entropy=0.000219	erl-accuracy=3.200000
+2024-04-08 18:37:35,969 [INFO]  Epoch[3] Train-cross-entropy=0.000008
+2024-04-08 18:37:35,969 [INFO]  Epoch[3] Train-erl-accuracy=2.875000
+2024-04-08 18:37:35,969 [INFO]  Epoch[3] Time cost=0.072
+2024-04-08 18:37:35,971 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:37:35,974 [INFO]  Epoch[3] Validation-cross-entropy=0.000048
+2024-04-08 18:37:35,974 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:36,012 [INFO]  Epoch[4] Batch [0-34]	Speed: 14863.92 samples/sec	cross-entropy=0.000023	erl-accuracy=3.200000
+2024-04-08 18:37:36,051 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:37:36,051 [INFO]  Epoch[4] Train-erl-accuracy=2.875000
+2024-04-08 18:37:36,051 [INFO]  Epoch[4] Time cost=0.077
+2024-04-08 18:37:36,052 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:37:36,055 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:37:36,055 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:36,055 [INFO]  
+========== done (0.538372278213501 s) fit model
+2024-04-08 18:37:43,393 [INFO]  
+========== start: fit model
+2024-04-08 18:37:43,393 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:37:43,751 [INFO]  Epoch[0] Batch [0-34]	Speed: 1821.42 samples/sec	cross-entropy=4.354648	erl-accuracy=0.000000
+2024-04-08 18:37:43,848 [INFO]  Epoch[0] Train-cross-entropy=0.177295
+2024-04-08 18:37:43,848 [INFO]  Epoch[0] Train-erl-accuracy=0.000000
+2024-04-08 18:37:43,848 [INFO]  Epoch[0] Time cost=0.454
+2024-04-08 18:37:43,850 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:37:43,853 [INFO]  Epoch[0] Validation-cross-entropy=0.000000
+2024-04-08 18:37:43,853 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:43,890 [INFO]  Epoch[1] Batch [0-34]	Speed: 14980.84 samples/sec	cross-entropy=0.007601	erl-accuracy=0.000000
+2024-04-08 18:37:43,924 [INFO]  Epoch[1] Train-cross-entropy=0.001253
+2024-04-08 18:37:43,924 [INFO]  Epoch[1] Train-erl-accuracy=0.000000
+2024-04-08 18:37:43,924 [INFO]  Epoch[1] Time cost=0.072
+2024-04-08 18:37:43,926 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:37:43,929 [INFO]  Epoch[1] Validation-cross-entropy=0.000000
+2024-04-08 18:37:43,929 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:43,958 [INFO]  Epoch[2] Batch [0-34]	Speed: 19606.12 samples/sec	cross-entropy=0.000954	erl-accuracy=0.000000
+2024-04-08 18:37:43,982 [INFO]  Epoch[2] Train-cross-entropy=0.001061
+2024-04-08 18:37:43,982 [INFO]  Epoch[2] Train-erl-accuracy=0.000000
+2024-04-08 18:37:43,982 [INFO]  Epoch[2] Time cost=0.053
+2024-04-08 18:37:43,983 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:37:43,986 [INFO]  Epoch[2] Validation-cross-entropy=0.000001
+2024-04-08 18:37:43,986 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:44,014 [INFO]  Epoch[3] Batch [0-34]	Speed: 19963.96 samples/sec	cross-entropy=0.001507	erl-accuracy=0.000000
+2024-04-08 18:37:44,048 [INFO]  Epoch[3] Train-cross-entropy=0.001025
+2024-04-08 18:37:44,048 [INFO]  Epoch[3] Train-erl-accuracy=0.000000
+2024-04-08 18:37:44,048 [INFO]  Epoch[3] Time cost=0.062
+2024-04-08 18:37:44,049 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:37:44,052 [INFO]  Epoch[3] Validation-cross-entropy=0.000002
+2024-04-08 18:37:44,052 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:44,089 [INFO]  Epoch[4] Batch [0-34]	Speed: 15145.81 samples/sec	cross-entropy=0.001997	erl-accuracy=0.000000
+2024-04-08 18:37:44,124 [INFO]  Epoch[4] Train-cross-entropy=0.000005
+2024-04-08 18:37:44,124 [INFO]  Epoch[4] Train-erl-accuracy=0.000000
+2024-04-08 18:37:44,124 [INFO]  Epoch[4] Time cost=0.071
+2024-04-08 18:37:44,125 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:37:44,128 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:37:44,128 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:44,128 [INFO]  
+========== done (0.7350437641143799 s) fit model
+2024-04-08 18:37:52,135 [INFO]  
+========== start: fit model
+2024-04-08 18:37:52,135 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:37:52,310 [INFO]  Epoch[0] Batch [0-34]	Speed: 4503.97 samples/sec	cross-entropy=4.051910	erl-accuracy=3.371429
+2024-04-08 18:37:52,347 [INFO]  Epoch[0] Train-cross-entropy=0.037620
+2024-04-08 18:37:52,348 [INFO]  Epoch[0] Train-erl-accuracy=3.000000
+2024-04-08 18:37:52,348 [INFO]  Epoch[0] Time cost=0.212
+2024-04-08 18:37:52,349 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:37:52,352 [INFO]  Epoch[0] Validation-cross-entropy=0.000575
+2024-04-08 18:37:52,352 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:52,390 [INFO]  Epoch[1] Batch [0-34]	Speed: 14932.70 samples/sec	cross-entropy=0.001927	erl-accuracy=3.371429
+2024-04-08 18:37:52,424 [INFO]  Epoch[1] Train-cross-entropy=0.000545
+2024-04-08 18:37:52,424 [INFO]  Epoch[1] Train-erl-accuracy=3.000000
+2024-04-08 18:37:52,424 [INFO]  Epoch[1] Time cost=0.072
+2024-04-08 18:37:52,426 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:37:52,429 [INFO]  Epoch[1] Validation-cross-entropy=0.000000
+2024-04-08 18:37:52,429 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:52,467 [INFO]  Epoch[2] Batch [0-34]	Speed: 14756.74 samples/sec	cross-entropy=0.000199	erl-accuracy=3.371429
+2024-04-08 18:37:52,508 [INFO]  Epoch[2] Train-cross-entropy=0.000058
+2024-04-08 18:37:52,508 [INFO]  Epoch[2] Train-erl-accuracy=3.000000
+2024-04-08 18:37:52,508 [INFO]  Epoch[2] Time cost=0.079
+2024-04-08 18:37:52,509 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:37:52,515 [INFO]  Epoch[2] Validation-cross-entropy=0.000000
+2024-04-08 18:37:52,515 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:52,554 [INFO]  Epoch[3] Batch [0-34]	Speed: 14250.39 samples/sec	cross-entropy=0.000056	erl-accuracy=3.371429
+2024-04-08 18:37:52,662 [INFO]  Epoch[3] Train-cross-entropy=0.000043
+2024-04-08 18:37:52,662 [INFO]  Epoch[3] Train-erl-accuracy=3.000000
+2024-04-08 18:37:52,662 [INFO]  Epoch[3] Time cost=0.147
+2024-04-08 18:37:52,664 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:37:52,667 [INFO]  Epoch[3] Validation-cross-entropy=0.000000
+2024-04-08 18:37:52,667 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:52,703 [INFO]  Epoch[4] Batch [0-34]	Speed: 15810.45 samples/sec	cross-entropy=0.000038	erl-accuracy=3.371429
+2024-04-08 18:37:52,743 [INFO]  Epoch[4] Train-cross-entropy=0.000019
+2024-04-08 18:37:52,743 [INFO]  Epoch[4] Train-erl-accuracy=3.000000
+2024-04-08 18:37:52,743 [INFO]  Epoch[4] Time cost=0.076
+2024-04-08 18:37:52,745 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:37:52,748 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:37:52,748 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:37:52,748 [INFO]  
+========== done (0.6135194301605225 s) fit model
+2024-04-08 18:38:01,008 [INFO]  
+========== start: fit model
+2024-04-08 18:38:01,008 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:38:01,034 [INFO]  Epoch[0] Batch [0-34]	Speed: 23414.55 samples/sec	cross-entropy=6.071620	erl-accuracy=3.142857
+2024-04-08 18:38:01,061 [INFO]  Epoch[0] Train-cross-entropy=3.310148
+2024-04-08 18:38:01,061 [INFO]  Epoch[0] Train-erl-accuracy=3.656250
+2024-04-08 18:38:01,061 [INFO]  Epoch[0] Time cost=0.051
+2024-04-08 18:38:01,062 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:38:01,065 [INFO]  Epoch[0] Validation-cross-entropy=0.240942
+2024-04-08 18:38:01,065 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:01,089 [INFO]  Epoch[1] Batch [0-34]	Speed: 23322.17 samples/sec	cross-entropy=0.029594	erl-accuracy=3.142857
+2024-04-08 18:38:01,128 [INFO]  Epoch[1] Train-cross-entropy=0.047739
+2024-04-08 18:38:01,128 [INFO]  Epoch[1] Train-erl-accuracy=3.656250
+2024-04-08 18:38:01,128 [INFO]  Epoch[1] Time cost=0.063
+2024-04-08 18:38:01,130 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:38:01,133 [INFO]  Epoch[1] Validation-cross-entropy=0.003499
+2024-04-08 18:38:01,133 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:01,162 [INFO]  Epoch[2] Batch [0-34]	Speed: 19719.65 samples/sec	cross-entropy=0.003803	erl-accuracy=3.142857
+2024-04-08 18:38:01,250 [INFO]  Epoch[2] Train-cross-entropy=0.006164
+2024-04-08 18:38:01,250 [INFO]  Epoch[2] Train-erl-accuracy=3.656250
+2024-04-08 18:38:01,250 [INFO]  Epoch[2] Time cost=0.117
+2024-04-08 18:38:01,252 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:38:01,255 [INFO]  Epoch[2] Validation-cross-entropy=0.000097
+2024-04-08 18:38:01,255 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:01,295 [INFO]  Epoch[3] Batch [0-34]	Speed: 14200.64 samples/sec	cross-entropy=0.001500	erl-accuracy=3.142857
+2024-04-08 18:38:01,330 [INFO]  Epoch[3] Train-cross-entropy=0.003294
+2024-04-08 18:38:01,330 [INFO]  Epoch[3] Train-erl-accuracy=3.656250
+2024-04-08 18:38:01,330 [INFO]  Epoch[3] Time cost=0.075
+2024-04-08 18:38:01,332 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:38:01,336 [INFO]  Epoch[3] Validation-cross-entropy=0.000002
+2024-04-08 18:38:01,336 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:01,368 [INFO]  Epoch[4] Batch [0-34]	Speed: 18038.59 samples/sec	cross-entropy=0.000966	erl-accuracy=3.142857
+2024-04-08 18:38:01,394 [INFO]  Epoch[4] Train-cross-entropy=0.002186
+2024-04-08 18:38:01,394 [INFO]  Epoch[4] Train-erl-accuracy=3.656250
+2024-04-08 18:38:01,394 [INFO]  Epoch[4] Time cost=0.057
+2024-04-08 18:38:01,395 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:38:01,402 [INFO]  Epoch[4] Validation-cross-entropy=0.000040
+2024-04-08 18:38:01,402 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:01,402 [INFO]  
+========== done (0.39377808570861816 s) fit model
+2024-04-08 18:38:09,034 [INFO]  
+========== start: fit model
+2024-04-08 18:38:09,035 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:38:09,125 [INFO]  Epoch[0] Batch [0-34]	Speed: 8188.74 samples/sec	cross-entropy=3.030807	erl-accuracy=3.257143
+2024-04-08 18:38:09,158 [INFO]  Epoch[0] Train-cross-entropy=1.286165
+2024-04-08 18:38:09,158 [INFO]  Epoch[0] Train-erl-accuracy=3.156250
+2024-04-08 18:38:09,158 [INFO]  Epoch[0] Time cost=0.122
+2024-04-08 18:38:09,160 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:38:09,162 [INFO]  Epoch[0] Validation-cross-entropy=0.567861
+2024-04-08 18:38:09,162 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:09,197 [INFO]  Epoch[1] Batch [0-34]	Speed: 16268.82 samples/sec	cross-entropy=0.663138	erl-accuracy=3.257143
+2024-04-08 18:38:09,228 [INFO]  Epoch[1] Train-cross-entropy=0.419482
+2024-04-08 18:38:09,228 [INFO]  Epoch[1] Train-erl-accuracy=3.156250
+2024-04-08 18:38:09,228 [INFO]  Epoch[1] Time cost=0.066
+2024-04-08 18:38:09,230 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:38:09,234 [INFO]  Epoch[1] Validation-cross-entropy=0.349552
+2024-04-08 18:38:09,234 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:09,272 [INFO]  Epoch[2] Batch [0-34]	Speed: 14912.50 samples/sec	cross-entropy=0.261947	erl-accuracy=3.257143
+2024-04-08 18:38:09,306 [INFO]  Epoch[2] Train-cross-entropy=0.265628
+2024-04-08 18:38:09,306 [INFO]  Epoch[2] Train-erl-accuracy=3.156250
+2024-04-08 18:38:09,306 [INFO]  Epoch[2] Time cost=0.072
+2024-04-08 18:38:09,307 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:38:09,340 [INFO]  Epoch[2] Validation-cross-entropy=0.137565
+2024-04-08 18:38:09,341 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:09,460 [INFO]  Epoch[3] Batch [0-34]	Speed: 4566.62 samples/sec	cross-entropy=0.063220	erl-accuracy=3.257143
+2024-04-08 18:38:09,507 [INFO]  Epoch[3] Train-cross-entropy=0.080956
+2024-04-08 18:38:09,507 [INFO]  Epoch[3] Train-erl-accuracy=3.156250
+2024-04-08 18:38:09,507 [INFO]  Epoch[3] Time cost=0.166
+2024-04-08 18:38:09,509 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:38:09,512 [INFO]  Epoch[3] Validation-cross-entropy=0.006108
+2024-04-08 18:38:09,512 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:09,766 [INFO]  Epoch[4] Batch [0-34]	Speed: 2150.76 samples/sec	cross-entropy=0.000080	erl-accuracy=3.257143
+2024-04-08 18:38:09,821 [INFO]  Epoch[4] Train-cross-entropy=0.000092
+2024-04-08 18:38:09,821 [INFO]  Epoch[4] Train-erl-accuracy=3.156250
+2024-04-08 18:38:09,822 [INFO]  Epoch[4] Time cost=0.309
+2024-04-08 18:38:09,823 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:38:09,873 [INFO]  Epoch[4] Validation-cross-entropy=0.000006
+2024-04-08 18:38:09,873 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:09,873 [INFO]  
+========== done (0.838871955871582 s) fit model
+2024-04-08 18:38:17,577 [INFO]  
+========== start: fit model
+2024-04-08 18:38:17,577 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:38:17,605 [INFO]  Epoch[0] Batch [0-34]	Speed: 21516.15 samples/sec	cross-entropy=15.948845	erl-accuracy=0.000000
+2024-04-08 18:38:17,767 [INFO]  Epoch[0] Train-cross-entropy=0.145032
+2024-04-08 18:38:17,767 [INFO]  Epoch[0] Train-erl-accuracy=0.000000
+2024-04-08 18:38:17,767 [INFO]  Epoch[0] Time cost=0.189
+2024-04-08 18:38:17,771 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:38:17,794 [INFO]  Epoch[0] Validation-cross-entropy=0.000019
+2024-04-08 18:38:17,795 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:17,957 [INFO]  Epoch[1] Batch [0-34]	Speed: 3372.34 samples/sec	cross-entropy=0.009338	erl-accuracy=0.000000
+2024-04-08 18:38:17,991 [INFO]  Epoch[1] Train-cross-entropy=0.000625
+2024-04-08 18:38:17,991 [INFO]  Epoch[1] Train-erl-accuracy=0.000000
+2024-04-08 18:38:17,991 [INFO]  Epoch[1] Time cost=0.196
+2024-04-08 18:38:17,992 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:38:17,995 [INFO]  Epoch[1] Validation-cross-entropy=0.000000
+2024-04-08 18:38:17,996 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:18,033 [INFO]  Epoch[2] Batch [0-34]	Speed: 14843.71 samples/sec	cross-entropy=0.000065	erl-accuracy=0.000000
+2024-04-08 18:38:18,068 [INFO]  Epoch[2] Train-cross-entropy=0.000002
+2024-04-08 18:38:18,068 [INFO]  Epoch[2] Train-erl-accuracy=0.000000
+2024-04-08 18:38:18,068 [INFO]  Epoch[2] Time cost=0.073
+2024-04-08 18:38:18,070 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:38:18,073 [INFO]  Epoch[2] Validation-cross-entropy=0.000000
+2024-04-08 18:38:18,073 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:18,111 [INFO]  Epoch[3] Batch [0-34]	Speed: 14835.51 samples/sec	cross-entropy=0.000000	erl-accuracy=0.000000
+2024-04-08 18:38:18,150 [INFO]  Epoch[3] Train-cross-entropy=0.000000
+2024-04-08 18:38:18,150 [INFO]  Epoch[3] Train-erl-accuracy=0.000000
+2024-04-08 18:38:18,150 [INFO]  Epoch[3] Time cost=0.078
+2024-04-08 18:38:18,152 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:38:18,155 [INFO]  Epoch[3] Validation-cross-entropy=0.000000
+2024-04-08 18:38:18,155 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:18,203 [INFO]  Epoch[4] Batch [0-34]	Speed: 11773.06 samples/sec	cross-entropy=0.000000	erl-accuracy=0.000000
+2024-04-08 18:38:18,245 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:38:18,245 [INFO]  Epoch[4] Train-erl-accuracy=0.000000
+2024-04-08 18:38:18,245 [INFO]  Epoch[4] Time cost=0.090
+2024-04-08 18:38:18,247 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:38:18,250 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:38:18,250 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:18,250 [INFO]  
+========== done (0.6727635860443115 s) fit model
+2024-04-08 18:38:25,322 [INFO]  
+========== start: fit model
+2024-04-08 18:38:25,322 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:38:25,498 [INFO]  Epoch[0] Batch [0-34]	Speed: 11233.43 samples/sec	cross-entropy=22.680127	erl-accuracy=3.314286
+2024-04-08 18:38:25,516 [INFO]  Epoch[0] Train-cross-entropy=0.007328
+2024-04-08 18:38:25,516 [INFO]  Epoch[0] Train-erl-accuracy=3.156250
+2024-04-08 18:38:25,516 [INFO]  Epoch[0] Time cost=0.193
+2024-04-08 18:38:25,517 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:38:25,519 [INFO]  Epoch[0] Validation-cross-entropy=4.892759
+2024-04-08 18:38:25,519 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:25,572 [INFO]  Epoch[1] Batch [0-34]	Speed: 10464.94 samples/sec	cross-entropy=0.405170	erl-accuracy=3.314286
+2024-04-08 18:38:25,605 [INFO]  Epoch[1] Train-cross-entropy=0.000073
+2024-04-08 18:38:25,605 [INFO]  Epoch[1] Train-erl-accuracy=3.156250
+2024-04-08 18:38:25,605 [INFO]  Epoch[1] Time cost=0.086
+2024-04-08 18:38:25,607 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:38:25,610 [INFO]  Epoch[1] Validation-cross-entropy=0.162734
+2024-04-08 18:38:25,610 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:25,648 [INFO]  Epoch[2] Batch [0-34]	Speed: 14668.79 samples/sec	cross-entropy=0.010639	erl-accuracy=3.314286
+2024-04-08 18:38:25,686 [INFO]  Epoch[2] Train-cross-entropy=0.000001
+2024-04-08 18:38:25,686 [INFO]  Epoch[2] Train-erl-accuracy=3.156250
+2024-04-08 18:38:25,686 [INFO]  Epoch[2] Time cost=0.076
+2024-04-08 18:38:25,687 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:38:25,694 [INFO]  Epoch[2] Validation-cross-entropy=0.000074
+2024-04-08 18:38:25,694 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:25,726 [INFO]  Epoch[3] Batch [0-34]	Speed: 17447.94 samples/sec	cross-entropy=0.000004	erl-accuracy=3.314286
+2024-04-08 18:38:25,757 [INFO]  Epoch[3] Train-cross-entropy=0.000000
+2024-04-08 18:38:25,757 [INFO]  Epoch[3] Train-erl-accuracy=3.156250
+2024-04-08 18:38:25,757 [INFO]  Epoch[3] Time cost=0.063
+2024-04-08 18:38:25,759 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:38:25,762 [INFO]  Epoch[3] Validation-cross-entropy=0.000001
+2024-04-08 18:38:25,762 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:25,803 [INFO]  Epoch[4] Batch [0-34]	Speed: 13709.18 samples/sec	cross-entropy=0.000000	erl-accuracy=3.314286
+2024-04-08 18:38:25,838 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:38:25,838 [INFO]  Epoch[4] Train-erl-accuracy=3.156250
+2024-04-08 18:38:25,838 [INFO]  Epoch[4] Time cost=0.076
+2024-04-08 18:38:25,840 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:38:25,843 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:38:25,843 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:25,843 [INFO]  
+========== done (0.5213172435760498 s) fit model
+2024-04-08 18:38:32,949 [INFO]  
+========== start: fit model
+2024-04-08 18:38:32,949 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:38:32,972 [INFO]  Epoch[0] Batch [0-34]	Speed: 26687.50 samples/sec	cross-entropy=4.323991	erl-accuracy=0.000000
+2024-04-08 18:38:33,001 [INFO]  Epoch[0] Train-cross-entropy=0.394166
+2024-04-08 18:38:33,001 [INFO]  Epoch[0] Train-erl-accuracy=0.000000
+2024-04-08 18:38:33,001 [INFO]  Epoch[0] Time cost=0.052
+2024-04-08 18:38:33,003 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:38:33,011 [INFO]  Epoch[0] Validation-cross-entropy=0.010206
+2024-04-08 18:38:33,011 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:33,049 [INFO]  Epoch[1] Batch [0-34]	Speed: 15031.07 samples/sec	cross-entropy=0.018405	erl-accuracy=0.000000
+2024-04-08 18:38:33,140 [INFO]  Epoch[1] Train-cross-entropy=0.003744
+2024-04-08 18:38:33,141 [INFO]  Epoch[1] Train-erl-accuracy=0.000000
+2024-04-08 18:38:33,141 [INFO]  Epoch[1] Time cost=0.129
+2024-04-08 18:38:33,142 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:38:33,145 [INFO]  Epoch[1] Validation-cross-entropy=0.013998
+2024-04-08 18:38:33,145 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:33,183 [INFO]  Epoch[2] Batch [0-34]	Speed: 14996.30 samples/sec	cross-entropy=0.005847	erl-accuracy=0.000000
+2024-04-08 18:38:33,217 [INFO]  Epoch[2] Train-cross-entropy=0.001390
+2024-04-08 18:38:33,217 [INFO]  Epoch[2] Train-erl-accuracy=0.000000
+2024-04-08 18:38:33,217 [INFO]  Epoch[2] Time cost=0.072
+2024-04-08 18:38:33,218 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:38:33,221 [INFO]  Epoch[2] Validation-cross-entropy=0.008427
+2024-04-08 18:38:33,222 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:33,251 [INFO]  Epoch[3] Batch [0-34]	Speed: 19169.93 samples/sec	cross-entropy=0.001805	erl-accuracy=0.000000
+2024-04-08 18:38:33,277 [INFO]  Epoch[3] Train-cross-entropy=0.000215
+2024-04-08 18:38:33,277 [INFO]  Epoch[3] Train-erl-accuracy=0.000000
+2024-04-08 18:38:33,277 [INFO]  Epoch[3] Time cost=0.055
+2024-04-08 18:38:33,279 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:38:33,282 [INFO]  Epoch[3] Validation-cross-entropy=0.000546
+2024-04-08 18:38:33,282 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:33,320 [INFO]  Epoch[4] Batch [0-34]	Speed: 14643.56 samples/sec	cross-entropy=0.000069	erl-accuracy=0.000000
+2024-04-08 18:38:33,350 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:38:33,350 [INFO]  Epoch[4] Train-erl-accuracy=0.000000
+2024-04-08 18:38:33,350 [INFO]  Epoch[4] Time cost=0.068
+2024-04-08 18:38:33,352 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:38:33,358 [INFO]  Epoch[4] Validation-cross-entropy=0.000001
+2024-04-08 18:38:33,358 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:33,358 [INFO]  
+========== done (0.40908336639404297 s) fit model
+2024-04-08 18:38:40,595 [INFO]  
+========== start: fit model
+2024-04-08 18:38:40,595 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:38:40,655 [INFO]  Epoch[0] Batch [0-34]	Speed: 10744.09 samples/sec	cross-entropy=1.253012	erl-accuracy=3.400000
+2024-04-08 18:38:40,721 [INFO]  Epoch[0] Train-cross-entropy=1.059162
+2024-04-08 18:38:40,721 [INFO]  Epoch[0] Train-erl-accuracy=2.968750
+2024-04-08 18:38:40,721 [INFO]  Epoch[0] Time cost=0.125
+2024-04-08 18:38:40,723 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:38:40,733 [INFO]  Epoch[0] Validation-cross-entropy=0.000832
+2024-04-08 18:38:40,733 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:40,781 [INFO]  Epoch[1] Batch [0-34]	Speed: 11752.62 samples/sec	cross-entropy=0.005576	erl-accuracy=3.400000
+2024-04-08 18:38:40,823 [INFO]  Epoch[1] Train-cross-entropy=0.005550
+2024-04-08 18:38:40,823 [INFO]  Epoch[1] Train-erl-accuracy=2.968750
+2024-04-08 18:38:40,823 [INFO]  Epoch[1] Time cost=0.089
+2024-04-08 18:38:40,825 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:38:40,828 [INFO]  Epoch[1] Validation-cross-entropy=0.000002
+2024-04-08 18:38:40,828 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:40,943 [INFO]  Epoch[2] Batch [0-34]	Speed: 4855.49 samples/sec	cross-entropy=0.000661	erl-accuracy=3.400000
+2024-04-08 18:38:41,250 [INFO]  Epoch[2] Train-cross-entropy=0.000530
+2024-04-08 18:38:41,250 [INFO]  Epoch[2] Train-erl-accuracy=2.968750
+2024-04-08 18:38:41,250 [INFO]  Epoch[2] Time cost=0.421
+2024-04-08 18:38:41,251 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:38:41,253 [INFO]  Epoch[2] Validation-cross-entropy=0.000000
+2024-04-08 18:38:41,253 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:41,273 [INFO]  Epoch[3] Batch [0-34]	Speed: 28337.78 samples/sec	cross-entropy=0.000002	erl-accuracy=3.400000
+2024-04-08 18:38:41,343 [INFO]  Epoch[3] Train-cross-entropy=0.000002
+2024-04-08 18:38:41,344 [INFO]  Epoch[3] Train-erl-accuracy=2.968750
+2024-04-08 18:38:41,344 [INFO]  Epoch[3] Time cost=0.090
+2024-04-08 18:38:41,345 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:38:41,349 [INFO]  Epoch[3] Validation-cross-entropy=0.000000
+2024-04-08 18:38:41,349 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:41,388 [INFO]  Epoch[4] Batch [0-34]	Speed: 14533.13 samples/sec	cross-entropy=0.000000	erl-accuracy=3.400000
+2024-04-08 18:38:41,430 [INFO]  Epoch[4] Train-cross-entropy=0.000001
+2024-04-08 18:38:41,430 [INFO]  Epoch[4] Train-erl-accuracy=2.968750
+2024-04-08 18:38:41,430 [INFO]  Epoch[4] Time cost=0.081
+2024-04-08 18:38:41,432 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:38:41,434 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:38:41,434 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:41,434 [INFO]  
+========== done (0.8385305404663086 s) fit model
+2024-04-08 18:38:49,031 [INFO]  
+========== start: fit model
+2024-04-08 18:38:49,031 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:38:49,052 [INFO]  Epoch[0] Batch [0-34]	Speed: 27843.62 samples/sec	cross-entropy=0.001510	erl-accuracy=0.000000
+2024-04-08 18:38:49,070 [INFO]  Epoch[0] Train-cross-entropy=45.283720
+2024-04-08 18:38:49,070 [INFO]  Epoch[0] Train-erl-accuracy=0.000000
+2024-04-08 18:38:49,070 [INFO]  Epoch[0] Time cost=0.039
+2024-04-08 18:38:49,072 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:38:49,074 [INFO]  Epoch[0] Validation-cross-entropy=13.758228
+2024-04-08 18:38:49,074 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:49,145 [INFO]  Epoch[1] Batch [0-34]	Speed: 7711.39 samples/sec	cross-entropy=0.000642	erl-accuracy=0.000000
+2024-04-08 18:38:49,587 [INFO]  Epoch[1] Train-cross-entropy=6.940000
+2024-04-08 18:38:49,587 [INFO]  Epoch[1] Train-erl-accuracy=0.000000
+2024-04-08 18:38:49,587 [INFO]  Epoch[1] Time cost=0.513
+2024-04-08 18:38:49,588 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:38:49,591 [INFO]  Epoch[1] Validation-cross-entropy=3.237900
+2024-04-08 18:38:49,591 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:49,619 [INFO]  Epoch[2] Batch [0-34]	Speed: 19476.75 samples/sec	cross-entropy=0.000217	erl-accuracy=0.000000
+2024-04-08 18:38:49,700 [INFO]  Epoch[2] Train-cross-entropy=0.753139
+2024-04-08 18:38:49,700 [INFO]  Epoch[2] Train-erl-accuracy=0.000000
+2024-04-08 18:38:49,700 [INFO]  Epoch[2] Time cost=0.110
+2024-04-08 18:38:49,702 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:38:49,716 [INFO]  Epoch[2] Validation-cross-entropy=0.287864
+2024-04-08 18:38:49,716 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:49,744 [INFO]  Epoch[3] Batch [0-34]	Speed: 20799.47 samples/sec	cross-entropy=0.000043	erl-accuracy=0.000000
+2024-04-08 18:38:49,804 [INFO]  Epoch[3] Train-cross-entropy=0.021107
+2024-04-08 18:38:49,804 [INFO]  Epoch[3] Train-erl-accuracy=0.000000
+2024-04-08 18:38:49,804 [INFO]  Epoch[3] Time cost=0.087
+2024-04-08 18:38:49,806 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:38:49,809 [INFO]  Epoch[3] Validation-cross-entropy=0.004215
+2024-04-08 18:38:49,809 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:49,850 [INFO]  Epoch[4] Batch [0-34]	Speed: 13482.84 samples/sec	cross-entropy=0.000002	erl-accuracy=0.000000
+2024-04-08 18:38:49,886 [INFO]  Epoch[4] Train-cross-entropy=0.000059
+2024-04-08 18:38:49,886 [INFO]  Epoch[4] Train-erl-accuracy=0.000000
+2024-04-08 18:38:49,886 [INFO]  Epoch[4] Time cost=0.077
+2024-04-08 18:38:49,887 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:38:49,891 [INFO]  Epoch[4] Validation-cross-entropy=0.000004
+2024-04-08 18:38:49,891 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:49,891 [INFO]  
+========== done (0.8606338500976562 s) fit model
+2024-04-08 18:38:57,187 [INFO]  
+========== start: fit model
+2024-04-08 18:38:57,187 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:38:57,209 [INFO]  Epoch[0] Batch [0-34]	Speed: 26575.60 samples/sec	cross-entropy=8.747081	erl-accuracy=3.000000
+2024-04-08 18:38:57,227 [INFO]  Epoch[0] Train-cross-entropy=0.159222
+2024-04-08 18:38:57,227 [INFO]  Epoch[0] Train-erl-accuracy=3.468750
+2024-04-08 18:38:57,227 [INFO]  Epoch[0] Time cost=0.040
+2024-04-08 18:38:57,229 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:38:57,231 [INFO]  Epoch[0] Validation-cross-entropy=0.014663
+2024-04-08 18:38:57,231 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:57,286 [INFO]  Epoch[1] Batch [0-34]	Speed: 10104.25 samples/sec	cross-entropy=0.014626	erl-accuracy=3.000000
+2024-04-08 18:38:57,751 [INFO]  Epoch[1] Train-cross-entropy=0.002322
+2024-04-08 18:38:57,751 [INFO]  Epoch[1] Train-erl-accuracy=3.468750
+2024-04-08 18:38:57,751 [INFO]  Epoch[1] Time cost=0.520
+2024-04-08 18:38:57,753 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:38:57,756 [INFO]  Epoch[1] Validation-cross-entropy=0.000001
+2024-04-08 18:38:57,756 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:57,829 [INFO]  Epoch[2] Batch [0-34]	Speed: 9577.89 samples/sec	cross-entropy=0.000033	erl-accuracy=3.000000
+2024-04-08 18:38:57,889 [INFO]  Epoch[2] Train-cross-entropy=0.000010
+2024-04-08 18:38:57,889 [INFO]  Epoch[2] Train-erl-accuracy=3.468750
+2024-04-08 18:38:57,889 [INFO]  Epoch[2] Time cost=0.133
+2024-04-08 18:38:57,891 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:38:57,893 [INFO]  Epoch[2] Validation-cross-entropy=0.000001
+2024-04-08 18:38:57,893 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:57,918 [INFO]  Epoch[3] Batch [0-34]	Speed: 22271.37 samples/sec	cross-entropy=0.000001	erl-accuracy=3.000000
+2024-04-08 18:38:57,970 [INFO]  Epoch[3] Train-cross-entropy=0.000000
+2024-04-08 18:38:57,970 [INFO]  Epoch[3] Train-erl-accuracy=3.468750
+2024-04-08 18:38:57,970 [INFO]  Epoch[3] Time cost=0.077
+2024-04-08 18:38:57,972 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:38:57,974 [INFO]  Epoch[3] Validation-cross-entropy=0.000000
+2024-04-08 18:38:57,974 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:58,034 [INFO]  Epoch[4] Batch [0-34]	Speed: 9182.67 samples/sec	cross-entropy=0.000000	erl-accuracy=3.000000
+2024-04-08 18:38:58,110 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:38:58,110 [INFO]  Epoch[4] Train-erl-accuracy=3.468750
+2024-04-08 18:38:58,110 [INFO]  Epoch[4] Time cost=0.135
+2024-04-08 18:38:58,111 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:38:58,113 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:38:58,114 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:38:58,114 [INFO]  
+========== done (0.9269640445709229 s) fit model
+2024-04-08 18:39:05,183 [INFO]  
+========== start: fit model
+2024-04-08 18:39:05,183 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:39:05,509 [INFO]  Epoch[0] Batch [0-34]	Speed: 2089.18 samples/sec	cross-entropy=4.209403	erl-accuracy=3.428571
+2024-04-08 18:39:05,546 [INFO]  Epoch[0] Train-cross-entropy=1.275041
+2024-04-08 18:39:05,546 [INFO]  Epoch[0] Train-erl-accuracy=3.343750
+2024-04-08 18:39:05,546 [INFO]  Epoch[0] Time cost=0.362
+2024-04-08 18:39:05,548 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:39:05,551 [INFO]  Epoch[0] Validation-cross-entropy=0.000614
+2024-04-08 18:39:05,551 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:05,590 [INFO]  Epoch[1] Batch [0-34]	Speed: 14586.46 samples/sec	cross-entropy=0.798662	erl-accuracy=3.428571
+2024-04-08 18:39:05,625 [INFO]  Epoch[1] Train-cross-entropy=0.666260
+2024-04-08 18:39:05,625 [INFO]  Epoch[1] Train-erl-accuracy=3.343750
+2024-04-08 18:39:05,625 [INFO]  Epoch[1] Time cost=0.073
+2024-04-08 18:39:05,626 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:39:05,630 [INFO]  Epoch[1] Validation-cross-entropy=0.000530
+2024-04-08 18:39:05,630 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:05,673 [INFO]  Epoch[2] Batch [0-34]	Speed: 12875.33 samples/sec	cross-entropy=0.538537	erl-accuracy=3.428571
+2024-04-08 18:39:05,723 [INFO]  Epoch[2] Train-cross-entropy=0.509983
+2024-04-08 18:39:05,724 [INFO]  Epoch[2] Train-erl-accuracy=3.343750
+2024-04-08 18:39:05,724 [INFO]  Epoch[2] Time cost=0.094
+2024-04-08 18:39:05,725 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:39:05,728 [INFO]  Epoch[2] Validation-cross-entropy=0.000725
+2024-04-08 18:39:05,728 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:05,753 [INFO]  Epoch[3] Batch [0-34]	Speed: 22058.00 samples/sec	cross-entropy=0.472456	erl-accuracy=3.428571
+2024-04-08 18:39:05,811 [INFO]  Epoch[3] Train-cross-entropy=0.362564
+2024-04-08 18:39:05,811 [INFO]  Epoch[3] Train-erl-accuracy=3.343750
+2024-04-08 18:39:05,811 [INFO]  Epoch[3] Time cost=0.083
+2024-04-08 18:39:05,813 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:39:05,816 [INFO]  Epoch[3] Validation-cross-entropy=0.000701
+2024-04-08 18:39:05,816 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:05,848 [INFO]  Epoch[4] Batch [0-34]	Speed: 17540.22 samples/sec	cross-entropy=0.370130	erl-accuracy=3.428571
+2024-04-08 18:39:05,894 [INFO]  Epoch[4] Train-cross-entropy=0.187376
+2024-04-08 18:39:05,894 [INFO]  Epoch[4] Train-erl-accuracy=3.343750
+2024-04-08 18:39:05,894 [INFO]  Epoch[4] Time cost=0.078
+2024-04-08 18:39:05,895 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:39:05,911 [INFO]  Epoch[4] Validation-cross-entropy=0.000489
+2024-04-08 18:39:05,911 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:05,911 [INFO]  
+========== done (0.7285232543945312 s) fit model
+2024-04-08 18:39:12,802 [INFO]  
+========== start: fit model
+2024-04-08 18:39:12,802 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:39:12,903 [INFO]  Epoch[0] Batch [0-34]	Speed: 5521.73 samples/sec	cross-entropy=33.398656	erl-accuracy=2.914286
+2024-04-08 18:39:13,365 [INFO]  Epoch[0] Train-cross-entropy=0.356545
+2024-04-08 18:39:13,366 [INFO]  Epoch[0] Train-erl-accuracy=3.437500
+2024-04-08 18:39:13,366 [INFO]  Epoch[0] Time cost=0.562
+2024-04-08 18:39:13,369 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:39:13,382 [INFO]  Epoch[0] Validation-cross-entropy=0.725393
+2024-04-08 18:39:13,383 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:13,409 [INFO]  Epoch[1] Batch [0-34]	Speed: 21357.05 samples/sec	cross-entropy=0.143879	erl-accuracy=2.914286
+2024-04-08 18:39:13,478 [INFO]  Epoch[1] Train-cross-entropy=0.006189
+2024-04-08 18:39:13,478 [INFO]  Epoch[1] Train-erl-accuracy=3.437500
+2024-04-08 18:39:13,478 [INFO]  Epoch[1] Time cost=0.095
+2024-04-08 18:39:13,479 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:39:13,482 [INFO]  Epoch[1] Validation-cross-entropy=0.001178
+2024-04-08 18:39:13,482 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:13,528 [INFO]  Epoch[2] Batch [0-34]	Speed: 12017.87 samples/sec	cross-entropy=0.000068	erl-accuracy=2.914286
+2024-04-08 18:39:13,562 [INFO]  Epoch[2] Train-cross-entropy=0.000002
+2024-04-08 18:39:13,562 [INFO]  Epoch[2] Train-erl-accuracy=3.437500
+2024-04-08 18:39:13,562 [INFO]  Epoch[2] Time cost=0.080
+2024-04-08 18:39:13,564 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:39:13,566 [INFO]  Epoch[2] Validation-cross-entropy=0.000002
+2024-04-08 18:39:13,566 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:13,593 [INFO]  Epoch[3] Batch [0-34]	Speed: 21023.69 samples/sec	cross-entropy=0.000000	erl-accuracy=2.914286
+2024-04-08 18:39:13,631 [INFO]  Epoch[3] Train-cross-entropy=0.000000
+2024-04-08 18:39:13,631 [INFO]  Epoch[3] Train-erl-accuracy=3.437500
+2024-04-08 18:39:13,631 [INFO]  Epoch[3] Time cost=0.065
+2024-04-08 18:39:13,633 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:39:13,636 [INFO]  Epoch[3] Validation-cross-entropy=0.000000
+2024-04-08 18:39:13,636 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:13,675 [INFO]  Epoch[4] Batch [0-34]	Speed: 14315.30 samples/sec	cross-entropy=0.000000	erl-accuracy=2.914286
+2024-04-08 18:39:13,711 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:39:13,711 [INFO]  Epoch[4] Train-erl-accuracy=3.437500
+2024-04-08 18:39:13,711 [INFO]  Epoch[4] Time cost=0.075
+2024-04-08 18:39:13,713 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:39:13,717 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:39:13,717 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:13,717 [INFO]  
+========== done (0.9149434566497803 s) fit model
+2024-04-08 18:39:21,884 [INFO]  
+========== start: fit model
+2024-04-08 18:39:21,885 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:39:21,934 [INFO]  Epoch[0] Batch [0-34]	Speed: 17257.90 samples/sec	cross-entropy=1.895712	erl-accuracy=2.971429
+2024-04-08 18:39:22,381 [INFO]  Epoch[0] Train-cross-entropy=0.247215
+2024-04-08 18:39:22,381 [INFO]  Epoch[0] Train-erl-accuracy=3.125000
+2024-04-08 18:39:22,381 [INFO]  Epoch[0] Time cost=0.496
+2024-04-08 18:39:22,383 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:39:22,386 [INFO]  Epoch[0] Validation-cross-entropy=0.001890
+2024-04-08 18:39:22,386 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:22,425 [INFO]  Epoch[1] Batch [0-34]	Speed: 14513.44 samples/sec	cross-entropy=0.017985	erl-accuracy=2.971429
+2024-04-08 18:39:22,477 [INFO]  Epoch[1] Train-cross-entropy=0.000225
+2024-04-08 18:39:22,478 [INFO]  Epoch[1] Train-erl-accuracy=3.125000
+2024-04-08 18:39:22,478 [INFO]  Epoch[1] Time cost=0.092
+2024-04-08 18:39:22,479 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:39:22,482 [INFO]  Epoch[1] Validation-cross-entropy=0.000057
+2024-04-08 18:39:22,482 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:22,503 [INFO]  Epoch[2] Batch [0-34]	Speed: 26687.81 samples/sec	cross-entropy=0.000015	erl-accuracy=2.971429
+2024-04-08 18:39:22,561 [INFO]  Epoch[2] Train-cross-entropy=0.000037
+2024-04-08 18:39:22,561 [INFO]  Epoch[2] Train-erl-accuracy=3.125000
+2024-04-08 18:39:22,561 [INFO]  Epoch[2] Time cost=0.079
+2024-04-08 18:39:22,563 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:39:22,564 [INFO]  Epoch[2] Validation-cross-entropy=0.000020
+2024-04-08 18:39:22,565 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:22,584 [INFO]  Epoch[3] Batch [0-34]	Speed: 28561.61 samples/sec	cross-entropy=0.000000	erl-accuracy=2.971429
+2024-04-08 18:39:22,616 [INFO]  Epoch[3] Train-cross-entropy=0.000002
+2024-04-08 18:39:22,616 [INFO]  Epoch[3] Train-erl-accuracy=3.125000
+2024-04-08 18:39:22,616 [INFO]  Epoch[3] Time cost=0.052
+2024-04-08 18:39:22,618 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:39:22,620 [INFO]  Epoch[3] Validation-cross-entropy=0.000001
+2024-04-08 18:39:22,620 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:22,643 [INFO]  Epoch[4] Batch [0-34]	Speed: 24214.94 samples/sec	cross-entropy=0.000000	erl-accuracy=2.971429
+2024-04-08 18:39:22,666 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:39:22,666 [INFO]  Epoch[4] Train-erl-accuracy=3.125000
+2024-04-08 18:39:22,666 [INFO]  Epoch[4] Time cost=0.046
+2024-04-08 18:39:22,670 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:39:22,790 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:39:22,790 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:22,790 [INFO]  
+========== done (0.9059572219848633 s) fit model
+2024-04-08 18:39:29,993 [INFO]  
+========== start: fit model
+2024-04-08 18:39:29,993 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:39:30,137 [INFO]  Epoch[0] Batch [0-34]	Speed: 4737.72 samples/sec	cross-entropy=1.438301	erl-accuracy=3.542857
+2024-04-08 18:39:30,191 [INFO]  Epoch[0] Train-cross-entropy=0.023314
+2024-04-08 18:39:30,191 [INFO]  Epoch[0] Train-erl-accuracy=3.031250
+2024-04-08 18:39:30,191 [INFO]  Epoch[0] Time cost=0.198
+2024-04-08 18:39:30,193 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:39:30,196 [INFO]  Epoch[0] Validation-cross-entropy=0.000783
+2024-04-08 18:39:30,196 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:30,222 [INFO]  Epoch[1] Batch [0-34]	Speed: 21519.19 samples/sec	cross-entropy=0.000644	erl-accuracy=3.542857
+2024-04-08 18:39:30,246 [INFO]  Epoch[1] Train-cross-entropy=0.001230
+2024-04-08 18:39:30,247 [INFO]  Epoch[1] Train-erl-accuracy=3.031250
+2024-04-08 18:39:30,247 [INFO]  Epoch[1] Time cost=0.050
+2024-04-08 18:39:30,248 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:39:30,251 [INFO]  Epoch[1] Validation-cross-entropy=0.000185
+2024-04-08 18:39:30,251 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:30,289 [INFO]  Epoch[2] Batch [0-34]	Speed: 14768.39 samples/sec	cross-entropy=0.003421	erl-accuracy=3.542857
+2024-04-08 18:39:30,324 [INFO]  Epoch[2] Train-cross-entropy=0.154121
+2024-04-08 18:39:30,325 [INFO]  Epoch[2] Train-erl-accuracy=3.031250
+2024-04-08 18:39:30,325 [INFO]  Epoch[2] Time cost=0.073
+2024-04-08 18:39:30,326 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:39:30,329 [INFO]  Epoch[2] Validation-cross-entropy=0.029460
+2024-04-08 18:39:30,329 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:30,368 [INFO]  Epoch[3] Batch [0-34]	Speed: 14710.69 samples/sec	cross-entropy=2.890721	erl-accuracy=3.542857
+2024-04-08 18:39:30,402 [INFO]  Epoch[3] Train-cross-entropy=2.131453
+2024-04-08 18:39:30,402 [INFO]  Epoch[3] Train-erl-accuracy=3.031250
+2024-04-08 18:39:30,402 [INFO]  Epoch[3] Time cost=0.073
+2024-04-08 18:39:30,404 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:39:30,407 [INFO]  Epoch[3] Validation-cross-entropy=0.026243
+2024-04-08 18:39:30,407 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:30,447 [INFO]  Epoch[4] Batch [0-34]	Speed: 14232.52 samples/sec	cross-entropy=0.023842	erl-accuracy=3.542857
+2024-04-08 18:39:30,501 [INFO]  Epoch[4] Train-cross-entropy=0.005300
+2024-04-08 18:39:30,501 [INFO]  Epoch[4] Train-erl-accuracy=3.031250
+2024-04-08 18:39:30,501 [INFO]  Epoch[4] Time cost=0.093
+2024-04-08 18:39:30,502 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:39:30,513 [INFO]  Epoch[4] Validation-cross-entropy=0.000221
+2024-04-08 18:39:30,513 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:30,513 [INFO]  
+========== done (0.5201983451843262 s) fit model
+2024-04-08 18:39:38,147 [INFO]  
+========== start: fit model
+2024-04-08 18:39:38,147 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:39:38,205 [INFO]  Epoch[0] Batch [0-34]	Speed: 22410.71 samples/sec	cross-entropy=80.374653	erl-accuracy=3.257143
+2024-04-08 18:39:38,261 [INFO]  Epoch[0] Train-cross-entropy=0.608470
+2024-04-08 18:39:38,261 [INFO]  Epoch[0] Train-erl-accuracy=3.187500
+2024-04-08 18:39:38,261 [INFO]  Epoch[0] Time cost=0.113
+2024-04-08 18:39:38,263 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:39:38,266 [INFO]  Epoch[0] Validation-cross-entropy=0.389494
+2024-04-08 18:39:38,266 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:38,303 [INFO]  Epoch[1] Batch [0-34]	Speed: 14938.08 samples/sec	cross-entropy=0.117791	erl-accuracy=3.257143
+2024-04-08 18:39:38,337 [INFO]  Epoch[1] Train-cross-entropy=0.006905
+2024-04-08 18:39:38,337 [INFO]  Epoch[1] Train-erl-accuracy=3.187500
+2024-04-08 18:39:38,338 [INFO]  Epoch[1] Time cost=0.072
+2024-04-08 18:39:38,339 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:39:38,342 [INFO]  Epoch[1] Validation-cross-entropy=0.000007
+2024-04-08 18:39:38,342 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:38,373 [INFO]  Epoch[2] Batch [0-34]	Speed: 18146.91 samples/sec	cross-entropy=0.000438	erl-accuracy=3.257143
+2024-04-08 18:39:38,399 [INFO]  Epoch[2] Train-cross-entropy=0.000040
+2024-04-08 18:39:38,399 [INFO]  Epoch[2] Train-erl-accuracy=3.187500
+2024-04-08 18:39:38,399 [INFO]  Epoch[2] Time cost=0.057
+2024-04-08 18:39:38,401 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:39:38,406 [INFO]  Epoch[2] Validation-cross-entropy=0.000020
+2024-04-08 18:39:38,406 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:38,444 [INFO]  Epoch[3] Batch [0-34]	Speed: 14943.46 samples/sec	cross-entropy=0.000013	erl-accuracy=3.257143
+2024-04-08 18:39:38,474 [INFO]  Epoch[3] Train-cross-entropy=0.000000
+2024-04-08 18:39:38,474 [INFO]  Epoch[3] Train-erl-accuracy=3.187500
+2024-04-08 18:39:38,474 [INFO]  Epoch[3] Time cost=0.068
+2024-04-08 18:39:38,476 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:39:38,482 [INFO]  Epoch[3] Validation-cross-entropy=0.000000
+2024-04-08 18:39:38,482 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:38,770 [INFO]  Epoch[4] Batch [0-34]	Speed: 1897.84 samples/sec	cross-entropy=0.000000	erl-accuracy=3.257143
+2024-04-08 18:39:38,796 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:39:38,796 [INFO]  Epoch[4] Train-erl-accuracy=3.187500
+2024-04-08 18:39:38,796 [INFO]  Epoch[4] Time cost=0.314
+2024-04-08 18:39:38,798 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:39:38,800 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:39:38,800 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:38,801 [INFO]  
+========== done (0.6537740230560303 s) fit model
+2024-04-08 18:39:46,130 [INFO]  
+========== start: fit model
+2024-04-08 18:39:46,130 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:39:46,205 [INFO]  Epoch[0] Batch [0-34]	Speed: 8813.54 samples/sec	cross-entropy=30.886837	erl-accuracy=0.000000
+2024-04-08 18:39:46,322 [INFO]  Epoch[0] Train-cross-entropy=0.134654
+2024-04-08 18:39:46,322 [INFO]  Epoch[0] Train-erl-accuracy=0.000000
+2024-04-08 18:39:46,322 [INFO]  Epoch[0] Time cost=0.192
+2024-04-08 18:39:46,324 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:39:46,327 [INFO]  Epoch[0] Validation-cross-entropy=0.000001
+2024-04-08 18:39:46,327 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:46,367 [INFO]  Epoch[1] Batch [0-34]	Speed: 14217.01 samples/sec	cross-entropy=0.066531	erl-accuracy=0.000000
+2024-04-08 18:39:46,403 [INFO]  Epoch[1] Train-cross-entropy=0.004326
+2024-04-08 18:39:46,403 [INFO]  Epoch[1] Train-erl-accuracy=0.000000
+2024-04-08 18:39:46,403 [INFO]  Epoch[1] Time cost=0.076
+2024-04-08 18:39:46,405 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:39:46,409 [INFO]  Epoch[1] Validation-cross-entropy=0.000003
+2024-04-08 18:39:46,409 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:46,448 [INFO]  Epoch[2] Batch [0-34]	Speed: 14612.52 samples/sec	cross-entropy=0.000389	erl-accuracy=0.000000
+2024-04-08 18:39:46,485 [INFO]  Epoch[2] Train-cross-entropy=0.000036
+2024-04-08 18:39:46,485 [INFO]  Epoch[2] Train-erl-accuracy=0.000000
+2024-04-08 18:39:46,485 [INFO]  Epoch[2] Time cost=0.076
+2024-04-08 18:39:46,487 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:39:46,490 [INFO]  Epoch[2] Validation-cross-entropy=0.000000
+2024-04-08 18:39:46,491 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:46,531 [INFO]  Epoch[3] Batch [0-34]	Speed: 13815.93 samples/sec	cross-entropy=0.000006	erl-accuracy=0.000000
+2024-04-08 18:39:46,748 [INFO]  Epoch[3] Train-cross-entropy=0.000001
+2024-04-08 18:39:46,748 [INFO]  Epoch[3] Train-erl-accuracy=0.000000
+2024-04-08 18:39:46,748 [INFO]  Epoch[3] Time cost=0.257
+2024-04-08 18:39:46,750 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:39:46,754 [INFO]  Epoch[3] Validation-cross-entropy=0.000000
+2024-04-08 18:39:46,754 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:46,792 [INFO]  Epoch[4] Batch [0-34]	Speed: 14828.28 samples/sec	cross-entropy=0.000000	erl-accuracy=0.000000
+2024-04-08 18:39:46,835 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:39:46,835 [INFO]  Epoch[4] Train-erl-accuracy=0.000000
+2024-04-08 18:39:46,835 [INFO]  Epoch[4] Time cost=0.081
+2024-04-08 18:39:46,837 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:39:46,840 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:39:46,840 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:46,840 [INFO]  
+========== done (0.7102363109588623 s) fit model
+2024-04-08 18:39:54,926 [INFO]  
+========== start: fit model
+2024-04-08 18:39:54,926 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:39:54,992 [INFO]  Epoch[0] Batch [0-34]	Speed: 9811.28 samples/sec	cross-entropy=8.220260	erl-accuracy=3.114286
+2024-04-08 18:39:55,138 [INFO]  Epoch[0] Train-cross-entropy=1.859732
+2024-04-08 18:39:55,138 [INFO]  Epoch[0] Train-erl-accuracy=3.343750
+2024-04-08 18:39:55,138 [INFO]  Epoch[0] Time cost=0.211
+2024-04-08 18:39:55,140 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:39:55,143 [INFO]  Epoch[0] Validation-cross-entropy=0.699523
+2024-04-08 18:39:55,143 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:55,263 [INFO]  Epoch[1] Batch [0-34]	Speed: 4568.76 samples/sec	cross-entropy=0.093051	erl-accuracy=3.114286
+2024-04-08 18:39:55,312 [INFO]  Epoch[1] Train-cross-entropy=0.001817
+2024-04-08 18:39:55,312 [INFO]  Epoch[1] Train-erl-accuracy=3.343750
+2024-04-08 18:39:55,312 [INFO]  Epoch[1] Time cost=0.169
+2024-04-08 18:39:55,314 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:39:55,317 [INFO]  Epoch[1] Validation-cross-entropy=0.000938
+2024-04-08 18:39:55,317 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:55,355 [INFO]  Epoch[2] Batch [0-34]	Speed: 14847.58 samples/sec	cross-entropy=0.000277	erl-accuracy=3.114286
+2024-04-08 18:39:55,383 [INFO]  Epoch[2] Train-cross-entropy=0.000011
+2024-04-08 18:39:55,383 [INFO]  Epoch[2] Train-erl-accuracy=3.343750
+2024-04-08 18:39:55,384 [INFO]  Epoch[2] Time cost=0.067
+2024-04-08 18:39:55,385 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:39:55,390 [INFO]  Epoch[2] Validation-cross-entropy=0.000000
+2024-04-08 18:39:55,390 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:55,418 [INFO]  Epoch[3] Batch [0-34]	Speed: 20015.28 samples/sec	cross-entropy=0.000000	erl-accuracy=3.114286
+2024-04-08 18:39:55,451 [INFO]  Epoch[3] Train-cross-entropy=0.000000
+2024-04-08 18:39:55,451 [INFO]  Epoch[3] Train-erl-accuracy=3.343750
+2024-04-08 18:39:55,451 [INFO]  Epoch[3] Time cost=0.061
+2024-04-08 18:39:55,453 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:39:55,456 [INFO]  Epoch[3] Validation-cross-entropy=0.000000
+2024-04-08 18:39:55,456 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:55,494 [INFO]  Epoch[4] Batch [0-34]	Speed: 14838.02 samples/sec	cross-entropy=0.000000	erl-accuracy=3.114286
+2024-04-08 18:39:55,528 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:39:55,528 [INFO]  Epoch[4] Train-erl-accuracy=3.343750
+2024-04-08 18:39:55,528 [INFO]  Epoch[4] Time cost=0.072
+2024-04-08 18:39:55,530 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:39:55,533 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:39:55,533 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:39:55,533 [INFO]  
+========== done (0.6071529388427734 s) fit model
+2024-04-08 18:40:04,024 [INFO]  
+========== start: fit model
+2024-04-08 18:40:04,025 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:40:04,046 [INFO]  Epoch[0] Batch [0-34]	Speed: 28219.32 samples/sec	cross-entropy=25.386709	erl-accuracy=0.000000
+2024-04-08 18:40:04,064 [INFO]  Epoch[0] Train-cross-entropy=1.488882
+2024-04-08 18:40:04,064 [INFO]  Epoch[0] Train-erl-accuracy=0.000000
+2024-04-08 18:40:04,064 [INFO]  Epoch[0] Time cost=0.038
+2024-04-08 18:40:04,065 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:40:04,067 [INFO]  Epoch[0] Validation-cross-entropy=3.034299
+2024-04-08 18:40:04,067 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:04,087 [INFO]  Epoch[1] Batch [0-34]	Speed: 28888.88 samples/sec	cross-entropy=0.029350	erl-accuracy=0.000000
+2024-04-08 18:40:04,127 [INFO]  Epoch[1] Train-cross-entropy=0.002272
+2024-04-08 18:40:04,127 [INFO]  Epoch[1] Train-erl-accuracy=0.000000
+2024-04-08 18:40:04,127 [INFO]  Epoch[1] Time cost=0.060
+2024-04-08 18:40:04,129 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:40:04,132 [INFO]  Epoch[1] Validation-cross-entropy=0.000273
+2024-04-08 18:40:04,132 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:04,632 [INFO]  Epoch[2] Batch [0-34]	Speed: 1091.32 samples/sec	cross-entropy=0.000098	erl-accuracy=0.000000
+2024-04-08 18:40:04,650 [INFO]  Epoch[2] Train-cross-entropy=0.000016
+2024-04-08 18:40:04,650 [INFO]  Epoch[2] Train-erl-accuracy=0.000000
+2024-04-08 18:40:04,650 [INFO]  Epoch[2] Time cost=0.518
+2024-04-08 18:40:04,651 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:40:04,653 [INFO]  Epoch[2] Validation-cross-entropy=0.000002
+2024-04-08 18:40:04,653 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:04,723 [INFO]  Epoch[3] Batch [0-34]	Speed: 7885.91 samples/sec	cross-entropy=0.000002	erl-accuracy=0.000000
+2024-04-08 18:40:04,757 [INFO]  Epoch[3] Train-cross-entropy=0.000000
+2024-04-08 18:40:04,757 [INFO]  Epoch[3] Train-erl-accuracy=0.000000
+2024-04-08 18:40:04,757 [INFO]  Epoch[3] Time cost=0.104
+2024-04-08 18:40:04,759 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:40:04,761 [INFO]  Epoch[3] Validation-cross-entropy=0.000000
+2024-04-08 18:40:04,761 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:04,810 [INFO]  Epoch[4] Batch [0-34]	Speed: 11378.30 samples/sec	cross-entropy=0.000000	erl-accuracy=0.000000
+2024-04-08 18:40:04,839 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:40:04,839 [INFO]  Epoch[4] Train-erl-accuracy=0.000000
+2024-04-08 18:40:04,839 [INFO]  Epoch[4] Time cost=0.077
+2024-04-08 18:40:04,840 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:40:04,842 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:40:04,842 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:04,842 [INFO]  
+========== done (0.8177330493927002 s) fit model
+2024-04-08 18:40:12,673 [INFO]  
+========== start: fit model
+2024-04-08 18:40:12,673 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:40:12,747 [INFO]  Epoch[0] Batch [0-34]	Speed: 7705.07 samples/sec	cross-entropy=0.280302	erl-accuracy=3.257143
+2024-04-08 18:40:12,765 [INFO]  Epoch[0] Train-cross-entropy=0.125812
+2024-04-08 18:40:12,766 [INFO]  Epoch[0] Train-erl-accuracy=2.968750
+2024-04-08 18:40:12,766 [INFO]  Epoch[0] Time cost=0.091
+2024-04-08 18:40:12,767 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:40:12,789 [INFO]  Epoch[0] Validation-cross-entropy=0.000000
+2024-04-08 18:40:12,789 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:12,832 [INFO]  Epoch[1] Batch [0-34]	Speed: 12958.03 samples/sec	cross-entropy=1.285074	erl-accuracy=3.257143
+2024-04-08 18:40:12,878 [INFO]  Epoch[1] Train-cross-entropy=0.062609
+2024-04-08 18:40:12,878 [INFO]  Epoch[1] Train-erl-accuracy=2.968750
+2024-04-08 18:40:12,878 [INFO]  Epoch[1] Time cost=0.089
+2024-04-08 18:40:12,880 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:40:12,972 [INFO]  Epoch[1] Validation-cross-entropy=0.000009
+2024-04-08 18:40:12,972 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:13,154 [INFO]  Epoch[2] Batch [0-34]	Speed: 3009.27 samples/sec	cross-entropy=0.513347	erl-accuracy=3.257143
+2024-04-08 18:40:13,185 [INFO]  Epoch[2] Train-cross-entropy=0.026720
+2024-04-08 18:40:13,185 [INFO]  Epoch[2] Train-erl-accuracy=2.968750
+2024-04-08 18:40:13,185 [INFO]  Epoch[2] Time cost=0.213
+2024-04-08 18:40:13,187 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:40:13,444 [INFO]  Epoch[2] Validation-cross-entropy=0.000002
+2024-04-08 18:40:13,444 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:13,485 [INFO]  Epoch[3] Batch [0-34]	Speed: 13647.60 samples/sec	cross-entropy=0.183624	erl-accuracy=3.257143
+2024-04-08 18:40:13,503 [INFO]  Epoch[3] Train-cross-entropy=0.022198
+2024-04-08 18:40:13,503 [INFO]  Epoch[3] Train-erl-accuracy=2.968750
+2024-04-08 18:40:13,503 [INFO]  Epoch[3] Time cost=0.059
+2024-04-08 18:40:13,505 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:40:13,559 [INFO]  Epoch[3] Validation-cross-entropy=0.000002
+2024-04-08 18:40:13,559 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:13,586 [INFO]  Epoch[4] Batch [0-34]	Speed: 21354.85 samples/sec	cross-entropy=0.000343	erl-accuracy=3.257143
+2024-04-08 18:40:13,623 [INFO]  Epoch[4] Train-cross-entropy=0.000133
+2024-04-08 18:40:13,623 [INFO]  Epoch[4] Train-erl-accuracy=2.968750
+2024-04-08 18:40:13,623 [INFO]  Epoch[4] Time cost=0.064
+2024-04-08 18:40:13,625 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:40:13,628 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:40:13,628 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:13,628 [INFO]  
+========== done (0.9546012878417969 s) fit model
+2024-04-08 18:40:21,832 [INFO]  
+========== start: fit model
+2024-04-08 18:40:21,832 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:40:21,978 [INFO]  Epoch[0] Batch [0-34]	Speed: 4190.18 samples/sec	cross-entropy=32.161926	erl-accuracy=3.257143
+2024-04-08 18:40:22,104 [INFO]  Epoch[0] Train-cross-entropy=0.136212
+2024-04-08 18:40:22,104 [INFO]  Epoch[0] Train-erl-accuracy=3.343750
+2024-04-08 18:40:22,104 [INFO]  Epoch[0] Time cost=0.271
+2024-04-08 18:40:22,107 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:40:22,127 [INFO]  Epoch[0] Validation-cross-entropy=0.950697
+2024-04-08 18:40:22,127 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:22,176 [INFO]  Epoch[1] Batch [0-34]	Speed: 11555.67 samples/sec	cross-entropy=0.020991	erl-accuracy=3.257143
+2024-04-08 18:40:22,235 [INFO]  Epoch[1] Train-cross-entropy=0.010990
+2024-04-08 18:40:22,236 [INFO]  Epoch[1] Train-erl-accuracy=3.343750
+2024-04-08 18:40:22,236 [INFO]  Epoch[1] Time cost=0.108
+2024-04-08 18:40:22,237 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:40:22,241 [INFO]  Epoch[1] Validation-cross-entropy=0.015651
+2024-04-08 18:40:22,241 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:22,278 [INFO]  Epoch[2] Batch [0-34]	Speed: 15259.46 samples/sec	cross-entropy=0.000183	erl-accuracy=3.257143
+2024-04-08 18:40:22,312 [INFO]  Epoch[2] Train-cross-entropy=0.000021
+2024-04-08 18:40:22,312 [INFO]  Epoch[2] Train-erl-accuracy=3.343750
+2024-04-08 18:40:22,312 [INFO]  Epoch[2] Time cost=0.071
+2024-04-08 18:40:22,314 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:40:22,317 [INFO]  Epoch[2] Validation-cross-entropy=0.000009
+2024-04-08 18:40:22,317 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:22,355 [INFO]  Epoch[3] Batch [0-34]	Speed: 14845.26 samples/sec	cross-entropy=0.000002	erl-accuracy=3.257143
+2024-04-08 18:40:22,390 [INFO]  Epoch[3] Train-cross-entropy=0.000001
+2024-04-08 18:40:22,390 [INFO]  Epoch[3] Train-erl-accuracy=3.343750
+2024-04-08 18:40:22,390 [INFO]  Epoch[3] Time cost=0.072
+2024-04-08 18:40:22,392 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:40:22,395 [INFO]  Epoch[3] Validation-cross-entropy=0.000000
+2024-04-08 18:40:22,395 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:22,434 [INFO]  Epoch[4] Batch [0-34]	Speed: 14769.73 samples/sec	cross-entropy=0.000000	erl-accuracy=3.257143
+2024-04-08 18:40:22,469 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:40:22,469 [INFO]  Epoch[4] Train-erl-accuracy=3.343750
+2024-04-08 18:40:22,469 [INFO]  Epoch[4] Time cost=0.074
+2024-04-08 18:40:22,471 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:40:22,474 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:40:22,474 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:22,474 [INFO]  
+========== done (0.6421253681182861 s) fit model
+2024-04-08 18:40:31,554 [INFO]  
+========== start: fit model
+2024-04-08 18:40:31,554 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:40:31,579 [INFO]  Epoch[0] Batch [0-34]	Speed: 23186.61 samples/sec	cross-entropy=11.788255	erl-accuracy=3.285714
+2024-04-08 18:40:31,684 [INFO]  Epoch[0] Train-cross-entropy=0.042290
+2024-04-08 18:40:31,684 [INFO]  Epoch[0] Train-erl-accuracy=3.000000
+2024-04-08 18:40:31,685 [INFO]  Epoch[0] Time cost=0.130
+2024-04-08 18:40:31,686 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:40:31,689 [INFO]  Epoch[0] Validation-cross-entropy=0.000366
+2024-04-08 18:40:31,689 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:31,725 [INFO]  Epoch[1] Batch [0-34]	Speed: 15636.23 samples/sec	cross-entropy=0.001124	erl-accuracy=3.285714
+2024-04-08 18:40:31,759 [INFO]  Epoch[1] Train-cross-entropy=0.000079
+2024-04-08 18:40:31,760 [INFO]  Epoch[1] Train-erl-accuracy=3.000000
+2024-04-08 18:40:31,760 [INFO]  Epoch[1] Time cost=0.070
+2024-04-08 18:40:31,761 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:40:31,764 [INFO]  Epoch[1] Validation-cross-entropy=0.000000
+2024-04-08 18:40:31,764 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:31,803 [INFO]  Epoch[2] Batch [0-34]	Speed: 14663.23 samples/sec	cross-entropy=0.000018	erl-accuracy=3.285714
+2024-04-08 18:40:31,845 [INFO]  Epoch[2] Train-cross-entropy=0.000000
+2024-04-08 18:40:31,845 [INFO]  Epoch[2] Train-erl-accuracy=3.000000
+2024-04-08 18:40:31,845 [INFO]  Epoch[2] Time cost=0.081
+2024-04-08 18:40:31,847 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:40:31,850 [INFO]  Epoch[2] Validation-cross-entropy=0.000000
+2024-04-08 18:40:31,850 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:31,893 [INFO]  Epoch[3] Batch [0-34]	Speed: 13087.80 samples/sec	cross-entropy=0.000000	erl-accuracy=3.285714
+2024-04-08 18:40:31,928 [INFO]  Epoch[3] Train-cross-entropy=0.000000
+2024-04-08 18:40:31,928 [INFO]  Epoch[3] Train-erl-accuracy=3.000000
+2024-04-08 18:40:31,928 [INFO]  Epoch[3] Time cost=0.078
+2024-04-08 18:40:31,930 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:40:31,933 [INFO]  Epoch[3] Validation-cross-entropy=0.000000
+2024-04-08 18:40:31,933 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:31,976 [INFO]  Epoch[4] Batch [0-34]	Speed: 13116.32 samples/sec	cross-entropy=0.000000	erl-accuracy=3.285714
+2024-04-08 18:40:32,011 [INFO]  Epoch[4] Train-cross-entropy=0.000000
+2024-04-08 18:40:32,012 [INFO]  Epoch[4] Train-erl-accuracy=3.000000
+2024-04-08 18:40:32,012 [INFO]  Epoch[4] Time cost=0.078
+2024-04-08 18:40:32,013 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:40:32,016 [INFO]  Epoch[4] Validation-cross-entropy=0.000000
+2024-04-08 18:40:32,017 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:32,017 [INFO]  
+========== done (0.46296095848083496 s) fit model
+2024-04-08 18:40:40,067 [INFO]  
+========== start: fit model
+2024-04-08 18:40:40,068 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:40:40,480 [INFO]  Epoch[0] Batch [0-34]	Speed: 8086.78 samples/sec	cross-entropy=0.357096	erl-accuracy=0.000000
+2024-04-08 18:40:40,530 [INFO]  Epoch[0] Train-cross-entropy=0.128602
+2024-04-08 18:40:40,530 [INFO]  Epoch[0] Train-erl-accuracy=0.000000
+2024-04-08 18:40:40,530 [INFO]  Epoch[0] Time cost=0.461
+2024-04-08 18:40:40,533 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:40:40,555 [INFO]  Epoch[0] Validation-cross-entropy=0.638836
+2024-04-08 18:40:40,555 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:40,580 [INFO]  Epoch[1] Batch [0-34]	Speed: 22181.51 samples/sec	cross-entropy=0.732772	erl-accuracy=0.000000
+2024-04-08 18:40:40,646 [INFO]  Epoch[1] Train-cross-entropy=0.586007
+2024-04-08 18:40:40,646 [INFO]  Epoch[1] Train-erl-accuracy=0.000000
+2024-04-08 18:40:40,646 [INFO]  Epoch[1] Time cost=0.091
+2024-04-08 18:40:40,648 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:40:40,651 [INFO]  Epoch[1] Validation-cross-entropy=2.172998
+2024-04-08 18:40:40,651 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:40,690 [INFO]  Epoch[2] Batch [0-34]	Speed: 14520.27 samples/sec	cross-entropy=2.831141	erl-accuracy=0.000000
+2024-04-08 18:40:40,743 [INFO]  Epoch[2] Train-cross-entropy=0.426835
+2024-04-08 18:40:40,743 [INFO]  Epoch[2] Train-erl-accuracy=0.000000
+2024-04-08 18:40:40,743 [INFO]  Epoch[2] Time cost=0.092
+2024-04-08 18:40:40,745 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:40:40,747 [INFO]  Epoch[2] Validation-cross-entropy=0.126416
+2024-04-08 18:40:40,747 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:40,766 [INFO]  Epoch[3] Batch [0-34]	Speed: 28979.14 samples/sec	cross-entropy=0.292661	erl-accuracy=0.000000
+2024-04-08 18:40:40,792 [INFO]  Epoch[3] Train-cross-entropy=0.046755
+2024-04-08 18:40:40,792 [INFO]  Epoch[3] Train-erl-accuracy=0.000000
+2024-04-08 18:40:40,792 [INFO]  Epoch[3] Time cost=0.045
+2024-04-08 18:40:40,794 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:40:40,830 [INFO]  Epoch[3] Validation-cross-entropy=0.038878
+2024-04-08 18:40:40,830 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:41,027 [INFO]  Epoch[4] Batch [0-34]	Speed: 2777.67 samples/sec	cross-entropy=0.070415	erl-accuracy=0.000000
+2024-04-08 18:40:41,121 [INFO]  Epoch[4] Train-cross-entropy=0.028978
+2024-04-08 18:40:41,121 [INFO]  Epoch[4] Train-erl-accuracy=0.000000
+2024-04-08 18:40:41,121 [INFO]  Epoch[4] Time cost=0.291
+2024-04-08 18:40:41,123 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:40:41,442 [INFO]  Epoch[4] Validation-cross-entropy=0.056242
+2024-04-08 18:40:41,442 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:41,442 [INFO]  
+========== done (1.37457275390625 s) fit model
+2024-04-08 18:40:49,415 [INFO]  
+========== start: fit model
+2024-04-08 18:40:49,415 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:40:49,651 [INFO]  Epoch[0] Batch [0-34]	Speed: 2389.67 samples/sec	cross-entropy=4.477231	erl-accuracy=3.228571
+2024-04-08 18:40:49,686 [INFO]  Epoch[0] Train-cross-entropy=0.107418
+2024-04-08 18:40:49,686 [INFO]  Epoch[0] Train-erl-accuracy=3.156250
+2024-04-08 18:40:49,686 [INFO]  Epoch[0] Time cost=0.269
+2024-04-08 18:40:49,688 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:40:49,691 [INFO]  Epoch[0] Validation-cross-entropy=0.249822
+2024-04-08 18:40:49,691 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:49,729 [INFO]  Epoch[1] Batch [0-34]	Speed: 14595.98 samples/sec	cross-entropy=0.099738	erl-accuracy=3.228571
+2024-04-08 18:40:49,765 [INFO]  Epoch[1] Train-cross-entropy=0.001722
+2024-04-08 18:40:49,765 [INFO]  Epoch[1] Train-erl-accuracy=3.156250
+2024-04-08 18:40:49,765 [INFO]  Epoch[1] Time cost=0.074
+2024-04-08 18:40:49,766 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:40:49,770 [INFO]  Epoch[1] Validation-cross-entropy=0.012296
+2024-04-08 18:40:49,770 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:49,808 [INFO]  Epoch[2] Batch [0-34]	Speed: 14623.01 samples/sec	cross-entropy=0.002559	erl-accuracy=3.228571
+2024-04-08 18:40:49,891 [INFO]  Epoch[2] Train-cross-entropy=0.000615
+2024-04-08 18:40:49,891 [INFO]  Epoch[2] Train-erl-accuracy=3.156250
+2024-04-08 18:40:49,891 [INFO]  Epoch[2] Time cost=0.121
+2024-04-08 18:40:49,895 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:40:49,910 [INFO]  Epoch[2] Validation-cross-entropy=0.007097
+2024-04-08 18:40:49,910 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:49,935 [INFO]  Epoch[3] Batch [0-34]	Speed: 21957.59 samples/sec	cross-entropy=0.001118	erl-accuracy=3.228571
+2024-04-08 18:40:49,959 [INFO]  Epoch[3] Train-cross-entropy=0.000307
+2024-04-08 18:40:49,959 [INFO]  Epoch[3] Train-erl-accuracy=3.156250
+2024-04-08 18:40:49,959 [INFO]  Epoch[3] Time cost=0.049
+2024-04-08 18:40:49,961 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:40:49,963 [INFO]  Epoch[3] Validation-cross-entropy=0.004140
+2024-04-08 18:40:49,963 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:50,067 [INFO]  Epoch[4] Batch [0-34]	Speed: 6612.98 samples/sec	cross-entropy=0.000541	erl-accuracy=3.228571
+2024-04-08 18:40:50,111 [INFO]  Epoch[4] Train-cross-entropy=0.000042
+2024-04-08 18:40:50,111 [INFO]  Epoch[4] Train-erl-accuracy=3.156250
+2024-04-08 18:40:50,111 [INFO]  Epoch[4] Time cost=0.148
+2024-04-08 18:40:50,113 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:40:50,115 [INFO]  Epoch[4] Validation-cross-entropy=0.000508
+2024-04-08 18:40:50,115 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:50,115 [INFO]  
+========== done (0.6999568939208984 s) fit model
+2024-04-08 18:40:57,750 [INFO]  
+========== start: fit model
+2024-04-08 18:40:57,750 [WARNING]  Already bound, ignoring bind()
+2024-04-08 18:40:57,794 [INFO]  Epoch[0] Batch [0-34]	Speed: 13291.90 samples/sec	cross-entropy=0.502829	erl-accuracy=3.314286
+2024-04-08 18:40:57,817 [INFO]  Epoch[0] Train-cross-entropy=0.368227
+2024-04-08 18:40:57,817 [INFO]  Epoch[0] Train-erl-accuracy=2.781250
+2024-04-08 18:40:57,817 [INFO]  Epoch[0] Time cost=0.066
+2024-04-08 18:40:57,819 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0000.params"
+2024-04-08 18:40:57,821 [INFO]  Epoch[0] Validation-cross-entropy=0.107608
+2024-04-08 18:40:57,821 [INFO]  Epoch[0] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:57,920 [INFO]  Epoch[1] Batch [0-34]	Speed: 5564.26 samples/sec	cross-entropy=0.004101	erl-accuracy=3.314286
+2024-04-08 18:40:58,144 [INFO]  Epoch[1] Train-cross-entropy=0.008871
+2024-04-08 18:40:58,144 [INFO]  Epoch[1] Train-erl-accuracy=2.781250
+2024-04-08 18:40:58,144 [INFO]  Epoch[1] Time cost=0.323
+2024-04-08 18:40:58,145 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0001.params"
+2024-04-08 18:40:58,149 [INFO]  Epoch[1] Validation-cross-entropy=0.000453
+2024-04-08 18:40:58,149 [INFO]  Epoch[1] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:58,480 [INFO]  Epoch[2] Batch [0-34]	Speed: 1646.57 samples/sec	cross-entropy=0.010475	erl-accuracy=3.314286
+2024-04-08 18:40:58,534 [INFO]  Epoch[2] Train-cross-entropy=0.007564
+2024-04-08 18:40:58,535 [INFO]  Epoch[2] Train-erl-accuracy=2.781250
+2024-04-08 18:40:58,535 [INFO]  Epoch[2] Time cost=0.386
+2024-04-08 18:40:58,536 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0002.params"
+2024-04-08 18:40:58,538 [INFO]  Epoch[2] Validation-cross-entropy=0.004688
+2024-04-08 18:40:58,538 [INFO]  Epoch[2] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:58,561 [INFO]  Epoch[3] Batch [0-34]	Speed: 25141.05 samples/sec	cross-entropy=0.151305	erl-accuracy=3.314286
+2024-04-08 18:40:58,605 [INFO]  Epoch[3] Train-cross-entropy=0.711234
+2024-04-08 18:40:58,605 [INFO]  Epoch[3] Train-erl-accuracy=2.781250
+2024-04-08 18:40:58,605 [INFO]  Epoch[3] Time cost=0.067
+2024-04-08 18:40:58,607 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0003.params"
+2024-04-08 18:40:58,618 [INFO]  Epoch[3] Validation-cross-entropy=0.256132
+2024-04-08 18:40:58,618 [INFO]  Epoch[3] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:58,655 [INFO]  Epoch[4] Batch [0-34]	Speed: 15110.91 samples/sec	cross-entropy=0.397066	erl-accuracy=3.314286
+2024-04-08 18:40:58,690 [INFO]  Epoch[4] Train-cross-entropy=0.239208
+2024-04-08 18:40:58,690 [INFO]  Epoch[4] Train-erl-accuracy=2.781250
+2024-04-08 18:40:58,690 [INFO]  Epoch[4] Time cost=0.073
+2024-04-08 18:40:58,692 [INFO]  Saved checkpoint to "./imputer_model/21_yeast/imputer_model_erl/model-0004.params"
+2024-04-08 18:40:58,695 [INFO]  Epoch[4] Validation-cross-entropy=0.026690
+2024-04-08 18:40:58,695 [INFO]  Epoch[4] Validation-erl-accuracy=0.000000
+2024-04-08 18:40:58,695 [INFO]  
+========== done (0.9452309608459473 s) fit model

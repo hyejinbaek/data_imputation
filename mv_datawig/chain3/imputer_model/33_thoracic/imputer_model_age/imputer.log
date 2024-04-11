@@ -1,0 +1,1200 @@
+2024-04-11 20:08:13,366 [INFO]  
+========== start: fit model
+2024-04-11 20:08:13,366 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:08:14,816 [INFO]  Epoch[0] Batch [0-11]	Speed: 171.54 samples/sec	cross-entropy=7.831305	age-accuracy=0.000000
+2024-04-11 20:08:15,741 [INFO]  Epoch[0] Train-cross-entropy=1.791187
+2024-04-11 20:08:15,741 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:08:15,741 [INFO]  Epoch[0] Time cost=2.374
+2024-04-11 20:08:15,743 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:08:15,744 [INFO]  Epoch[0] Validation-cross-entropy=0.429288
+2024-04-11 20:08:15,744 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:08:17,157 [INFO]  Epoch[1] Batch [0-11]	Speed: 137.93 samples/sec	cross-entropy=1.087161	age-accuracy=0.000000
+2024-04-11 20:08:18,084 [INFO]  Epoch[1] Train-cross-entropy=0.611229
+2024-04-11 20:08:18,084 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:08:18,084 [INFO]  Epoch[1] Time cost=2.340
+2024-04-11 20:08:18,086 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:08:18,287 [INFO]  Epoch[1] Validation-cross-entropy=0.385347
+2024-04-11 20:08:18,287 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:08:20,557 [INFO]  Epoch[2] Batch [0-11]	Speed: 80.29 samples/sec	cross-entropy=0.445802	age-accuracy=0.000000
+2024-04-11 20:08:20,625 [INFO]  Epoch[2] Train-cross-entropy=0.489579
+2024-04-11 20:08:20,625 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:08:20,625 [INFO]  Epoch[2] Time cost=2.338
+2024-04-11 20:08:20,627 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:08:20,628 [INFO]  Epoch[2] Validation-cross-entropy=0.155191
+2024-04-11 20:08:20,628 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:08:21,927 [INFO]  Epoch[3] Batch [0-11]	Speed: 136.71 samples/sec	cross-entropy=0.471056	age-accuracy=0.000000
+2024-04-11 20:08:23,044 [INFO]  Epoch[3] Train-cross-entropy=0.316051
+2024-04-11 20:08:23,044 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:08:23,044 [INFO]  Epoch[3] Time cost=2.416
+2024-04-11 20:08:23,050 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:08:23,341 [INFO]  Epoch[3] Validation-cross-entropy=0.079510
+2024-04-11 20:08:23,341 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:08:24,717 [INFO]  Epoch[4] Batch [0-11]	Speed: 128.21 samples/sec	cross-entropy=0.265805	age-accuracy=0.000000
+2024-04-11 20:08:26,982 [INFO]  Epoch[4] Train-cross-entropy=0.214174
+2024-04-11 20:08:26,982 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:08:26,982 [INFO]  Epoch[4] Time cost=3.641
+2024-04-11 20:08:26,985 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:08:27,337 [INFO]  Epoch[4] Validation-cross-entropy=0.110210
+2024-04-11 20:08:27,337 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:08:27,337 [INFO]  
+========== done (13.971823453903198 s) fit model
+2024-04-11 20:11:05,469 [INFO]  
+========== start: fit model
+2024-04-11 20:11:05,469 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:11:05,480 [INFO]  Epoch[0] Batch [0-11]	Speed: 22237.54 samples/sec	cross-entropy=13.887943	age-accuracy=3.250000
+2024-04-11 20:11:05,487 [INFO]  Epoch[0] Train-cross-entropy=5.045209
+2024-04-11 20:11:05,487 [INFO]  Epoch[0] Train-age-accuracy=3.300000
+2024-04-11 20:11:05,487 [INFO]  Epoch[0] Time cost=0.017
+2024-04-11 20:11:05,489 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:11:05,490 [INFO]  Epoch[0] Validation-cross-entropy=3.518943
+2024-04-11 20:11:05,490 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:11:05,521 [INFO]  Epoch[1] Batch [0-11]	Speed: 5898.45 samples/sec	cross-entropy=3.685372	age-accuracy=3.250000
+2024-04-11 20:11:05,527 [INFO]  Epoch[1] Train-cross-entropy=1.411634
+2024-04-11 20:11:05,527 [INFO]  Epoch[1] Train-age-accuracy=3.300000
+2024-04-11 20:11:05,527 [INFO]  Epoch[1] Time cost=0.037
+2024-04-11 20:11:05,529 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:11:05,532 [INFO]  Epoch[1] Validation-cross-entropy=4.665185
+2024-04-11 20:11:05,532 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:11:06,021 [INFO]  Epoch[2] Batch [0-11]	Speed: 362.77 samples/sec	cross-entropy=0.823025	age-accuracy=3.250000
+2024-04-11 20:11:06,519 [INFO]  Epoch[2] Train-cross-entropy=0.369649
+2024-04-11 20:11:06,519 [INFO]  Epoch[2] Train-age-accuracy=3.300000
+2024-04-11 20:11:06,519 [INFO]  Epoch[2] Time cost=0.987
+2024-04-11 20:11:06,521 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:11:06,534 [INFO]  Epoch[2] Validation-cross-entropy=1.912500
+2024-04-11 20:11:06,534 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:11:06,777 [INFO]  Epoch[3] Batch [0-11]	Speed: 728.91 samples/sec	cross-entropy=0.288473	age-accuracy=3.250000
+2024-04-11 20:11:08,484 [INFO]  Epoch[3] Train-cross-entropy=0.148019
+2024-04-11 20:11:08,484 [INFO]  Epoch[3] Train-age-accuracy=3.300000
+2024-04-11 20:11:08,484 [INFO]  Epoch[3] Time cost=1.950
+2024-04-11 20:11:08,486 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:11:08,797 [INFO]  Epoch[3] Validation-cross-entropy=0.676882
+2024-04-11 20:11:08,797 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:11:10,883 [INFO]  Epoch[4] Batch [0-11]	Speed: 105.14 samples/sec	cross-entropy=0.175834	age-accuracy=3.250000
+2024-04-11 20:11:11,577 [INFO]  Epoch[4] Train-cross-entropy=0.113766
+2024-04-11 20:11:11,577 [INFO]  Epoch[4] Train-age-accuracy=3.300000
+2024-04-11 20:11:11,577 [INFO]  Epoch[4] Time cost=2.780
+2024-04-11 20:11:11,579 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:11:11,877 [INFO]  Epoch[4] Validation-cross-entropy=0.655637
+2024-04-11 20:11:11,877 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:11:11,877 [INFO]  
+========== done (6.407628059387207 s) fit model
+2024-04-11 20:13:48,299 [INFO]  
+========== start: fit model
+2024-04-11 20:13:48,299 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:13:49,374 [INFO]  Epoch[0] Batch [0-11]	Speed: 199.46 samples/sec	cross-entropy=9.305575	age-accuracy=0.000000
+2024-04-11 20:13:50,149 [INFO]  Epoch[0] Train-cross-entropy=2.804486
+2024-04-11 20:13:50,149 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:13:50,149 [INFO]  Epoch[0] Time cost=1.849
+2024-04-11 20:13:50,151 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:13:50,237 [INFO]  Epoch[0] Validation-cross-entropy=2.616288
+2024-04-11 20:13:50,237 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:13:52,269 [INFO]  Epoch[1] Batch [0-11]	Speed: 86.70 samples/sec	cross-entropy=0.998065	age-accuracy=0.000000
+2024-04-11 20:13:53,023 [INFO]  Epoch[1] Train-cross-entropy=0.865323
+2024-04-11 20:13:53,023 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:13:53,023 [INFO]  Epoch[1] Time cost=2.786
+2024-04-11 20:13:53,025 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:13:53,373 [INFO]  Epoch[1] Validation-cross-entropy=0.463231
+2024-04-11 20:13:53,373 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:13:54,532 [INFO]  Epoch[2] Batch [0-11]	Speed: 222.50 samples/sec	cross-entropy=0.721467	age-accuracy=0.000000
+2024-04-11 20:13:54,558 [INFO]  Epoch[2] Train-cross-entropy=0.345490
+2024-04-11 20:13:54,558 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:13:54,558 [INFO]  Epoch[2] Time cost=1.185
+2024-04-11 20:13:54,560 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:13:54,566 [INFO]  Epoch[2] Validation-cross-entropy=0.677424
+2024-04-11 20:13:54,566 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:13:55,847 [INFO]  Epoch[3] Batch [0-11]	Speed: 137.53 samples/sec	cross-entropy=0.316209	age-accuracy=0.000000
+2024-04-11 20:13:56,268 [INFO]  Epoch[3] Train-cross-entropy=0.168865
+2024-04-11 20:13:56,269 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:13:56,269 [INFO]  Epoch[3] Time cost=1.703
+2024-04-11 20:13:56,271 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:13:56,602 [INFO]  Epoch[3] Validation-cross-entropy=0.338069
+2024-04-11 20:13:56,602 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:13:56,987 [INFO]  Epoch[4] Batch [0-11]	Speed: 6795.77 samples/sec	cross-entropy=0.201086	age-accuracy=0.000000
+2024-04-11 20:13:57,435 [INFO]  Epoch[4] Train-cross-entropy=0.131464
+2024-04-11 20:13:57,435 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:13:57,435 [INFO]  Epoch[4] Time cost=0.833
+2024-04-11 20:13:57,437 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:13:57,749 [INFO]  Epoch[4] Validation-cross-entropy=0.434800
+2024-04-11 20:13:57,749 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:13:57,749 [INFO]  
+========== done (9.450323820114136 s) fit model
+2024-04-11 20:16:49,563 [INFO]  
+========== start: fit model
+2024-04-11 20:16:49,563 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:16:53,018 [INFO]  Epoch[0] Batch [0-11]	Speed: 56.44 samples/sec	cross-entropy=10.742165	age-accuracy=0.000000
+2024-04-11 20:16:54,869 [INFO]  Epoch[0] Train-cross-entropy=2.873841
+2024-04-11 20:16:54,869 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:16:54,869 [INFO]  Epoch[0] Time cost=5.304
+2024-04-11 20:16:54,871 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:16:55,095 [INFO]  Epoch[0] Validation-cross-entropy=1.421405
+2024-04-11 20:16:55,095 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:16:57,609 [INFO]  Epoch[1] Batch [0-11]	Speed: 73.13 samples/sec	cross-entropy=1.423296	age-accuracy=0.000000
+2024-04-11 20:16:58,815 [INFO]  Epoch[1] Train-cross-entropy=0.872871
+2024-04-11 20:16:58,820 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:16:58,820 [INFO]  Epoch[1] Time cost=3.724
+2024-04-11 20:16:58,822 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:16:59,130 [INFO]  Epoch[1] Validation-cross-entropy=0.460115
+2024-04-11 20:16:59,130 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:17:00,986 [INFO]  Epoch[2] Batch [0-11]	Speed: 104.20 samples/sec	cross-entropy=0.508359	age-accuracy=0.000000
+2024-04-11 20:17:03,646 [INFO]  Epoch[2] Train-cross-entropy=0.652566
+2024-04-11 20:17:03,647 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:17:03,647 [INFO]  Epoch[2] Time cost=4.517
+2024-04-11 20:17:03,652 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:17:03,745 [INFO]  Epoch[2] Validation-cross-entropy=0.142911
+2024-04-11 20:17:03,745 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:17:04,868 [INFO]  Epoch[3] Batch [0-11]	Speed: 189.82 samples/sec	cross-entropy=0.394785	age-accuracy=0.000000
+2024-04-11 20:17:06,403 [INFO]  Epoch[3] Train-cross-entropy=0.394757
+2024-04-11 20:17:06,403 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:17:06,403 [INFO]  Epoch[3] Time cost=2.658
+2024-04-11 20:17:06,404 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:17:06,406 [INFO]  Epoch[3] Validation-cross-entropy=0.161668
+2024-04-11 20:17:06,406 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:17:06,835 [INFO]  Epoch[4] Batch [0-11]	Speed: 411.57 samples/sec	cross-entropy=0.198169	age-accuracy=0.000000
+2024-04-11 20:17:07,803 [INFO]  Epoch[4] Train-cross-entropy=0.329916
+2024-04-11 20:17:07,803 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:17:07,803 [INFO]  Epoch[4] Time cost=1.398
+2024-04-11 20:17:07,807 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:17:08,144 [INFO]  Epoch[4] Validation-cross-entropy=0.083810
+2024-04-11 20:17:08,144 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:17:08,144 [INFO]  
+========== done (18.581382513046265 s) fit model
+2024-04-11 20:19:42,864 [INFO]  
+========== start: fit model
+2024-04-11 20:19:42,864 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:19:43,822 [INFO]  Epoch[0] Batch [0-11]	Speed: 288.12 samples/sec	cross-entropy=10.050192	age-accuracy=0.000000
+2024-04-11 20:19:45,672 [INFO]  Epoch[0] Train-cross-entropy=5.925319
+2024-04-11 20:19:45,672 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:19:45,672 [INFO]  Epoch[0] Time cost=2.807
+2024-04-11 20:19:45,674 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:19:45,704 [INFO]  Epoch[0] Validation-cross-entropy=2.791304
+2024-04-11 20:19:45,708 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:19:49,761 [INFO]  Epoch[1] Batch [0-11]	Speed: 47.31 samples/sec	cross-entropy=1.119315	age-accuracy=0.000000
+2024-04-11 20:19:51,731 [INFO]  Epoch[1] Train-cross-entropy=0.882296
+2024-04-11 20:19:51,731 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:19:51,731 [INFO]  Epoch[1] Time cost=6.023
+2024-04-11 20:19:51,734 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:19:52,213 [INFO]  Epoch[1] Validation-cross-entropy=1.174425
+2024-04-11 20:19:52,213 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:19:54,110 [INFO]  Epoch[2] Batch [0-11]	Speed: 97.07 samples/sec	cross-entropy=0.606218	age-accuracy=0.000000
+2024-04-11 20:19:54,586 [INFO]  Epoch[2] Train-cross-entropy=0.571500
+2024-04-11 20:19:54,586 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:19:54,586 [INFO]  Epoch[2] Time cost=2.373
+2024-04-11 20:19:54,588 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:19:54,839 [INFO]  Epoch[2] Validation-cross-entropy=0.553089
+2024-04-11 20:19:54,839 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:19:55,803 [INFO]  Epoch[3] Batch [0-11]	Speed: 342.95 samples/sec	cross-entropy=0.265438	age-accuracy=0.000000
+2024-04-11 20:19:56,130 [INFO]  Epoch[3] Train-cross-entropy=0.488808
+2024-04-11 20:19:56,130 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:19:56,130 [INFO]  Epoch[3] Time cost=1.291
+2024-04-11 20:19:56,132 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:19:56,158 [INFO]  Epoch[3] Validation-cross-entropy=0.925572
+2024-04-11 20:19:56,158 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:19:56,771 [INFO]  Epoch[4] Batch [0-11]	Speed: 287.95 samples/sec	cross-entropy=0.126177	age-accuracy=0.000000
+2024-04-11 20:19:59,082 [INFO]  Epoch[4] Train-cross-entropy=0.365945
+2024-04-11 20:19:59,082 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:19:59,082 [INFO]  Epoch[4] Time cost=2.924
+2024-04-11 20:19:59,084 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:19:59,392 [INFO]  Epoch[4] Validation-cross-entropy=0.406943
+2024-04-11 20:19:59,393 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:19:59,393 [INFO]  
+========== done (16.528822660446167 s) fit model
+2024-04-11 20:22:40,040 [INFO]  
+========== start: fit model
+2024-04-11 20:22:40,040 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:22:41,489 [INFO]  Epoch[0] Batch [0-11]	Speed: 157.15 samples/sec	cross-entropy=13.422920	age-accuracy=0.000000
+2024-04-11 20:22:42,487 [INFO]  Epoch[0] Train-cross-entropy=2.003866
+2024-04-11 20:22:42,488 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:22:42,488 [INFO]  Epoch[0] Time cost=2.447
+2024-04-11 20:22:42,498 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:22:42,618 [INFO]  Epoch[0] Validation-cross-entropy=1.634148
+2024-04-11 20:22:42,618 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:22:42,942 [INFO]  Epoch[1] Batch [0-11]	Speed: 600.80 samples/sec	cross-entropy=1.102919	age-accuracy=0.000000
+2024-04-11 20:22:43,832 [INFO]  Epoch[1] Train-cross-entropy=1.660868
+2024-04-11 20:22:43,833 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:22:43,833 [INFO]  Epoch[1] Time cost=1.215
+2024-04-11 20:22:43,835 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:22:44,079 [INFO]  Epoch[1] Validation-cross-entropy=0.402207
+2024-04-11 20:22:44,079 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:22:46,442 [INFO]  Epoch[2] Batch [0-11]	Speed: 92.79 samples/sec	cross-entropy=1.124248	age-accuracy=0.000000
+2024-04-11 20:22:47,567 [INFO]  Epoch[2] Train-cross-entropy=3.536854
+2024-04-11 20:22:47,567 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:22:47,567 [INFO]  Epoch[2] Time cost=3.488
+2024-04-11 20:22:47,569 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:22:47,717 [INFO]  Epoch[2] Validation-cross-entropy=0.296056
+2024-04-11 20:22:47,717 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:22:48,504 [INFO]  Epoch[3] Batch [0-11]	Speed: 223.93 samples/sec	cross-entropy=0.939925	age-accuracy=0.000000
+2024-04-11 20:22:49,533 [INFO]  Epoch[3] Train-cross-entropy=2.568178
+2024-04-11 20:22:49,533 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:22:49,533 [INFO]  Epoch[3] Time cost=1.816
+2024-04-11 20:22:49,535 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:22:49,837 [INFO]  Epoch[3] Validation-cross-entropy=0.203558
+2024-04-11 20:22:49,837 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:22:52,249 [INFO]  Epoch[4] Batch [0-11]	Speed: 87.98 samples/sec	cross-entropy=0.567610	age-accuracy=0.000000
+2024-04-11 20:22:54,287 [INFO]  Epoch[4] Train-cross-entropy=1.089582
+2024-04-11 20:22:54,287 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:22:54,287 [INFO]  Epoch[4] Time cost=4.449
+2024-04-11 20:22:54,289 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:22:54,475 [INFO]  Epoch[4] Validation-cross-entropy=0.209192
+2024-04-11 20:22:54,475 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:22:54,475 [INFO]  
+========== done (14.435766458511353 s) fit model
+2024-04-11 20:25:34,142 [INFO]  
+========== start: fit model
+2024-04-11 20:25:34,142 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:25:34,800 [INFO]  Epoch[0] Batch [0-11]	Speed: 922.66 samples/sec	cross-entropy=14.241282	age-accuracy=3.750000
+2024-04-11 20:25:36,272 [INFO]  Epoch[0] Train-cross-entropy=7.680838
+2024-04-11 20:25:36,272 [INFO]  Epoch[0] Train-age-accuracy=2.500000
+2024-04-11 20:25:36,272 [INFO]  Epoch[0] Time cost=2.129
+2024-04-11 20:25:36,278 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:25:36,440 [INFO]  Epoch[0] Validation-cross-entropy=2.647857
+2024-04-11 20:25:36,440 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:25:37,221 [INFO]  Epoch[1] Batch [0-11]	Speed: 240.85 samples/sec	cross-entropy=1.928459	age-accuracy=3.750000
+2024-04-11 20:25:38,448 [INFO]  Epoch[1] Train-cross-entropy=0.975212
+2024-04-11 20:25:38,448 [INFO]  Epoch[1] Train-age-accuracy=2.500000
+2024-04-11 20:25:38,448 [INFO]  Epoch[1] Time cost=2.008
+2024-04-11 20:25:38,450 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:25:38,828 [INFO]  Epoch[1] Validation-cross-entropy=0.747870
+2024-04-11 20:25:38,828 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:25:39,987 [INFO]  Epoch[2] Batch [0-11]	Speed: 201.91 samples/sec	cross-entropy=0.602024	age-accuracy=3.750000
+2024-04-11 20:25:40,950 [INFO]  Epoch[2] Train-cross-entropy=0.576941
+2024-04-11 20:25:40,950 [INFO]  Epoch[2] Train-age-accuracy=2.500000
+2024-04-11 20:25:40,950 [INFO]  Epoch[2] Time cost=2.122
+2024-04-11 20:25:40,952 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:25:41,249 [INFO]  Epoch[2] Validation-cross-entropy=0.663811
+2024-04-11 20:25:41,249 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:25:42,282 [INFO]  Epoch[3] Batch [0-11]	Speed: 191.56 samples/sec	cross-entropy=0.624378	age-accuracy=3.750000
+2024-04-11 20:25:42,378 [INFO]  Epoch[3] Train-cross-entropy=0.427068
+2024-04-11 20:25:42,378 [INFO]  Epoch[3] Train-age-accuracy=2.500000
+2024-04-11 20:25:42,378 [INFO]  Epoch[3] Time cost=1.129
+2024-04-11 20:25:42,380 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:25:42,381 [INFO]  Epoch[3] Validation-cross-entropy=0.383481
+2024-04-11 20:25:42,381 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:25:42,411 [INFO]  Epoch[4] Batch [0-11]	Speed: 6244.80 samples/sec	cross-entropy=0.668446	age-accuracy=3.750000
+2024-04-11 20:25:42,418 [INFO]  Epoch[4] Train-cross-entropy=0.381010
+2024-04-11 20:25:42,418 [INFO]  Epoch[4] Train-age-accuracy=2.500000
+2024-04-11 20:25:42,418 [INFO]  Epoch[4] Time cost=0.037
+2024-04-11 20:25:42,420 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:25:42,421 [INFO]  Epoch[4] Validation-cross-entropy=0.358535
+2024-04-11 20:25:42,421 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:25:42,421 [INFO]  
+========== done (8.279566764831543 s) fit model
+2024-04-11 20:28:43,262 [INFO]  
+========== start: fit model
+2024-04-11 20:28:43,263 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:28:43,273 [INFO]  Epoch[0] Batch [0-11]	Speed: 20299.11 samples/sec	cross-entropy=10.260353	age-accuracy=3.666667
+2024-04-11 20:28:43,280 [INFO]  Epoch[0] Train-cross-entropy=1.772491
+2024-04-11 20:28:43,280 [INFO]  Epoch[0] Train-age-accuracy=3.100000
+2024-04-11 20:28:43,280 [INFO]  Epoch[0] Time cost=0.016
+2024-04-11 20:28:43,281 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:28:43,282 [INFO]  Epoch[0] Validation-cross-entropy=1.196476
+2024-04-11 20:28:43,282 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:28:43,289 [INFO]  Epoch[1] Batch [0-11]	Speed: 27834.45 samples/sec	cross-entropy=1.603711	age-accuracy=3.666667
+2024-04-11 20:28:43,295 [INFO]  Epoch[1] Train-cross-entropy=0.403557
+2024-04-11 20:28:43,295 [INFO]  Epoch[1] Train-age-accuracy=3.100000
+2024-04-11 20:28:43,295 [INFO]  Epoch[1] Time cost=0.013
+2024-04-11 20:28:43,340 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:28:43,350 [INFO]  Epoch[1] Validation-cross-entropy=0.571835
+2024-04-11 20:28:43,351 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:28:43,384 [INFO]  Epoch[2] Batch [0-11]	Speed: 5718.21 samples/sec	cross-entropy=1.278586	age-accuracy=3.666667
+2024-04-11 20:28:43,392 [INFO]  Epoch[2] Train-cross-entropy=0.206392
+2024-04-11 20:28:43,392 [INFO]  Epoch[2] Train-age-accuracy=3.100000
+2024-04-11 20:28:43,392 [INFO]  Epoch[2] Time cost=0.041
+2024-04-11 20:28:43,406 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:28:43,408 [INFO]  Epoch[2] Validation-cross-entropy=0.255257
+2024-04-11 20:28:43,408 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:28:43,417 [INFO]  Epoch[3] Batch [0-11]	Speed: 20353.40 samples/sec	cross-entropy=0.631578	age-accuracy=3.666667
+2024-04-11 20:28:43,425 [INFO]  Epoch[3] Train-cross-entropy=0.099877
+2024-04-11 20:28:43,425 [INFO]  Epoch[3] Train-age-accuracy=3.100000
+2024-04-11 20:28:43,425 [INFO]  Epoch[3] Time cost=0.017
+2024-04-11 20:28:43,462 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:28:43,467 [INFO]  Epoch[3] Validation-cross-entropy=0.307346
+2024-04-11 20:28:43,468 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:28:43,484 [INFO]  Epoch[4] Batch [0-11]	Speed: 13410.31 samples/sec	cross-entropy=0.380192	age-accuracy=3.666667
+2024-04-11 20:28:43,572 [INFO]  Epoch[4] Train-cross-entropy=0.111579
+2024-04-11 20:28:43,572 [INFO]  Epoch[4] Train-age-accuracy=3.100000
+2024-04-11 20:28:43,572 [INFO]  Epoch[4] Time cost=0.104
+2024-04-11 20:28:43,574 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:28:43,574 [INFO]  Epoch[4] Validation-cross-entropy=0.159737
+2024-04-11 20:28:43,574 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:28:43,575 [INFO]  
+========== done (0.3121519088745117 s) fit model
+2024-04-11 20:28:50,144 [INFO]  
+========== start: fit model
+2024-04-11 20:28:50,144 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:28:50,170 [INFO]  Epoch[0] Batch [0-11]	Speed: 7343.79 samples/sec	cross-entropy=9.222084	age-accuracy=0.000000
+2024-04-11 20:28:50,178 [INFO]  Epoch[0] Train-cross-entropy=4.977209
+2024-04-11 20:28:50,178 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:28:50,179 [INFO]  Epoch[0] Time cost=0.033
+2024-04-11 20:28:50,180 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:28:50,182 [INFO]  Epoch[0] Validation-cross-entropy=2.213443
+2024-04-11 20:28:50,182 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:28:50,191 [INFO]  Epoch[1] Batch [0-11]	Speed: 22235.53 samples/sec	cross-entropy=0.920962	age-accuracy=0.000000
+2024-04-11 20:28:50,197 [INFO]  Epoch[1] Train-cross-entropy=0.686781
+2024-04-11 20:28:50,197 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:28:50,197 [INFO]  Epoch[1] Time cost=0.016
+2024-04-11 20:28:50,209 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:28:50,210 [INFO]  Epoch[1] Validation-cross-entropy=0.628290
+2024-04-11 20:28:50,210 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:28:50,255 [INFO]  Epoch[2] Batch [0-11]	Speed: 4051.82 samples/sec	cross-entropy=0.463128	age-accuracy=0.000000
+2024-04-11 20:28:50,267 [INFO]  Epoch[2] Train-cross-entropy=0.229324
+2024-04-11 20:28:50,268 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:28:50,268 [INFO]  Epoch[2] Time cost=0.057
+2024-04-11 20:28:50,310 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:28:50,341 [INFO]  Epoch[2] Validation-cross-entropy=0.355654
+2024-04-11 20:28:50,341 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:28:50,350 [INFO]  Epoch[3] Batch [0-11]	Speed: 21942.74 samples/sec	cross-entropy=0.238960	age-accuracy=0.000000
+2024-04-11 20:28:50,358 [INFO]  Epoch[3] Train-cross-entropy=0.138780
+2024-04-11 20:28:50,358 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:28:50,358 [INFO]  Epoch[3] Time cost=0.017
+2024-04-11 20:28:50,399 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:28:50,429 [INFO]  Epoch[3] Validation-cross-entropy=0.371215
+2024-04-11 20:28:50,429 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:28:50,450 [INFO]  Epoch[4] Batch [0-11]	Speed: 9333.52 samples/sec	cross-entropy=0.186517	age-accuracy=0.000000
+2024-04-11 20:28:50,495 [INFO]  Epoch[4] Train-cross-entropy=0.110279
+2024-04-11 20:28:50,495 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:28:50,495 [INFO]  Epoch[4] Time cost=0.066
+2024-04-11 20:28:50,497 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:28:50,498 [INFO]  Epoch[4] Validation-cross-entropy=0.250031
+2024-04-11 20:28:50,499 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:28:50,499 [INFO]  
+========== done (0.3545536994934082 s) fit model
+2024-04-11 20:28:56,994 [INFO]  
+========== start: fit model
+2024-04-11 20:28:56,994 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:28:57,003 [INFO]  Epoch[0] Batch [0-11]	Speed: 28976.19 samples/sec	cross-entropy=11.952199	age-accuracy=3.166667
+2024-04-11 20:28:57,008 [INFO]  Epoch[0] Train-cross-entropy=3.337359
+2024-04-11 20:28:57,008 [INFO]  Epoch[0] Train-age-accuracy=3.400000
+2024-04-11 20:28:57,008 [INFO]  Epoch[0] Time cost=0.013
+2024-04-11 20:28:57,010 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:28:57,011 [INFO]  Epoch[0] Validation-cross-entropy=4.049716
+2024-04-11 20:28:57,011 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:28:57,017 [INFO]  Epoch[1] Batch [0-11]	Speed: 28672.32 samples/sec	cross-entropy=2.938777	age-accuracy=3.166667
+2024-04-11 20:28:57,023 [INFO]  Epoch[1] Train-cross-entropy=0.915864
+2024-04-11 20:28:57,023 [INFO]  Epoch[1] Train-age-accuracy=3.400000
+2024-04-11 20:28:57,023 [INFO]  Epoch[1] Time cost=0.013
+2024-04-11 20:28:57,056 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:28:57,066 [INFO]  Epoch[1] Validation-cross-entropy=3.332360
+2024-04-11 20:28:57,066 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:28:57,079 [INFO]  Epoch[2] Batch [0-11]	Speed: 15895.38 samples/sec	cross-entropy=0.833180	age-accuracy=3.166667
+2024-04-11 20:28:57,103 [INFO]  Epoch[2] Train-cross-entropy=0.490436
+2024-04-11 20:28:57,103 [INFO]  Epoch[2] Train-age-accuracy=3.400000
+2024-04-11 20:28:57,103 [INFO]  Epoch[2] Time cost=0.037
+2024-04-11 20:28:57,145 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:28:57,148 [INFO]  Epoch[2] Validation-cross-entropy=1.116526
+2024-04-11 20:28:57,148 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:28:57,213 [INFO]  Epoch[3] Batch [0-11]	Speed: 2785.43 samples/sec	cross-entropy=0.362782	age-accuracy=3.166667
+2024-04-11 20:28:57,225 [INFO]  Epoch[3] Train-cross-entropy=0.259918
+2024-04-11 20:28:57,225 [INFO]  Epoch[3] Train-age-accuracy=3.400000
+2024-04-11 20:28:57,225 [INFO]  Epoch[3] Time cost=0.077
+2024-04-11 20:28:57,226 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:28:57,228 [INFO]  Epoch[3] Validation-cross-entropy=0.568005
+2024-04-11 20:28:57,228 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:28:57,253 [INFO]  Epoch[4] Batch [0-11]	Speed: 7495.30 samples/sec	cross-entropy=0.304398	age-accuracy=3.166667
+2024-04-11 20:28:57,263 [INFO]  Epoch[4] Train-cross-entropy=0.202061
+2024-04-11 20:28:57,263 [INFO]  Epoch[4] Train-age-accuracy=3.400000
+2024-04-11 20:28:57,263 [INFO]  Epoch[4] Time cost=0.035
+2024-04-11 20:28:57,265 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:28:57,266 [INFO]  Epoch[4] Validation-cross-entropy=0.690235
+2024-04-11 20:28:57,266 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:28:57,266 [INFO]  
+========== done (0.2718791961669922 s) fit model
+2024-04-11 20:29:04,340 [INFO]  
+========== start: fit model
+2024-04-11 20:29:04,340 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:04,409 [INFO]  Epoch[0] Batch [0-11]	Speed: 3377.38 samples/sec	cross-entropy=17.695430	age-accuracy=0.000000
+2024-04-11 20:29:04,426 [INFO]  Epoch[0] Train-cross-entropy=4.383007
+2024-04-11 20:29:04,426 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:29:04,426 [INFO]  Epoch[0] Time cost=0.085
+2024-04-11 20:29:04,428 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:04,436 [INFO]  Epoch[0] Validation-cross-entropy=1.861751
+2024-04-11 20:29:04,436 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:04,519 [INFO]  Epoch[1] Batch [0-11]	Speed: 5881.40 samples/sec	cross-entropy=1.861269	age-accuracy=0.000000
+2024-04-11 20:29:04,531 [INFO]  Epoch[1] Train-cross-entropy=0.477117
+2024-04-11 20:29:04,531 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:29:04,531 [INFO]  Epoch[1] Time cost=0.095
+2024-04-11 20:29:04,533 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:04,534 [INFO]  Epoch[1] Validation-cross-entropy=0.399587
+2024-04-11 20:29:04,534 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:04,546 [INFO]  Epoch[2] Batch [0-11]	Speed: 15363.43 samples/sec	cross-entropy=0.376186	age-accuracy=0.000000
+2024-04-11 20:29:04,558 [INFO]  Epoch[2] Train-cross-entropy=0.278225
+2024-04-11 20:29:04,558 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:29:04,558 [INFO]  Epoch[2] Time cost=0.025
+2024-04-11 20:29:04,560 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:04,562 [INFO]  Epoch[2] Validation-cross-entropy=0.249887
+2024-04-11 20:29:04,562 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:04,577 [INFO]  Epoch[3] Batch [0-11]	Speed: 12310.68 samples/sec	cross-entropy=0.172546	age-accuracy=0.000000
+2024-04-11 20:29:04,592 [INFO]  Epoch[3] Train-cross-entropy=0.145502
+2024-04-11 20:29:04,592 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:29:04,592 [INFO]  Epoch[3] Time cost=0.030
+2024-04-11 20:29:04,594 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:04,595 [INFO]  Epoch[3] Validation-cross-entropy=0.074358
+2024-04-11 20:29:04,595 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:04,635 [INFO]  Epoch[4] Batch [0-11]	Speed: 6598.12 samples/sec	cross-entropy=0.118135	age-accuracy=0.000000
+2024-04-11 20:29:04,643 [INFO]  Epoch[4] Train-cross-entropy=0.092161
+2024-04-11 20:29:04,643 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:29:04,643 [INFO]  Epoch[4] Time cost=0.048
+2024-04-11 20:29:04,644 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:04,646 [INFO]  Epoch[4] Validation-cross-entropy=0.065025
+2024-04-11 20:29:04,646 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:04,646 [INFO]  
+========== done (0.3053901195526123 s) fit model
+2024-04-11 20:29:10,054 [INFO]  
+========== start: fit model
+2024-04-11 20:29:10,054 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:10,079 [INFO]  Epoch[0] Batch [0-11]	Speed: 25705.05 samples/sec	cross-entropy=12.479009	age-accuracy=2.916667
+2024-04-11 20:29:10,110 [INFO]  Epoch[0] Train-cross-entropy=7.384295
+2024-04-11 20:29:10,110 [INFO]  Epoch[0] Train-age-accuracy=3.600000
+2024-04-11 20:29:10,110 [INFO]  Epoch[0] Time cost=0.054
+2024-04-11 20:29:10,112 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:10,112 [INFO]  Epoch[0] Validation-cross-entropy=2.226298
+2024-04-11 20:29:10,112 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:10,122 [INFO]  Epoch[1] Batch [0-11]	Speed: 21037.26 samples/sec	cross-entropy=1.644433	age-accuracy=2.916667
+2024-04-11 20:29:10,130 [INFO]  Epoch[1] Train-cross-entropy=4.680291
+2024-04-11 20:29:10,130 [INFO]  Epoch[1] Train-age-accuracy=3.600000
+2024-04-11 20:29:10,130 [INFO]  Epoch[1] Time cost=0.017
+2024-04-11 20:29:10,144 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:10,148 [INFO]  Epoch[1] Validation-cross-entropy=1.238670
+2024-04-11 20:29:10,148 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:10,155 [INFO]  Epoch[2] Batch [0-11]	Speed: 27782.07 samples/sec	cross-entropy=1.520750	age-accuracy=2.916667
+2024-04-11 20:29:10,174 [INFO]  Epoch[2] Train-cross-entropy=3.872458
+2024-04-11 20:29:10,174 [INFO]  Epoch[2] Train-age-accuracy=3.600000
+2024-04-11 20:29:10,174 [INFO]  Epoch[2] Time cost=0.026
+2024-04-11 20:29:10,211 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:10,238 [INFO]  Epoch[2] Validation-cross-entropy=0.892206
+2024-04-11 20:29:10,238 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:10,254 [INFO]  Epoch[3] Batch [0-11]	Speed: 11997.94 samples/sec	cross-entropy=1.138710	age-accuracy=2.916667
+2024-04-11 20:29:10,265 [INFO]  Epoch[3] Train-cross-entropy=1.928181
+2024-04-11 20:29:10,265 [INFO]  Epoch[3] Train-age-accuracy=3.600000
+2024-04-11 20:29:10,265 [INFO]  Epoch[3] Time cost=0.027
+2024-04-11 20:29:10,266 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:10,268 [INFO]  Epoch[3] Validation-cross-entropy=0.690183
+2024-04-11 20:29:10,268 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:10,311 [INFO]  Epoch[4] Batch [0-11]	Speed: 4255.65 samples/sec	cross-entropy=0.673782	age-accuracy=2.916667
+2024-04-11 20:29:10,325 [INFO]  Epoch[4] Train-cross-entropy=1.002408
+2024-04-11 20:29:10,325 [INFO]  Epoch[4] Train-age-accuracy=3.600000
+2024-04-11 20:29:10,325 [INFO]  Epoch[4] Time cost=0.057
+2024-04-11 20:29:10,327 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:10,328 [INFO]  Epoch[4] Validation-cross-entropy=0.278572
+2024-04-11 20:29:10,328 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:10,328 [INFO]  
+========== done (0.2737851142883301 s) fit model
+2024-04-11 20:29:15,636 [INFO]  
+========== start: fit model
+2024-04-11 20:29:15,636 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:15,645 [INFO]  Epoch[0] Batch [0-11]	Speed: 26697.92 samples/sec	cross-entropy=12.271810	age-accuracy=0.000000
+2024-04-11 20:29:15,651 [INFO]  Epoch[0] Train-cross-entropy=4.719953
+2024-04-11 20:29:15,651 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:29:15,651 [INFO]  Epoch[0] Time cost=0.014
+2024-04-11 20:29:15,652 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:15,653 [INFO]  Epoch[0] Validation-cross-entropy=1.214460
+2024-04-11 20:29:15,653 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:15,660 [INFO]  Epoch[1] Batch [0-11]	Speed: 29199.70 samples/sec	cross-entropy=0.968128	age-accuracy=0.000000
+2024-04-11 20:29:15,671 [INFO]  Epoch[1] Train-cross-entropy=0.715783
+2024-04-11 20:29:15,671 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:29:15,671 [INFO]  Epoch[1] Time cost=0.018
+2024-04-11 20:29:15,673 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:15,674 [INFO]  Epoch[1] Validation-cross-entropy=0.334841
+2024-04-11 20:29:15,675 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:15,714 [INFO]  Epoch[2] Batch [0-11]	Speed: 4619.19 samples/sec	cross-entropy=0.462198	age-accuracy=0.000000
+2024-04-11 20:29:15,726 [INFO]  Epoch[2] Train-cross-entropy=0.216616
+2024-04-11 20:29:15,726 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:29:15,726 [INFO]  Epoch[2] Time cost=0.052
+2024-04-11 20:29:15,728 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:15,729 [INFO]  Epoch[2] Validation-cross-entropy=0.118081
+2024-04-11 20:29:15,729 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:15,742 [INFO]  Epoch[3] Batch [0-11]	Speed: 15516.50 samples/sec	cross-entropy=0.198660	age-accuracy=0.000000
+2024-04-11 20:29:15,821 [INFO]  Epoch[3] Train-cross-entropy=0.149834
+2024-04-11 20:29:15,821 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:29:15,821 [INFO]  Epoch[3] Time cost=0.092
+2024-04-11 20:29:15,822 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:15,824 [INFO]  Epoch[3] Validation-cross-entropy=0.079972
+2024-04-11 20:29:15,824 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:15,836 [INFO]  Epoch[4] Batch [0-11]	Speed: 17082.76 samples/sec	cross-entropy=0.130820	age-accuracy=0.000000
+2024-04-11 20:29:15,842 [INFO]  Epoch[4] Train-cross-entropy=0.123940
+2024-04-11 20:29:15,842 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:29:15,842 [INFO]  Epoch[4] Time cost=0.019
+2024-04-11 20:29:15,844 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:15,845 [INFO]  Epoch[4] Validation-cross-entropy=0.083640
+2024-04-11 20:29:15,845 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:15,845 [INFO]  
+========== done (0.20902109146118164 s) fit model
+2024-04-11 20:29:21,123 [INFO]  
+========== start: fit model
+2024-04-11 20:29:21,123 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:21,132 [INFO]  Epoch[0] Batch [0-11]	Speed: 25606.96 samples/sec	cross-entropy=13.860121	age-accuracy=0.000000
+2024-04-11 20:29:21,139 [INFO]  Epoch[0] Train-cross-entropy=3.173236
+2024-04-11 20:29:21,139 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:29:21,139 [INFO]  Epoch[0] Time cost=0.015
+2024-04-11 20:29:21,141 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:21,142 [INFO]  Epoch[0] Validation-cross-entropy=3.583529
+2024-04-11 20:29:21,142 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:21,164 [INFO]  Epoch[1] Batch [0-11]	Speed: 8410.49 samples/sec	cross-entropy=1.514963	age-accuracy=0.000000
+2024-04-11 20:29:21,196 [INFO]  Epoch[1] Train-cross-entropy=0.463512
+2024-04-11 20:29:21,197 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:29:21,197 [INFO]  Epoch[1] Time cost=0.055
+2024-04-11 20:29:21,199 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:21,204 [INFO]  Epoch[1] Validation-cross-entropy=0.799934
+2024-04-11 20:29:21,204 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:21,282 [INFO]  Epoch[2] Batch [0-11]	Speed: 2388.35 samples/sec	cross-entropy=0.617956	age-accuracy=0.000000
+2024-04-11 20:29:21,298 [INFO]  Epoch[2] Train-cross-entropy=0.363774
+2024-04-11 20:29:21,298 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:29:21,298 [INFO]  Epoch[2] Time cost=0.095
+2024-04-11 20:29:21,300 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:21,302 [INFO]  Epoch[2] Validation-cross-entropy=0.503973
+2024-04-11 20:29:21,302 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:21,369 [INFO]  Epoch[3] Batch [0-11]	Speed: 2672.97 samples/sec	cross-entropy=0.784092	age-accuracy=0.000000
+2024-04-11 20:29:21,503 [INFO]  Epoch[3] Train-cross-entropy=0.199858
+2024-04-11 20:29:21,504 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:29:21,504 [INFO]  Epoch[3] Time cost=0.202
+2024-04-11 20:29:21,506 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:21,507 [INFO]  Epoch[3] Validation-cross-entropy=0.723296
+2024-04-11 20:29:21,507 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:21,518 [INFO]  Epoch[4] Batch [0-11]	Speed: 17090.67 samples/sec	cross-entropy=0.578504	age-accuracy=0.000000
+2024-04-11 20:29:21,549 [INFO]  Epoch[4] Train-cross-entropy=0.142738
+2024-04-11 20:29:21,549 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:29:21,549 [INFO]  Epoch[4] Time cost=0.042
+2024-04-11 20:29:21,551 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:21,552 [INFO]  Epoch[4] Validation-cross-entropy=0.268030
+2024-04-11 20:29:21,552 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:21,552 [INFO]  
+========== done (0.4291114807128906 s) fit model
+2024-04-11 20:29:25,625 [INFO]  
+========== start: fit model
+2024-04-11 20:29:25,625 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:25,640 [INFO]  Epoch[0] Batch [0-11]	Speed: 20495.24 samples/sec	cross-entropy=12.170735	age-accuracy=0.000000
+2024-04-11 20:29:25,647 [INFO]  Epoch[0] Train-cross-entropy=3.719110
+2024-04-11 20:29:25,647 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:29:25,647 [INFO]  Epoch[0] Time cost=0.021
+2024-04-11 20:29:25,648 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:25,649 [INFO]  Epoch[0] Validation-cross-entropy=2.855155
+2024-04-11 20:29:25,649 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:25,656 [INFO]  Epoch[1] Batch [0-11]	Speed: 28043.82 samples/sec	cross-entropy=1.074763	age-accuracy=0.000000
+2024-04-11 20:29:25,662 [INFO]  Epoch[1] Train-cross-entropy=0.454344
+2024-04-11 20:29:25,662 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:29:25,662 [INFO]  Epoch[1] Time cost=0.013
+2024-04-11 20:29:25,663 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:25,664 [INFO]  Epoch[1] Validation-cross-entropy=2.093602
+2024-04-11 20:29:25,664 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:25,671 [INFO]  Epoch[2] Batch [0-11]	Speed: 28399.86 samples/sec	cross-entropy=0.595788	age-accuracy=0.000000
+2024-04-11 20:29:25,677 [INFO]  Epoch[2] Train-cross-entropy=0.248246
+2024-04-11 20:29:25,677 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:29:25,677 [INFO]  Epoch[2] Time cost=0.013
+2024-04-11 20:29:25,679 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:25,679 [INFO]  Epoch[2] Validation-cross-entropy=0.735904
+2024-04-11 20:29:25,680 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:25,686 [INFO]  Epoch[3] Batch [0-11]	Speed: 28394.40 samples/sec	cross-entropy=0.253935	age-accuracy=0.000000
+2024-04-11 20:29:25,692 [INFO]  Epoch[3] Train-cross-entropy=0.135470
+2024-04-11 20:29:25,692 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:29:25,692 [INFO]  Epoch[3] Time cost=0.013
+2024-04-11 20:29:25,693 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:25,694 [INFO]  Epoch[3] Validation-cross-entropy=1.737897
+2024-04-11 20:29:25,694 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:25,701 [INFO]  Epoch[4] Batch [0-11]	Speed: 27909.17 samples/sec	cross-entropy=0.215269	age-accuracy=0.000000
+2024-04-11 20:29:25,707 [INFO]  Epoch[4] Train-cross-entropy=0.092701
+2024-04-11 20:29:25,707 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:29:25,707 [INFO]  Epoch[4] Time cost=0.013
+2024-04-11 20:29:25,708 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:25,709 [INFO]  Epoch[4] Validation-cross-entropy=0.932666
+2024-04-11 20:29:25,709 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:25,709 [INFO]  
+========== done (0.08401799201965332 s) fit model
+2024-04-11 20:29:28,345 [INFO]  
+========== start: fit model
+2024-04-11 20:29:28,345 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:28,356 [INFO]  Epoch[0] Batch [0-11]	Speed: 20905.60 samples/sec	cross-entropy=12.131875	age-accuracy=3.333333
+2024-04-11 20:29:28,371 [INFO]  Epoch[0] Train-cross-entropy=4.539462
+2024-04-11 20:29:28,371 [INFO]  Epoch[0] Train-age-accuracy=3.000000
+2024-04-11 20:29:28,371 [INFO]  Epoch[0] Time cost=0.025
+2024-04-11 20:29:28,374 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:28,375 [INFO]  Epoch[0] Validation-cross-entropy=3.891445
+2024-04-11 20:29:28,375 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:28,386 [INFO]  Epoch[1] Batch [0-11]	Speed: 19394.10 samples/sec	cross-entropy=0.971316	age-accuracy=3.333333
+2024-04-11 20:29:28,393 [INFO]  Epoch[1] Train-cross-entropy=0.761976
+2024-04-11 20:29:28,393 [INFO]  Epoch[1] Train-age-accuracy=3.000000
+2024-04-11 20:29:28,393 [INFO]  Epoch[1] Time cost=0.017
+2024-04-11 20:29:28,394 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:28,395 [INFO]  Epoch[1] Validation-cross-entropy=1.331803
+2024-04-11 20:29:28,395 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:28,402 [INFO]  Epoch[2] Batch [0-11]	Speed: 28517.25 samples/sec	cross-entropy=0.444342	age-accuracy=3.333333
+2024-04-11 20:29:28,408 [INFO]  Epoch[2] Train-cross-entropy=0.596307
+2024-04-11 20:29:28,408 [INFO]  Epoch[2] Train-age-accuracy=3.000000
+2024-04-11 20:29:28,408 [INFO]  Epoch[2] Time cost=0.013
+2024-04-11 20:29:28,409 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:28,410 [INFO]  Epoch[2] Validation-cross-entropy=1.065050
+2024-04-11 20:29:28,410 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:28,417 [INFO]  Epoch[3] Batch [0-11]	Speed: 28267.18 samples/sec	cross-entropy=0.288157	age-accuracy=3.333333
+2024-04-11 20:29:28,423 [INFO]  Epoch[3] Train-cross-entropy=0.262132
+2024-04-11 20:29:28,423 [INFO]  Epoch[3] Train-age-accuracy=3.000000
+2024-04-11 20:29:28,423 [INFO]  Epoch[3] Time cost=0.013
+2024-04-11 20:29:28,424 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:28,425 [INFO]  Epoch[3] Validation-cross-entropy=0.646612
+2024-04-11 20:29:28,425 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:28,432 [INFO]  Epoch[4] Batch [0-11]	Speed: 28243.39 samples/sec	cross-entropy=0.161170	age-accuracy=3.333333
+2024-04-11 20:29:28,438 [INFO]  Epoch[4] Train-cross-entropy=0.189133
+2024-04-11 20:29:28,438 [INFO]  Epoch[4] Train-age-accuracy=3.000000
+2024-04-11 20:29:28,438 [INFO]  Epoch[4] Time cost=0.013
+2024-04-11 20:29:28,439 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:28,440 [INFO]  Epoch[4] Validation-cross-entropy=0.427802
+2024-04-11 20:29:28,440 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:28,440 [INFO]  
+========== done (0.09496283531188965 s) fit model
+2024-04-11 20:29:31,172 [INFO]  
+========== start: fit model
+2024-04-11 20:29:31,172 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:31,183 [INFO]  Epoch[0] Batch [0-11]	Speed: 21478.59 samples/sec	cross-entropy=9.188131	age-accuracy=2.666667
+2024-04-11 20:29:31,189 [INFO]  Epoch[0] Train-cross-entropy=3.284560
+2024-04-11 20:29:31,189 [INFO]  Epoch[0] Train-age-accuracy=3.800000
+2024-04-11 20:29:31,189 [INFO]  Epoch[0] Time cost=0.016
+2024-04-11 20:29:31,191 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:31,192 [INFO]  Epoch[0] Validation-cross-entropy=1.161967
+2024-04-11 20:29:31,192 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:31,199 [INFO]  Epoch[1] Batch [0-11]	Speed: 27464.75 samples/sec	cross-entropy=1.086307	age-accuracy=2.666667
+2024-04-11 20:29:31,205 [INFO]  Epoch[1] Train-cross-entropy=0.584221
+2024-04-11 20:29:31,205 [INFO]  Epoch[1] Train-age-accuracy=3.800000
+2024-04-11 20:29:31,205 [INFO]  Epoch[1] Time cost=0.013
+2024-04-11 20:29:31,206 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:31,207 [INFO]  Epoch[1] Validation-cross-entropy=1.394167
+2024-04-11 20:29:31,207 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:31,214 [INFO]  Epoch[2] Batch [0-11]	Speed: 27955.67 samples/sec	cross-entropy=0.564129	age-accuracy=2.666667
+2024-04-11 20:29:31,220 [INFO]  Epoch[2] Train-cross-entropy=0.274749
+2024-04-11 20:29:31,220 [INFO]  Epoch[2] Train-age-accuracy=3.800000
+2024-04-11 20:29:31,220 [INFO]  Epoch[2] Time cost=0.013
+2024-04-11 20:29:31,221 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:31,222 [INFO]  Epoch[2] Validation-cross-entropy=0.428830
+2024-04-11 20:29:31,222 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:31,229 [INFO]  Epoch[3] Batch [0-11]	Speed: 27738.23 samples/sec	cross-entropy=0.262480	age-accuracy=2.666667
+2024-04-11 20:29:31,234 [INFO]  Epoch[3] Train-cross-entropy=0.128564
+2024-04-11 20:29:31,235 [INFO]  Epoch[3] Train-age-accuracy=3.800000
+2024-04-11 20:29:31,235 [INFO]  Epoch[3] Time cost=0.013
+2024-04-11 20:29:31,236 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:31,237 [INFO]  Epoch[3] Validation-cross-entropy=0.189323
+2024-04-11 20:29:31,237 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:31,244 [INFO]  Epoch[4] Batch [0-11]	Speed: 27254.85 samples/sec	cross-entropy=0.150581	age-accuracy=2.666667
+2024-04-11 20:29:31,249 [INFO]  Epoch[4] Train-cross-entropy=0.090385
+2024-04-11 20:29:31,249 [INFO]  Epoch[4] Train-age-accuracy=3.800000
+2024-04-11 20:29:31,249 [INFO]  Epoch[4] Time cost=0.013
+2024-04-11 20:29:31,251 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:31,251 [INFO]  Epoch[4] Validation-cross-entropy=0.120972
+2024-04-11 20:29:31,252 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:31,252 [INFO]  
+========== done (0.07973504066467285 s) fit model
+2024-04-11 20:29:33,740 [INFO]  
+========== start: fit model
+2024-04-11 20:29:33,740 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:33,751 [INFO]  Epoch[0] Batch [0-11]	Speed: 20557.45 samples/sec	cross-entropy=17.125338	age-accuracy=2.833333
+2024-04-11 20:29:33,758 [INFO]  Epoch[0] Train-cross-entropy=4.665371
+2024-04-11 20:29:33,759 [INFO]  Epoch[0] Train-age-accuracy=4.100000
+2024-04-11 20:29:33,759 [INFO]  Epoch[0] Time cost=0.017
+2024-04-11 20:29:33,760 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:33,761 [INFO]  Epoch[0] Validation-cross-entropy=2.642330
+2024-04-11 20:29:33,761 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:33,768 [INFO]  Epoch[1] Batch [0-11]	Speed: 26805.53 samples/sec	cross-entropy=1.621942	age-accuracy=2.833333
+2024-04-11 20:29:33,774 [INFO]  Epoch[1] Train-cross-entropy=0.785037
+2024-04-11 20:29:33,774 [INFO]  Epoch[1] Train-age-accuracy=4.100000
+2024-04-11 20:29:33,774 [INFO]  Epoch[1] Time cost=0.013
+2024-04-11 20:29:33,776 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:33,776 [INFO]  Epoch[1] Validation-cross-entropy=0.857131
+2024-04-11 20:29:33,776 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:33,783 [INFO]  Epoch[2] Batch [0-11]	Speed: 28692.38 samples/sec	cross-entropy=0.570384	age-accuracy=2.833333
+2024-04-11 20:29:33,790 [INFO]  Epoch[2] Train-cross-entropy=0.387543
+2024-04-11 20:29:33,790 [INFO]  Epoch[2] Train-age-accuracy=4.100000
+2024-04-11 20:29:33,790 [INFO]  Epoch[2] Time cost=0.014
+2024-04-11 20:29:33,791 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:33,792 [INFO]  Epoch[2] Validation-cross-entropy=0.383569
+2024-04-11 20:29:33,792 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:33,799 [INFO]  Epoch[3] Batch [0-11]	Speed: 28775.14 samples/sec	cross-entropy=0.337997	age-accuracy=2.833333
+2024-04-11 20:29:33,805 [INFO]  Epoch[3] Train-cross-entropy=0.243961
+2024-04-11 20:29:33,805 [INFO]  Epoch[3] Train-age-accuracy=4.100000
+2024-04-11 20:29:33,805 [INFO]  Epoch[3] Time cost=0.013
+2024-04-11 20:29:33,806 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:33,807 [INFO]  Epoch[3] Validation-cross-entropy=0.444278
+2024-04-11 20:29:33,807 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:33,816 [INFO]  Epoch[4] Batch [0-11]	Speed: 23000.39 samples/sec	cross-entropy=0.219499	age-accuracy=2.833333
+2024-04-11 20:29:33,822 [INFO]  Epoch[4] Train-cross-entropy=0.178342
+2024-04-11 20:29:33,822 [INFO]  Epoch[4] Train-age-accuracy=4.100000
+2024-04-11 20:29:33,822 [INFO]  Epoch[4] Time cost=0.014
+2024-04-11 20:29:33,823 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:33,824 [INFO]  Epoch[4] Validation-cross-entropy=0.227700
+2024-04-11 20:29:33,824 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:33,824 [INFO]  
+========== done (0.0840461254119873 s) fit model
+2024-04-11 20:29:36,716 [INFO]  
+========== start: fit model
+2024-04-11 20:29:36,716 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:36,724 [INFO]  Epoch[0] Batch [0-11]	Speed: 27560.11 samples/sec	cross-entropy=9.674910	age-accuracy=0.000000
+2024-04-11 20:29:36,730 [INFO]  Epoch[0] Train-cross-entropy=3.472857
+2024-04-11 20:29:36,730 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:29:36,730 [INFO]  Epoch[0] Time cost=0.013
+2024-04-11 20:29:36,732 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:36,733 [INFO]  Epoch[0] Validation-cross-entropy=0.880875
+2024-04-11 20:29:36,733 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:36,740 [INFO]  Epoch[1] Batch [0-11]	Speed: 28488.63 samples/sec	cross-entropy=0.829957	age-accuracy=0.000000
+2024-04-11 20:29:36,745 [INFO]  Epoch[1] Train-cross-entropy=0.380145
+2024-04-11 20:29:36,745 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:29:36,745 [INFO]  Epoch[1] Time cost=0.013
+2024-04-11 20:29:36,747 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:36,747 [INFO]  Epoch[1] Validation-cross-entropy=0.218414
+2024-04-11 20:29:36,747 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:36,755 [INFO]  Epoch[2] Batch [0-11]	Speed: 27654.06 samples/sec	cross-entropy=0.444059	age-accuracy=0.000000
+2024-04-11 20:29:36,760 [INFO]  Epoch[2] Train-cross-entropy=0.246065
+2024-04-11 20:29:36,760 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:29:36,760 [INFO]  Epoch[2] Time cost=0.013
+2024-04-11 20:29:36,762 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:36,762 [INFO]  Epoch[2] Validation-cross-entropy=0.145288
+2024-04-11 20:29:36,762 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:36,770 [INFO]  Epoch[3] Batch [0-11]	Speed: 27406.63 samples/sec	cross-entropy=0.240469	age-accuracy=0.000000
+2024-04-11 20:29:36,775 [INFO]  Epoch[3] Train-cross-entropy=0.127397
+2024-04-11 20:29:36,775 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:29:36,775 [INFO]  Epoch[3] Time cost=0.013
+2024-04-11 20:29:36,777 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:36,777 [INFO]  Epoch[3] Validation-cross-entropy=0.109488
+2024-04-11 20:29:36,777 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:36,784 [INFO]  Epoch[4] Batch [0-11]	Speed: 28247.71 samples/sec	cross-entropy=0.141606	age-accuracy=0.000000
+2024-04-11 20:29:36,790 [INFO]  Epoch[4] Train-cross-entropy=0.100039
+2024-04-11 20:29:36,790 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:29:36,790 [INFO]  Epoch[4] Time cost=0.013
+2024-04-11 20:29:36,792 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:36,792 [INFO]  Epoch[4] Validation-cross-entropy=0.099580
+2024-04-11 20:29:36,792 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:36,792 [INFO]  
+========== done (0.07661271095275879 s) fit model
+2024-04-11 20:29:39,418 [INFO]  
+========== start: fit model
+2024-04-11 20:29:39,418 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:39,431 [INFO]  Epoch[0] Batch [0-11]	Speed: 20705.64 samples/sec	cross-entropy=16.626171	age-accuracy=0.000000
+2024-04-11 20:29:39,437 [INFO]  Epoch[0] Train-cross-entropy=4.060400
+2024-04-11 20:29:39,437 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:29:39,437 [INFO]  Epoch[0] Time cost=0.018
+2024-04-11 20:29:39,439 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:39,440 [INFO]  Epoch[0] Validation-cross-entropy=2.401955
+2024-04-11 20:29:39,440 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:39,447 [INFO]  Epoch[1] Batch [0-11]	Speed: 28004.46 samples/sec	cross-entropy=2.241770	age-accuracy=0.000000
+2024-04-11 20:29:39,452 [INFO]  Epoch[1] Train-cross-entropy=0.930996
+2024-04-11 20:29:39,453 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:29:39,453 [INFO]  Epoch[1] Time cost=0.013
+2024-04-11 20:29:39,454 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:39,455 [INFO]  Epoch[1] Validation-cross-entropy=0.557570
+2024-04-11 20:29:39,455 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:39,462 [INFO]  Epoch[2] Batch [0-11]	Speed: 27686.21 samples/sec	cross-entropy=0.632294	age-accuracy=0.000000
+2024-04-11 20:29:39,468 [INFO]  Epoch[2] Train-cross-entropy=0.631606
+2024-04-11 20:29:39,468 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:29:39,468 [INFO]  Epoch[2] Time cost=0.013
+2024-04-11 20:29:39,469 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:39,470 [INFO]  Epoch[2] Validation-cross-entropy=0.429743
+2024-04-11 20:29:39,470 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:39,477 [INFO]  Epoch[3] Batch [0-11]	Speed: 28089.71 samples/sec	cross-entropy=0.385044	age-accuracy=0.000000
+2024-04-11 20:29:39,483 [INFO]  Epoch[3] Train-cross-entropy=0.338548
+2024-04-11 20:29:39,483 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:29:39,483 [INFO]  Epoch[3] Time cost=0.013
+2024-04-11 20:29:39,484 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:39,485 [INFO]  Epoch[3] Validation-cross-entropy=0.251186
+2024-04-11 20:29:39,485 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:39,492 [INFO]  Epoch[4] Batch [0-11]	Speed: 27124.66 samples/sec	cross-entropy=0.299052	age-accuracy=0.000000
+2024-04-11 20:29:39,498 [INFO]  Epoch[4] Train-cross-entropy=0.256401
+2024-04-11 20:29:39,498 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:29:39,498 [INFO]  Epoch[4] Time cost=0.013
+2024-04-11 20:29:39,500 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:39,501 [INFO]  Epoch[4] Validation-cross-entropy=0.333389
+2024-04-11 20:29:39,501 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:39,501 [INFO]  
+========== done (0.08265972137451172 s) fit model
+2024-04-11 20:29:41,981 [INFO]  
+========== start: fit model
+2024-04-11 20:29:41,981 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:41,992 [INFO]  Epoch[0] Batch [0-11]	Speed: 20300.79 samples/sec	cross-entropy=11.401566	age-accuracy=0.000000
+2024-04-11 20:29:41,998 [INFO]  Epoch[0] Train-cross-entropy=3.485884
+2024-04-11 20:29:41,998 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:29:41,998 [INFO]  Epoch[0] Time cost=0.017
+2024-04-11 20:29:42,000 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:42,001 [INFO]  Epoch[0] Validation-cross-entropy=2.231162
+2024-04-11 20:29:42,001 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:42,010 [INFO]  Epoch[1] Batch [0-11]	Speed: 22056.82 samples/sec	cross-entropy=0.949819	age-accuracy=0.000000
+2024-04-11 20:29:42,016 [INFO]  Epoch[1] Train-cross-entropy=0.468917
+2024-04-11 20:29:42,016 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:29:42,016 [INFO]  Epoch[1] Time cost=0.015
+2024-04-11 20:29:42,017 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:42,018 [INFO]  Epoch[1] Validation-cross-entropy=0.580749
+2024-04-11 20:29:42,018 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:42,025 [INFO]  Epoch[2] Batch [0-11]	Speed: 28523.86 samples/sec	cross-entropy=0.449193	age-accuracy=0.000000
+2024-04-11 20:29:42,031 [INFO]  Epoch[2] Train-cross-entropy=0.185133
+2024-04-11 20:29:42,031 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:29:42,031 [INFO]  Epoch[2] Time cost=0.013
+2024-04-11 20:29:42,032 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:42,033 [INFO]  Epoch[2] Validation-cross-entropy=0.415320
+2024-04-11 20:29:42,033 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:42,040 [INFO]  Epoch[3] Batch [0-11]	Speed: 28641.17 samples/sec	cross-entropy=0.208647	age-accuracy=0.000000
+2024-04-11 20:29:42,046 [INFO]  Epoch[3] Train-cross-entropy=0.105076
+2024-04-11 20:29:42,046 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:29:42,046 [INFO]  Epoch[3] Time cost=0.013
+2024-04-11 20:29:42,048 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:42,048 [INFO]  Epoch[3] Validation-cross-entropy=0.357780
+2024-04-11 20:29:42,048 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:42,055 [INFO]  Epoch[4] Batch [0-11]	Speed: 28129.31 samples/sec	cross-entropy=0.338708	age-accuracy=0.000000
+2024-04-11 20:29:42,061 [INFO]  Epoch[4] Train-cross-entropy=0.087438
+2024-04-11 20:29:42,061 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:29:42,061 [INFO]  Epoch[4] Time cost=0.013
+2024-04-11 20:29:42,063 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:42,064 [INFO]  Epoch[4] Validation-cross-entropy=0.251518
+2024-04-11 20:29:42,064 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:42,064 [INFO]  
+========== done (0.0832674503326416 s) fit model
+2024-04-11 20:29:44,572 [INFO]  
+========== start: fit model
+2024-04-11 20:29:44,572 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:44,582 [INFO]  Epoch[0] Batch [0-11]	Speed: 21113.68 samples/sec	cross-entropy=10.779392	age-accuracy=0.000000
+2024-04-11 20:29:44,588 [INFO]  Epoch[0] Train-cross-entropy=4.495929
+2024-04-11 20:29:44,588 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:29:44,588 [INFO]  Epoch[0] Time cost=0.016
+2024-04-11 20:29:44,590 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:44,591 [INFO]  Epoch[0] Validation-cross-entropy=1.062649
+2024-04-11 20:29:44,591 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:44,598 [INFO]  Epoch[1] Batch [0-11]	Speed: 27178.58 samples/sec	cross-entropy=1.329636	age-accuracy=0.000000
+2024-04-11 20:29:44,604 [INFO]  Epoch[1] Train-cross-entropy=0.670843
+2024-04-11 20:29:44,604 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:29:44,604 [INFO]  Epoch[1] Time cost=0.013
+2024-04-11 20:29:44,605 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:44,606 [INFO]  Epoch[1] Validation-cross-entropy=0.398189
+2024-04-11 20:29:44,606 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:44,615 [INFO]  Epoch[2] Batch [0-11]	Speed: 22876.37 samples/sec	cross-entropy=0.645236	age-accuracy=0.000000
+2024-04-11 20:29:44,623 [INFO]  Epoch[2] Train-cross-entropy=0.250094
+2024-04-11 20:29:44,623 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:29:44,623 [INFO]  Epoch[2] Time cost=0.017
+2024-04-11 20:29:44,624 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:44,625 [INFO]  Epoch[2] Validation-cross-entropy=0.182840
+2024-04-11 20:29:44,625 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:44,633 [INFO]  Epoch[3] Batch [0-11]	Speed: 23968.23 samples/sec	cross-entropy=0.245669	age-accuracy=0.000000
+2024-04-11 20:29:44,640 [INFO]  Epoch[3] Train-cross-entropy=0.215414
+2024-04-11 20:29:44,640 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:29:44,640 [INFO]  Epoch[3] Time cost=0.015
+2024-04-11 20:29:44,641 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:44,642 [INFO]  Epoch[3] Validation-cross-entropy=0.246319
+2024-04-11 20:29:44,642 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:44,650 [INFO]  Epoch[4] Batch [0-11]	Speed: 24072.18 samples/sec	cross-entropy=0.194093	age-accuracy=0.000000
+2024-04-11 20:29:44,656 [INFO]  Epoch[4] Train-cross-entropy=0.119771
+2024-04-11 20:29:44,656 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:29:44,656 [INFO]  Epoch[4] Time cost=0.014
+2024-04-11 20:29:44,658 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:44,658 [INFO]  Epoch[4] Validation-cross-entropy=0.161797
+2024-04-11 20:29:44,658 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:44,658 [INFO]  
+========== done (0.08681011199951172 s) fit model
+2024-04-11 20:29:47,207 [INFO]  
+========== start: fit model
+2024-04-11 20:29:47,207 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:47,218 [INFO]  Epoch[0] Batch [0-11]	Speed: 20714.94 samples/sec	cross-entropy=15.982954	age-accuracy=3.750000
+2024-04-11 20:29:47,226 [INFO]  Epoch[0] Train-cross-entropy=2.926445
+2024-04-11 20:29:47,226 [INFO]  Epoch[0] Train-age-accuracy=3.000000
+2024-04-11 20:29:47,226 [INFO]  Epoch[0] Time cost=0.018
+2024-04-11 20:29:47,227 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:47,228 [INFO]  Epoch[0] Validation-cross-entropy=1.578525
+2024-04-11 20:29:47,228 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:47,241 [INFO]  Epoch[1] Batch [0-11]	Speed: 14783.46 samples/sec	cross-entropy=1.384546	age-accuracy=3.750000
+2024-04-11 20:29:47,249 [INFO]  Epoch[1] Train-cross-entropy=1.104059
+2024-04-11 20:29:47,249 [INFO]  Epoch[1] Train-age-accuracy=3.000000
+2024-04-11 20:29:47,249 [INFO]  Epoch[1] Time cost=0.021
+2024-04-11 20:29:47,251 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:47,252 [INFO]  Epoch[1] Validation-cross-entropy=1.094482
+2024-04-11 20:29:47,252 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:47,261 [INFO]  Epoch[2] Batch [0-11]	Speed: 21919.28 samples/sec	cross-entropy=0.782606	age-accuracy=3.750000
+2024-04-11 20:29:47,269 [INFO]  Epoch[2] Train-cross-entropy=0.623549
+2024-04-11 20:29:47,269 [INFO]  Epoch[2] Train-age-accuracy=3.000000
+2024-04-11 20:29:47,269 [INFO]  Epoch[2] Time cost=0.017
+2024-04-11 20:29:47,270 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:47,271 [INFO]  Epoch[2] Validation-cross-entropy=0.378968
+2024-04-11 20:29:47,271 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:47,281 [INFO]  Epoch[3] Batch [0-11]	Speed: 20909.74 samples/sec	cross-entropy=0.266694	age-accuracy=3.750000
+2024-04-11 20:29:47,289 [INFO]  Epoch[3] Train-cross-entropy=0.355640
+2024-04-11 20:29:47,289 [INFO]  Epoch[3] Train-age-accuracy=3.000000
+2024-04-11 20:29:47,289 [INFO]  Epoch[3] Time cost=0.017
+2024-04-11 20:29:47,290 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:47,291 [INFO]  Epoch[3] Validation-cross-entropy=0.329905
+2024-04-11 20:29:47,291 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:47,301 [INFO]  Epoch[4] Batch [0-11]	Speed: 21054.06 samples/sec	cross-entropy=0.227418	age-accuracy=3.750000
+2024-04-11 20:29:47,308 [INFO]  Epoch[4] Train-cross-entropy=0.171703
+2024-04-11 20:29:47,309 [INFO]  Epoch[4] Train-age-accuracy=3.000000
+2024-04-11 20:29:47,309 [INFO]  Epoch[4] Time cost=0.017
+2024-04-11 20:29:47,310 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:47,311 [INFO]  Epoch[4] Validation-cross-entropy=0.207050
+2024-04-11 20:29:47,311 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:47,311 [INFO]  
+========== done (0.10435676574707031 s) fit model
+2024-04-11 20:29:49,788 [INFO]  
+========== start: fit model
+2024-04-11 20:29:49,788 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:49,798 [INFO]  Epoch[0] Batch [0-11]	Speed: 22181.42 samples/sec	cross-entropy=20.046246	age-accuracy=0.000000
+2024-04-11 20:29:49,805 [INFO]  Epoch[0] Train-cross-entropy=5.590456
+2024-04-11 20:29:49,805 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:29:49,805 [INFO]  Epoch[0] Time cost=0.016
+2024-04-11 20:29:49,807 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:49,808 [INFO]  Epoch[0] Validation-cross-entropy=3.022100
+2024-04-11 20:29:49,808 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:49,817 [INFO]  Epoch[1] Batch [0-11]	Speed: 21787.31 samples/sec	cross-entropy=1.981082	age-accuracy=0.000000
+2024-04-11 20:29:49,823 [INFO]  Epoch[1] Train-cross-entropy=1.138540
+2024-04-11 20:29:49,824 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:29:49,824 [INFO]  Epoch[1] Time cost=0.016
+2024-04-11 20:29:49,825 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:49,826 [INFO]  Epoch[1] Validation-cross-entropy=1.184266
+2024-04-11 20:29:49,826 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:49,833 [INFO]  Epoch[2] Batch [0-11]	Speed: 27031.29 samples/sec	cross-entropy=0.687900	age-accuracy=0.000000
+2024-04-11 20:29:49,841 [INFO]  Epoch[2] Train-cross-entropy=0.532911
+2024-04-11 20:29:49,841 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:29:49,841 [INFO]  Epoch[2] Time cost=0.015
+2024-04-11 20:29:49,842 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:49,843 [INFO]  Epoch[2] Validation-cross-entropy=1.381034
+2024-04-11 20:29:49,843 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:49,850 [INFO]  Epoch[3] Batch [0-11]	Speed: 28561.38 samples/sec	cross-entropy=0.440460	age-accuracy=0.000000
+2024-04-11 20:29:49,855 [INFO]  Epoch[3] Train-cross-entropy=0.417056
+2024-04-11 20:29:49,855 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:29:49,855 [INFO]  Epoch[3] Time cost=0.013
+2024-04-11 20:29:49,857 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:49,858 [INFO]  Epoch[3] Validation-cross-entropy=0.766550
+2024-04-11 20:29:49,858 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:49,865 [INFO]  Epoch[4] Batch [0-11]	Speed: 28009.77 samples/sec	cross-entropy=0.299365	age-accuracy=0.000000
+2024-04-11 20:29:49,870 [INFO]  Epoch[4] Train-cross-entropy=0.207556
+2024-04-11 20:29:49,870 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:29:49,870 [INFO]  Epoch[4] Time cost=0.013
+2024-04-11 20:29:49,872 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:49,873 [INFO]  Epoch[4] Validation-cross-entropy=0.569908
+2024-04-11 20:29:49,873 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:49,873 [INFO]  
+========== done (0.08461499214172363 s) fit model
+2024-04-11 20:29:52,392 [INFO]  
+========== start: fit model
+2024-04-11 20:29:52,392 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:52,403 [INFO]  Epoch[0] Batch [0-11]	Speed: 20506.06 samples/sec	cross-entropy=13.277698	age-accuracy=3.333333
+2024-04-11 20:29:52,411 [INFO]  Epoch[0] Train-cross-entropy=6.422788
+2024-04-11 20:29:52,411 [INFO]  Epoch[0] Train-age-accuracy=4.700000
+2024-04-11 20:29:52,411 [INFO]  Epoch[0] Time cost=0.018
+2024-04-11 20:29:52,414 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:52,416 [INFO]  Epoch[0] Validation-cross-entropy=0.978221
+2024-04-11 20:29:52,416 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:52,425 [INFO]  Epoch[1] Batch [0-11]	Speed: 21750.07 samples/sec	cross-entropy=1.507775	age-accuracy=3.333333
+2024-04-11 20:29:52,432 [INFO]  Epoch[1] Train-cross-entropy=0.822132
+2024-04-11 20:29:52,432 [INFO]  Epoch[1] Train-age-accuracy=4.700000
+2024-04-11 20:29:52,432 [INFO]  Epoch[1] Time cost=0.017
+2024-04-11 20:29:52,434 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:52,435 [INFO]  Epoch[1] Validation-cross-entropy=1.110256
+2024-04-11 20:29:52,435 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:52,444 [INFO]  Epoch[2] Batch [0-11]	Speed: 21429.33 samples/sec	cross-entropy=0.594319	age-accuracy=3.333333
+2024-04-11 20:29:52,452 [INFO]  Epoch[2] Train-cross-entropy=0.858597
+2024-04-11 20:29:52,452 [INFO]  Epoch[2] Train-age-accuracy=4.700000
+2024-04-11 20:29:52,453 [INFO]  Epoch[2] Time cost=0.017
+2024-04-11 20:29:52,454 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:52,455 [INFO]  Epoch[2] Validation-cross-entropy=0.296270
+2024-04-11 20:29:52,455 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:52,465 [INFO]  Epoch[3] Batch [0-11]	Speed: 21071.49 samples/sec	cross-entropy=0.377955	age-accuracy=3.333333
+2024-04-11 20:29:52,472 [INFO]  Epoch[3] Train-cross-entropy=0.639099
+2024-04-11 20:29:52,472 [INFO]  Epoch[3] Train-age-accuracy=4.700000
+2024-04-11 20:29:52,472 [INFO]  Epoch[3] Time cost=0.017
+2024-04-11 20:29:52,474 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:52,475 [INFO]  Epoch[3] Validation-cross-entropy=0.532220
+2024-04-11 20:29:52,475 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:52,484 [INFO]  Epoch[4] Batch [0-11]	Speed: 20834.79 samples/sec	cross-entropy=0.217129	age-accuracy=3.333333
+2024-04-11 20:29:52,492 [INFO]  Epoch[4] Train-cross-entropy=0.458586
+2024-04-11 20:29:52,492 [INFO]  Epoch[4] Train-age-accuracy=4.700000
+2024-04-11 20:29:52,492 [INFO]  Epoch[4] Time cost=0.017
+2024-04-11 20:29:52,493 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:52,494 [INFO]  Epoch[4] Validation-cross-entropy=0.064194
+2024-04-11 20:29:52,494 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:52,494 [INFO]  
+========== done (0.10243964195251465 s) fit model
+2024-04-11 20:29:55,062 [INFO]  
+========== start: fit model
+2024-04-11 20:29:55,062 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:55,077 [INFO]  Epoch[0] Batch [0-11]	Speed: 14835.76 samples/sec	cross-entropy=16.885384	age-accuracy=4.083333
+2024-04-11 20:29:55,086 [INFO]  Epoch[0] Train-cross-entropy=4.147816
+2024-04-11 20:29:55,086 [INFO]  Epoch[0] Train-age-accuracy=2.900000
+2024-04-11 20:29:55,086 [INFO]  Epoch[0] Time cost=0.022
+2024-04-11 20:29:55,087 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:55,088 [INFO]  Epoch[0] Validation-cross-entropy=1.818795
+2024-04-11 20:29:55,088 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:55,097 [INFO]  Epoch[1] Batch [0-11]	Speed: 24079.25 samples/sec	cross-entropy=1.709676	age-accuracy=4.083333
+2024-04-11 20:29:55,103 [INFO]  Epoch[1] Train-cross-entropy=0.902096
+2024-04-11 20:29:55,103 [INFO]  Epoch[1] Train-age-accuracy=2.900000
+2024-04-11 20:29:55,103 [INFO]  Epoch[1] Time cost=0.015
+2024-04-11 20:29:55,104 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:55,105 [INFO]  Epoch[1] Validation-cross-entropy=0.742582
+2024-04-11 20:29:55,105 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:55,113 [INFO]  Epoch[2] Batch [0-11]	Speed: 25051.67 samples/sec	cross-entropy=0.635904	age-accuracy=4.083333
+2024-04-11 20:29:55,120 [INFO]  Epoch[2] Train-cross-entropy=0.371350
+2024-04-11 20:29:55,120 [INFO]  Epoch[2] Train-age-accuracy=2.900000
+2024-04-11 20:29:55,120 [INFO]  Epoch[2] Time cost=0.014
+2024-04-11 20:29:55,121 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:55,122 [INFO]  Epoch[2] Validation-cross-entropy=0.209191
+2024-04-11 20:29:55,122 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:55,130 [INFO]  Epoch[3] Batch [0-11]	Speed: 25134.41 samples/sec	cross-entropy=0.240213	age-accuracy=4.083333
+2024-04-11 20:29:55,136 [INFO]  Epoch[3] Train-cross-entropy=0.187033
+2024-04-11 20:29:55,136 [INFO]  Epoch[3] Train-age-accuracy=2.900000
+2024-04-11 20:29:55,136 [INFO]  Epoch[3] Time cost=0.014
+2024-04-11 20:29:55,137 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:55,138 [INFO]  Epoch[3] Validation-cross-entropy=0.118594
+2024-04-11 20:29:55,138 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:55,146 [INFO]  Epoch[4] Batch [0-11]	Speed: 25638.98 samples/sec	cross-entropy=0.102279	age-accuracy=4.083333
+2024-04-11 20:29:55,162 [INFO]  Epoch[4] Train-cross-entropy=0.137014
+2024-04-11 20:29:55,162 [INFO]  Epoch[4] Train-age-accuracy=2.900000
+2024-04-11 20:29:55,162 [INFO]  Epoch[4] Time cost=0.024
+2024-04-11 20:29:55,167 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:55,168 [INFO]  Epoch[4] Validation-cross-entropy=0.114850
+2024-04-11 20:29:55,168 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:55,169 [INFO]  
+========== done (0.10622525215148926 s) fit model
+2024-04-11 20:29:57,665 [INFO]  
+========== start: fit model
+2024-04-11 20:29:57,665 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:29:57,676 [INFO]  Epoch[0] Batch [0-11]	Speed: 20621.19 samples/sec	cross-entropy=7.618736	age-accuracy=0.000000
+2024-04-11 20:29:57,684 [INFO]  Epoch[0] Train-cross-entropy=1.614268
+2024-04-11 20:29:57,684 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:29:57,684 [INFO]  Epoch[0] Time cost=0.018
+2024-04-11 20:29:57,685 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:29:57,687 [INFO]  Epoch[0] Validation-cross-entropy=0.462716
+2024-04-11 20:29:57,687 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:29:57,696 [INFO]  Epoch[1] Batch [0-11]	Speed: 20659.86 samples/sec	cross-entropy=0.713797	age-accuracy=0.000000
+2024-04-11 20:29:57,704 [INFO]  Epoch[1] Train-cross-entropy=0.426843
+2024-04-11 20:29:57,704 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:29:57,704 [INFO]  Epoch[1] Time cost=0.018
+2024-04-11 20:29:57,706 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:29:57,707 [INFO]  Epoch[1] Validation-cross-entropy=0.340897
+2024-04-11 20:29:57,707 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:29:57,716 [INFO]  Epoch[2] Batch [0-11]	Speed: 21037.26 samples/sec	cross-entropy=0.276065	age-accuracy=0.000000
+2024-04-11 20:29:57,724 [INFO]  Epoch[2] Train-cross-entropy=0.234947
+2024-04-11 20:29:57,724 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:29:57,724 [INFO]  Epoch[2] Time cost=0.017
+2024-04-11 20:29:57,725 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:29:57,726 [INFO]  Epoch[2] Validation-cross-entropy=0.124094
+2024-04-11 20:29:57,726 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:29:57,736 [INFO]  Epoch[3] Batch [0-11]	Speed: 20630.41 samples/sec	cross-entropy=0.188008	age-accuracy=0.000000
+2024-04-11 20:29:57,744 [INFO]  Epoch[3] Train-cross-entropy=0.148441
+2024-04-11 20:29:57,744 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:29:57,744 [INFO]  Epoch[3] Time cost=0.017
+2024-04-11 20:29:57,745 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:29:57,746 [INFO]  Epoch[3] Validation-cross-entropy=0.122810
+2024-04-11 20:29:57,746 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:29:57,755 [INFO]  Epoch[4] Batch [0-11]	Speed: 23348.86 samples/sec	cross-entropy=0.119661	age-accuracy=0.000000
+2024-04-11 20:29:57,761 [INFO]  Epoch[4] Train-cross-entropy=0.122322
+2024-04-11 20:29:57,761 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:29:57,761 [INFO]  Epoch[4] Time cost=0.015
+2024-04-11 20:29:57,763 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:29:57,764 [INFO]  Epoch[4] Validation-cross-entropy=0.108183
+2024-04-11 20:29:57,764 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:29:57,764 [INFO]  
+========== done (0.09909200668334961 s) fit model
+2024-04-11 20:30:00,404 [INFO]  
+========== start: fit model
+2024-04-11 20:30:00,404 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:30:00,416 [INFO]  Epoch[0] Batch [0-11]	Speed: 19581.36 samples/sec	cross-entropy=17.205662	age-accuracy=0.000000
+2024-04-11 20:30:00,423 [INFO]  Epoch[0] Train-cross-entropy=4.081745
+2024-04-11 20:30:00,423 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:30:00,423 [INFO]  Epoch[0] Time cost=0.018
+2024-04-11 20:30:00,424 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:30:00,425 [INFO]  Epoch[0] Validation-cross-entropy=3.810162
+2024-04-11 20:30:00,425 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:30:00,434 [INFO]  Epoch[1] Batch [0-11]	Speed: 23592.12 samples/sec	cross-entropy=2.139848	age-accuracy=0.000000
+2024-04-11 20:30:00,440 [INFO]  Epoch[1] Train-cross-entropy=0.725039
+2024-04-11 20:30:00,440 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:30:00,440 [INFO]  Epoch[1] Time cost=0.015
+2024-04-11 20:30:00,442 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:30:00,443 [INFO]  Epoch[1] Validation-cross-entropy=0.282029
+2024-04-11 20:30:00,443 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:30:00,452 [INFO]  Epoch[2] Batch [0-11]	Speed: 21401.99 samples/sec	cross-entropy=0.445742	age-accuracy=0.000000
+2024-04-11 20:30:00,466 [INFO]  Epoch[2] Train-cross-entropy=0.297973
+2024-04-11 20:30:00,466 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:30:00,466 [INFO]  Epoch[2] Time cost=0.023
+2024-04-11 20:30:00,467 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:30:00,468 [INFO]  Epoch[2] Validation-cross-entropy=0.192622
+2024-04-11 20:30:00,469 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:30:00,477 [INFO]  Epoch[3] Batch [0-11]	Speed: 25763.36 samples/sec	cross-entropy=0.240922	age-accuracy=0.000000
+2024-04-11 20:30:00,483 [INFO]  Epoch[3] Train-cross-entropy=0.164102
+2024-04-11 20:30:00,483 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:30:00,483 [INFO]  Epoch[3] Time cost=0.014
+2024-04-11 20:30:00,484 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:30:00,485 [INFO]  Epoch[3] Validation-cross-entropy=0.131323
+2024-04-11 20:30:00,485 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:30:00,494 [INFO]  Epoch[4] Batch [0-11]	Speed: 22107.68 samples/sec	cross-entropy=0.190069	age-accuracy=0.000000
+2024-04-11 20:30:00,499 [INFO]  Epoch[4] Train-cross-entropy=0.112925
+2024-04-11 20:30:00,499 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:30:00,499 [INFO]  Epoch[4] Time cost=0.015
+2024-04-11 20:30:00,506 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:30:00,507 [INFO]  Epoch[4] Validation-cross-entropy=0.101124
+2024-04-11 20:30:00,507 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:30:00,508 [INFO]  
+========== done (0.10330915451049805 s) fit model
+2024-04-11 20:30:03,018 [INFO]  
+========== start: fit model
+2024-04-11 20:30:03,018 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:30:03,027 [INFO]  Epoch[0] Batch [0-11]	Speed: 26570.11 samples/sec	cross-entropy=9.198042	age-accuracy=4.000000
+2024-04-11 20:30:03,033 [INFO]  Epoch[0] Train-cross-entropy=3.931191
+2024-04-11 20:30:03,033 [INFO]  Epoch[0] Train-age-accuracy=2.400000
+2024-04-11 20:30:03,033 [INFO]  Epoch[0] Time cost=0.014
+2024-04-11 20:30:03,034 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:30:03,035 [INFO]  Epoch[0] Validation-cross-entropy=3.638143
+2024-04-11 20:30:03,035 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:30:03,043 [INFO]  Epoch[1] Batch [0-11]	Speed: 26470.08 samples/sec	cross-entropy=0.726458	age-accuracy=4.000000
+2024-04-11 20:30:03,049 [INFO]  Epoch[1] Train-cross-entropy=0.767439
+2024-04-11 20:30:03,049 [INFO]  Epoch[1] Train-age-accuracy=2.400000
+2024-04-11 20:30:03,049 [INFO]  Epoch[1] Time cost=0.013
+2024-04-11 20:30:03,050 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:30:03,051 [INFO]  Epoch[1] Validation-cross-entropy=2.161827
+2024-04-11 20:30:03,051 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:30:03,061 [INFO]  Epoch[2] Batch [0-11]	Speed: 19321.00 samples/sec	cross-entropy=0.342164	age-accuracy=4.000000
+2024-04-11 20:30:03,074 [INFO]  Epoch[2] Train-cross-entropy=0.376751
+2024-04-11 20:30:03,074 [INFO]  Epoch[2] Train-age-accuracy=2.400000
+2024-04-11 20:30:03,074 [INFO]  Epoch[2] Time cost=0.023
+2024-04-11 20:30:03,075 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:30:03,076 [INFO]  Epoch[2] Validation-cross-entropy=1.892647
+2024-04-11 20:30:03,076 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:30:03,083 [INFO]  Epoch[3] Batch [0-11]	Speed: 27307.27 samples/sec	cross-entropy=0.150124	age-accuracy=4.000000
+2024-04-11 20:30:03,093 [INFO]  Epoch[3] Train-cross-entropy=0.209903
+2024-04-11 20:30:03,093 [INFO]  Epoch[3] Train-age-accuracy=2.400000
+2024-04-11 20:30:03,094 [INFO]  Epoch[3] Time cost=0.017
+2024-04-11 20:30:03,095 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:30:03,097 [INFO]  Epoch[3] Validation-cross-entropy=1.555185
+2024-04-11 20:30:03,097 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:30:03,107 [INFO]  Epoch[4] Batch [0-11]	Speed: 18100.17 samples/sec	cross-entropy=0.101326	age-accuracy=4.000000
+2024-04-11 20:30:03,115 [INFO]  Epoch[4] Train-cross-entropy=0.136250
+2024-04-11 20:30:03,115 [INFO]  Epoch[4] Train-age-accuracy=2.400000
+2024-04-11 20:30:03,115 [INFO]  Epoch[4] Time cost=0.019
+2024-04-11 20:30:03,117 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:30:03,118 [INFO]  Epoch[4] Validation-cross-entropy=1.376807
+2024-04-11 20:30:03,118 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:30:03,118 [INFO]  
+========== done (0.10022497177124023 s) fit model
+2024-04-11 20:30:05,780 [INFO]  
+========== start: fit model
+2024-04-11 20:30:05,780 [WARNING]  Already bound, ignoring bind()
+2024-04-11 20:30:05,791 [INFO]  Epoch[0] Batch [0-11]	Speed: 21240.04 samples/sec	cross-entropy=21.000411	age-accuracy=0.000000
+2024-04-11 20:30:05,797 [INFO]  Epoch[0] Train-cross-entropy=8.883270
+2024-04-11 20:30:05,797 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-11 20:30:05,797 [INFO]  Epoch[0] Time cost=0.016
+2024-04-11 20:30:05,799 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0000.params"
+2024-04-11 20:30:05,800 [INFO]  Epoch[0] Validation-cross-entropy=3.090306
+2024-04-11 20:30:05,800 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-11 20:30:05,807 [INFO]  Epoch[1] Batch [0-11]	Speed: 28435.96 samples/sec	cross-entropy=2.338633	age-accuracy=0.000000
+2024-04-11 20:30:05,814 [INFO]  Epoch[1] Train-cross-entropy=0.822847
+2024-04-11 20:30:05,814 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-11 20:30:05,814 [INFO]  Epoch[1] Time cost=0.014
+2024-04-11 20:30:05,816 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0001.params"
+2024-04-11 20:30:05,817 [INFO]  Epoch[1] Validation-cross-entropy=0.671068
+2024-04-11 20:30:05,817 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-11 20:30:05,824 [INFO]  Epoch[2] Batch [0-11]	Speed: 28675.66 samples/sec	cross-entropy=0.541868	age-accuracy=0.000000
+2024-04-11 20:30:05,830 [INFO]  Epoch[2] Train-cross-entropy=0.352067
+2024-04-11 20:30:05,830 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-11 20:30:05,830 [INFO]  Epoch[2] Time cost=0.013
+2024-04-11 20:30:05,832 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0002.params"
+2024-04-11 20:30:05,832 [INFO]  Epoch[2] Validation-cross-entropy=0.715695
+2024-04-11 20:30:05,832 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-11 20:30:05,839 [INFO]  Epoch[3] Batch [0-11]	Speed: 28324.67 samples/sec	cross-entropy=0.395890	age-accuracy=0.000000
+2024-04-11 20:30:05,845 [INFO]  Epoch[3] Train-cross-entropy=0.281611
+2024-04-11 20:30:05,845 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-11 20:30:05,845 [INFO]  Epoch[3] Time cost=0.013
+2024-04-11 20:30:05,847 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0003.params"
+2024-04-11 20:30:05,847 [INFO]  Epoch[3] Validation-cross-entropy=0.495798
+2024-04-11 20:30:05,847 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-11 20:30:05,855 [INFO]  Epoch[4] Batch [0-11]	Speed: 27089.82 samples/sec	cross-entropy=0.249870	age-accuracy=0.000000
+2024-04-11 20:30:05,863 [INFO]  Epoch[4] Train-cross-entropy=0.133013
+2024-04-11 20:30:05,863 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-11 20:30:05,863 [INFO]  Epoch[4] Time cost=0.016
+2024-04-11 20:30:05,866 [INFO]  Saved checkpoint to "./imputer_model/33_thoracic/imputer_model_age/model-0004.params"
+2024-04-11 20:30:05,868 [INFO]  Epoch[4] Validation-cross-entropy=0.435518
+2024-04-11 20:30:05,868 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-11 20:30:05,868 [INFO]  
+========== done (0.0876617431640625 s) fit model

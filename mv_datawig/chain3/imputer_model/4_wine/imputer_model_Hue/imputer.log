@@ -1,0 +1,2400 @@
+2024-04-07 11:48:53,801 [INFO]  
+========== start: fit model
+2024-04-07 11:48:53,802 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:48:53,904 [INFO]  Epoch[0] Batch [0-4]	Speed: 13485.83 samples/sec	cross-entropy=14.015701	Hue-accuracy=3.600000
+2024-04-07 11:48:53,907 [INFO]  Epoch[0] Train-cross-entropy=3.342008
+2024-04-07 11:48:53,907 [INFO]  Epoch[0] Train-Hue-accuracy=4.000000
+2024-04-07 11:48:53,907 [INFO]  Epoch[0] Time cost=0.104
+2024-04-07 11:48:53,909 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:48:53,910 [INFO]  Epoch[0] Validation-cross-entropy=1.022900
+2024-04-07 11:48:53,910 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:48:53,916 [INFO]  Epoch[1] Batch [0-4]	Speed: 13229.94 samples/sec	cross-entropy=2.643621	Hue-accuracy=3.600000
+2024-04-07 11:48:53,918 [INFO]  Epoch[1] Train-cross-entropy=1.446759
+2024-04-07 11:48:53,918 [INFO]  Epoch[1] Train-Hue-accuracy=4.000000
+2024-04-07 11:48:53,918 [INFO]  Epoch[1] Time cost=0.008
+2024-04-07 11:48:53,919 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:48:53,920 [INFO]  Epoch[1] Validation-cross-entropy=4.971327
+2024-04-07 11:48:53,920 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:48:53,928 [INFO]  Epoch[2] Batch [0-4]	Speed: 15239.89 samples/sec	cross-entropy=1.807213	Hue-accuracy=3.600000
+2024-04-07 11:48:53,931 [INFO]  Epoch[2] Train-cross-entropy=0.773122
+2024-04-07 11:48:53,931 [INFO]  Epoch[2] Train-Hue-accuracy=4.000000
+2024-04-07 11:48:53,931 [INFO]  Epoch[2] Time cost=0.011
+2024-04-07 11:48:53,933 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:48:53,934 [INFO]  Epoch[2] Validation-cross-entropy=2.036765
+2024-04-07 11:48:53,934 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:48:53,940 [INFO]  Epoch[3] Batch [0-4]	Speed: 14938.81 samples/sec	cross-entropy=0.676722	Hue-accuracy=3.600000
+2024-04-07 11:48:53,944 [INFO]  Epoch[3] Train-cross-entropy=0.432295
+2024-04-07 11:48:53,944 [INFO]  Epoch[3] Train-Hue-accuracy=4.000000
+2024-04-07 11:48:53,944 [INFO]  Epoch[3] Time cost=0.009
+2024-04-07 11:48:53,945 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:48:54,063 [INFO]  Epoch[3] Validation-cross-entropy=0.281944
+2024-04-07 11:48:54,063 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:48:54,100 [INFO]  Epoch[4] Batch [0-4]	Speed: 14183.42 samples/sec	cross-entropy=0.362241	Hue-accuracy=3.600000
+2024-04-07 11:48:54,184 [INFO]  Epoch[4] Train-cross-entropy=0.328200
+2024-04-07 11:48:54,184 [INFO]  Epoch[4] Train-Hue-accuracy=4.000000
+2024-04-07 11:48:54,184 [INFO]  Epoch[4] Time cost=0.121
+2024-04-07 11:48:54,185 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:48:54,186 [INFO]  Epoch[4] Validation-cross-entropy=0.179820
+2024-04-07 11:48:54,186 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:48:54,186 [INFO]  
+========== done (0.3848423957824707 s) fit model
+2024-04-07 11:49:00,141 [INFO]  
+========== start: fit model
+2024-04-07 11:49:00,141 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:49:00,348 [INFO]  Epoch[0] Batch [0-4]	Speed: 328.41 samples/sec	cross-entropy=11.655966	Hue-accuracy=0.000000
+2024-04-07 11:49:00,351 [INFO]  Epoch[0] Train-cross-entropy=4.598647
+2024-04-07 11:49:00,352 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:00,352 [INFO]  Epoch[0] Time cost=0.209
+2024-04-07 11:49:00,353 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:49:00,354 [INFO]  Epoch[0] Validation-cross-entropy=5.170567
+2024-04-07 11:49:00,354 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:00,360 [INFO]  Epoch[1] Batch [0-4]	Speed: 13709.68 samples/sec	cross-entropy=3.502229	Hue-accuracy=0.000000
+2024-04-07 11:49:00,363 [INFO]  Epoch[1] Train-cross-entropy=2.151997
+2024-04-07 11:49:00,363 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:00,363 [INFO]  Epoch[1] Time cost=0.009
+2024-04-07 11:49:00,365 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:49:00,366 [INFO]  Epoch[1] Validation-cross-entropy=2.403093
+2024-04-07 11:49:00,366 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:00,371 [INFO]  Epoch[2] Batch [0-4]	Speed: 15178.71 samples/sec	cross-entropy=1.947394	Hue-accuracy=0.000000
+2024-04-07 11:49:00,374 [INFO]  Epoch[2] Train-cross-entropy=0.999288
+2024-04-07 11:49:00,374 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:00,374 [INFO]  Epoch[2] Time cost=0.009
+2024-04-07 11:49:00,376 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:49:00,377 [INFO]  Epoch[2] Validation-cross-entropy=1.008968
+2024-04-07 11:49:00,377 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:00,383 [INFO]  Epoch[3] Batch [0-4]	Speed: 14164.71 samples/sec	cross-entropy=0.843307	Hue-accuracy=0.000000
+2024-04-07 11:49:00,387 [INFO]  Epoch[3] Train-cross-entropy=0.505747
+2024-04-07 11:49:00,387 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:00,387 [INFO]  Epoch[3] Time cost=0.009
+2024-04-07 11:49:00,389 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:49:00,390 [INFO]  Epoch[3] Validation-cross-entropy=0.609205
+2024-04-07 11:49:00,390 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:00,396 [INFO]  Epoch[4] Batch [0-4]	Speed: 13849.73 samples/sec	cross-entropy=0.424793	Hue-accuracy=0.000000
+2024-04-07 11:49:00,399 [INFO]  Epoch[4] Train-cross-entropy=0.417412
+2024-04-07 11:49:00,400 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:00,400 [INFO]  Epoch[4] Time cost=0.010
+2024-04-07 11:49:00,402 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:49:00,403 [INFO]  Epoch[4] Validation-cross-entropy=0.418013
+2024-04-07 11:49:00,403 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:00,403 [INFO]  
+========== done (0.261552095413208 s) fit model
+2024-04-07 11:49:09,115 [INFO]  
+========== start: fit model
+2024-04-07 11:49:09,115 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:49:09,122 [INFO]  Epoch[0] Batch [0-4]	Speed: 26358.55 samples/sec	cross-entropy=5.507896	Hue-accuracy=0.000000
+2024-04-07 11:49:09,124 [INFO]  Epoch[0] Train-cross-entropy=5.165513
+2024-04-07 11:49:09,124 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:09,124 [INFO]  Epoch[0] Time cost=0.007
+2024-04-07 11:49:09,126 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:49:09,126 [INFO]  Epoch[0] Validation-cross-entropy=1.972491
+2024-04-07 11:49:09,126 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:09,179 [INFO]  Epoch[1] Batch [0-4]	Speed: 1226.56 samples/sec	cross-entropy=2.355288	Hue-accuracy=0.000000
+2024-04-07 11:49:09,183 [INFO]  Epoch[1] Train-cross-entropy=1.368508
+2024-04-07 11:49:09,183 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:09,183 [INFO]  Epoch[1] Time cost=0.056
+2024-04-07 11:49:09,184 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:49:09,185 [INFO]  Epoch[1] Validation-cross-entropy=0.617760
+2024-04-07 11:49:09,185 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:09,191 [INFO]  Epoch[2] Batch [0-4]	Speed: 15125.68 samples/sec	cross-entropy=0.823178	Hue-accuracy=0.000000
+2024-04-07 11:49:09,194 [INFO]  Epoch[2] Train-cross-entropy=0.386936
+2024-04-07 11:49:09,194 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:09,194 [INFO]  Epoch[2] Time cost=0.009
+2024-04-07 11:49:09,196 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:49:09,196 [INFO]  Epoch[2] Validation-cross-entropy=0.500061
+2024-04-07 11:49:09,196 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:09,202 [INFO]  Epoch[3] Batch [0-4]	Speed: 14977.99 samples/sec	cross-entropy=0.300197	Hue-accuracy=0.000000
+2024-04-07 11:49:09,205 [INFO]  Epoch[3] Train-cross-entropy=0.347621
+2024-04-07 11:49:09,205 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:09,205 [INFO]  Epoch[3] Time cost=0.009
+2024-04-07 11:49:09,209 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:49:09,320 [INFO]  Epoch[3] Validation-cross-entropy=0.324240
+2024-04-07 11:49:09,320 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:09,619 [INFO]  Epoch[4] Batch [0-4]	Speed: 2058.36 samples/sec	cross-entropy=0.168152	Hue-accuracy=0.000000
+2024-04-07 11:49:09,623 [INFO]  Epoch[4] Train-cross-entropy=0.220650
+2024-04-07 11:49:09,623 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:09,623 [INFO]  Epoch[4] Time cost=0.303
+2024-04-07 11:49:09,625 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:49:09,629 [INFO]  Epoch[4] Validation-cross-entropy=0.401909
+2024-04-07 11:49:09,629 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:09,629 [INFO]  
+========== done (0.5142030715942383 s) fit model
+2024-04-07 11:49:17,520 [INFO]  
+========== start: fit model
+2024-04-07 11:49:17,520 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:49:17,571 [INFO]  Epoch[0] Batch [0-4]	Speed: 1674.62 samples/sec	cross-entropy=17.151979	Hue-accuracy=0.000000
+2024-04-07 11:49:17,642 [INFO]  Epoch[0] Train-cross-entropy=8.589223
+2024-04-07 11:49:17,642 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:17,642 [INFO]  Epoch[0] Time cost=0.121
+2024-04-07 11:49:17,644 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:49:17,645 [INFO]  Epoch[0] Validation-cross-entropy=5.411620
+2024-04-07 11:49:17,645 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:17,650 [INFO]  Epoch[1] Batch [0-4]	Speed: 14912.25 samples/sec	cross-entropy=3.853842	Hue-accuracy=0.000000
+2024-04-07 11:49:17,654 [INFO]  Epoch[1] Train-cross-entropy=3.681070
+2024-04-07 11:49:17,654 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:17,654 [INFO]  Epoch[1] Time cost=0.009
+2024-04-07 11:49:17,656 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:49:17,657 [INFO]  Epoch[1] Validation-cross-entropy=0.924601
+2024-04-07 11:49:17,657 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:17,662 [INFO]  Epoch[2] Batch [0-4]	Speed: 14634.22 samples/sec	cross-entropy=1.715005	Hue-accuracy=0.000000
+2024-04-07 11:49:17,698 [INFO]  Epoch[2] Train-cross-entropy=2.591023
+2024-04-07 11:49:17,699 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:17,699 [INFO]  Epoch[2] Time cost=0.042
+2024-04-07 11:49:17,702 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:49:17,805 [INFO]  Epoch[2] Validation-cross-entropy=0.551767
+2024-04-07 11:49:17,805 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:17,987 [INFO]  Epoch[3] Batch [0-4]	Speed: 1476.28 samples/sec	cross-entropy=0.784473	Hue-accuracy=0.000000
+2024-04-07 11:49:18,003 [INFO]  Epoch[3] Train-cross-entropy=0.778018
+2024-04-07 11:49:18,003 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:18,003 [INFO]  Epoch[3] Time cost=0.198
+2024-04-07 11:49:18,005 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:49:18,006 [INFO]  Epoch[3] Validation-cross-entropy=0.335623
+2024-04-07 11:49:18,006 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:18,033 [INFO]  Epoch[4] Batch [0-4]	Speed: 2507.31 samples/sec	cross-entropy=0.347718	Hue-accuracy=0.000000
+2024-04-07 11:49:18,107 [INFO]  Epoch[4] Train-cross-entropy=0.499425
+2024-04-07 11:49:18,107 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:18,107 [INFO]  Epoch[4] Time cost=0.102
+2024-04-07 11:49:18,109 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:49:18,110 [INFO]  Epoch[4] Validation-cross-entropy=0.433462
+2024-04-07 11:49:18,110 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:18,110 [INFO]  
+========== done (0.5900759696960449 s) fit model
+2024-04-07 11:49:27,568 [INFO]  
+========== start: fit model
+2024-04-07 11:49:27,568 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:49:27,826 [INFO]  Epoch[0] Batch [0-4]	Speed: 719.43 samples/sec	cross-entropy=14.592573	Hue-accuracy=0.000000
+2024-04-07 11:49:27,828 [INFO]  Epoch[0] Train-cross-entropy=5.840290
+2024-04-07 11:49:27,828 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:27,828 [INFO]  Epoch[0] Time cost=0.259
+2024-04-07 11:49:27,830 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:49:27,831 [INFO]  Epoch[0] Validation-cross-entropy=2.938088
+2024-04-07 11:49:27,832 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:27,837 [INFO]  Epoch[1] Batch [0-4]	Speed: 15551.56 samples/sec	cross-entropy=2.933646	Hue-accuracy=0.000000
+2024-04-07 11:49:27,840 [INFO]  Epoch[1] Train-cross-entropy=2.533536
+2024-04-07 11:49:27,840 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:27,840 [INFO]  Epoch[1] Time cost=0.009
+2024-04-07 11:49:27,842 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:49:27,843 [INFO]  Epoch[1] Validation-cross-entropy=3.463229
+2024-04-07 11:49:27,843 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:27,849 [INFO]  Epoch[2] Batch [0-4]	Speed: 15252.01 samples/sec	cross-entropy=2.059185	Hue-accuracy=0.000000
+2024-04-07 11:49:27,852 [INFO]  Epoch[2] Train-cross-entropy=1.280898
+2024-04-07 11:49:27,852 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:27,852 [INFO]  Epoch[2] Time cost=0.009
+2024-04-07 11:49:27,854 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:49:27,855 [INFO]  Epoch[2] Validation-cross-entropy=1.553341
+2024-04-07 11:49:27,855 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:27,860 [INFO]  Epoch[3] Batch [0-4]	Speed: 17926.77 samples/sec	cross-entropy=0.983724	Hue-accuracy=0.000000
+2024-04-07 11:49:27,862 [INFO]  Epoch[3] Train-cross-entropy=0.569946
+2024-04-07 11:49:27,862 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:27,862 [INFO]  Epoch[3] Time cost=0.007
+2024-04-07 11:49:27,864 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:49:27,864 [INFO]  Epoch[3] Validation-cross-entropy=0.790430
+2024-04-07 11:49:27,864 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:27,870 [INFO]  Epoch[4] Batch [0-4]	Speed: 14486.53 samples/sec	cross-entropy=0.689849	Hue-accuracy=0.000000
+2024-04-07 11:49:27,873 [INFO]  Epoch[4] Train-cross-entropy=0.455279
+2024-04-07 11:49:27,873 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:27,873 [INFO]  Epoch[4] Time cost=0.009
+2024-04-07 11:49:27,875 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:49:27,876 [INFO]  Epoch[4] Validation-cross-entropy=0.724862
+2024-04-07 11:49:27,876 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:27,876 [INFO]  
+========== done (0.30782294273376465 s) fit model
+2024-04-07 11:49:37,230 [INFO]  
+========== start: fit model
+2024-04-07 11:49:37,231 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:49:37,237 [INFO]  Epoch[0] Batch [0-4]	Speed: 20020.54 samples/sec	cross-entropy=10.241519	Hue-accuracy=0.000000
+2024-04-07 11:49:37,240 [INFO]  Epoch[0] Train-cross-entropy=5.603051
+2024-04-07 11:49:37,240 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:37,240 [INFO]  Epoch[0] Time cost=0.009
+2024-04-07 11:49:37,242 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:49:37,242 [INFO]  Epoch[0] Validation-cross-entropy=4.523035
+2024-04-07 11:49:37,242 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:37,246 [INFO]  Epoch[1] Batch [0-4]	Speed: 25269.27 samples/sec	cross-entropy=3.215348	Hue-accuracy=0.000000
+2024-04-07 11:49:37,248 [INFO]  Epoch[1] Train-cross-entropy=2.108989
+2024-04-07 11:49:37,248 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:37,248 [INFO]  Epoch[1] Time cost=0.006
+2024-04-07 11:49:37,250 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:49:37,251 [INFO]  Epoch[1] Validation-cross-entropy=1.903633
+2024-04-07 11:49:37,251 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:37,256 [INFO]  Epoch[2] Batch [0-4]	Speed: 14806.96 samples/sec	cross-entropy=1.809591	Hue-accuracy=0.000000
+2024-04-07 11:49:37,260 [INFO]  Epoch[2] Train-cross-entropy=0.882746
+2024-04-07 11:49:37,260 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:37,260 [INFO]  Epoch[2] Time cost=0.009
+2024-04-07 11:49:37,261 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:49:37,262 [INFO]  Epoch[2] Validation-cross-entropy=0.759402
+2024-04-07 11:49:37,262 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:37,267 [INFO]  Epoch[3] Batch [0-4]	Speed: 15101.00 samples/sec	cross-entropy=0.614794	Hue-accuracy=0.000000
+2024-04-07 11:49:37,271 [INFO]  Epoch[3] Train-cross-entropy=0.500751
+2024-04-07 11:49:37,271 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:37,271 [INFO]  Epoch[3] Time cost=0.009
+2024-04-07 11:49:37,272 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:49:37,273 [INFO]  Epoch[3] Validation-cross-entropy=0.494120
+2024-04-07 11:49:37,273 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:37,279 [INFO]  Epoch[4] Batch [0-4]	Speed: 14493.57 samples/sec	cross-entropy=0.388025	Hue-accuracy=0.000000
+2024-04-07 11:49:37,282 [INFO]  Epoch[4] Train-cross-entropy=0.396311
+2024-04-07 11:49:37,282 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:37,282 [INFO]  Epoch[4] Time cost=0.009
+2024-04-07 11:49:37,283 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:49:37,284 [INFO]  Epoch[4] Validation-cross-entropy=0.412761
+2024-04-07 11:49:37,284 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:37,284 [INFO]  
+========== done (0.053705453872680664 s) fit model
+2024-04-07 11:49:45,694 [INFO]  
+========== start: fit model
+2024-04-07 11:49:45,694 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:49:45,748 [INFO]  Epoch[0] Batch [0-4]	Speed: 9375.37 samples/sec	cross-entropy=16.107605	Hue-accuracy=0.000000
+2024-04-07 11:49:45,751 [INFO]  Epoch[0] Train-cross-entropy=3.999566
+2024-04-07 11:49:45,751 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:45,751 [INFO]  Epoch[0] Time cost=0.055
+2024-04-07 11:49:45,755 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:49:45,760 [INFO]  Epoch[0] Validation-cross-entropy=3.808802
+2024-04-07 11:49:45,760 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:45,763 [INFO]  Epoch[1] Batch [0-4]	Speed: 28235.56 samples/sec	cross-entropy=4.439813	Hue-accuracy=0.000000
+2024-04-07 11:49:45,765 [INFO]  Epoch[1] Train-cross-entropy=1.886379
+2024-04-07 11:49:45,765 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:45,765 [INFO]  Epoch[1] Time cost=0.005
+2024-04-07 11:49:45,766 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:49:45,767 [INFO]  Epoch[1] Validation-cross-entropy=1.365611
+2024-04-07 11:49:45,767 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:45,884 [INFO]  Epoch[2] Batch [0-4]	Speed: 547.08 samples/sec	cross-entropy=2.474254	Hue-accuracy=0.000000
+2024-04-07 11:49:45,887 [INFO]  Epoch[2] Train-cross-entropy=0.889908
+2024-04-07 11:49:45,887 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:45,887 [INFO]  Epoch[2] Time cost=0.120
+2024-04-07 11:49:45,888 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:49:45,889 [INFO]  Epoch[2] Validation-cross-entropy=0.650912
+2024-04-07 11:49:45,889 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:45,897 [INFO]  Epoch[3] Batch [0-4]	Speed: 8722.80 samples/sec	cross-entropy=0.772215	Hue-accuracy=0.000000
+2024-04-07 11:49:45,901 [INFO]  Epoch[3] Train-cross-entropy=0.449190
+2024-04-07 11:49:45,901 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:45,901 [INFO]  Epoch[3] Time cost=0.012
+2024-04-07 11:49:45,903 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:49:45,904 [INFO]  Epoch[3] Validation-cross-entropy=0.621273
+2024-04-07 11:49:45,904 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:45,909 [INFO]  Epoch[4] Batch [0-4]	Speed: 14590.47 samples/sec	cross-entropy=0.488748	Hue-accuracy=0.000000
+2024-04-07 11:49:45,913 [INFO]  Epoch[4] Train-cross-entropy=0.439244
+2024-04-07 11:49:45,913 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:49:45,913 [INFO]  Epoch[4] Time cost=0.009
+2024-04-07 11:49:45,914 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:49:45,915 [INFO]  Epoch[4] Validation-cross-entropy=0.546262
+2024-04-07 11:49:45,915 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:45,915 [INFO]  
+========== done (0.22090697288513184 s) fit model
+2024-04-07 11:49:53,843 [INFO]  
+========== start: fit model
+2024-04-07 11:49:53,844 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:49:54,021 [INFO]  Epoch[0] Batch [0-4]	Speed: 1750.93 samples/sec	cross-entropy=18.982896	Hue-accuracy=2.800000
+2024-04-07 11:49:54,024 [INFO]  Epoch[0] Train-cross-entropy=7.109285
+2024-04-07 11:49:54,024 [INFO]  Epoch[0] Train-Hue-accuracy=4.666667
+2024-04-07 11:49:54,024 [INFO]  Epoch[0] Time cost=0.180
+2024-04-07 11:49:54,026 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:49:54,027 [INFO]  Epoch[0] Validation-cross-entropy=12.585283
+2024-04-07 11:49:54,027 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:54,033 [INFO]  Epoch[1] Batch [0-4]	Speed: 13737.74 samples/sec	cross-entropy=5.329829	Hue-accuracy=2.800000
+2024-04-07 11:49:54,036 [INFO]  Epoch[1] Train-cross-entropy=3.119911
+2024-04-07 11:49:54,036 [INFO]  Epoch[1] Train-Hue-accuracy=4.666667
+2024-04-07 11:49:54,037 [INFO]  Epoch[1] Time cost=0.010
+2024-04-07 11:49:54,038 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:49:54,039 [INFO]  Epoch[1] Validation-cross-entropy=3.075120
+2024-04-07 11:49:54,039 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:54,043 [INFO]  Epoch[2] Batch [0-4]	Speed: 21306.09 samples/sec	cross-entropy=2.309421	Hue-accuracy=2.800000
+2024-04-07 11:49:54,053 [INFO]  Epoch[2] Train-cross-entropy=1.406350
+2024-04-07 11:49:54,053 [INFO]  Epoch[2] Train-Hue-accuracy=4.666667
+2024-04-07 11:49:54,054 [INFO]  Epoch[2] Time cost=0.015
+2024-04-07 11:49:54,055 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:49:54,060 [INFO]  Epoch[2] Validation-cross-entropy=1.342180
+2024-04-07 11:49:54,060 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:54,065 [INFO]  Epoch[3] Batch [0-4]	Speed: 15425.55 samples/sec	cross-entropy=0.879750	Hue-accuracy=2.800000
+2024-04-07 11:49:54,069 [INFO]  Epoch[3] Train-cross-entropy=0.392841
+2024-04-07 11:49:54,069 [INFO]  Epoch[3] Train-Hue-accuracy=4.666667
+2024-04-07 11:49:54,069 [INFO]  Epoch[3] Time cost=0.009
+2024-04-07 11:49:54,071 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:49:54,071 [INFO]  Epoch[3] Validation-cross-entropy=0.728270
+2024-04-07 11:49:54,072 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:54,077 [INFO]  Epoch[4] Batch [0-4]	Speed: 15114.61 samples/sec	cross-entropy=0.492153	Hue-accuracy=2.800000
+2024-04-07 11:49:54,080 [INFO]  Epoch[4] Train-cross-entropy=0.285477
+2024-04-07 11:49:54,080 [INFO]  Epoch[4] Train-Hue-accuracy=4.666667
+2024-04-07 11:49:54,080 [INFO]  Epoch[4] Time cost=0.009
+2024-04-07 11:49:54,083 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:49:54,083 [INFO]  Epoch[4] Validation-cross-entropy=0.438570
+2024-04-07 11:49:54,084 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:49:54,084 [INFO]  
+========== done (0.24024724960327148 s) fit model
+2024-04-07 11:50:04,173 [INFO]  
+========== start: fit model
+2024-04-07 11:50:04,173 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:50:04,239 [INFO]  Epoch[0] Batch [0-4]	Speed: 4293.32 samples/sec	cross-entropy=20.588325	Hue-accuracy=4.000000
+2024-04-07 11:50:04,592 [INFO]  Epoch[0] Train-cross-entropy=10.365930
+2024-04-07 11:50:04,592 [INFO]  Epoch[0] Train-Hue-accuracy=3.666667
+2024-04-07 11:50:04,592 [INFO]  Epoch[0] Time cost=0.418
+2024-04-07 11:50:04,594 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:50:04,595 [INFO]  Epoch[0] Validation-cross-entropy=14.889085
+2024-04-07 11:50:04,595 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:04,602 [INFO]  Epoch[1] Batch [0-4]	Speed: 13263.28 samples/sec	cross-entropy=5.335246	Hue-accuracy=4.000000
+2024-04-07 11:50:04,629 [INFO]  Epoch[1] Train-cross-entropy=3.463221
+2024-04-07 11:50:04,630 [INFO]  Epoch[1] Train-Hue-accuracy=3.666667
+2024-04-07 11:50:04,630 [INFO]  Epoch[1] Time cost=0.035
+2024-04-07 11:50:04,631 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:50:04,640 [INFO]  Epoch[1] Validation-cross-entropy=3.249531
+2024-04-07 11:50:04,640 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:04,716 [INFO]  Epoch[2] Batch [0-4]	Speed: 4095.69 samples/sec	cross-entropy=3.656851	Hue-accuracy=4.000000
+2024-04-07 11:50:04,720 [INFO]  Epoch[2] Train-cross-entropy=2.514958
+2024-04-07 11:50:04,720 [INFO]  Epoch[2] Train-Hue-accuracy=3.666667
+2024-04-07 11:50:04,720 [INFO]  Epoch[2] Time cost=0.080
+2024-04-07 11:50:04,722 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:50:04,723 [INFO]  Epoch[2] Validation-cross-entropy=1.887731
+2024-04-07 11:50:04,723 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:04,729 [INFO]  Epoch[3] Batch [0-4]	Speed: 15564.18 samples/sec	cross-entropy=1.573938	Hue-accuracy=4.000000
+2024-04-07 11:50:04,732 [INFO]  Epoch[3] Train-cross-entropy=1.138993
+2024-04-07 11:50:04,732 [INFO]  Epoch[3] Train-Hue-accuracy=3.666667
+2024-04-07 11:50:04,732 [INFO]  Epoch[3] Time cost=0.009
+2024-04-07 11:50:04,734 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:50:04,735 [INFO]  Epoch[3] Validation-cross-entropy=2.305056
+2024-04-07 11:50:04,735 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:04,741 [INFO]  Epoch[4] Batch [0-4]	Speed: 14885.79 samples/sec	cross-entropy=0.570819	Hue-accuracy=4.000000
+2024-04-07 11:50:04,744 [INFO]  Epoch[4] Train-cross-entropy=0.818294
+2024-04-07 11:50:04,744 [INFO]  Epoch[4] Train-Hue-accuracy=3.666667
+2024-04-07 11:50:04,744 [INFO]  Epoch[4] Time cost=0.009
+2024-04-07 11:50:04,746 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:50:04,746 [INFO]  Epoch[4] Validation-cross-entropy=2.131679
+2024-04-07 11:50:04,747 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:04,747 [INFO]  
+========== done (0.5736367702484131 s) fit model
+2024-04-07 11:50:11,156 [INFO]  
+========== start: fit model
+2024-04-07 11:50:11,156 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:50:11,679 [INFO]  Epoch[0] Batch [0-4]	Speed: 370.16 samples/sec	cross-entropy=12.037804	Hue-accuracy=4.400000
+2024-04-07 11:50:11,682 [INFO]  Epoch[0] Train-cross-entropy=7.347095
+2024-04-07 11:50:11,682 [INFO]  Epoch[0] Train-Hue-accuracy=2.000000
+2024-04-07 11:50:11,683 [INFO]  Epoch[0] Time cost=0.526
+2024-04-07 11:50:11,685 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:50:11,686 [INFO]  Epoch[0] Validation-cross-entropy=5.279306
+2024-04-07 11:50:11,686 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:11,692 [INFO]  Epoch[1] Batch [0-4]	Speed: 14736.25 samples/sec	cross-entropy=2.319997	Hue-accuracy=4.400000
+2024-04-07 11:50:11,699 [INFO]  Epoch[1] Train-cross-entropy=1.908389
+2024-04-07 11:50:11,699 [INFO]  Epoch[1] Train-Hue-accuracy=2.000000
+2024-04-07 11:50:11,699 [INFO]  Epoch[1] Time cost=0.012
+2024-04-07 11:50:11,701 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:50:11,702 [INFO]  Epoch[1] Validation-cross-entropy=1.255069
+2024-04-07 11:50:11,702 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:11,708 [INFO]  Epoch[2] Batch [0-4]	Speed: 13867.62 samples/sec	cross-entropy=1.661196	Hue-accuracy=4.400000
+2024-04-07 11:50:11,712 [INFO]  Epoch[2] Train-cross-entropy=0.424396
+2024-04-07 11:50:11,712 [INFO]  Epoch[2] Train-Hue-accuracy=2.000000
+2024-04-07 11:50:11,712 [INFO]  Epoch[2] Time cost=0.010
+2024-04-07 11:50:11,731 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:50:11,850 [INFO]  Epoch[2] Validation-cross-entropy=0.412467
+2024-04-07 11:50:11,850 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:12,123 [INFO]  Epoch[3] Batch [0-4]	Speed: 5504.34 samples/sec	cross-entropy=0.625056	Hue-accuracy=4.400000
+2024-04-07 11:50:12,197 [INFO]  Epoch[3] Train-cross-entropy=0.266895
+2024-04-07 11:50:12,197 [INFO]  Epoch[3] Train-Hue-accuracy=2.000000
+2024-04-07 11:50:12,197 [INFO]  Epoch[3] Time cost=0.347
+2024-04-07 11:50:12,199 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:50:12,199 [INFO]  Epoch[3] Validation-cross-entropy=0.104371
+2024-04-07 11:50:12,199 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:12,202 [INFO]  Epoch[4] Batch [0-4]	Speed: 29209.52 samples/sec	cross-entropy=0.327341	Hue-accuracy=4.400000
+2024-04-07 11:50:12,244 [INFO]  Epoch[4] Train-cross-entropy=0.360487
+2024-04-07 11:50:12,244 [INFO]  Epoch[4] Train-Hue-accuracy=2.000000
+2024-04-07 11:50:12,244 [INFO]  Epoch[4] Time cost=0.045
+2024-04-07 11:50:12,246 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:50:12,247 [INFO]  Epoch[4] Validation-cross-entropy=0.166654
+2024-04-07 11:50:12,247 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:12,247 [INFO]  
+========== done (1.0913324356079102 s) fit model
+2024-04-07 11:50:19,858 [INFO]  
+========== start: fit model
+2024-04-07 11:50:19,858 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:50:19,893 [INFO]  Epoch[0] Batch [0-4]	Speed: 2454.47 samples/sec	cross-entropy=9.905902	Hue-accuracy=3.000000
+2024-04-07 11:50:19,894 [INFO]  Epoch[0] Train-cross-entropy=6.155717
+2024-04-07 11:50:19,894 [INFO]  Epoch[0] Train-Hue-accuracy=4.000000
+2024-04-07 11:50:19,895 [INFO]  Epoch[0] Time cost=0.036
+2024-04-07 11:50:19,896 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:50:19,960 [INFO]  Epoch[0] Validation-cross-entropy=2.138805
+2024-04-07 11:50:19,960 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:19,963 [INFO]  Epoch[1] Batch [0-4]	Speed: 28820.64 samples/sec	cross-entropy=2.903304	Hue-accuracy=3.000000
+2024-04-07 11:50:19,965 [INFO]  Epoch[1] Train-cross-entropy=2.355840
+2024-04-07 11:50:19,965 [INFO]  Epoch[1] Train-Hue-accuracy=4.000000
+2024-04-07 11:50:19,965 [INFO]  Epoch[1] Time cost=0.005
+2024-04-07 11:50:19,966 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:50:19,967 [INFO]  Epoch[1] Validation-cross-entropy=1.338501
+2024-04-07 11:50:19,967 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:20,118 [INFO]  Epoch[2] Batch [0-4]	Speed: 425.30 samples/sec	cross-entropy=1.254988	Hue-accuracy=3.000000
+2024-04-07 11:50:20,121 [INFO]  Epoch[2] Train-cross-entropy=0.951877
+2024-04-07 11:50:20,121 [INFO]  Epoch[2] Train-Hue-accuracy=4.000000
+2024-04-07 11:50:20,121 [INFO]  Epoch[2] Time cost=0.154
+2024-04-07 11:50:20,123 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:50:20,123 [INFO]  Epoch[2] Validation-cross-entropy=0.541824
+2024-04-07 11:50:20,123 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:20,127 [INFO]  Epoch[3] Batch [0-4]	Speed: 22088.00 samples/sec	cross-entropy=0.503340	Hue-accuracy=3.000000
+2024-04-07 11:50:20,146 [INFO]  Epoch[3] Train-cross-entropy=0.599359
+2024-04-07 11:50:20,146 [INFO]  Epoch[3] Train-Hue-accuracy=4.000000
+2024-04-07 11:50:20,146 [INFO]  Epoch[3] Time cost=0.023
+2024-04-07 11:50:20,148 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:50:20,148 [INFO]  Epoch[3] Validation-cross-entropy=0.690181
+2024-04-07 11:50:20,149 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:20,152 [INFO]  Epoch[4] Batch [0-4]	Speed: 22077.10 samples/sec	cross-entropy=0.377073	Hue-accuracy=3.000000
+2024-04-07 11:50:20,155 [INFO]  Epoch[4] Train-cross-entropy=0.405143
+2024-04-07 11:50:20,155 [INFO]  Epoch[4] Train-Hue-accuracy=4.000000
+2024-04-07 11:50:20,155 [INFO]  Epoch[4] Time cost=0.006
+2024-04-07 11:50:20,171 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:50:20,176 [INFO]  Epoch[4] Validation-cross-entropy=0.605570
+2024-04-07 11:50:20,176 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:20,176 [INFO]  
+========== done (0.3187084197998047 s) fit model
+2024-04-07 11:50:30,581 [INFO]  
+========== start: fit model
+2024-04-07 11:50:30,582 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:50:30,647 [INFO]  Epoch[0] Batch [0-4]	Speed: 1580.70 samples/sec	cross-entropy=13.499721	Hue-accuracy=0.000000
+2024-04-07 11:50:30,661 [INFO]  Epoch[0] Train-cross-entropy=10.251959
+2024-04-07 11:50:30,661 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:50:30,661 [INFO]  Epoch[0] Time cost=0.078
+2024-04-07 11:50:30,664 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:50:30,773 [INFO]  Epoch[0] Validation-cross-entropy=6.150632
+2024-04-07 11:50:30,773 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:30,789 [INFO]  Epoch[1] Batch [0-4]	Speed: 4228.60 samples/sec	cross-entropy=3.595684	Hue-accuracy=0.000000
+2024-04-07 11:50:30,793 [INFO]  Epoch[1] Train-cross-entropy=2.781907
+2024-04-07 11:50:30,793 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:50:30,793 [INFO]  Epoch[1] Time cost=0.020
+2024-04-07 11:50:30,795 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:50:30,795 [INFO]  Epoch[1] Validation-cross-entropy=1.937825
+2024-04-07 11:50:30,796 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:30,802 [INFO]  Epoch[2] Batch [0-4]	Speed: 14160.23 samples/sec	cross-entropy=2.625687	Hue-accuracy=0.000000
+2024-04-07 11:50:30,805 [INFO]  Epoch[2] Train-cross-entropy=1.094278
+2024-04-07 11:50:30,805 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:50:30,805 [INFO]  Epoch[2] Time cost=0.009
+2024-04-07 11:50:30,807 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:50:30,807 [INFO]  Epoch[2] Validation-cross-entropy=1.307077
+2024-04-07 11:50:30,807 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:30,811 [INFO]  Epoch[3] Batch [0-4]	Speed: 19282.77 samples/sec	cross-entropy=1.277325	Hue-accuracy=0.000000
+2024-04-07 11:50:30,815 [INFO]  Epoch[3] Train-cross-entropy=0.769902
+2024-04-07 11:50:30,815 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:50:30,815 [INFO]  Epoch[3] Time cost=0.007
+2024-04-07 11:50:30,816 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:50:30,817 [INFO]  Epoch[3] Validation-cross-entropy=0.902130
+2024-04-07 11:50:30,817 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:30,823 [INFO]  Epoch[4] Batch [0-4]	Speed: 14517.09 samples/sec	cross-entropy=0.571841	Hue-accuracy=0.000000
+2024-04-07 11:50:30,826 [INFO]  Epoch[4] Train-cross-entropy=0.673933
+2024-04-07 11:50:30,826 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:50:30,826 [INFO]  Epoch[4] Time cost=0.009
+2024-04-07 11:50:30,828 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:50:30,828 [INFO]  Epoch[4] Validation-cross-entropy=0.740069
+2024-04-07 11:50:30,828 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:30,828 [INFO]  
+========== done (0.24705886840820312 s) fit model
+2024-04-07 11:50:40,800 [INFO]  
+========== start: fit model
+2024-04-07 11:50:40,800 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:50:40,820 [INFO]  Epoch[0] Batch [0-4]	Speed: 8058.22 samples/sec	cross-entropy=9.436028	Hue-accuracy=0.000000
+2024-04-07 11:50:40,831 [INFO]  Epoch[0] Train-cross-entropy=7.339771
+2024-04-07 11:50:40,831 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:50:40,831 [INFO]  Epoch[0] Time cost=0.030
+2024-04-07 11:50:40,833 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:50:40,833 [INFO]  Epoch[0] Validation-cross-entropy=2.716964
+2024-04-07 11:50:40,833 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:40,839 [INFO]  Epoch[1] Batch [0-4]	Speed: 13909.29 samples/sec	cross-entropy=3.958444	Hue-accuracy=0.000000
+2024-04-07 11:50:40,855 [INFO]  Epoch[1] Train-cross-entropy=2.253926
+2024-04-07 11:50:40,855 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:50:40,855 [INFO]  Epoch[1] Time cost=0.021
+2024-04-07 11:50:40,856 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:50:40,857 [INFO]  Epoch[1] Validation-cross-entropy=1.162498
+2024-04-07 11:50:40,857 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:40,861 [INFO]  Epoch[2] Batch [0-4]	Speed: 22177.42 samples/sec	cross-entropy=1.760145	Hue-accuracy=0.000000
+2024-04-07 11:50:40,863 [INFO]  Epoch[2] Train-cross-entropy=0.816012
+2024-04-07 11:50:40,863 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:50:40,863 [INFO]  Epoch[2] Time cost=0.006
+2024-04-07 11:50:40,864 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:50:40,865 [INFO]  Epoch[2] Validation-cross-entropy=0.343993
+2024-04-07 11:50:40,865 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:40,869 [INFO]  Epoch[3] Batch [0-4]	Speed: 21555.89 samples/sec	cross-entropy=0.585345	Hue-accuracy=0.000000
+2024-04-07 11:50:40,871 [INFO]  Epoch[3] Train-cross-entropy=0.461788
+2024-04-07 11:50:40,871 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:50:40,871 [INFO]  Epoch[3] Time cost=0.006
+2024-04-07 11:50:40,873 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:50:40,876 [INFO]  Epoch[3] Validation-cross-entropy=0.293333
+2024-04-07 11:50:40,876 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:40,894 [INFO]  Epoch[4] Batch [0-4]	Speed: 12075.37 samples/sec	cross-entropy=0.369515	Hue-accuracy=0.000000
+2024-04-07 11:50:40,897 [INFO]  Epoch[4] Train-cross-entropy=0.330955
+2024-04-07 11:50:40,897 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:50:40,897 [INFO]  Epoch[4] Time cost=0.022
+2024-04-07 11:50:40,899 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:50:40,900 [INFO]  Epoch[4] Validation-cross-entropy=0.472234
+2024-04-07 11:50:40,900 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:40,900 [INFO]  
+========== done (0.10060882568359375 s) fit model
+2024-04-07 11:50:49,568 [INFO]  
+========== start: fit model
+2024-04-07 11:50:49,568 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:50:49,581 [INFO]  Epoch[0] Batch [0-4]	Speed: 13075.28 samples/sec	cross-entropy=19.269720	Hue-accuracy=3.800000
+2024-04-07 11:50:49,584 [INFO]  Epoch[0] Train-cross-entropy=9.800313
+2024-04-07 11:50:49,584 [INFO]  Epoch[0] Train-Hue-accuracy=4.000000
+2024-04-07 11:50:49,584 [INFO]  Epoch[0] Time cost=0.015
+2024-04-07 11:50:49,585 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:50:49,590 [INFO]  Epoch[0] Validation-cross-entropy=11.163668
+2024-04-07 11:50:49,590 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:49,619 [INFO]  Epoch[1] Batch [0-4]	Speed: 20075.94 samples/sec	cross-entropy=6.863610	Hue-accuracy=3.800000
+2024-04-07 11:50:49,622 [INFO]  Epoch[1] Train-cross-entropy=4.888424
+2024-04-07 11:50:49,622 [INFO]  Epoch[1] Train-Hue-accuracy=4.000000
+2024-04-07 11:50:49,622 [INFO]  Epoch[1] Time cost=0.032
+2024-04-07 11:50:49,623 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:50:49,628 [INFO]  Epoch[1] Validation-cross-entropy=4.017177
+2024-04-07 11:50:49,628 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:49,641 [INFO]  Epoch[2] Batch [0-4]	Speed: 5330.65 samples/sec	cross-entropy=3.700874	Hue-accuracy=3.800000
+2024-04-07 11:50:49,643 [INFO]  Epoch[2] Train-cross-entropy=2.553357
+2024-04-07 11:50:49,643 [INFO]  Epoch[2] Train-Hue-accuracy=4.000000
+2024-04-07 11:50:49,643 [INFO]  Epoch[2] Time cost=0.015
+2024-04-07 11:50:49,647 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:50:49,652 [INFO]  Epoch[2] Validation-cross-entropy=2.068334
+2024-04-07 11:50:49,652 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:49,662 [INFO]  Epoch[3] Batch [0-4]	Speed: 12351.51 samples/sec	cross-entropy=2.003598	Hue-accuracy=3.800000
+2024-04-07 11:50:49,665 [INFO]  Epoch[3] Train-cross-entropy=1.258458
+2024-04-07 11:50:49,665 [INFO]  Epoch[3] Train-Hue-accuracy=4.000000
+2024-04-07 11:50:49,665 [INFO]  Epoch[3] Time cost=0.013
+2024-04-07 11:50:49,669 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:50:49,722 [INFO]  Epoch[3] Validation-cross-entropy=1.104718
+2024-04-07 11:50:49,722 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:49,744 [INFO]  Epoch[4] Batch [0-4]	Speed: 17392.47 samples/sec	cross-entropy=1.005310	Hue-accuracy=3.800000
+2024-04-07 11:50:49,780 [INFO]  Epoch[4] Train-cross-entropy=0.788957
+2024-04-07 11:50:49,780 [INFO]  Epoch[4] Train-Hue-accuracy=4.000000
+2024-04-07 11:50:49,780 [INFO]  Epoch[4] Time cost=0.057
+2024-04-07 11:50:49,781 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:50:49,782 [INFO]  Epoch[4] Validation-cross-entropy=0.750151
+2024-04-07 11:50:49,782 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:50:49,782 [INFO]  
+========== done (0.21436071395874023 s) fit model
+2024-04-07 11:51:00,930 [INFO]  
+========== start: fit model
+2024-04-07 11:51:00,930 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:51:00,945 [INFO]  Epoch[0] Batch [0-4]	Speed: 26286.28 samples/sec	cross-entropy=11.562126	Hue-accuracy=0.000000
+2024-04-07 11:51:00,947 [INFO]  Epoch[0] Train-cross-entropy=5.776815
+2024-04-07 11:51:00,947 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:00,947 [INFO]  Epoch[0] Time cost=0.015
+2024-04-07 11:51:00,949 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:51:00,974 [INFO]  Epoch[0] Validation-cross-entropy=1.530332
+2024-04-07 11:51:00,974 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:00,981 [INFO]  Epoch[1] Batch [0-4]	Speed: 11384.51 samples/sec	cross-entropy=2.711448	Hue-accuracy=0.000000
+2024-04-07 11:51:01,277 [INFO]  Epoch[1] Train-cross-entropy=2.815390
+2024-04-07 11:51:01,277 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:01,277 [INFO]  Epoch[1] Time cost=0.303
+2024-04-07 11:51:01,280 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:51:01,384 [INFO]  Epoch[1] Validation-cross-entropy=7.283833
+2024-04-07 11:51:01,384 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:01,450 [INFO]  Epoch[2] Batch [0-4]	Speed: 12024.52 samples/sec	cross-entropy=1.374984	Hue-accuracy=0.000000
+2024-04-07 11:51:01,454 [INFO]  Epoch[2] Train-cross-entropy=0.781379
+2024-04-07 11:51:01,454 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:01,455 [INFO]  Epoch[2] Time cost=0.070
+2024-04-07 11:51:01,457 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:51:01,458 [INFO]  Epoch[2] Validation-cross-entropy=1.714707
+2024-04-07 11:51:01,458 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:01,465 [INFO]  Epoch[3] Batch [0-4]	Speed: 13593.73 samples/sec	cross-entropy=0.606433	Hue-accuracy=0.000000
+2024-04-07 11:51:01,781 [INFO]  Epoch[3] Train-cross-entropy=0.369538
+2024-04-07 11:51:01,781 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:01,781 [INFO]  Epoch[3] Time cost=0.324
+2024-04-07 11:51:01,783 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:51:01,783 [INFO]  Epoch[3] Validation-cross-entropy=0.584294
+2024-04-07 11:51:01,783 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:01,788 [INFO]  Epoch[4] Batch [0-4]	Speed: 16862.58 samples/sec	cross-entropy=0.473375	Hue-accuracy=0.000000
+2024-04-07 11:51:01,791 [INFO]  Epoch[4] Train-cross-entropy=0.211444
+2024-04-07 11:51:01,791 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:01,792 [INFO]  Epoch[4] Time cost=0.008
+2024-04-07 11:51:01,793 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:51:01,794 [INFO]  Epoch[4] Validation-cross-entropy=0.860746
+2024-04-07 11:51:01,794 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:01,794 [INFO]  
+========== done (0.8636500835418701 s) fit model
+2024-04-07 11:51:10,874 [INFO]  
+========== start: fit model
+2024-04-07 11:51:10,874 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:51:11,081 [INFO]  Epoch[0] Batch [0-4]	Speed: 1980.20 samples/sec	cross-entropy=17.949141	Hue-accuracy=0.000000
+2024-04-07 11:51:11,084 [INFO]  Epoch[0] Train-cross-entropy=6.829727
+2024-04-07 11:51:11,084 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:11,084 [INFO]  Epoch[0] Time cost=0.209
+2024-04-07 11:51:11,087 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:51:11,104 [INFO]  Epoch[0] Validation-cross-entropy=13.940426
+2024-04-07 11:51:11,104 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:11,109 [INFO]  Epoch[1] Batch [0-4]	Speed: 15602.18 samples/sec	cross-entropy=5.143250	Hue-accuracy=0.000000
+2024-04-07 11:51:11,113 [INFO]  Epoch[1] Train-cross-entropy=2.615170
+2024-04-07 11:51:11,113 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:11,113 [INFO]  Epoch[1] Time cost=0.009
+2024-04-07 11:51:11,114 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:51:11,115 [INFO]  Epoch[1] Validation-cross-entropy=3.575173
+2024-04-07 11:51:11,115 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:11,121 [INFO]  Epoch[2] Batch [0-4]	Speed: 15191.59 samples/sec	cross-entropy=2.813407	Hue-accuracy=0.000000
+2024-04-07 11:51:11,124 [INFO]  Epoch[2] Train-cross-entropy=1.216577
+2024-04-07 11:51:11,124 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:11,124 [INFO]  Epoch[2] Time cost=0.009
+2024-04-07 11:51:11,126 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:51:11,126 [INFO]  Epoch[2] Validation-cross-entropy=1.606078
+2024-04-07 11:51:11,127 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:11,132 [INFO]  Epoch[3] Batch [0-4]	Speed: 15095.91 samples/sec	cross-entropy=1.055042	Hue-accuracy=0.000000
+2024-04-07 11:51:11,135 [INFO]  Epoch[3] Train-cross-entropy=0.371649
+2024-04-07 11:51:11,135 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:11,136 [INFO]  Epoch[3] Time cost=0.009
+2024-04-07 11:51:11,137 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:51:11,138 [INFO]  Epoch[3] Validation-cross-entropy=0.996780
+2024-04-07 11:51:11,138 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:11,144 [INFO]  Epoch[4] Batch [0-4]	Speed: 15056.96 samples/sec	cross-entropy=0.437777	Hue-accuracy=0.000000
+2024-04-07 11:51:11,148 [INFO]  Epoch[4] Train-cross-entropy=0.317427
+2024-04-07 11:51:11,148 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:11,148 [INFO]  Epoch[4] Time cost=0.010
+2024-04-07 11:51:11,149 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:51:11,150 [INFO]  Epoch[4] Validation-cross-entropy=0.686335
+2024-04-07 11:51:11,150 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:11,150 [INFO]  
+========== done (0.27594876289367676 s) fit model
+2024-04-07 11:51:20,446 [INFO]  
+========== start: fit model
+2024-04-07 11:51:20,446 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:51:20,506 [INFO]  Epoch[0] Batch [0-4]	Speed: 13940.35 samples/sec	cross-entropy=19.129011	Hue-accuracy=3.200000
+2024-04-07 11:51:20,508 [INFO]  Epoch[0] Train-cross-entropy=10.598520
+2024-04-07 11:51:20,508 [INFO]  Epoch[0] Train-Hue-accuracy=3.000000
+2024-04-07 11:51:20,508 [INFO]  Epoch[0] Time cost=0.061
+2024-04-07 11:51:20,510 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:51:20,605 [INFO]  Epoch[0] Validation-cross-entropy=16.363619
+2024-04-07 11:51:20,605 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:20,611 [INFO]  Epoch[1] Batch [0-4]	Speed: 14941.30 samples/sec	cross-entropy=5.299611	Hue-accuracy=3.200000
+2024-04-07 11:51:20,615 [INFO]  Epoch[1] Train-cross-entropy=4.185906
+2024-04-07 11:51:20,615 [INFO]  Epoch[1] Train-Hue-accuracy=3.000000
+2024-04-07 11:51:20,616 [INFO]  Epoch[1] Time cost=0.010
+2024-04-07 11:51:20,617 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:51:20,618 [INFO]  Epoch[1] Validation-cross-entropy=6.335181
+2024-04-07 11:51:20,618 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:20,624 [INFO]  Epoch[2] Batch [0-4]	Speed: 15385.77 samples/sec	cross-entropy=2.879947	Hue-accuracy=3.200000
+2024-04-07 11:51:20,627 [INFO]  Epoch[2] Train-cross-entropy=2.251971
+2024-04-07 11:51:20,627 [INFO]  Epoch[2] Train-Hue-accuracy=3.000000
+2024-04-07 11:51:20,627 [INFO]  Epoch[2] Time cost=0.009
+2024-04-07 11:51:20,630 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:51:20,631 [INFO]  Epoch[2] Validation-cross-entropy=2.449779
+2024-04-07 11:51:20,631 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:20,699 [INFO]  Epoch[3] Batch [0-4]	Speed: 1007.05 samples/sec	cross-entropy=1.153705	Hue-accuracy=3.200000
+2024-04-07 11:51:20,727 [INFO]  Epoch[3] Train-cross-entropy=0.746375
+2024-04-07 11:51:20,727 [INFO]  Epoch[3] Train-Hue-accuracy=3.000000
+2024-04-07 11:51:20,727 [INFO]  Epoch[3] Time cost=0.096
+2024-04-07 11:51:20,729 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:51:20,729 [INFO]  Epoch[3] Validation-cross-entropy=0.995122
+2024-04-07 11:51:20,730 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:20,736 [INFO]  Epoch[4] Batch [0-4]	Speed: 12857.34 samples/sec	cross-entropy=0.515818	Hue-accuracy=3.200000
+2024-04-07 11:51:20,810 [INFO]  Epoch[4] Train-cross-entropy=0.432247
+2024-04-07 11:51:20,810 [INFO]  Epoch[4] Train-Hue-accuracy=3.000000
+2024-04-07 11:51:20,810 [INFO]  Epoch[4] Time cost=0.080
+2024-04-07 11:51:20,814 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:51:20,955 [INFO]  Epoch[4] Validation-cross-entropy=0.463603
+2024-04-07 11:51:20,955 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:20,956 [INFO]  
+========== done (0.5097596645355225 s) fit model
+2024-04-07 11:51:32,018 [INFO]  
+========== start: fit model
+2024-04-07 11:51:32,018 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:51:32,128 [INFO]  Epoch[0] Batch [0-4]	Speed: 25754.15 samples/sec	cross-entropy=16.104878	Hue-accuracy=3.200000
+2024-04-07 11:51:32,129 [INFO]  Epoch[0] Train-cross-entropy=5.483998
+2024-04-07 11:51:32,130 [INFO]  Epoch[0] Train-Hue-accuracy=3.000000
+2024-04-07 11:51:32,130 [INFO]  Epoch[0] Time cost=0.110
+2024-04-07 11:51:32,132 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:51:32,160 [INFO]  Epoch[0] Validation-cross-entropy=12.478212
+2024-04-07 11:51:32,160 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:32,165 [INFO]  Epoch[1] Batch [0-4]	Speed: 18355.82 samples/sec	cross-entropy=4.694334	Hue-accuracy=3.200000
+2024-04-07 11:51:32,168 [INFO]  Epoch[1] Train-cross-entropy=1.849170
+2024-04-07 11:51:32,168 [INFO]  Epoch[1] Train-Hue-accuracy=3.000000
+2024-04-07 11:51:32,168 [INFO]  Epoch[1] Time cost=0.008
+2024-04-07 11:51:32,171 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:51:32,224 [INFO]  Epoch[1] Validation-cross-entropy=1.771349
+2024-04-07 11:51:32,224 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:32,229 [INFO]  Epoch[2] Batch [0-4]	Speed: 18010.97 samples/sec	cross-entropy=2.598486	Hue-accuracy=3.200000
+2024-04-07 11:51:32,231 [INFO]  Epoch[2] Train-cross-entropy=0.882503
+2024-04-07 11:51:32,231 [INFO]  Epoch[2] Train-Hue-accuracy=3.000000
+2024-04-07 11:51:32,231 [INFO]  Epoch[2] Time cost=0.007
+2024-04-07 11:51:32,235 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:51:32,244 [INFO]  Epoch[2] Validation-cross-entropy=0.387005
+2024-04-07 11:51:32,244 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:32,318 [INFO]  Epoch[3] Batch [0-4]	Speed: 8263.37 samples/sec	cross-entropy=0.842979	Hue-accuracy=3.200000
+2024-04-07 11:51:32,470 [INFO]  Epoch[3] Train-cross-entropy=0.273146
+2024-04-07 11:51:32,470 [INFO]  Epoch[3] Train-Hue-accuracy=3.000000
+2024-04-07 11:51:32,470 [INFO]  Epoch[3] Time cost=0.226
+2024-04-07 11:51:32,472 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:51:32,472 [INFO]  Epoch[3] Validation-cross-entropy=0.091532
+2024-04-07 11:51:32,472 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:32,478 [INFO]  Epoch[4] Batch [0-4]	Speed: 16364.02 samples/sec	cross-entropy=0.322891	Hue-accuracy=3.200000
+2024-04-07 11:51:32,481 [INFO]  Epoch[4] Train-cross-entropy=0.251996
+2024-04-07 11:51:32,481 [INFO]  Epoch[4] Train-Hue-accuracy=3.000000
+2024-04-07 11:51:32,481 [INFO]  Epoch[4] Time cost=0.009
+2024-04-07 11:51:32,483 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:51:32,484 [INFO]  Epoch[4] Validation-cross-entropy=0.349390
+2024-04-07 11:51:32,484 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:32,485 [INFO]  
+========== done (0.46674466133117676 s) fit model
+2024-04-07 11:51:42,101 [INFO]  
+========== start: fit model
+2024-04-07 11:51:42,101 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:51:42,146 [INFO]  Epoch[0] Batch [0-4]	Speed: 19546.75 samples/sec	cross-entropy=10.177395	Hue-accuracy=2.800000
+2024-04-07 11:51:42,216 [INFO]  Epoch[0] Train-cross-entropy=7.167874
+2024-04-07 11:51:42,216 [INFO]  Epoch[0] Train-Hue-accuracy=4.000000
+2024-04-07 11:51:42,216 [INFO]  Epoch[0] Time cost=0.114
+2024-04-07 11:51:42,223 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:51:42,345 [INFO]  Epoch[0] Validation-cross-entropy=2.514242
+2024-04-07 11:51:42,346 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:42,372 [INFO]  Epoch[1] Batch [0-4]	Speed: 5597.54 samples/sec	cross-entropy=2.770844	Hue-accuracy=2.800000
+2024-04-07 11:51:42,376 [INFO]  Epoch[1] Train-cross-entropy=3.284223
+2024-04-07 11:51:42,376 [INFO]  Epoch[1] Train-Hue-accuracy=4.000000
+2024-04-07 11:51:42,376 [INFO]  Epoch[1] Time cost=0.030
+2024-04-07 11:51:42,378 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:51:42,412 [INFO]  Epoch[1] Validation-cross-entropy=0.921586
+2024-04-07 11:51:42,412 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:42,418 [INFO]  Epoch[2] Batch [0-4]	Speed: 16114.51 samples/sec	cross-entropy=1.293818	Hue-accuracy=2.800000
+2024-04-07 11:51:42,517 [INFO]  Epoch[2] Train-cross-entropy=1.113632
+2024-04-07 11:51:42,517 [INFO]  Epoch[2] Train-Hue-accuracy=4.000000
+2024-04-07 11:51:42,517 [INFO]  Epoch[2] Time cost=0.104
+2024-04-07 11:51:42,519 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:51:42,519 [INFO]  Epoch[2] Validation-cross-entropy=0.852264
+2024-04-07 11:51:42,519 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:42,525 [INFO]  Epoch[3] Batch [0-4]	Speed: 15127.39 samples/sec	cross-entropy=0.335699	Hue-accuracy=2.800000
+2024-04-07 11:51:42,532 [INFO]  Epoch[3] Train-cross-entropy=0.637748
+2024-04-07 11:51:42,532 [INFO]  Epoch[3] Train-Hue-accuracy=4.000000
+2024-04-07 11:51:42,532 [INFO]  Epoch[3] Time cost=0.012
+2024-04-07 11:51:42,533 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:51:42,534 [INFO]  Epoch[3] Validation-cross-entropy=0.723912
+2024-04-07 11:51:42,534 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:42,540 [INFO]  Epoch[4] Batch [0-4]	Speed: 14666.20 samples/sec	cross-entropy=0.244676	Hue-accuracy=2.800000
+2024-04-07 11:51:42,543 [INFO]  Epoch[4] Train-cross-entropy=0.375699
+2024-04-07 11:51:42,543 [INFO]  Epoch[4] Train-Hue-accuracy=4.000000
+2024-04-07 11:51:42,543 [INFO]  Epoch[4] Time cost=0.009
+2024-04-07 11:51:42,544 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:51:42,545 [INFO]  Epoch[4] Validation-cross-entropy=0.282728
+2024-04-07 11:51:42,545 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:42,545 [INFO]  
+========== done (0.44410061836242676 s) fit model
+2024-04-07 11:51:50,711 [INFO]  
+========== start: fit model
+2024-04-07 11:51:50,711 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:51:50,800 [INFO]  Epoch[0] Batch [0-4]	Speed: 804.78 samples/sec	cross-entropy=10.368060	Hue-accuracy=0.000000
+2024-04-07 11:51:50,803 [INFO]  Epoch[0] Train-cross-entropy=9.090126
+2024-04-07 11:51:50,803 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:50,803 [INFO]  Epoch[0] Time cost=0.090
+2024-04-07 11:51:50,804 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:51:50,805 [INFO]  Epoch[0] Validation-cross-entropy=5.498415
+2024-04-07 11:51:50,805 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:50,845 [INFO]  Epoch[1] Batch [0-4]	Speed: 1625.67 samples/sec	cross-entropy=4.571748	Hue-accuracy=0.000000
+2024-04-07 11:51:50,847 [INFO]  Epoch[1] Train-cross-entropy=3.297907
+2024-04-07 11:51:50,847 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:50,847 [INFO]  Epoch[1] Time cost=0.042
+2024-04-07 11:51:50,849 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:51:50,850 [INFO]  Epoch[1] Validation-cross-entropy=2.083218
+2024-04-07 11:51:50,850 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:50,868 [INFO]  Epoch[2] Batch [0-4]	Speed: 4144.83 samples/sec	cross-entropy=2.675708	Hue-accuracy=0.000000
+2024-04-07 11:51:50,875 [INFO]  Epoch[2] Train-cross-entropy=1.362459
+2024-04-07 11:51:50,876 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:50,876 [INFO]  Epoch[2] Time cost=0.026
+2024-04-07 11:51:50,878 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:51:50,878 [INFO]  Epoch[2] Validation-cross-entropy=0.978760
+2024-04-07 11:51:50,878 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:50,904 [INFO]  Epoch[3] Batch [0-4]	Speed: 2985.40 samples/sec	cross-entropy=1.091080	Hue-accuracy=0.000000
+2024-04-07 11:51:50,918 [INFO]  Epoch[3] Train-cross-entropy=0.681755
+2024-04-07 11:51:50,918 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:50,918 [INFO]  Epoch[3] Time cost=0.039
+2024-04-07 11:51:50,920 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:51:50,921 [INFO]  Epoch[3] Validation-cross-entropy=0.390432
+2024-04-07 11:51:50,921 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:50,929 [INFO]  Epoch[4] Batch [0-4]	Speed: 11575.48 samples/sec	cross-entropy=0.555191	Hue-accuracy=0.000000
+2024-04-07 11:51:50,932 [INFO]  Epoch[4] Train-cross-entropy=0.274095
+2024-04-07 11:51:50,933 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:51:50,933 [INFO]  Epoch[4] Time cost=0.012
+2024-04-07 11:51:50,935 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:51:50,936 [INFO]  Epoch[4] Validation-cross-entropy=0.217471
+2024-04-07 11:51:50,936 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:51:50,936 [INFO]  
+========== done (0.2249150276184082 s) fit model
+2024-04-07 11:52:00,176 [INFO]  
+========== start: fit model
+2024-04-07 11:52:00,176 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:52:00,279 [INFO]  Epoch[0] Batch [0-4]	Speed: 10425.49 samples/sec	cross-entropy=7.453387	Hue-accuracy=0.000000
+2024-04-07 11:52:00,284 [INFO]  Epoch[0] Train-cross-entropy=3.410040
+2024-04-07 11:52:00,284 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:00,284 [INFO]  Epoch[0] Time cost=0.107
+2024-04-07 11:52:00,286 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:52:00,287 [INFO]  Epoch[0] Validation-cross-entropy=1.776529
+2024-04-07 11:52:00,287 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:00,292 [INFO]  Epoch[1] Batch [0-4]	Speed: 15120.57 samples/sec	cross-entropy=2.125934	Hue-accuracy=0.000000
+2024-04-07 11:52:00,295 [INFO]  Epoch[1] Train-cross-entropy=1.105728
+2024-04-07 11:52:00,295 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:00,295 [INFO]  Epoch[1] Time cost=0.008
+2024-04-07 11:52:00,297 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:52:00,297 [INFO]  Epoch[1] Validation-cross-entropy=0.455679
+2024-04-07 11:52:00,297 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:00,341 [INFO]  Epoch[2] Batch [0-4]	Speed: 1498.78 samples/sec	cross-entropy=0.799320	Hue-accuracy=0.000000
+2024-04-07 11:52:00,345 [INFO]  Epoch[2] Train-cross-entropy=0.506181
+2024-04-07 11:52:00,345 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:00,345 [INFO]  Epoch[2] Time cost=0.047
+2024-04-07 11:52:00,347 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:52:00,347 [INFO]  Epoch[2] Validation-cross-entropy=0.335917
+2024-04-07 11:52:00,347 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:00,364 [INFO]  Epoch[3] Batch [0-4]	Speed: 4338.91 samples/sec	cross-entropy=0.405836	Hue-accuracy=0.000000
+2024-04-07 11:52:00,367 [INFO]  Epoch[3] Train-cross-entropy=0.304962
+2024-04-07 11:52:00,367 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:00,367 [INFO]  Epoch[3] Time cost=0.020
+2024-04-07 11:52:00,387 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:52:00,436 [INFO]  Epoch[3] Validation-cross-entropy=0.313327
+2024-04-07 11:52:00,436 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:00,490 [INFO]  Epoch[4] Batch [0-4]	Speed: 11472.09 samples/sec	cross-entropy=0.273258	Hue-accuracy=0.000000
+2024-04-07 11:52:00,494 [INFO]  Epoch[4] Train-cross-entropy=0.239664
+2024-04-07 11:52:00,494 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:00,494 [INFO]  Epoch[4] Time cost=0.058
+2024-04-07 11:52:00,496 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:52:00,497 [INFO]  Epoch[4] Validation-cross-entropy=0.207727
+2024-04-07 11:52:00,497 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:00,497 [INFO]  
+========== done (0.3214685916900635 s) fit model
+2024-04-07 11:52:09,932 [INFO]  
+========== start: fit model
+2024-04-07 11:52:09,932 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:52:10,105 [INFO]  Epoch[0] Batch [0-4]	Speed: 13631.70 samples/sec	cross-entropy=11.709746	Hue-accuracy=4.000000
+2024-04-07 11:52:10,112 [INFO]  Epoch[0] Train-cross-entropy=9.209782
+2024-04-07 11:52:10,112 [INFO]  Epoch[0] Train-Hue-accuracy=3.000000
+2024-04-07 11:52:10,112 [INFO]  Epoch[0] Time cost=0.179
+2024-04-07 11:52:10,117 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:52:10,223 [INFO]  Epoch[0] Validation-cross-entropy=2.337563
+2024-04-07 11:52:10,224 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:10,498 [INFO]  Epoch[1] Batch [0-4]	Speed: 3678.66 samples/sec	cross-entropy=4.909306	Hue-accuracy=4.000000
+2024-04-07 11:52:10,546 [INFO]  Epoch[1] Train-cross-entropy=3.963230
+2024-04-07 11:52:10,546 [INFO]  Epoch[1] Train-Hue-accuracy=3.000000
+2024-04-07 11:52:10,546 [INFO]  Epoch[1] Time cost=0.322
+2024-04-07 11:52:10,549 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:52:10,569 [INFO]  Epoch[1] Validation-cross-entropy=1.622932
+2024-04-07 11:52:10,569 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:10,575 [INFO]  Epoch[2] Batch [0-4]	Speed: 15168.42 samples/sec	cross-entropy=2.005067	Hue-accuracy=4.000000
+2024-04-07 11:52:10,582 [INFO]  Epoch[2] Train-cross-entropy=1.290545
+2024-04-07 11:52:10,582 [INFO]  Epoch[2] Train-Hue-accuracy=3.000000
+2024-04-07 11:52:10,582 [INFO]  Epoch[2] Time cost=0.013
+2024-04-07 11:52:10,584 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:52:10,612 [INFO]  Epoch[2] Validation-cross-entropy=0.403643
+2024-04-07 11:52:10,612 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:10,615 [INFO]  Epoch[3] Batch [0-4]	Speed: 27343.94 samples/sec	cross-entropy=0.756992	Hue-accuracy=4.000000
+2024-04-07 11:52:10,618 [INFO]  Epoch[3] Train-cross-entropy=0.412678
+2024-04-07 11:52:10,618 [INFO]  Epoch[3] Train-Hue-accuracy=3.000000
+2024-04-07 11:52:10,618 [INFO]  Epoch[3] Time cost=0.006
+2024-04-07 11:52:10,619 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:52:10,624 [INFO]  Epoch[3] Validation-cross-entropy=0.684447
+2024-04-07 11:52:10,624 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:10,638 [INFO]  Epoch[4] Batch [0-4]	Speed: 5157.26 samples/sec	cross-entropy=0.226405	Hue-accuracy=4.000000
+2024-04-07 11:52:10,645 [INFO]  Epoch[4] Train-cross-entropy=0.331560
+2024-04-07 11:52:10,645 [INFO]  Epoch[4] Train-Hue-accuracy=3.000000
+2024-04-07 11:52:10,645 [INFO]  Epoch[4] Time cost=0.021
+2024-04-07 11:52:10,649 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:52:10,653 [INFO]  Epoch[4] Validation-cross-entropy=0.808074
+2024-04-07 11:52:10,654 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:10,654 [INFO]  
+========== done (0.7219605445861816 s) fit model
+2024-04-07 11:52:19,373 [INFO]  
+========== start: fit model
+2024-04-07 11:52:19,373 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:52:19,556 [INFO]  Epoch[0] Batch [0-4]	Speed: 18125.28 samples/sec	cross-entropy=14.313721	Hue-accuracy=0.000000
+2024-04-07 11:52:19,558 [INFO]  Epoch[0] Train-cross-entropy=8.681290
+2024-04-07 11:52:19,559 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:19,559 [INFO]  Epoch[0] Time cost=0.185
+2024-04-07 11:52:19,561 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:52:19,561 [INFO]  Epoch[0] Validation-cross-entropy=13.035445
+2024-04-07 11:52:19,561 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:19,565 [INFO]  Epoch[1] Batch [0-4]	Speed: 22175.58 samples/sec	cross-entropy=3.898462	Hue-accuracy=0.000000
+2024-04-07 11:52:19,567 [INFO]  Epoch[1] Train-cross-entropy=3.667219
+2024-04-07 11:52:19,567 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:19,567 [INFO]  Epoch[1] Time cost=0.006
+2024-04-07 11:52:19,569 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:52:19,580 [INFO]  Epoch[1] Validation-cross-entropy=3.056731
+2024-04-07 11:52:19,580 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:19,584 [INFO]  Epoch[2] Batch [0-4]	Speed: 21822.25 samples/sec	cross-entropy=1.893626	Hue-accuracy=0.000000
+2024-04-07 11:52:19,586 [INFO]  Epoch[2] Train-cross-entropy=1.242860
+2024-04-07 11:52:19,586 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:19,586 [INFO]  Epoch[2] Time cost=0.006
+2024-04-07 11:52:19,588 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:52:19,589 [INFO]  Epoch[2] Validation-cross-entropy=1.214708
+2024-04-07 11:52:19,589 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:19,594 [INFO]  Epoch[3] Batch [0-4]	Speed: 15117.16 samples/sec	cross-entropy=0.900534	Hue-accuracy=0.000000
+2024-04-07 11:52:19,598 [INFO]  Epoch[3] Train-cross-entropy=0.596679
+2024-04-07 11:52:19,598 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:19,598 [INFO]  Epoch[3] Time cost=0.009
+2024-04-07 11:52:19,599 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:52:19,601 [INFO]  Epoch[3] Validation-cross-entropy=0.553396
+2024-04-07 11:52:19,601 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:19,606 [INFO]  Epoch[4] Batch [0-4]	Speed: 15323.41 samples/sec	cross-entropy=0.619584	Hue-accuracy=0.000000
+2024-04-07 11:52:19,609 [INFO]  Epoch[4] Train-cross-entropy=0.460085
+2024-04-07 11:52:19,609 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:19,609 [INFO]  Epoch[4] Time cost=0.008
+2024-04-07 11:52:19,611 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:52:19,612 [INFO]  Epoch[4] Validation-cross-entropy=0.460550
+2024-04-07 11:52:19,612 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:19,612 [INFO]  
+========== done (0.23916912078857422 s) fit model
+2024-04-07 11:52:27,654 [INFO]  
+========== start: fit model
+2024-04-07 11:52:27,654 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:52:27,712 [INFO]  Epoch[0] Batch [0-4]	Speed: 25618.96 samples/sec	cross-entropy=34.305679	Hue-accuracy=0.000000
+2024-04-07 11:52:27,713 [INFO]  Epoch[0] Train-cross-entropy=17.022685
+2024-04-07 11:52:27,714 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:27,714 [INFO]  Epoch[0] Time cost=0.058
+2024-04-07 11:52:27,715 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:52:27,764 [INFO]  Epoch[0] Validation-cross-entropy=29.194479
+2024-04-07 11:52:27,765 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:27,769 [INFO]  Epoch[1] Batch [0-4]	Speed: 20741.42 samples/sec	cross-entropy=8.390885	Hue-accuracy=0.000000
+2024-04-07 11:52:27,771 [INFO]  Epoch[1] Train-cross-entropy=6.115910
+2024-04-07 11:52:27,771 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:27,771 [INFO]  Epoch[1] Time cost=0.007
+2024-04-07 11:52:27,773 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:52:27,774 [INFO]  Epoch[1] Validation-cross-entropy=4.414924
+2024-04-07 11:52:27,774 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:27,778 [INFO]  Epoch[2] Batch [0-4]	Speed: 19119.33 samples/sec	cross-entropy=3.881621	Hue-accuracy=0.000000
+2024-04-07 11:52:27,781 [INFO]  Epoch[2] Train-cross-entropy=3.807259
+2024-04-07 11:52:27,781 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:27,781 [INFO]  Epoch[2] Time cost=0.008
+2024-04-07 11:52:27,783 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:52:27,784 [INFO]  Epoch[2] Validation-cross-entropy=1.586484
+2024-04-07 11:52:27,784 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:27,790 [INFO]  Epoch[3] Batch [0-4]	Speed: 14487.31 samples/sec	cross-entropy=3.221248	Hue-accuracy=0.000000
+2024-04-07 11:52:27,794 [INFO]  Epoch[3] Train-cross-entropy=1.895057
+2024-04-07 11:52:27,794 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:27,794 [INFO]  Epoch[3] Time cost=0.009
+2024-04-07 11:52:27,795 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:52:27,796 [INFO]  Epoch[3] Validation-cross-entropy=0.906613
+2024-04-07 11:52:27,796 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:27,802 [INFO]  Epoch[4] Batch [0-4]	Speed: 14690.28 samples/sec	cross-entropy=1.519599	Hue-accuracy=0.000000
+2024-04-07 11:52:27,806 [INFO]  Epoch[4] Train-cross-entropy=0.908769
+2024-04-07 11:52:27,806 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:27,806 [INFO]  Epoch[4] Time cost=0.010
+2024-04-07 11:52:27,808 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:52:27,809 [INFO]  Epoch[4] Validation-cross-entropy=1.212517
+2024-04-07 11:52:27,809 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:27,809 [INFO]  
+========== done (0.15498805046081543 s) fit model
+2024-04-07 11:52:36,818 [INFO]  
+========== start: fit model
+2024-04-07 11:52:36,819 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:52:36,829 [INFO]  Epoch[0] Batch [0-4]	Speed: 14951.29 samples/sec	cross-entropy=18.992169	Hue-accuracy=0.000000
+2024-04-07 11:52:37,212 [INFO]  Epoch[0] Train-cross-entropy=9.977250
+2024-04-07 11:52:37,212 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:37,212 [INFO]  Epoch[0] Time cost=0.388
+2024-04-07 11:52:37,214 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:52:37,220 [INFO]  Epoch[0] Validation-cross-entropy=4.461117
+2024-04-07 11:52:37,220 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:37,224 [INFO]  Epoch[1] Batch [0-4]	Speed: 26142.92 samples/sec	cross-entropy=3.650484	Hue-accuracy=0.000000
+2024-04-07 11:52:37,226 [INFO]  Epoch[1] Train-cross-entropy=3.570654
+2024-04-07 11:52:37,226 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:37,226 [INFO]  Epoch[1] Time cost=0.006
+2024-04-07 11:52:37,227 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:52:37,228 [INFO]  Epoch[1] Validation-cross-entropy=2.081828
+2024-04-07 11:52:37,228 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:37,231 [INFO]  Epoch[2] Batch [0-4]	Speed: 28351.86 samples/sec	cross-entropy=2.796942	Hue-accuracy=0.000000
+2024-04-07 11:52:37,250 [INFO]  Epoch[2] Train-cross-entropy=1.465306
+2024-04-07 11:52:37,251 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:37,251 [INFO]  Epoch[2] Time cost=0.023
+2024-04-07 11:52:37,253 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:52:37,253 [INFO]  Epoch[2] Validation-cross-entropy=0.996923
+2024-04-07 11:52:37,253 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:37,257 [INFO]  Epoch[3] Batch [0-4]	Speed: 24604.53 samples/sec	cross-entropy=1.091690	Hue-accuracy=0.000000
+2024-04-07 11:52:37,259 [INFO]  Epoch[3] Train-cross-entropy=0.661513
+2024-04-07 11:52:37,259 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:37,259 [INFO]  Epoch[3] Time cost=0.005
+2024-04-07 11:52:37,260 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:52:37,261 [INFO]  Epoch[3] Validation-cross-entropy=0.461160
+2024-04-07 11:52:37,261 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:37,272 [INFO]  Epoch[4] Batch [0-4]	Speed: 6012.13 samples/sec	cross-entropy=0.632637	Hue-accuracy=0.000000
+2024-04-07 11:52:37,275 [INFO]  Epoch[4] Train-cross-entropy=0.697079
+2024-04-07 11:52:37,275 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:37,275 [INFO]  Epoch[4] Time cost=0.014
+2024-04-07 11:52:37,276 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:52:37,277 [INFO]  Epoch[4] Validation-cross-entropy=0.686622
+2024-04-07 11:52:37,277 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:37,277 [INFO]  
+========== done (0.45891833305358887 s) fit model
+2024-04-07 11:52:46,340 [INFO]  
+========== start: fit model
+2024-04-07 11:52:46,340 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:52:46,347 [INFO]  Epoch[0] Batch [0-4]	Speed: 21767.39 samples/sec	cross-entropy=9.135045	Hue-accuracy=0.000000
+2024-04-07 11:52:46,447 [INFO]  Epoch[0] Train-cross-entropy=10.097762
+2024-04-07 11:52:46,448 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:46,448 [INFO]  Epoch[0] Time cost=0.107
+2024-04-07 11:52:46,450 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:52:46,450 [INFO]  Epoch[0] Validation-cross-entropy=4.567545
+2024-04-07 11:52:46,451 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:46,456 [INFO]  Epoch[1] Batch [0-4]	Speed: 15132.50 samples/sec	cross-entropy=4.125175	Hue-accuracy=0.000000
+2024-04-07 11:52:46,459 [INFO]  Epoch[1] Train-cross-entropy=3.526523
+2024-04-07 11:52:46,460 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:46,460 [INFO]  Epoch[1] Time cost=0.009
+2024-04-07 11:52:46,462 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:52:46,462 [INFO]  Epoch[1] Validation-cross-entropy=1.287484
+2024-04-07 11:52:46,462 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:46,468 [INFO]  Epoch[2] Batch [0-4]	Speed: 15488.75 samples/sec	cross-entropy=2.343019	Hue-accuracy=0.000000
+2024-04-07 11:52:46,471 [INFO]  Epoch[2] Train-cross-entropy=1.291813
+2024-04-07 11:52:46,471 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:46,471 [INFO]  Epoch[2] Time cost=0.009
+2024-04-07 11:52:46,473 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:52:46,474 [INFO]  Epoch[2] Validation-cross-entropy=0.741151
+2024-04-07 11:52:46,474 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:46,480 [INFO]  Epoch[3] Batch [0-4]	Speed: 14622.26 samples/sec	cross-entropy=0.799073	Hue-accuracy=0.000000
+2024-04-07 11:52:46,483 [INFO]  Epoch[3] Train-cross-entropy=0.877359
+2024-04-07 11:52:46,483 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:46,483 [INFO]  Epoch[3] Time cost=0.009
+2024-04-07 11:52:46,485 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:52:46,486 [INFO]  Epoch[3] Validation-cross-entropy=0.575180
+2024-04-07 11:52:46,486 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:46,508 [INFO]  Epoch[4] Batch [0-4]	Speed: 3170.07 samples/sec	cross-entropy=0.515896	Hue-accuracy=0.000000
+2024-04-07 11:52:46,732 [INFO]  Epoch[4] Train-cross-entropy=0.722719
+2024-04-07 11:52:46,733 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:52:46,733 [INFO]  Epoch[4] Time cost=0.247
+2024-04-07 11:52:46,735 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:52:46,749 [INFO]  Epoch[4] Validation-cross-entropy=0.264922
+2024-04-07 11:52:46,749 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:46,749 [INFO]  
+========== done (0.4090547561645508 s) fit model
+2024-04-07 11:52:56,550 [INFO]  
+========== start: fit model
+2024-04-07 11:52:56,550 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:52:56,567 [INFO]  Epoch[0] Batch [0-4]	Speed: 14711.21 samples/sec	cross-entropy=16.845860	Hue-accuracy=4.400000
+2024-04-07 11:52:56,570 [INFO]  Epoch[0] Train-cross-entropy=6.019036
+2024-04-07 11:52:56,570 [INFO]  Epoch[0] Train-Hue-accuracy=2.666667
+2024-04-07 11:52:56,570 [INFO]  Epoch[0] Time cost=0.019
+2024-04-07 11:52:56,574 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:52:56,596 [INFO]  Epoch[0] Validation-cross-entropy=1.526025
+2024-04-07 11:52:56,596 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:56,602 [INFO]  Epoch[1] Batch [0-4]	Speed: 14585.71 samples/sec	cross-entropy=4.206456	Hue-accuracy=4.400000
+2024-04-07 11:52:56,689 [INFO]  Epoch[1] Train-cross-entropy=2.706266
+2024-04-07 11:52:56,690 [INFO]  Epoch[1] Train-Hue-accuracy=2.666667
+2024-04-07 11:52:56,690 [INFO]  Epoch[1] Time cost=0.094
+2024-04-07 11:52:56,691 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:52:56,760 [INFO]  Epoch[1] Validation-cross-entropy=0.848633
+2024-04-07 11:52:56,760 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:56,827 [INFO]  Epoch[2] Batch [0-4]	Speed: 1683.51 samples/sec	cross-entropy=1.640841	Hue-accuracy=4.400000
+2024-04-07 11:52:56,829 [INFO]  Epoch[2] Train-cross-entropy=1.650864
+2024-04-07 11:52:56,829 [INFO]  Epoch[2] Train-Hue-accuracy=2.666667
+2024-04-07 11:52:56,829 [INFO]  Epoch[2] Time cost=0.069
+2024-04-07 11:52:56,831 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:52:56,831 [INFO]  Epoch[2] Validation-cross-entropy=0.791700
+2024-04-07 11:52:56,831 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:56,835 [INFO]  Epoch[3] Batch [0-4]	Speed: 24912.80 samples/sec	cross-entropy=0.747431	Hue-accuracy=4.400000
+2024-04-07 11:52:56,837 [INFO]  Epoch[3] Train-cross-entropy=0.661388
+2024-04-07 11:52:56,837 [INFO]  Epoch[3] Train-Hue-accuracy=2.666667
+2024-04-07 11:52:56,837 [INFO]  Epoch[3] Time cost=0.006
+2024-04-07 11:52:56,839 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:52:56,840 [INFO]  Epoch[3] Validation-cross-entropy=0.825308
+2024-04-07 11:52:56,840 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:56,846 [INFO]  Epoch[4] Batch [0-4]	Speed: 15033.35 samples/sec	cross-entropy=0.422384	Hue-accuracy=4.400000
+2024-04-07 11:52:56,849 [INFO]  Epoch[4] Train-cross-entropy=0.404560
+2024-04-07 11:52:56,849 [INFO]  Epoch[4] Train-Hue-accuracy=2.666667
+2024-04-07 11:52:56,849 [INFO]  Epoch[4] Time cost=0.009
+2024-04-07 11:52:56,851 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:52:56,853 [INFO]  Epoch[4] Validation-cross-entropy=0.622593
+2024-04-07 11:52:56,853 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:52:56,853 [INFO]  
+========== done (0.303070068359375 s) fit model
+2024-04-07 11:53:07,364 [INFO]  
+========== start: fit model
+2024-04-07 11:53:07,364 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:53:07,388 [INFO]  Epoch[0] Batch [0-4]	Speed: 3306.95 samples/sec	cross-entropy=17.069402	Hue-accuracy=0.000000
+2024-04-07 11:53:07,399 [INFO]  Epoch[0] Train-cross-entropy=10.381630
+2024-04-07 11:53:07,399 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:53:07,399 [INFO]  Epoch[0] Time cost=0.034
+2024-04-07 11:53:07,401 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:53:07,402 [INFO]  Epoch[0] Validation-cross-entropy=11.659747
+2024-04-07 11:53:07,402 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:07,448 [INFO]  Epoch[1] Batch [0-4]	Speed: 1431.34 samples/sec	cross-entropy=5.798969	Hue-accuracy=0.000000
+2024-04-07 11:53:07,450 [INFO]  Epoch[1] Train-cross-entropy=3.828950
+2024-04-07 11:53:07,450 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:53:07,451 [INFO]  Epoch[1] Time cost=0.048
+2024-04-07 11:53:07,452 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:53:07,453 [INFO]  Epoch[1] Validation-cross-entropy=6.737836
+2024-04-07 11:53:07,453 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:07,477 [INFO]  Epoch[2] Batch [0-4]	Speed: 2804.53 samples/sec	cross-entropy=3.755034	Hue-accuracy=0.000000
+2024-04-07 11:53:07,479 [INFO]  Epoch[2] Train-cross-entropy=2.068432
+2024-04-07 11:53:07,479 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:53:07,479 [INFO]  Epoch[2] Time cost=0.026
+2024-04-07 11:53:07,480 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:53:07,480 [INFO]  Epoch[2] Validation-cross-entropy=3.536327
+2024-04-07 11:53:07,481 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:07,483 [INFO]  Epoch[3] Batch [0-4]	Speed: 28378.84 samples/sec	cross-entropy=1.466072	Hue-accuracy=0.000000
+2024-04-07 11:53:07,485 [INFO]  Epoch[3] Train-cross-entropy=0.657971
+2024-04-07 11:53:07,485 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:53:07,485 [INFO]  Epoch[3] Time cost=0.005
+2024-04-07 11:53:07,487 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:53:07,487 [INFO]  Epoch[3] Validation-cross-entropy=1.759916
+2024-04-07 11:53:07,487 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:07,490 [INFO]  Epoch[4] Batch [0-4]	Speed: 28998.10 samples/sec	cross-entropy=0.490696	Hue-accuracy=0.000000
+2024-04-07 11:53:07,492 [INFO]  Epoch[4] Train-cross-entropy=0.477968
+2024-04-07 11:53:07,492 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:53:07,492 [INFO]  Epoch[4] Time cost=0.005
+2024-04-07 11:53:07,494 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:53:07,494 [INFO]  Epoch[4] Validation-cross-entropy=1.172322
+2024-04-07 11:53:07,494 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:07,494 [INFO]  
+========== done (0.13039803504943848 s) fit model
+2024-04-07 11:53:17,084 [INFO]  
+========== start: fit model
+2024-04-07 11:53:17,084 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:53:17,115 [INFO]  Epoch[0] Batch [0-4]	Speed: 2730.36 samples/sec	cross-entropy=8.895280	Hue-accuracy=4.200000
+2024-04-07 11:53:17,117 [INFO]  Epoch[0] Train-cross-entropy=3.735977
+2024-04-07 11:53:17,118 [INFO]  Epoch[0] Train-Hue-accuracy=2.333333
+2024-04-07 11:53:17,118 [INFO]  Epoch[0] Time cost=0.032
+2024-04-07 11:53:17,119 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:53:17,120 [INFO]  Epoch[0] Validation-cross-entropy=2.746701
+2024-04-07 11:53:17,120 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:17,143 [INFO]  Epoch[1] Batch [0-4]	Speed: 2952.24 samples/sec	cross-entropy=3.256732	Hue-accuracy=4.200000
+2024-04-07 11:53:17,145 [INFO]  Epoch[1] Train-cross-entropy=1.387199
+2024-04-07 11:53:17,145 [INFO]  Epoch[1] Train-Hue-accuracy=2.333333
+2024-04-07 11:53:17,145 [INFO]  Epoch[1] Time cost=0.025
+2024-04-07 11:53:17,147 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:53:17,147 [INFO]  Epoch[1] Validation-cross-entropy=0.641630
+2024-04-07 11:53:17,148 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:17,157 [INFO]  Epoch[2] Batch [0-4]	Speed: 7895.16 samples/sec	cross-entropy=1.362404	Hue-accuracy=4.200000
+2024-04-07 11:53:17,160 [INFO]  Epoch[2] Train-cross-entropy=0.476256
+2024-04-07 11:53:17,160 [INFO]  Epoch[2] Train-Hue-accuracy=2.333333
+2024-04-07 11:53:17,160 [INFO]  Epoch[2] Time cost=0.013
+2024-04-07 11:53:17,162 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:53:17,163 [INFO]  Epoch[2] Validation-cross-entropy=0.346309
+2024-04-07 11:53:17,163 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:17,169 [INFO]  Epoch[3] Batch [0-4]	Speed: 16589.55 samples/sec	cross-entropy=0.630914	Hue-accuracy=4.200000
+2024-04-07 11:53:17,172 [INFO]  Epoch[3] Train-cross-entropy=0.356472
+2024-04-07 11:53:17,172 [INFO]  Epoch[3] Train-Hue-accuracy=2.333333
+2024-04-07 11:53:17,172 [INFO]  Epoch[3] Time cost=0.008
+2024-04-07 11:53:17,173 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:53:17,174 [INFO]  Epoch[3] Validation-cross-entropy=0.302765
+2024-04-07 11:53:17,174 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:17,215 [INFO]  Epoch[4] Batch [0-4]	Speed: 1624.13 samples/sec	cross-entropy=0.480733	Hue-accuracy=4.200000
+2024-04-07 11:53:17,219 [INFO]  Epoch[4] Train-cross-entropy=0.186349
+2024-04-07 11:53:17,219 [INFO]  Epoch[4] Train-Hue-accuracy=2.333333
+2024-04-07 11:53:17,219 [INFO]  Epoch[4] Time cost=0.044
+2024-04-07 11:53:17,227 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:53:17,336 [INFO]  Epoch[4] Validation-cross-entropy=0.182389
+2024-04-07 11:53:17,336 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:17,336 [INFO]  
+========== done (0.2521529197692871 s) fit model
+2024-04-07 11:53:25,497 [INFO]  
+========== start: fit model
+2024-04-07 11:53:25,497 [WARNING]  Already bound, ignoring bind()
+2024-04-07 11:53:25,509 [INFO]  Epoch[0] Batch [0-4]	Speed: 14380.21 samples/sec	cross-entropy=13.783492	Hue-accuracy=0.000000
+2024-04-07 11:53:25,513 [INFO]  Epoch[0] Train-cross-entropy=9.431031
+2024-04-07 11:53:25,513 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-07 11:53:25,513 [INFO]  Epoch[0] Time cost=0.015
+2024-04-07 11:53:25,517 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-07 11:53:25,527 [INFO]  Epoch[0] Validation-cross-entropy=4.767960
+2024-04-07 11:53:25,527 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:25,535 [INFO]  Epoch[1] Batch [0-4]	Speed: 8213.05 samples/sec	cross-entropy=4.378751	Hue-accuracy=0.000000
+2024-04-07 11:53:25,538 [INFO]  Epoch[1] Train-cross-entropy=3.801594
+2024-04-07 11:53:25,538 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-07 11:53:25,538 [INFO]  Epoch[1] Time cost=0.011
+2024-04-07 11:53:25,539 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-07 11:53:25,540 [INFO]  Epoch[1] Validation-cross-entropy=1.716866
+2024-04-07 11:53:25,540 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:25,791 [INFO]  Epoch[2] Batch [0-4]	Speed: 255.29 samples/sec	cross-entropy=2.123389	Hue-accuracy=0.000000
+2024-04-07 11:53:25,802 [INFO]  Epoch[2] Train-cross-entropy=1.835695
+2024-04-07 11:53:25,802 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-07 11:53:25,802 [INFO]  Epoch[2] Time cost=0.262
+2024-04-07 11:53:25,804 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-07 11:53:25,805 [INFO]  Epoch[2] Validation-cross-entropy=0.938334
+2024-04-07 11:53:25,805 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:25,811 [INFO]  Epoch[3] Batch [0-4]	Speed: 15050.20 samples/sec	cross-entropy=1.190645	Hue-accuracy=0.000000
+2024-04-07 11:53:25,814 [INFO]  Epoch[3] Train-cross-entropy=0.743474
+2024-04-07 11:53:25,814 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-07 11:53:25,814 [INFO]  Epoch[3] Time cost=0.009
+2024-04-07 11:53:25,816 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-07 11:53:25,816 [INFO]  Epoch[3] Validation-cross-entropy=0.625223
+2024-04-07 11:53:25,816 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:25,822 [INFO]  Epoch[4] Batch [0-4]	Speed: 14723.31 samples/sec	cross-entropy=0.606579	Hue-accuracy=0.000000
+2024-04-07 11:53:25,824 [INFO]  Epoch[4] Train-cross-entropy=0.497798
+2024-04-07 11:53:25,824 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-07 11:53:25,824 [INFO]  Epoch[4] Time cost=0.008
+2024-04-07 11:53:25,826 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-07 11:53:25,827 [INFO]  Epoch[4] Validation-cross-entropy=0.405389
+2024-04-07 11:53:25,827 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-07 11:53:25,827 [INFO]  
+========== done (0.33022499084472656 s) fit model
+2024-04-09 11:22:50,874 [INFO]  
+========== start: fit model
+2024-04-09 11:22:50,874 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:22:50,887 [INFO]  Epoch[0] Batch [0-4]	Speed: 12096.59 samples/sec	cross-entropy=9.359384	Hue-accuracy=3.600000
+2024-04-09 11:22:50,891 [INFO]  Epoch[0] Train-cross-entropy=5.737332
+2024-04-09 11:22:50,891 [INFO]  Epoch[0] Train-Hue-accuracy=4.000000
+2024-04-09 11:22:50,891 [INFO]  Epoch[0] Time cost=0.016
+2024-04-09 11:22:50,893 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:22:50,893 [INFO]  Epoch[0] Validation-cross-entropy=1.141169
+2024-04-09 11:22:50,893 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:22:50,897 [INFO]  Epoch[1] Batch [0-4]	Speed: 25252.63 samples/sec	cross-entropy=2.197234	Hue-accuracy=3.600000
+2024-04-09 11:22:50,909 [INFO]  Epoch[1] Train-cross-entropy=1.330855
+2024-04-09 11:22:50,909 [INFO]  Epoch[1] Train-Hue-accuracy=4.000000
+2024-04-09 11:22:50,909 [INFO]  Epoch[1] Time cost=0.016
+2024-04-09 11:22:50,911 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:22:50,911 [INFO]  Epoch[1] Validation-cross-entropy=0.410631
+2024-04-09 11:22:50,911 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:22:50,915 [INFO]  Epoch[2] Batch [0-4]	Speed: 20549.30 samples/sec	cross-entropy=0.508636	Hue-accuracy=3.600000
+2024-04-09 11:22:50,917 [INFO]  Epoch[2] Train-cross-entropy=0.664069
+2024-04-09 11:22:50,918 [INFO]  Epoch[2] Train-Hue-accuracy=4.000000
+2024-04-09 11:22:50,918 [INFO]  Epoch[2] Time cost=0.006
+2024-04-09 11:22:50,919 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:22:50,920 [INFO]  Epoch[2] Validation-cross-entropy=0.490190
+2024-04-09 11:22:50,920 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:22:50,923 [INFO]  Epoch[3] Batch [0-4]	Speed: 21382.46 samples/sec	cross-entropy=0.560115	Hue-accuracy=3.600000
+2024-04-09 11:22:50,945 [INFO]  Epoch[3] Train-cross-entropy=0.499646
+2024-04-09 11:22:50,945 [INFO]  Epoch[3] Train-Hue-accuracy=4.000000
+2024-04-09 11:22:50,945 [INFO]  Epoch[3] Time cost=0.025
+2024-04-09 11:22:50,946 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:22:50,951 [INFO]  Epoch[3] Validation-cross-entropy=0.652162
+2024-04-09 11:22:50,951 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:22:50,965 [INFO]  Epoch[4] Batch [0-4]	Speed: 15803.34 samples/sec	cross-entropy=0.373986	Hue-accuracy=3.600000
+2024-04-09 11:22:50,968 [INFO]  Epoch[4] Train-cross-entropy=0.188783
+2024-04-09 11:22:50,968 [INFO]  Epoch[4] Train-Hue-accuracy=4.000000
+2024-04-09 11:22:50,968 [INFO]  Epoch[4] Time cost=0.017
+2024-04-09 11:22:50,970 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:22:50,971 [INFO]  Epoch[4] Validation-cross-entropy=0.248272
+2024-04-09 11:22:50,971 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:22:50,971 [INFO]  
+========== done (0.09708189964294434 s) fit model
+2024-04-09 11:23:00,898 [INFO]  
+========== start: fit model
+2024-04-09 11:23:00,899 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:23:00,932 [INFO]  Epoch[0] Batch [0-4]	Speed: 3020.47 samples/sec	cross-entropy=19.582326	Hue-accuracy=0.000000
+2024-04-09 11:23:00,944 [INFO]  Epoch[0] Train-cross-entropy=9.448483
+2024-04-09 11:23:00,944 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:00,944 [INFO]  Epoch[0] Time cost=0.044
+2024-04-09 11:23:00,946 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:23:00,947 [INFO]  Epoch[0] Validation-cross-entropy=14.112212
+2024-04-09 11:23:00,947 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:00,952 [INFO]  Epoch[1] Batch [0-4]	Speed: 15912.94 samples/sec	cross-entropy=5.506806	Hue-accuracy=0.000000
+2024-04-09 11:23:00,955 [INFO]  Epoch[1] Train-cross-entropy=2.969398
+2024-04-09 11:23:00,955 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:00,955 [INFO]  Epoch[1] Time cost=0.008
+2024-04-09 11:23:00,957 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:23:00,957 [INFO]  Epoch[1] Validation-cross-entropy=4.207589
+2024-04-09 11:23:00,957 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:00,979 [INFO]  Epoch[2] Batch [0-4]	Speed: 3201.42 samples/sec	cross-entropy=1.978716	Hue-accuracy=0.000000
+2024-04-09 11:23:00,980 [INFO]  Epoch[2] Train-cross-entropy=0.900832
+2024-04-09 11:23:00,981 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:00,981 [INFO]  Epoch[2] Time cost=0.023
+2024-04-09 11:23:00,982 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:23:00,982 [INFO]  Epoch[2] Validation-cross-entropy=1.805443
+2024-04-09 11:23:00,982 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:00,985 [INFO]  Epoch[3] Batch [0-4]	Speed: 28351.86 samples/sec	cross-entropy=0.886559	Hue-accuracy=0.000000
+2024-04-09 11:23:00,987 [INFO]  Epoch[3] Train-cross-entropy=0.364568
+2024-04-09 11:23:00,987 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:00,987 [INFO]  Epoch[3] Time cost=0.005
+2024-04-09 11:23:00,989 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:23:00,989 [INFO]  Epoch[3] Validation-cross-entropy=1.171671
+2024-04-09 11:23:00,989 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:00,992 [INFO]  Epoch[4] Batch [0-4]	Speed: 25778.88 samples/sec	cross-entropy=0.598679	Hue-accuracy=0.000000
+2024-04-09 11:23:00,994 [INFO]  Epoch[4] Train-cross-entropy=0.469118
+2024-04-09 11:23:00,994 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:00,994 [INFO]  Epoch[4] Time cost=0.005
+2024-04-09 11:23:00,996 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:23:00,996 [INFO]  Epoch[4] Validation-cross-entropy=0.667509
+2024-04-09 11:23:00,996 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:00,996 [INFO]  
+========== done (0.09764409065246582 s) fit model
+2024-04-09 11:23:10,404 [INFO]  
+========== start: fit model
+2024-04-09 11:23:10,404 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:23:10,520 [INFO]  Epoch[0] Batch [0-4]	Speed: 20297.58 samples/sec	cross-entropy=8.592155	Hue-accuracy=0.000000
+2024-04-09 11:23:10,522 [INFO]  Epoch[0] Train-cross-entropy=7.732663
+2024-04-09 11:23:10,523 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:10,523 [INFO]  Epoch[0] Time cost=0.117
+2024-04-09 11:23:10,524 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:23:10,525 [INFO]  Epoch[0] Validation-cross-entropy=4.979209
+2024-04-09 11:23:10,525 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:10,532 [INFO]  Epoch[1] Batch [0-4]	Speed: 10285.28 samples/sec	cross-entropy=2.522454	Hue-accuracy=0.000000
+2024-04-09 11:23:10,534 [INFO]  Epoch[1] Train-cross-entropy=1.402891
+2024-04-09 11:23:10,534 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:10,534 [INFO]  Epoch[1] Time cost=0.009
+2024-04-09 11:23:10,535 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:23:10,536 [INFO]  Epoch[1] Validation-cross-entropy=0.788599
+2024-04-09 11:23:10,536 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:10,539 [INFO]  Epoch[2] Batch [0-4]	Speed: 25531.24 samples/sec	cross-entropy=0.663928	Hue-accuracy=0.000000
+2024-04-09 11:23:10,541 [INFO]  Epoch[2] Train-cross-entropy=0.956861
+2024-04-09 11:23:10,541 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:10,542 [INFO]  Epoch[2] Time cost=0.006
+2024-04-09 11:23:10,543 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:23:10,544 [INFO]  Epoch[2] Validation-cross-entropy=0.304291
+2024-04-09 11:23:10,544 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:10,568 [INFO]  Epoch[3] Batch [0-4]	Speed: 2794.54 samples/sec	cross-entropy=0.590956	Hue-accuracy=0.000000
+2024-04-09 11:23:10,571 [INFO]  Epoch[3] Train-cross-entropy=0.529352
+2024-04-09 11:23:10,571 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:10,571 [INFO]  Epoch[3] Time cost=0.027
+2024-04-09 11:23:10,573 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:23:10,573 [INFO]  Epoch[3] Validation-cross-entropy=0.336042
+2024-04-09 11:23:10,573 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:10,604 [INFO]  Epoch[4] Batch [0-4]	Speed: 2148.21 samples/sec	cross-entropy=0.401855	Hue-accuracy=0.000000
+2024-04-09 11:23:10,613 [INFO]  Epoch[4] Train-cross-entropy=0.211369
+2024-04-09 11:23:10,613 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:10,613 [INFO]  Epoch[4] Time cost=0.039
+2024-04-09 11:23:10,615 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:23:10,615 [INFO]  Epoch[4] Validation-cross-entropy=0.227294
+2024-04-09 11:23:10,616 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:10,616 [INFO]  
+========== done (0.21175646781921387 s) fit model
+2024-04-09 11:23:20,205 [INFO]  
+========== start: fit model
+2024-04-09 11:23:20,205 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:23:20,210 [INFO]  Epoch[0] Batch [0-4]	Speed: 21956.11 samples/sec	cross-entropy=15.319812	Hue-accuracy=0.000000
+2024-04-09 11:23:20,212 [INFO]  Epoch[0] Train-cross-entropy=7.430513
+2024-04-09 11:23:20,212 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:20,212 [INFO]  Epoch[0] Time cost=0.007
+2024-04-09 11:23:20,214 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:23:20,216 [INFO]  Epoch[0] Validation-cross-entropy=11.724935
+2024-04-09 11:23:20,216 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:20,220 [INFO]  Epoch[1] Batch [0-4]	Speed: 20098.49 samples/sec	cross-entropy=5.732955	Hue-accuracy=0.000000
+2024-04-09 11:23:20,222 [INFO]  Epoch[1] Train-cross-entropy=2.731156
+2024-04-09 11:23:20,223 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:20,223 [INFO]  Epoch[1] Time cost=0.007
+2024-04-09 11:23:20,224 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:23:20,227 [INFO]  Epoch[1] Validation-cross-entropy=4.217708
+2024-04-09 11:23:20,227 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:20,231 [INFO]  Epoch[2] Batch [0-4]	Speed: 28581.29 samples/sec	cross-entropy=1.913680	Hue-accuracy=0.000000
+2024-04-09 11:23:20,233 [INFO]  Epoch[2] Train-cross-entropy=0.630360
+2024-04-09 11:23:20,233 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:20,233 [INFO]  Epoch[2] Time cost=0.006
+2024-04-09 11:23:20,234 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:23:20,237 [INFO]  Epoch[2] Validation-cross-entropy=0.899830
+2024-04-09 11:23:20,237 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:20,256 [INFO]  Epoch[3] Batch [0-4]	Speed: 3484.55 samples/sec	cross-entropy=0.804570	Hue-accuracy=0.000000
+2024-04-09 11:23:20,272 [INFO]  Epoch[3] Train-cross-entropy=0.300799
+2024-04-09 11:23:20,272 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:20,272 [INFO]  Epoch[3] Time cost=0.035
+2024-04-09 11:23:20,276 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:23:20,295 [INFO]  Epoch[3] Validation-cross-entropy=0.240190
+2024-04-09 11:23:20,295 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:20,319 [INFO]  Epoch[4] Batch [0-4]	Speed: 3201.45 samples/sec	cross-entropy=0.605809	Hue-accuracy=0.000000
+2024-04-09 11:23:20,322 [INFO]  Epoch[4] Train-cross-entropy=0.285253
+2024-04-09 11:23:20,322 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:20,322 [INFO]  Epoch[4] Time cost=0.027
+2024-04-09 11:23:20,324 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:23:20,325 [INFO]  Epoch[4] Validation-cross-entropy=0.173482
+2024-04-09 11:23:20,325 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:20,325 [INFO]  
+========== done (0.12011313438415527 s) fit model
+2024-04-09 11:23:30,047 [INFO]  
+========== start: fit model
+2024-04-09 11:23:30,047 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:23:30,085 [INFO]  Epoch[0] Batch [0-4]	Speed: 2652.16 samples/sec	cross-entropy=6.908580	Hue-accuracy=0.000000
+2024-04-09 11:23:30,089 [INFO]  Epoch[0] Train-cross-entropy=6.007631
+2024-04-09 11:23:30,089 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:30,089 [INFO]  Epoch[0] Time cost=0.041
+2024-04-09 11:23:30,090 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:23:30,091 [INFO]  Epoch[0] Validation-cross-entropy=4.588711
+2024-04-09 11:23:30,091 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:30,096 [INFO]  Epoch[1] Batch [0-4]	Speed: 16407.03 samples/sec	cross-entropy=1.899782	Hue-accuracy=0.000000
+2024-04-09 11:23:30,098 [INFO]  Epoch[1] Train-cross-entropy=1.486400
+2024-04-09 11:23:30,098 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:30,099 [INFO]  Epoch[1] Time cost=0.007
+2024-04-09 11:23:30,100 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:23:30,101 [INFO]  Epoch[1] Validation-cross-entropy=0.938581
+2024-04-09 11:23:30,101 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:30,105 [INFO]  Epoch[2] Batch [0-4]	Speed: 23835.50 samples/sec	cross-entropy=0.692930	Hue-accuracy=0.000000
+2024-04-09 11:23:30,107 [INFO]  Epoch[2] Train-cross-entropy=0.661742
+2024-04-09 11:23:30,107 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:30,107 [INFO]  Epoch[2] Time cost=0.006
+2024-04-09 11:23:30,109 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:23:30,110 [INFO]  Epoch[2] Validation-cross-entropy=0.396151
+2024-04-09 11:23:30,110 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:30,115 [INFO]  Epoch[3] Batch [0-4]	Speed: 21348.45 samples/sec	cross-entropy=0.594266	Hue-accuracy=0.000000
+2024-04-09 11:23:30,117 [INFO]  Epoch[3] Train-cross-entropy=0.408362
+2024-04-09 11:23:30,117 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:30,117 [INFO]  Epoch[3] Time cost=0.007
+2024-04-09 11:23:30,119 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:23:30,120 [INFO]  Epoch[3] Validation-cross-entropy=0.189773
+2024-04-09 11:23:30,120 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:30,124 [INFO]  Epoch[4] Batch [0-4]	Speed: 24051.20 samples/sec	cross-entropy=0.361193	Hue-accuracy=0.000000
+2024-04-09 11:23:30,126 [INFO]  Epoch[4] Train-cross-entropy=0.221794
+2024-04-09 11:23:30,126 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:30,126 [INFO]  Epoch[4] Time cost=0.006
+2024-04-09 11:23:30,128 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:23:30,129 [INFO]  Epoch[4] Validation-cross-entropy=0.279595
+2024-04-09 11:23:30,129 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:30,129 [INFO]  
+========== done (0.08249330520629883 s) fit model
+2024-04-09 11:23:38,764 [INFO]  
+========== start: fit model
+2024-04-09 11:23:38,765 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:23:38,790 [INFO]  Epoch[0] Batch [0-4]	Speed: 12035.31 samples/sec	cross-entropy=13.819628	Hue-accuracy=0.000000
+2024-04-09 11:23:38,793 [INFO]  Epoch[0] Train-cross-entropy=6.418366
+2024-04-09 11:23:38,793 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:38,793 [INFO]  Epoch[0] Time cost=0.027
+2024-04-09 11:23:38,794 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:23:38,795 [INFO]  Epoch[0] Validation-cross-entropy=3.507685
+2024-04-09 11:23:38,795 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:38,801 [INFO]  Epoch[1] Batch [0-4]	Speed: 14957.95 samples/sec	cross-entropy=3.026148	Hue-accuracy=0.000000
+2024-04-09 11:23:38,804 [INFO]  Epoch[1] Train-cross-entropy=2.577660
+2024-04-09 11:23:38,804 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:38,804 [INFO]  Epoch[1] Time cost=0.009
+2024-04-09 11:23:38,805 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:23:38,806 [INFO]  Epoch[1] Validation-cross-entropy=1.195129
+2024-04-09 11:23:38,806 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:38,812 [INFO]  Epoch[2] Batch [0-4]	Speed: 14475.60 samples/sec	cross-entropy=1.679019	Hue-accuracy=0.000000
+2024-04-09 11:23:38,815 [INFO]  Epoch[2] Train-cross-entropy=1.071788
+2024-04-09 11:23:38,815 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:38,815 [INFO]  Epoch[2] Time cost=0.009
+2024-04-09 11:23:38,817 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:23:38,818 [INFO]  Epoch[2] Validation-cross-entropy=0.435583
+2024-04-09 11:23:38,818 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:38,823 [INFO]  Epoch[3] Batch [0-4]	Speed: 14601.58 samples/sec	cross-entropy=1.000141	Hue-accuracy=0.000000
+2024-04-09 11:23:38,827 [INFO]  Epoch[3] Train-cross-entropy=0.673030
+2024-04-09 11:23:38,827 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:38,827 [INFO]  Epoch[3] Time cost=0.009
+2024-04-09 11:23:38,828 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:23:38,829 [INFO]  Epoch[3] Validation-cross-entropy=0.705959
+2024-04-09 11:23:38,829 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:38,835 [INFO]  Epoch[4] Batch [0-4]	Speed: 14317.32 samples/sec	cross-entropy=0.475275	Hue-accuracy=0.000000
+2024-04-09 11:23:38,837 [INFO]  Epoch[4] Train-cross-entropy=0.411147
+2024-04-09 11:23:38,837 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:38,837 [INFO]  Epoch[4] Time cost=0.008
+2024-04-09 11:23:38,839 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:23:38,839 [INFO]  Epoch[4] Validation-cross-entropy=0.460335
+2024-04-09 11:23:38,839 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:38,839 [INFO]  
+========== done (0.0748445987701416 s) fit model
+2024-04-09 11:23:46,234 [INFO]  
+========== start: fit model
+2024-04-09 11:23:46,234 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:23:46,242 [INFO]  Epoch[0] Batch [0-4]	Speed: 14985.51 samples/sec	cross-entropy=14.761250	Hue-accuracy=0.000000
+2024-04-09 11:23:46,245 [INFO]  Epoch[0] Train-cross-entropy=4.188944
+2024-04-09 11:23:46,245 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:46,246 [INFO]  Epoch[0] Time cost=0.011
+2024-04-09 11:23:46,248 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:23:46,248 [INFO]  Epoch[0] Validation-cross-entropy=4.802236
+2024-04-09 11:23:46,249 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:46,254 [INFO]  Epoch[1] Batch [0-4]	Speed: 14593.64 samples/sec	cross-entropy=4.465730	Hue-accuracy=0.000000
+2024-04-09 11:23:46,258 [INFO]  Epoch[1] Train-cross-entropy=1.306153
+2024-04-09 11:23:46,258 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:46,258 [INFO]  Epoch[1] Time cost=0.009
+2024-04-09 11:23:46,260 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:23:46,261 [INFO]  Epoch[1] Validation-cross-entropy=0.951256
+2024-04-09 11:23:46,261 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:46,267 [INFO]  Epoch[2] Batch [0-4]	Speed: 14553.29 samples/sec	cross-entropy=1.244542	Hue-accuracy=0.000000
+2024-04-09 11:23:46,270 [INFO]  Epoch[2] Train-cross-entropy=0.893777
+2024-04-09 11:23:46,271 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:46,271 [INFO]  Epoch[2] Time cost=0.009
+2024-04-09 11:23:46,273 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:23:46,274 [INFO]  Epoch[2] Validation-cross-entropy=1.623330
+2024-04-09 11:23:46,274 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:46,280 [INFO]  Epoch[3] Batch [0-4]	Speed: 14521.01 samples/sec	cross-entropy=0.670631	Hue-accuracy=0.000000
+2024-04-09 11:23:46,283 [INFO]  Epoch[3] Train-cross-entropy=0.707268
+2024-04-09 11:23:46,283 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:46,284 [INFO]  Epoch[3] Time cost=0.009
+2024-04-09 11:23:46,286 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:23:46,286 [INFO]  Epoch[3] Validation-cross-entropy=1.607904
+2024-04-09 11:23:46,287 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:46,293 [INFO]  Epoch[4] Batch [0-4]	Speed: 14030.71 samples/sec	cross-entropy=0.436132	Hue-accuracy=0.000000
+2024-04-09 11:23:46,296 [INFO]  Epoch[4] Train-cross-entropy=0.408921
+2024-04-09 11:23:46,296 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:23:46,296 [INFO]  Epoch[4] Time cost=0.010
+2024-04-09 11:23:46,298 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:23:46,299 [INFO]  Epoch[4] Validation-cross-entropy=0.796065
+2024-04-09 11:23:46,299 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:46,300 [INFO]  
+========== done (0.06603837013244629 s) fit model
+2024-04-09 11:23:56,338 [INFO]  
+========== start: fit model
+2024-04-09 11:23:56,338 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:23:56,351 [INFO]  Epoch[0] Batch [0-4]	Speed: 14085.19 samples/sec	cross-entropy=21.649684	Hue-accuracy=2.800000
+2024-04-09 11:23:56,354 [INFO]  Epoch[0] Train-cross-entropy=6.873816
+2024-04-09 11:23:56,354 [INFO]  Epoch[0] Train-Hue-accuracy=4.666667
+2024-04-09 11:23:56,354 [INFO]  Epoch[0] Time cost=0.015
+2024-04-09 11:23:56,356 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:23:56,357 [INFO]  Epoch[0] Validation-cross-entropy=11.115114
+2024-04-09 11:23:56,357 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:56,363 [INFO]  Epoch[1] Batch [0-4]	Speed: 13834.74 samples/sec	cross-entropy=6.684835	Hue-accuracy=2.800000
+2024-04-09 11:23:56,366 [INFO]  Epoch[1] Train-cross-entropy=2.780467
+2024-04-09 11:23:56,366 [INFO]  Epoch[1] Train-Hue-accuracy=4.666667
+2024-04-09 11:23:56,366 [INFO]  Epoch[1] Time cost=0.009
+2024-04-09 11:23:56,368 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:23:56,368 [INFO]  Epoch[1] Validation-cross-entropy=4.767353
+2024-04-09 11:23:56,368 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:56,375 [INFO]  Epoch[2] Batch [0-4]	Speed: 12880.16 samples/sec	cross-entropy=2.399179	Hue-accuracy=2.800000
+2024-04-09 11:23:56,378 [INFO]  Epoch[2] Train-cross-entropy=1.100742
+2024-04-09 11:23:56,378 [INFO]  Epoch[2] Train-Hue-accuracy=4.666667
+2024-04-09 11:23:56,378 [INFO]  Epoch[2] Time cost=0.010
+2024-04-09 11:23:56,379 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:23:56,380 [INFO]  Epoch[2] Validation-cross-entropy=1.133218
+2024-04-09 11:23:56,380 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:56,386 [INFO]  Epoch[3] Batch [0-4]	Speed: 14562.77 samples/sec	cross-entropy=0.674903	Hue-accuracy=2.800000
+2024-04-09 11:23:56,389 [INFO]  Epoch[3] Train-cross-entropy=0.837270
+2024-04-09 11:23:56,389 [INFO]  Epoch[3] Train-Hue-accuracy=4.666667
+2024-04-09 11:23:56,389 [INFO]  Epoch[3] Time cost=0.009
+2024-04-09 11:23:56,391 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:23:56,392 [INFO]  Epoch[3] Validation-cross-entropy=1.391892
+2024-04-09 11:23:56,392 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:56,397 [INFO]  Epoch[4] Batch [0-4]	Speed: 14584.13 samples/sec	cross-entropy=0.462167	Hue-accuracy=2.800000
+2024-04-09 11:23:56,401 [INFO]  Epoch[4] Train-cross-entropy=0.566038
+2024-04-09 11:23:56,401 [INFO]  Epoch[4] Train-Hue-accuracy=4.666667
+2024-04-09 11:23:56,401 [INFO]  Epoch[4] Time cost=0.009
+2024-04-09 11:23:56,402 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:23:56,403 [INFO]  Epoch[4] Validation-cross-entropy=0.998163
+2024-04-09 11:23:56,403 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:23:56,403 [INFO]  
+========== done (0.06520438194274902 s) fit model
+2024-04-09 11:24:03,204 [INFO]  
+========== start: fit model
+2024-04-09 11:24:03,204 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:24:03,211 [INFO]  Epoch[0] Batch [0-4]	Speed: 15055.27 samples/sec	cross-entropy=16.483113	Hue-accuracy=4.000000
+2024-04-09 11:24:03,215 [INFO]  Epoch[0] Train-cross-entropy=10.177421
+2024-04-09 11:24:03,215 [INFO]  Epoch[0] Train-Hue-accuracy=3.666667
+2024-04-09 11:24:03,215 [INFO]  Epoch[0] Time cost=0.010
+2024-04-09 11:24:03,217 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:24:03,218 [INFO]  Epoch[0] Validation-cross-entropy=12.792250
+2024-04-09 11:24:03,218 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:03,224 [INFO]  Epoch[1] Batch [0-4]	Speed: 14771.11 samples/sec	cross-entropy=6.138994	Hue-accuracy=4.000000
+2024-04-09 11:24:03,228 [INFO]  Epoch[1] Train-cross-entropy=3.705579
+2024-04-09 11:24:03,228 [INFO]  Epoch[1] Train-Hue-accuracy=3.666667
+2024-04-09 11:24:03,228 [INFO]  Epoch[1] Time cost=0.009
+2024-04-09 11:24:03,230 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:24:03,231 [INFO]  Epoch[1] Validation-cross-entropy=3.601127
+2024-04-09 11:24:03,231 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:03,237 [INFO]  Epoch[2] Batch [0-4]	Speed: 14219.49 samples/sec	cross-entropy=1.953278	Hue-accuracy=4.000000
+2024-04-09 11:24:03,240 [INFO]  Epoch[2] Train-cross-entropy=1.537618
+2024-04-09 11:24:03,240 [INFO]  Epoch[2] Train-Hue-accuracy=3.666667
+2024-04-09 11:24:03,241 [INFO]  Epoch[2] Time cost=0.009
+2024-04-09 11:24:03,243 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:24:03,243 [INFO]  Epoch[2] Validation-cross-entropy=1.012675
+2024-04-09 11:24:03,244 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:03,248 [INFO]  Epoch[3] Batch [0-4]	Speed: 21452.53 samples/sec	cross-entropy=0.901594	Hue-accuracy=4.000000
+2024-04-09 11:24:03,250 [INFO]  Epoch[3] Train-cross-entropy=1.051702
+2024-04-09 11:24:03,250 [INFO]  Epoch[3] Train-Hue-accuracy=3.666667
+2024-04-09 11:24:03,251 [INFO]  Epoch[3] Time cost=0.007
+2024-04-09 11:24:03,253 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:24:03,253 [INFO]  Epoch[3] Validation-cross-entropy=0.440898
+2024-04-09 11:24:03,253 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:03,257 [INFO]  Epoch[4] Batch [0-4]	Speed: 20859.08 samples/sec	cross-entropy=0.738675	Hue-accuracy=4.000000
+2024-04-09 11:24:03,260 [INFO]  Epoch[4] Train-cross-entropy=0.642501
+2024-04-09 11:24:03,260 [INFO]  Epoch[4] Train-Hue-accuracy=3.666667
+2024-04-09 11:24:03,260 [INFO]  Epoch[4] Time cost=0.006
+2024-04-09 11:24:03,261 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:24:03,262 [INFO]  Epoch[4] Validation-cross-entropy=0.239999
+2024-04-09 11:24:03,262 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:03,262 [INFO]  
+========== done (0.05808711051940918 s) fit model
+2024-04-09 11:24:10,178 [INFO]  
+========== start: fit model
+2024-04-09 11:24:10,178 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:24:10,183 [INFO]  Epoch[0] Batch [0-4]	Speed: 22457.58 samples/sec	cross-entropy=12.630350	Hue-accuracy=4.400000
+2024-04-09 11:24:10,185 [INFO]  Epoch[0] Train-cross-entropy=7.576773
+2024-04-09 11:24:10,185 [INFO]  Epoch[0] Train-Hue-accuracy=2.000000
+2024-04-09 11:24:10,185 [INFO]  Epoch[0] Time cost=0.006
+2024-04-09 11:24:10,187 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:24:10,187 [INFO]  Epoch[0] Validation-cross-entropy=8.999162
+2024-04-09 11:24:10,187 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:10,190 [INFO]  Epoch[1] Batch [0-4]	Speed: 28994.97 samples/sec	cross-entropy=3.634927	Hue-accuracy=4.400000
+2024-04-09 11:24:10,192 [INFO]  Epoch[1] Train-cross-entropy=2.199155
+2024-04-09 11:24:10,192 [INFO]  Epoch[1] Train-Hue-accuracy=2.000000
+2024-04-09 11:24:10,192 [INFO]  Epoch[1] Time cost=0.005
+2024-04-09 11:24:10,193 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:24:10,194 [INFO]  Epoch[1] Validation-cross-entropy=2.281875
+2024-04-09 11:24:10,194 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:10,197 [INFO]  Epoch[2] Batch [0-4]	Speed: 28214.78 samples/sec	cross-entropy=1.312880	Hue-accuracy=4.400000
+2024-04-09 11:24:10,199 [INFO]  Epoch[2] Train-cross-entropy=0.289536
+2024-04-09 11:24:10,199 [INFO]  Epoch[2] Train-Hue-accuracy=2.000000
+2024-04-09 11:24:10,199 [INFO]  Epoch[2] Time cost=0.005
+2024-04-09 11:24:10,200 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:24:10,200 [INFO]  Epoch[2] Validation-cross-entropy=0.166415
+2024-04-09 11:24:10,200 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:10,209 [INFO]  Epoch[3] Batch [0-4]	Speed: 8359.09 samples/sec	cross-entropy=0.443689	Hue-accuracy=4.400000
+2024-04-09 11:24:10,211 [INFO]  Epoch[3] Train-cross-entropy=0.368539
+2024-04-09 11:24:10,211 [INFO]  Epoch[3] Train-Hue-accuracy=2.000000
+2024-04-09 11:24:10,211 [INFO]  Epoch[3] Time cost=0.011
+2024-04-09 11:24:10,213 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:24:10,213 [INFO]  Epoch[3] Validation-cross-entropy=0.296723
+2024-04-09 11:24:10,213 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:10,217 [INFO]  Epoch[4] Batch [0-4]	Speed: 24152.91 samples/sec	cross-entropy=0.421324	Hue-accuracy=4.400000
+2024-04-09 11:24:10,219 [INFO]  Epoch[4] Train-cross-entropy=0.307337
+2024-04-09 11:24:10,219 [INFO]  Epoch[4] Train-Hue-accuracy=2.000000
+2024-04-09 11:24:10,219 [INFO]  Epoch[4] Time cost=0.005
+2024-04-09 11:24:10,220 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:24:10,220 [INFO]  Epoch[4] Validation-cross-entropy=0.318058
+2024-04-09 11:24:10,220 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:10,220 [INFO]  
+========== done (0.04262065887451172 s) fit model
+2024-04-09 11:24:18,237 [INFO]  
+========== start: fit model
+2024-04-09 11:24:18,237 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:24:18,445 [INFO]  Epoch[0] Batch [0-4]	Speed: 16353.06 samples/sec	cross-entropy=10.146596	Hue-accuracy=3.000000
+2024-04-09 11:24:18,530 [INFO]  Epoch[0] Train-cross-entropy=8.064676
+2024-04-09 11:24:18,530 [INFO]  Epoch[0] Train-Hue-accuracy=4.000000
+2024-04-09 11:24:18,530 [INFO]  Epoch[0] Time cost=0.292
+2024-04-09 11:24:18,532 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:24:18,538 [INFO]  Epoch[0] Validation-cross-entropy=4.172140
+2024-04-09 11:24:18,538 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:18,550 [INFO]  Epoch[1] Batch [0-4]	Speed: 14941.30 samples/sec	cross-entropy=2.829193	Hue-accuracy=3.000000
+2024-04-09 11:24:18,557 [INFO]  Epoch[1] Train-cross-entropy=2.523284
+2024-04-09 11:24:18,558 [INFO]  Epoch[1] Train-Hue-accuracy=4.000000
+2024-04-09 11:24:18,558 [INFO]  Epoch[1] Time cost=0.019
+2024-04-09 11:24:18,559 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:24:18,560 [INFO]  Epoch[1] Validation-cross-entropy=1.371326
+2024-04-09 11:24:18,560 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:18,565 [INFO]  Epoch[2] Batch [0-4]	Speed: 15406.08 samples/sec	cross-entropy=0.894669	Hue-accuracy=3.000000
+2024-04-09 11:24:18,568 [INFO]  Epoch[2] Train-cross-entropy=0.896520
+2024-04-09 11:24:18,568 [INFO]  Epoch[2] Train-Hue-accuracy=4.000000
+2024-04-09 11:24:18,568 [INFO]  Epoch[2] Time cost=0.009
+2024-04-09 11:24:18,570 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:24:18,571 [INFO]  Epoch[2] Validation-cross-entropy=0.591996
+2024-04-09 11:24:18,571 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:18,576 [INFO]  Epoch[3] Batch [0-4]	Speed: 15403.42 samples/sec	cross-entropy=0.743373	Hue-accuracy=3.000000
+2024-04-09 11:24:18,579 [INFO]  Epoch[3] Train-cross-entropy=0.426568
+2024-04-09 11:24:18,580 [INFO]  Epoch[3] Train-Hue-accuracy=4.000000
+2024-04-09 11:24:18,580 [INFO]  Epoch[3] Time cost=0.009
+2024-04-09 11:24:18,581 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:24:18,582 [INFO]  Epoch[3] Validation-cross-entropy=0.500215
+2024-04-09 11:24:18,582 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:18,587 [INFO]  Epoch[4] Batch [0-4]	Speed: 15603.08 samples/sec	cross-entropy=0.407283	Hue-accuracy=3.000000
+2024-04-09 11:24:18,590 [INFO]  Epoch[4] Train-cross-entropy=0.364028
+2024-04-09 11:24:18,590 [INFO]  Epoch[4] Train-Hue-accuracy=4.000000
+2024-04-09 11:24:18,590 [INFO]  Epoch[4] Time cost=0.009
+2024-04-09 11:24:18,592 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:24:18,592 [INFO]  Epoch[4] Validation-cross-entropy=0.558160
+2024-04-09 11:24:18,593 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:18,593 [INFO]  
+========== done (0.35576701164245605 s) fit model
+2024-04-09 11:24:26,555 [INFO]  
+========== start: fit model
+2024-04-09 11:24:26,555 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:24:26,593 [INFO]  Epoch[0] Batch [0-4]	Speed: 14606.35 samples/sec	cross-entropy=14.800016	Hue-accuracy=0.000000
+2024-04-09 11:24:26,596 [INFO]  Epoch[0] Train-cross-entropy=11.070040
+2024-04-09 11:24:26,596 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:26,597 [INFO]  Epoch[0] Time cost=0.041
+2024-04-09 11:24:26,599 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:24:26,600 [INFO]  Epoch[0] Validation-cross-entropy=8.837816
+2024-04-09 11:24:26,600 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:26,604 [INFO]  Epoch[1] Batch [0-4]	Speed: 18926.56 samples/sec	cross-entropy=4.660960	Hue-accuracy=0.000000
+2024-04-09 11:24:26,606 [INFO]  Epoch[1] Train-cross-entropy=3.621893
+2024-04-09 11:24:26,606 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:26,606 [INFO]  Epoch[1] Time cost=0.006
+2024-04-09 11:24:26,609 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:24:26,610 [INFO]  Epoch[1] Validation-cross-entropy=1.790025
+2024-04-09 11:24:26,611 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:26,615 [INFO]  Epoch[2] Batch [0-4]	Speed: 18684.17 samples/sec	cross-entropy=2.022298	Hue-accuracy=0.000000
+2024-04-09 11:24:27,305 [INFO]  Epoch[2] Train-cross-entropy=1.080873
+2024-04-09 11:24:27,305 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:27,305 [INFO]  Epoch[2] Time cost=0.695
+2024-04-09 11:24:27,307 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:24:27,401 [INFO]  Epoch[2] Validation-cross-entropy=0.940353
+2024-04-09 11:24:27,401 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:27,483 [INFO]  Epoch[3] Batch [0-4]	Speed: 9564.78 samples/sec	cross-entropy=0.681275	Hue-accuracy=0.000000
+2024-04-09 11:24:27,489 [INFO]  Epoch[3] Train-cross-entropy=0.648255
+2024-04-09 11:24:27,489 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:27,489 [INFO]  Epoch[3] Time cost=0.088
+2024-04-09 11:24:27,491 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:24:27,491 [INFO]  Epoch[3] Validation-cross-entropy=0.738467
+2024-04-09 11:24:27,491 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:27,497 [INFO]  Epoch[4] Batch [0-4]	Speed: 14082.97 samples/sec	cross-entropy=0.564687	Hue-accuracy=0.000000
+2024-04-09 11:24:27,503 [INFO]  Epoch[4] Train-cross-entropy=0.455104
+2024-04-09 11:24:27,503 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:27,503 [INFO]  Epoch[4] Time cost=0.011
+2024-04-09 11:24:27,507 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:24:27,512 [INFO]  Epoch[4] Validation-cross-entropy=0.564985
+2024-04-09 11:24:27,512 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:27,512 [INFO]  
+========== done (0.9573843479156494 s) fit model
+2024-04-09 11:24:31,192 [INFO]  
+========== start: fit model
+2024-04-09 11:24:31,192 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:24:31,253 [INFO]  Epoch[0] Batch [0-4]	Speed: 1418.66 samples/sec	cross-entropy=13.827820	Hue-accuracy=0.000000
+2024-04-09 11:24:31,258 [INFO]  Epoch[0] Train-cross-entropy=6.871156
+2024-04-09 11:24:31,258 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:31,258 [INFO]  Epoch[0] Time cost=0.065
+2024-04-09 11:24:31,260 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:24:31,260 [INFO]  Epoch[0] Validation-cross-entropy=4.086912
+2024-04-09 11:24:31,261 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:31,572 [INFO]  Epoch[1] Batch [0-4]	Speed: 206.29 samples/sec	cross-entropy=4.142580	Hue-accuracy=0.000000
+2024-04-09 11:24:31,578 [INFO]  Epoch[1] Train-cross-entropy=1.208744
+2024-04-09 11:24:31,578 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:31,579 [INFO]  Epoch[1] Time cost=0.318
+2024-04-09 11:24:31,581 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:24:31,582 [INFO]  Epoch[1] Validation-cross-entropy=1.277613
+2024-04-09 11:24:31,582 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:31,587 [INFO]  Epoch[2] Batch [0-4]	Speed: 15042.61 samples/sec	cross-entropy=1.213807	Hue-accuracy=0.000000
+2024-04-09 11:24:31,591 [INFO]  Epoch[2] Train-cross-entropy=0.858785
+2024-04-09 11:24:31,591 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:31,591 [INFO]  Epoch[2] Time cost=0.009
+2024-04-09 11:24:31,593 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:24:31,594 [INFO]  Epoch[2] Validation-cross-entropy=0.538973
+2024-04-09 11:24:31,594 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:31,599 [INFO]  Epoch[3] Batch [0-4]	Speed: 15147.02 samples/sec	cross-entropy=0.554324	Hue-accuracy=0.000000
+2024-04-09 11:24:31,603 [INFO]  Epoch[3] Train-cross-entropy=0.696510
+2024-04-09 11:24:31,603 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:31,603 [INFO]  Epoch[3] Time cost=0.009
+2024-04-09 11:24:31,605 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:24:31,615 [INFO]  Epoch[3] Validation-cross-entropy=0.946370
+2024-04-09 11:24:31,615 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:31,623 [INFO]  Epoch[4] Batch [0-4]	Speed: 12398.87 samples/sec	cross-entropy=0.398827	Hue-accuracy=0.000000
+2024-04-09 11:24:31,665 [INFO]  Epoch[4] Train-cross-entropy=0.302541
+2024-04-09 11:24:31,665 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:31,665 [INFO]  Epoch[4] Time cost=0.049
+2024-04-09 11:24:31,667 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:24:31,761 [INFO]  Epoch[4] Validation-cross-entropy=1.810226
+2024-04-09 11:24:31,761 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:31,761 [INFO]  
+========== done (0.5688729286193848 s) fit model
+2024-04-09 11:24:38,579 [INFO]  
+========== start: fit model
+2024-04-09 11:24:38,579 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:24:38,584 [INFO]  Epoch[0] Batch [0-4]	Speed: 22675.74 samples/sec	cross-entropy=23.520137	Hue-accuracy=3.800000
+2024-04-09 11:24:38,586 [INFO]  Epoch[0] Train-cross-entropy=11.959817
+2024-04-09 11:24:38,586 [INFO]  Epoch[0] Train-Hue-accuracy=4.000000
+2024-04-09 11:24:38,586 [INFO]  Epoch[0] Time cost=0.006
+2024-04-09 11:24:38,589 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:24:38,590 [INFO]  Epoch[0] Validation-cross-entropy=6.262518
+2024-04-09 11:24:38,590 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:38,594 [INFO]  Epoch[1] Batch [0-4]	Speed: 23297.64 samples/sec	cross-entropy=9.171638	Hue-accuracy=3.800000
+2024-04-09 11:24:38,596 [INFO]  Epoch[1] Train-cross-entropy=5.170281
+2024-04-09 11:24:38,596 [INFO]  Epoch[1] Train-Hue-accuracy=4.000000
+2024-04-09 11:24:38,596 [INFO]  Epoch[1] Time cost=0.006
+2024-04-09 11:24:38,597 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:24:38,598 [INFO]  Epoch[1] Validation-cross-entropy=1.719391
+2024-04-09 11:24:38,598 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:38,602 [INFO]  Epoch[2] Batch [0-4]	Speed: 17995.27 samples/sec	cross-entropy=4.221281	Hue-accuracy=3.800000
+2024-04-09 11:24:38,605 [INFO]  Epoch[2] Train-cross-entropy=1.621318
+2024-04-09 11:24:38,605 [INFO]  Epoch[2] Train-Hue-accuracy=4.000000
+2024-04-09 11:24:38,605 [INFO]  Epoch[2] Time cost=0.007
+2024-04-09 11:24:38,607 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:24:38,607 [INFO]  Epoch[2] Validation-cross-entropy=1.305467
+2024-04-09 11:24:38,607 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:38,611 [INFO]  Epoch[3] Batch [0-4]	Speed: 21083.53 samples/sec	cross-entropy=1.803648	Hue-accuracy=3.800000
+2024-04-09 11:24:38,613 [INFO]  Epoch[3] Train-cross-entropy=1.081163
+2024-04-09 11:24:38,614 [INFO]  Epoch[3] Train-Hue-accuracy=4.000000
+2024-04-09 11:24:38,614 [INFO]  Epoch[3] Time cost=0.006
+2024-04-09 11:24:38,615 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:24:38,615 [INFO]  Epoch[3] Validation-cross-entropy=1.628278
+2024-04-09 11:24:38,615 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:38,619 [INFO]  Epoch[4] Batch [0-4]	Speed: 24781.71 samples/sec	cross-entropy=1.167621	Hue-accuracy=3.800000
+2024-04-09 11:24:38,621 [INFO]  Epoch[4] Train-cross-entropy=1.064662
+2024-04-09 11:24:38,621 [INFO]  Epoch[4] Train-Hue-accuracy=4.000000
+2024-04-09 11:24:38,621 [INFO]  Epoch[4] Time cost=0.006
+2024-04-09 11:24:38,622 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:24:38,623 [INFO]  Epoch[4] Validation-cross-entropy=1.660115
+2024-04-09 11:24:38,623 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:38,623 [INFO]  
+========== done (0.04427957534790039 s) fit model
+2024-04-09 11:24:45,330 [INFO]  
+========== start: fit model
+2024-04-09 11:24:45,330 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:24:45,465 [INFO]  Epoch[0] Batch [0-4]	Speed: 503.82 samples/sec	cross-entropy=10.326421	Hue-accuracy=0.000000
+2024-04-09 11:24:45,468 [INFO]  Epoch[0] Train-cross-entropy=4.650567
+2024-04-09 11:24:45,468 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:45,468 [INFO]  Epoch[0] Time cost=0.137
+2024-04-09 11:24:45,470 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:24:45,471 [INFO]  Epoch[0] Validation-cross-entropy=1.189929
+2024-04-09 11:24:45,471 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:45,477 [INFO]  Epoch[1] Batch [0-4]	Speed: 15251.15 samples/sec	cross-entropy=2.717910	Hue-accuracy=0.000000
+2024-04-09 11:24:45,480 [INFO]  Epoch[1] Train-cross-entropy=1.282650
+2024-04-09 11:24:45,480 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:45,480 [INFO]  Epoch[1] Time cost=0.009
+2024-04-09 11:24:45,482 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:24:45,483 [INFO]  Epoch[1] Validation-cross-entropy=0.187045
+2024-04-09 11:24:45,483 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:45,489 [INFO]  Epoch[2] Batch [0-4]	Speed: 15172.70 samples/sec	cross-entropy=0.858016	Hue-accuracy=0.000000
+2024-04-09 11:24:45,492 [INFO]  Epoch[2] Train-cross-entropy=1.294958
+2024-04-09 11:24:45,492 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:45,492 [INFO]  Epoch[2] Time cost=0.009
+2024-04-09 11:24:45,494 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:24:45,495 [INFO]  Epoch[2] Validation-cross-entropy=0.383002
+2024-04-09 11:24:45,495 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:45,501 [INFO]  Epoch[3] Batch [0-4]	Speed: 14555.66 samples/sec	cross-entropy=0.676980	Hue-accuracy=0.000000
+2024-04-09 11:24:45,509 [INFO]  Epoch[3] Train-cross-entropy=0.610656
+2024-04-09 11:24:45,510 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:45,510 [INFO]  Epoch[3] Time cost=0.015
+2024-04-09 11:24:45,511 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:24:45,512 [INFO]  Epoch[3] Validation-cross-entropy=0.766183
+2024-04-09 11:24:45,512 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:45,518 [INFO]  Epoch[4] Batch [0-4]	Speed: 14677.43 samples/sec	cross-entropy=0.457171	Hue-accuracy=0.000000
+2024-04-09 11:24:45,537 [INFO]  Epoch[4] Train-cross-entropy=0.251315
+2024-04-09 11:24:45,538 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:45,538 [INFO]  Epoch[4] Time cost=0.026
+2024-04-09 11:24:45,539 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:24:45,540 [INFO]  Epoch[4] Validation-cross-entropy=0.135991
+2024-04-09 11:24:45,540 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:45,540 [INFO]  
+========== done (0.21042299270629883 s) fit model
+2024-04-09 11:24:52,163 [INFO]  
+========== start: fit model
+2024-04-09 11:24:52,163 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:24:52,655 [INFO]  Epoch[0] Batch [0-4]	Speed: 415.94 samples/sec	cross-entropy=19.477048	Hue-accuracy=0.000000
+2024-04-09 11:24:52,657 [INFO]  Epoch[0] Train-cross-entropy=8.718978
+2024-04-09 11:24:52,657 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:52,657 [INFO]  Epoch[0] Time cost=0.493
+2024-04-09 11:24:52,659 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:24:52,660 [INFO]  Epoch[0] Validation-cross-entropy=6.899614
+2024-04-09 11:24:52,660 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:52,665 [INFO]  Epoch[1] Batch [0-4]	Speed: 14820.04 samples/sec	cross-entropy=5.938605	Hue-accuracy=0.000000
+2024-04-09 11:24:52,684 [INFO]  Epoch[1] Train-cross-entropy=3.039251
+2024-04-09 11:24:52,684 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:52,684 [INFO]  Epoch[1] Time cost=0.025
+2024-04-09 11:24:52,686 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:24:52,687 [INFO]  Epoch[1] Validation-cross-entropy=2.929328
+2024-04-09 11:24:52,687 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:52,696 [INFO]  Epoch[2] Batch [0-4]	Speed: 7950.58 samples/sec	cross-entropy=2.175222	Hue-accuracy=0.000000
+2024-04-09 11:24:52,700 [INFO]  Epoch[2] Train-cross-entropy=1.506065
+2024-04-09 11:24:52,700 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:52,700 [INFO]  Epoch[2] Time cost=0.013
+2024-04-09 11:24:52,702 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:24:52,703 [INFO]  Epoch[2] Validation-cross-entropy=2.282633
+2024-04-09 11:24:52,703 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:52,708 [INFO]  Epoch[3] Batch [0-4]	Speed: 17901.66 samples/sec	cross-entropy=1.172992	Hue-accuracy=0.000000
+2024-04-09 11:24:52,710 [INFO]  Epoch[3] Train-cross-entropy=0.579229
+2024-04-09 11:24:52,710 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:52,710 [INFO]  Epoch[3] Time cost=0.007
+2024-04-09 11:24:52,712 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:24:52,712 [INFO]  Epoch[3] Validation-cross-entropy=1.089421
+2024-04-09 11:24:52,712 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:52,717 [INFO]  Epoch[4] Batch [0-4]	Speed: 17800.76 samples/sec	cross-entropy=0.646276	Hue-accuracy=0.000000
+2024-04-09 11:24:52,719 [INFO]  Epoch[4] Train-cross-entropy=0.310120
+2024-04-09 11:24:52,720 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:24:52,720 [INFO]  Epoch[4] Time cost=0.007
+2024-04-09 11:24:52,724 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:24:52,731 [INFO]  Epoch[4] Validation-cross-entropy=0.703538
+2024-04-09 11:24:52,731 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:52,731 [INFO]  
+========== done (0.5678339004516602 s) fit model
+2024-04-09 11:24:59,224 [INFO]  
+========== start: fit model
+2024-04-09 11:24:59,224 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:24:59,230 [INFO]  Epoch[0] Batch [0-4]	Speed: 21423.42 samples/sec	cross-entropy=21.800073	Hue-accuracy=3.200000
+2024-04-09 11:24:59,232 [INFO]  Epoch[0] Train-cross-entropy=11.484776
+2024-04-09 11:24:59,232 [INFO]  Epoch[0] Train-Hue-accuracy=3.000000
+2024-04-09 11:24:59,232 [INFO]  Epoch[0] Time cost=0.007
+2024-04-09 11:24:59,234 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:24:59,234 [INFO]  Epoch[0] Validation-cross-entropy=19.266153
+2024-04-09 11:24:59,234 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:59,238 [INFO]  Epoch[1] Batch [0-4]	Speed: 21467.97 samples/sec	cross-entropy=7.512484	Hue-accuracy=3.200000
+2024-04-09 11:24:59,240 [INFO]  Epoch[1] Train-cross-entropy=4.224813
+2024-04-09 11:24:59,240 [INFO]  Epoch[1] Train-Hue-accuracy=3.000000
+2024-04-09 11:24:59,240 [INFO]  Epoch[1] Time cost=0.006
+2024-04-09 11:24:59,242 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:24:59,242 [INFO]  Epoch[1] Validation-cross-entropy=8.689013
+2024-04-09 11:24:59,242 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:59,246 [INFO]  Epoch[2] Batch [0-4]	Speed: 21115.04 samples/sec	cross-entropy=3.195877	Hue-accuracy=3.200000
+2024-04-09 11:24:59,249 [INFO]  Epoch[2] Train-cross-entropy=1.364184
+2024-04-09 11:24:59,249 [INFO]  Epoch[2] Train-Hue-accuracy=3.000000
+2024-04-09 11:24:59,249 [INFO]  Epoch[2] Time cost=0.006
+2024-04-09 11:24:59,250 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:24:59,251 [INFO]  Epoch[2] Validation-cross-entropy=1.852345
+2024-04-09 11:24:59,251 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:59,255 [INFO]  Epoch[3] Batch [0-4]	Speed: 21457.67 samples/sec	cross-entropy=0.581963	Hue-accuracy=3.200000
+2024-04-09 11:24:59,257 [INFO]  Epoch[3] Train-cross-entropy=0.945400
+2024-04-09 11:24:59,257 [INFO]  Epoch[3] Train-Hue-accuracy=3.000000
+2024-04-09 11:24:59,257 [INFO]  Epoch[3] Time cost=0.006
+2024-04-09 11:24:59,258 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:24:59,259 [INFO]  Epoch[3] Validation-cross-entropy=0.405517
+2024-04-09 11:24:59,259 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:59,263 [INFO]  Epoch[4] Batch [0-4]	Speed: 21907.73 samples/sec	cross-entropy=0.488933	Hue-accuracy=3.200000
+2024-04-09 11:24:59,265 [INFO]  Epoch[4] Train-cross-entropy=0.665836
+2024-04-09 11:24:59,265 [INFO]  Epoch[4] Train-Hue-accuracy=3.000000
+2024-04-09 11:24:59,266 [INFO]  Epoch[4] Time cost=0.006
+2024-04-09 11:24:59,267 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:24:59,276 [INFO]  Epoch[4] Validation-cross-entropy=0.300496
+2024-04-09 11:24:59,276 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:24:59,276 [INFO]  
+========== done (0.05177044868469238 s) fit model
+2024-04-09 11:25:08,830 [INFO]  
+========== start: fit model
+2024-04-09 11:25:08,830 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:25:09,002 [INFO]  Epoch[0] Batch [0-4]	Speed: 27232.98 samples/sec	cross-entropy=18.985995	Hue-accuracy=3.200000
+2024-04-09 11:25:09,008 [INFO]  Epoch[0] Train-cross-entropy=8.704747
+2024-04-09 11:25:09,008 [INFO]  Epoch[0] Train-Hue-accuracy=3.000000
+2024-04-09 11:25:09,008 [INFO]  Epoch[0] Time cost=0.177
+2024-04-09 11:25:09,010 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:25:09,010 [INFO]  Epoch[0] Validation-cross-entropy=23.972439
+2024-04-09 11:25:09,010 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:09,014 [INFO]  Epoch[1] Batch [0-4]	Speed: 23083.28 samples/sec	cross-entropy=5.570677	Hue-accuracy=3.200000
+2024-04-09 11:25:09,016 [INFO]  Epoch[1] Train-cross-entropy=3.897139
+2024-04-09 11:25:09,016 [INFO]  Epoch[1] Train-Hue-accuracy=3.000000
+2024-04-09 11:25:09,016 [INFO]  Epoch[1] Time cost=0.006
+2024-04-09 11:25:09,018 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:25:09,018 [INFO]  Epoch[1] Validation-cross-entropy=5.783157
+2024-04-09 11:25:09,018 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:09,022 [INFO]  Epoch[2] Batch [0-4]	Speed: 22775.79 samples/sec	cross-entropy=2.147470	Hue-accuracy=3.200000
+2024-04-09 11:25:09,024 [INFO]  Epoch[2] Train-cross-entropy=0.837271
+2024-04-09 11:25:09,024 [INFO]  Epoch[2] Train-Hue-accuracy=3.000000
+2024-04-09 11:25:09,024 [INFO]  Epoch[2] Time cost=0.006
+2024-04-09 11:25:09,025 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:25:09,026 [INFO]  Epoch[2] Validation-cross-entropy=0.965464
+2024-04-09 11:25:09,026 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:09,029 [INFO]  Epoch[3] Batch [0-4]	Speed: 27997.02 samples/sec	cross-entropy=0.462162	Hue-accuracy=3.200000
+2024-04-09 11:25:09,030 [INFO]  Epoch[3] Train-cross-entropy=0.528171
+2024-04-09 11:25:09,030 [INFO]  Epoch[3] Train-Hue-accuracy=3.000000
+2024-04-09 11:25:09,030 [INFO]  Epoch[3] Time cost=0.005
+2024-04-09 11:25:09,032 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:25:09,032 [INFO]  Epoch[3] Validation-cross-entropy=1.826886
+2024-04-09 11:25:09,032 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:09,035 [INFO]  Epoch[4] Batch [0-4]	Speed: 28469.13 samples/sec	cross-entropy=0.496543	Hue-accuracy=3.200000
+2024-04-09 11:25:09,037 [INFO]  Epoch[4] Train-cross-entropy=0.426154
+2024-04-09 11:25:09,037 [INFO]  Epoch[4] Train-Hue-accuracy=3.000000
+2024-04-09 11:25:09,037 [INFO]  Epoch[4] Time cost=0.005
+2024-04-09 11:25:09,038 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:25:09,039 [INFO]  Epoch[4] Validation-cross-entropy=1.512617
+2024-04-09 11:25:09,039 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:09,039 [INFO]  
+========== done (0.20934319496154785 s) fit model
+2024-04-09 11:25:18,773 [INFO]  
+========== start: fit model
+2024-04-09 11:25:18,773 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:25:18,783 [INFO]  Epoch[0] Batch [0-4]	Speed: 23313.83 samples/sec	cross-entropy=11.704346	Hue-accuracy=2.800000
+2024-04-09 11:25:18,785 [INFO]  Epoch[0] Train-cross-entropy=6.804142
+2024-04-09 11:25:18,785 [INFO]  Epoch[0] Train-Hue-accuracy=4.000000
+2024-04-09 11:25:18,785 [INFO]  Epoch[0] Time cost=0.011
+2024-04-09 11:25:18,787 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:25:18,792 [INFO]  Epoch[0] Validation-cross-entropy=5.583870
+2024-04-09 11:25:18,792 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:18,811 [INFO]  Epoch[1] Batch [0-4]	Speed: 8615.85 samples/sec	cross-entropy=3.460875	Hue-accuracy=2.800000
+2024-04-09 11:25:18,815 [INFO]  Epoch[1] Train-cross-entropy=2.913900
+2024-04-09 11:25:18,815 [INFO]  Epoch[1] Train-Hue-accuracy=4.000000
+2024-04-09 11:25:18,815 [INFO]  Epoch[1] Time cost=0.023
+2024-04-09 11:25:18,816 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:25:18,817 [INFO]  Epoch[1] Validation-cross-entropy=2.900763
+2024-04-09 11:25:18,817 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:18,822 [INFO]  Epoch[2] Batch [0-4]	Speed: 15215.70 samples/sec	cross-entropy=1.557596	Hue-accuracy=2.800000
+2024-04-09 11:25:18,826 [INFO]  Epoch[2] Train-cross-entropy=0.825694
+2024-04-09 11:25:18,826 [INFO]  Epoch[2] Train-Hue-accuracy=4.000000
+2024-04-09 11:25:18,826 [INFO]  Epoch[2] Time cost=0.009
+2024-04-09 11:25:18,827 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:25:18,828 [INFO]  Epoch[2] Validation-cross-entropy=0.864086
+2024-04-09 11:25:18,828 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:18,834 [INFO]  Epoch[3] Batch [0-4]	Speed: 15206.22 samples/sec	cross-entropy=0.507080	Hue-accuracy=2.800000
+2024-04-09 11:25:18,837 [INFO]  Epoch[3] Train-cross-entropy=0.622956
+2024-04-09 11:25:18,837 [INFO]  Epoch[3] Train-Hue-accuracy=4.000000
+2024-04-09 11:25:18,837 [INFO]  Epoch[3] Time cost=0.009
+2024-04-09 11:25:18,839 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:25:18,839 [INFO]  Epoch[3] Validation-cross-entropy=1.455231
+2024-04-09 11:25:18,839 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:18,845 [INFO]  Epoch[4] Batch [0-4]	Speed: 14221.75 samples/sec	cross-entropy=0.419599	Hue-accuracy=2.800000
+2024-04-09 11:25:18,849 [INFO]  Epoch[4] Train-cross-entropy=0.363501
+2024-04-09 11:25:18,849 [INFO]  Epoch[4] Train-Hue-accuracy=4.000000
+2024-04-09 11:25:18,849 [INFO]  Epoch[4] Time cost=0.009
+2024-04-09 11:25:18,850 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:25:18,851 [INFO]  Epoch[4] Validation-cross-entropy=0.930378
+2024-04-09 11:25:18,851 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:18,851 [INFO]  
+========== done (0.07839226722717285 s) fit model
+2024-04-09 11:25:27,979 [INFO]  
+========== start: fit model
+2024-04-09 11:25:27,979 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:25:28,013 [INFO]  Epoch[0] Batch [0-4]	Speed: 3443.64 samples/sec	cross-entropy=12.674243	Hue-accuracy=0.000000
+2024-04-09 11:25:28,020 [INFO]  Epoch[0] Train-cross-entropy=11.992551
+2024-04-09 11:25:28,020 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:28,020 [INFO]  Epoch[0] Time cost=0.040
+2024-04-09 11:25:28,022 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:25:28,022 [INFO]  Epoch[0] Validation-cross-entropy=5.430188
+2024-04-09 11:25:28,022 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:28,124 [INFO]  Epoch[1] Batch [0-4]	Speed: 631.31 samples/sec	cross-entropy=5.365691	Hue-accuracy=0.000000
+2024-04-09 11:25:28,127 [INFO]  Epoch[1] Train-cross-entropy=3.773091
+2024-04-09 11:25:28,127 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:28,127 [INFO]  Epoch[1] Time cost=0.105
+2024-04-09 11:25:28,128 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:25:28,129 [INFO]  Epoch[1] Validation-cross-entropy=3.337575
+2024-04-09 11:25:28,129 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:28,141 [INFO]  Epoch[2] Batch [0-4]	Speed: 5886.74 samples/sec	cross-entropy=2.299902	Hue-accuracy=0.000000
+2024-04-09 11:25:28,143 [INFO]  Epoch[2] Train-cross-entropy=1.206333
+2024-04-09 11:25:28,143 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:28,143 [INFO]  Epoch[2] Time cost=0.014
+2024-04-09 11:25:28,145 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:25:28,145 [INFO]  Epoch[2] Validation-cross-entropy=1.521967
+2024-04-09 11:25:28,145 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:28,149 [INFO]  Epoch[3] Batch [0-4]	Speed: 21984.89 samples/sec	cross-entropy=0.855160	Hue-accuracy=0.000000
+2024-04-09 11:25:28,151 [INFO]  Epoch[3] Train-cross-entropy=0.499691
+2024-04-09 11:25:28,151 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:28,151 [INFO]  Epoch[3] Time cost=0.006
+2024-04-09 11:25:28,153 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:25:28,153 [INFO]  Epoch[3] Validation-cross-entropy=0.768902
+2024-04-09 11:25:28,153 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:28,157 [INFO]  Epoch[4] Batch [0-4]	Speed: 20460.02 samples/sec	cross-entropy=0.515183	Hue-accuracy=0.000000
+2024-04-09 11:25:28,160 [INFO]  Epoch[4] Train-cross-entropy=0.593048
+2024-04-09 11:25:28,160 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:28,160 [INFO]  Epoch[4] Time cost=0.006
+2024-04-09 11:25:28,161 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:25:28,162 [INFO]  Epoch[4] Validation-cross-entropy=0.528439
+2024-04-09 11:25:28,162 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:28,162 [INFO]  
+========== done (0.1830275058746338 s) fit model
+2024-04-09 11:25:36,518 [INFO]  
+========== start: fit model
+2024-04-09 11:25:36,518 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:25:36,526 [INFO]  Epoch[0] Batch [0-4]	Speed: 16554.76 samples/sec	cross-entropy=9.271150	Hue-accuracy=0.000000
+2024-04-09 11:25:36,528 [INFO]  Epoch[0] Train-cross-entropy=5.396034
+2024-04-09 11:25:36,528 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:36,528 [INFO]  Epoch[0] Time cost=0.009
+2024-04-09 11:25:36,530 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:25:36,530 [INFO]  Epoch[0] Validation-cross-entropy=3.169923
+2024-04-09 11:25:36,531 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:36,539 [INFO]  Epoch[1] Batch [0-4]	Speed: 8971.47 samples/sec	cross-entropy=2.136947	Hue-accuracy=0.000000
+2024-04-09 11:25:36,551 [INFO]  Epoch[1] Train-cross-entropy=1.406057
+2024-04-09 11:25:36,551 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:36,551 [INFO]  Epoch[1] Time cost=0.020
+2024-04-09 11:25:36,554 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:25:36,622 [INFO]  Epoch[1] Validation-cross-entropy=1.163306
+2024-04-09 11:25:36,622 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:36,628 [INFO]  Epoch[2] Batch [0-4]	Speed: 14043.18 samples/sec	cross-entropy=0.764430	Hue-accuracy=0.000000
+2024-04-09 11:25:36,632 [INFO]  Epoch[2] Train-cross-entropy=0.503167
+2024-04-09 11:25:36,632 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:36,632 [INFO]  Epoch[2] Time cost=0.009
+2024-04-09 11:25:36,633 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:25:36,634 [INFO]  Epoch[2] Validation-cross-entropy=0.132649
+2024-04-09 11:25:36,634 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:36,639 [INFO]  Epoch[3] Batch [0-4]	Speed: 15320.78 samples/sec	cross-entropy=0.533939	Hue-accuracy=0.000000
+2024-04-09 11:25:36,657 [INFO]  Epoch[3] Train-cross-entropy=0.424517
+2024-04-09 11:25:36,657 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:36,657 [INFO]  Epoch[3] Time cost=0.023
+2024-04-09 11:25:36,659 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:25:36,712 [INFO]  Epoch[3] Validation-cross-entropy=0.324521
+2024-04-09 11:25:36,712 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:36,717 [INFO]  Epoch[4] Batch [0-4]	Speed: 15531.76 samples/sec	cross-entropy=0.379917	Hue-accuracy=0.000000
+2024-04-09 11:25:36,720 [INFO]  Epoch[4] Train-cross-entropy=0.274095
+2024-04-09 11:25:36,720 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:36,720 [INFO]  Epoch[4] Time cost=0.009
+2024-04-09 11:25:36,722 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:25:36,723 [INFO]  Epoch[4] Validation-cross-entropy=0.145678
+2024-04-09 11:25:36,723 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:36,723 [INFO]  
+========== done (0.2051084041595459 s) fit model
+2024-04-09 11:25:43,021 [INFO]  
+========== start: fit model
+2024-04-09 11:25:43,021 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:25:43,057 [INFO]  Epoch[0] Batch [0-4]	Speed: 2612.54 samples/sec	cross-entropy=17.461542	Hue-accuracy=4.000000
+2024-04-09 11:25:43,060 [INFO]  Epoch[0] Train-cross-entropy=13.156076
+2024-04-09 11:25:43,060 [INFO]  Epoch[0] Train-Hue-accuracy=3.000000
+2024-04-09 11:25:43,060 [INFO]  Epoch[0] Time cost=0.038
+2024-04-09 11:25:43,061 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:25:43,062 [INFO]  Epoch[0] Validation-cross-entropy=7.069458
+2024-04-09 11:25:43,062 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:43,066 [INFO]  Epoch[1] Batch [0-4]	Speed: 25717.14 samples/sec	cross-entropy=5.697796	Hue-accuracy=4.000000
+2024-04-09 11:25:43,068 [INFO]  Epoch[1] Train-cross-entropy=4.577857
+2024-04-09 11:25:43,068 [INFO]  Epoch[1] Train-Hue-accuracy=3.000000
+2024-04-09 11:25:43,068 [INFO]  Epoch[1] Time cost=0.006
+2024-04-09 11:25:43,070 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:25:43,071 [INFO]  Epoch[1] Validation-cross-entropy=1.450641
+2024-04-09 11:25:43,071 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:43,078 [INFO]  Epoch[2] Batch [0-4]	Speed: 10312.54 samples/sec	cross-entropy=1.965304	Hue-accuracy=4.000000
+2024-04-09 11:25:43,081 [INFO]  Epoch[2] Train-cross-entropy=1.388622
+2024-04-09 11:25:43,081 [INFO]  Epoch[2] Train-Hue-accuracy=3.000000
+2024-04-09 11:25:43,082 [INFO]  Epoch[2] Time cost=0.011
+2024-04-09 11:25:43,083 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:25:43,084 [INFO]  Epoch[2] Validation-cross-entropy=0.856316
+2024-04-09 11:25:43,084 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:43,090 [INFO]  Epoch[3] Batch [0-4]	Speed: 16757.32 samples/sec	cross-entropy=0.773312	Hue-accuracy=4.000000
+2024-04-09 11:25:43,093 [INFO]  Epoch[3] Train-cross-entropy=0.746481
+2024-04-09 11:25:43,093 [INFO]  Epoch[3] Train-Hue-accuracy=3.000000
+2024-04-09 11:25:43,093 [INFO]  Epoch[3] Time cost=0.009
+2024-04-09 11:25:43,095 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:25:43,096 [INFO]  Epoch[3] Validation-cross-entropy=0.397220
+2024-04-09 11:25:43,096 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:43,102 [INFO]  Epoch[4] Batch [0-4]	Speed: 14894.05 samples/sec	cross-entropy=0.490984	Hue-accuracy=4.000000
+2024-04-09 11:25:43,105 [INFO]  Epoch[4] Train-cross-entropy=0.673551
+2024-04-09 11:25:43,106 [INFO]  Epoch[4] Train-Hue-accuracy=3.000000
+2024-04-09 11:25:43,106 [INFO]  Epoch[4] Time cost=0.009
+2024-04-09 11:25:43,107 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:25:43,109 [INFO]  Epoch[4] Validation-cross-entropy=0.178836
+2024-04-09 11:25:43,109 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:43,109 [INFO]  
+========== done (0.08792304992675781 s) fit model
+2024-04-09 11:25:51,392 [INFO]  
+========== start: fit model
+2024-04-09 11:25:51,393 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:25:51,400 [INFO]  Epoch[0] Batch [0-4]	Speed: 13522.52 samples/sec	cross-entropy=17.074669	Hue-accuracy=0.000000
+2024-04-09 11:25:51,404 [INFO]  Epoch[0] Train-cross-entropy=10.290994
+2024-04-09 11:25:51,404 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:51,404 [INFO]  Epoch[0] Time cost=0.011
+2024-04-09 11:25:51,406 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:25:51,407 [INFO]  Epoch[0] Validation-cross-entropy=29.162052
+2024-04-09 11:25:51,407 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:51,413 [INFO]  Epoch[1] Batch [0-4]	Speed: 14654.19 samples/sec	cross-entropy=5.416113	Hue-accuracy=0.000000
+2024-04-09 11:25:51,417 [INFO]  Epoch[1] Train-cross-entropy=5.791144
+2024-04-09 11:25:51,417 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:51,417 [INFO]  Epoch[1] Time cost=0.009
+2024-04-09 11:25:51,419 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:25:51,420 [INFO]  Epoch[1] Validation-cross-entropy=11.799180
+2024-04-09 11:25:51,420 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:51,426 [INFO]  Epoch[2] Batch [0-4]	Speed: 14647.79 samples/sec	cross-entropy=1.952960	Hue-accuracy=0.000000
+2024-04-09 11:25:51,429 [INFO]  Epoch[2] Train-cross-entropy=1.689194
+2024-04-09 11:25:51,429 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:51,430 [INFO]  Epoch[2] Time cost=0.009
+2024-04-09 11:25:51,432 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:25:51,432 [INFO]  Epoch[2] Validation-cross-entropy=1.854845
+2024-04-09 11:25:51,433 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:51,438 [INFO]  Epoch[3] Batch [0-4]	Speed: 14738.67 samples/sec	cross-entropy=0.799522	Hue-accuracy=0.000000
+2024-04-09 11:25:51,442 [INFO]  Epoch[3] Train-cross-entropy=0.690906
+2024-04-09 11:25:51,442 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:51,442 [INFO]  Epoch[3] Time cost=0.009
+2024-04-09 11:25:51,444 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:25:51,445 [INFO]  Epoch[3] Validation-cross-entropy=0.925982
+2024-04-09 11:25:51,445 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:51,451 [INFO]  Epoch[4] Batch [0-4]	Speed: 14817.59 samples/sec	cross-entropy=0.590879	Hue-accuracy=0.000000
+2024-04-09 11:25:51,454 [INFO]  Epoch[4] Train-cross-entropy=0.454551
+2024-04-09 11:25:51,455 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:51,455 [INFO]  Epoch[4] Time cost=0.009
+2024-04-09 11:25:51,457 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:25:51,458 [INFO]  Epoch[4] Validation-cross-entropy=0.801541
+2024-04-09 11:25:51,458 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:51,458 [INFO]  
+========== done (0.06586074829101562 s) fit model
+2024-04-09 11:25:58,697 [INFO]  
+========== start: fit model
+2024-04-09 11:25:58,697 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:25:58,704 [INFO]  Epoch[0] Batch [0-4]	Speed: 15201.92 samples/sec	cross-entropy=25.310695	Hue-accuracy=0.000000
+2024-04-09 11:25:59,087 [INFO]  Epoch[0] Train-cross-entropy=15.684178
+2024-04-09 11:25:59,087 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:59,088 [INFO]  Epoch[0] Time cost=0.390
+2024-04-09 11:25:59,092 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:25:59,128 [INFO]  Epoch[0] Validation-cross-entropy=41.714058
+2024-04-09 11:25:59,129 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:59,138 [INFO]  Epoch[1] Batch [0-4]	Speed: 15213.98 samples/sec	cross-entropy=9.805996	Hue-accuracy=0.000000
+2024-04-09 11:25:59,141 [INFO]  Epoch[1] Train-cross-entropy=6.181191
+2024-04-09 11:25:59,142 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:59,142 [INFO]  Epoch[1] Time cost=0.013
+2024-04-09 11:25:59,143 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:25:59,144 [INFO]  Epoch[1] Validation-cross-entropy=15.780844
+2024-04-09 11:25:59,144 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:59,149 [INFO]  Epoch[2] Batch [0-4]	Speed: 15242.49 samples/sec	cross-entropy=4.091506	Hue-accuracy=0.000000
+2024-04-09 11:25:59,152 [INFO]  Epoch[2] Train-cross-entropy=1.712148
+2024-04-09 11:25:59,152 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:59,152 [INFO]  Epoch[2] Time cost=0.009
+2024-04-09 11:25:59,154 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:25:59,154 [INFO]  Epoch[2] Validation-cross-entropy=5.368012
+2024-04-09 11:25:59,154 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:59,160 [INFO]  Epoch[3] Batch [0-4]	Speed: 15198.47 samples/sec	cross-entropy=1.704034	Hue-accuracy=0.000000
+2024-04-09 11:25:59,163 [INFO]  Epoch[3] Train-cross-entropy=0.911522
+2024-04-09 11:25:59,163 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:59,163 [INFO]  Epoch[3] Time cost=0.009
+2024-04-09 11:25:59,164 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:25:59,165 [INFO]  Epoch[3] Validation-cross-entropy=2.150495
+2024-04-09 11:25:59,165 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:59,171 [INFO]  Epoch[4] Batch [0-4]	Speed: 14425.03 samples/sec	cross-entropy=1.147389	Hue-accuracy=0.000000
+2024-04-09 11:25:59,174 [INFO]  Epoch[4] Train-cross-entropy=0.735494
+2024-04-09 11:25:59,174 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:25:59,174 [INFO]  Epoch[4] Time cost=0.009
+2024-04-09 11:25:59,176 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:25:59,177 [INFO]  Epoch[4] Validation-cross-entropy=1.359317
+2024-04-09 11:25:59,177 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:25:59,177 [INFO]  
+========== done (0.48010945320129395 s) fit model
+2024-04-09 11:26:07,254 [INFO]  
+========== start: fit model
+2024-04-09 11:26:07,254 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:26:07,260 [INFO]  Epoch[0] Batch [0-4]	Speed: 26604.11 samples/sec	cross-entropy=11.821511	Hue-accuracy=0.000000
+2024-04-09 11:26:07,262 [INFO]  Epoch[0] Train-cross-entropy=9.123156
+2024-04-09 11:26:07,262 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:07,262 [INFO]  Epoch[0] Time cost=0.007
+2024-04-09 11:26:07,264 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:26:07,264 [INFO]  Epoch[0] Validation-cross-entropy=5.971335
+2024-04-09 11:26:07,264 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:07,267 [INFO]  Epoch[1] Batch [0-4]	Speed: 28823.74 samples/sec	cross-entropy=4.401599	Hue-accuracy=0.000000
+2024-04-09 11:26:07,279 [INFO]  Epoch[1] Train-cross-entropy=3.077072
+2024-04-09 11:26:07,279 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:07,279 [INFO]  Epoch[1] Time cost=0.015
+2024-04-09 11:26:07,280 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:26:07,281 [INFO]  Epoch[1] Validation-cross-entropy=1.246482
+2024-04-09 11:26:07,281 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:07,285 [INFO]  Epoch[2] Batch [0-4]	Speed: 20172.50 samples/sec	cross-entropy=1.424379	Hue-accuracy=0.000000
+2024-04-09 11:26:07,305 [INFO]  Epoch[2] Train-cross-entropy=1.289155
+2024-04-09 11:26:07,306 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:07,306 [INFO]  Epoch[2] Time cost=0.025
+2024-04-09 11:26:07,309 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:26:07,378 [INFO]  Epoch[2] Validation-cross-entropy=0.536377
+2024-04-09 11:26:07,378 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:07,390 [INFO]  Epoch[3] Batch [0-4]	Speed: 5542.98 samples/sec	cross-entropy=0.771135	Hue-accuracy=0.000000
+2024-04-09 11:26:07,437 [INFO]  Epoch[3] Train-cross-entropy=0.701844
+2024-04-09 11:26:07,437 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:07,438 [INFO]  Epoch[3] Time cost=0.060
+2024-04-09 11:26:07,440 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:26:07,441 [INFO]  Epoch[3] Validation-cross-entropy=0.253168
+2024-04-09 11:26:07,441 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:07,445 [INFO]  Epoch[4] Batch [0-4]	Speed: 21213.49 samples/sec	cross-entropy=0.498159	Hue-accuracy=0.000000
+2024-04-09 11:26:07,447 [INFO]  Epoch[4] Train-cross-entropy=0.383836
+2024-04-09 11:26:07,447 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:07,447 [INFO]  Epoch[4] Time cost=0.006
+2024-04-09 11:26:07,448 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:26:07,449 [INFO]  Epoch[4] Validation-cross-entropy=0.262114
+2024-04-09 11:26:07,449 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:07,449 [INFO]  
+========== done (0.19493937492370605 s) fit model
+2024-04-09 11:26:15,016 [INFO]  
+========== start: fit model
+2024-04-09 11:26:15,016 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:26:15,147 [INFO]  Epoch[0] Batch [0-4]	Speed: 8911.02 samples/sec	cross-entropy=14.630691	Hue-accuracy=0.000000
+2024-04-09 11:26:15,149 [INFO]  Epoch[0] Train-cross-entropy=6.225602
+2024-04-09 11:26:15,149 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:15,149 [INFO]  Epoch[0] Time cost=0.132
+2024-04-09 11:26:15,150 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:26:15,151 [INFO]  Epoch[0] Validation-cross-entropy=7.185915
+2024-04-09 11:26:15,151 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:15,159 [INFO]  Epoch[1] Batch [0-4]	Speed: 8958.90 samples/sec	cross-entropy=4.138977	Hue-accuracy=0.000000
+2024-04-09 11:26:15,401 [INFO]  Epoch[1] Train-cross-entropy=2.146504
+2024-04-09 11:26:15,401 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:15,401 [INFO]  Epoch[1] Time cost=0.250
+2024-04-09 11:26:15,405 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:26:15,408 [INFO]  Epoch[1] Validation-cross-entropy=2.619540
+2024-04-09 11:26:15,408 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:15,413 [INFO]  Epoch[2] Batch [0-4]	Speed: 15237.30 samples/sec	cross-entropy=1.733234	Hue-accuracy=0.000000
+2024-04-09 11:26:15,416 [INFO]  Epoch[2] Train-cross-entropy=1.188429
+2024-04-09 11:26:15,416 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:15,416 [INFO]  Epoch[2] Time cost=0.009
+2024-04-09 11:26:15,418 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:26:15,419 [INFO]  Epoch[2] Validation-cross-entropy=0.822519
+2024-04-09 11:26:15,419 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:15,424 [INFO]  Epoch[3] Batch [0-4]	Speed: 15248.55 samples/sec	cross-entropy=0.798523	Hue-accuracy=0.000000
+2024-04-09 11:26:15,428 [INFO]  Epoch[3] Train-cross-entropy=0.527248
+2024-04-09 11:26:15,428 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:15,428 [INFO]  Epoch[3] Time cost=0.009
+2024-04-09 11:26:15,429 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:26:15,430 [INFO]  Epoch[3] Validation-cross-entropy=0.533269
+2024-04-09 11:26:15,430 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:15,435 [INFO]  Epoch[4] Batch [0-4]	Speed: 15305.93 samples/sec	cross-entropy=0.394656	Hue-accuracy=0.000000
+2024-04-09 11:26:15,438 [INFO]  Epoch[4] Train-cross-entropy=0.449327
+2024-04-09 11:26:15,438 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:15,438 [INFO]  Epoch[4] Time cost=0.009
+2024-04-09 11:26:15,440 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:26:15,441 [INFO]  Epoch[4] Validation-cross-entropy=0.631114
+2024-04-09 11:26:15,441 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:15,441 [INFO]  
+========== done (0.42450976371765137 s) fit model
+2024-04-09 11:26:19,965 [INFO]  
+========== start: fit model
+2024-04-09 11:26:19,965 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:26:19,975 [INFO]  Epoch[0] Batch [0-4]	Speed: 23682.00 samples/sec	cross-entropy=14.459920	Hue-accuracy=4.400000
+2024-04-09 11:26:19,977 [INFO]  Epoch[0] Train-cross-entropy=6.993770
+2024-04-09 11:26:19,977 [INFO]  Epoch[0] Train-Hue-accuracy=2.666667
+2024-04-09 11:26:19,977 [INFO]  Epoch[0] Time cost=0.011
+2024-04-09 11:26:19,978 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:26:19,979 [INFO]  Epoch[0] Validation-cross-entropy=6.572225
+2024-04-09 11:26:19,979 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:19,982 [INFO]  Epoch[1] Batch [0-4]	Speed: 28926.23 samples/sec	cross-entropy=4.363850	Hue-accuracy=4.400000
+2024-04-09 11:26:19,983 [INFO]  Epoch[1] Train-cross-entropy=2.025289
+2024-04-09 11:26:19,984 [INFO]  Epoch[1] Train-Hue-accuracy=2.666667
+2024-04-09 11:26:19,984 [INFO]  Epoch[1] Time cost=0.005
+2024-04-09 11:26:19,985 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:26:20,077 [INFO]  Epoch[1] Validation-cross-entropy=1.371398
+2024-04-09 11:26:20,077 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:20,122 [INFO]  Epoch[2] Batch [0-4]	Speed: 14469.35 samples/sec	cross-entropy=1.271644	Hue-accuracy=4.400000
+2024-04-09 11:26:20,126 [INFO]  Epoch[2] Train-cross-entropy=0.698853
+2024-04-09 11:26:20,126 [INFO]  Epoch[2] Train-Hue-accuracy=2.666667
+2024-04-09 11:26:20,126 [INFO]  Epoch[2] Time cost=0.048
+2024-04-09 11:26:20,127 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:26:20,128 [INFO]  Epoch[2] Validation-cross-entropy=0.711432
+2024-04-09 11:26:20,128 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:20,133 [INFO]  Epoch[3] Batch [0-4]	Speed: 15445.08 samples/sec	cross-entropy=0.676656	Hue-accuracy=4.400000
+2024-04-09 11:26:20,136 [INFO]  Epoch[3] Train-cross-entropy=0.506662
+2024-04-09 11:26:20,136 [INFO]  Epoch[3] Train-Hue-accuracy=2.666667
+2024-04-09 11:26:20,137 [INFO]  Epoch[3] Time cost=0.009
+2024-04-09 11:26:20,138 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:26:20,139 [INFO]  Epoch[3] Validation-cross-entropy=0.606000
+2024-04-09 11:26:20,139 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:20,144 [INFO]  Epoch[4] Batch [0-4]	Speed: 15262.42 samples/sec	cross-entropy=0.492237	Hue-accuracy=4.400000
+2024-04-09 11:26:20,147 [INFO]  Epoch[4] Train-cross-entropy=0.416784
+2024-04-09 11:26:20,148 [INFO]  Epoch[4] Train-Hue-accuracy=2.666667
+2024-04-09 11:26:20,148 [INFO]  Epoch[4] Time cost=0.009
+2024-04-09 11:26:20,150 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:26:20,151 [INFO]  Epoch[4] Validation-cross-entropy=0.207598
+2024-04-09 11:26:20,151 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:20,151 [INFO]  
+========== done (0.18569564819335938 s) fit model
+2024-04-09 11:26:27,154 [INFO]  
+========== start: fit model
+2024-04-09 11:26:27,154 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:26:27,166 [INFO]  Epoch[0] Batch [0-4]	Speed: 14995.56 samples/sec	cross-entropy=17.679361	Hue-accuracy=0.000000
+2024-04-09 11:26:27,169 [INFO]  Epoch[0] Train-cross-entropy=10.606214
+2024-04-09 11:26:27,170 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:27,170 [INFO]  Epoch[0] Time cost=0.015
+2024-04-09 11:26:27,171 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:26:27,172 [INFO]  Epoch[0] Validation-cross-entropy=9.908130
+2024-04-09 11:26:27,172 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:27,183 [INFO]  Epoch[1] Batch [0-4]	Speed: 6543.06 samples/sec	cross-entropy=5.927747	Hue-accuracy=0.000000
+2024-04-09 11:26:27,199 [INFO]  Epoch[1] Train-cross-entropy=3.245834
+2024-04-09 11:26:27,199 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:27,199 [INFO]  Epoch[1] Time cost=0.027
+2024-04-09 11:26:27,200 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:26:27,204 [INFO]  Epoch[1] Validation-cross-entropy=4.026947
+2024-04-09 11:26:27,205 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:27,237 [INFO]  Epoch[2] Batch [0-4]	Speed: 2258.53 samples/sec	cross-entropy=1.800690	Hue-accuracy=0.000000
+2024-04-09 11:26:27,240 [INFO]  Epoch[2] Train-cross-entropy=1.355675
+2024-04-09 11:26:27,240 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:27,240 [INFO]  Epoch[2] Time cost=0.035
+2024-04-09 11:26:27,244 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:26:27,251 [INFO]  Epoch[2] Validation-cross-entropy=1.514360
+2024-04-09 11:26:27,251 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:27,257 [INFO]  Epoch[3] Batch [0-4]	Speed: 15188.16 samples/sec	cross-entropy=0.782353	Hue-accuracy=0.000000
+2024-04-09 11:26:27,260 [INFO]  Epoch[3] Train-cross-entropy=0.971641
+2024-04-09 11:26:27,260 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:27,260 [INFO]  Epoch[3] Time cost=0.009
+2024-04-09 11:26:27,262 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:26:27,264 [INFO]  Epoch[3] Validation-cross-entropy=0.665185
+2024-04-09 11:26:27,264 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:27,277 [INFO]  Epoch[4] Batch [0-4]	Speed: 21859.56 samples/sec	cross-entropy=0.518510	Hue-accuracy=0.000000
+2024-04-09 11:26:27,279 [INFO]  Epoch[4] Train-cross-entropy=0.571938
+2024-04-09 11:26:27,279 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:27,279 [INFO]  Epoch[4] Time cost=0.015
+2024-04-09 11:26:27,281 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:26:27,281 [INFO]  Epoch[4] Validation-cross-entropy=0.578831
+2024-04-09 11:26:27,281 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:27,281 [INFO]  
+========== done (0.12787938117980957 s) fit model
+2024-04-09 11:26:31,980 [INFO]  
+========== start: fit model
+2024-04-09 11:26:31,980 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:26:32,108 [INFO]  Epoch[0] Batch [0-4]	Speed: 13878.37 samples/sec	cross-entropy=19.287917	Hue-accuracy=4.200000
+2024-04-09 11:26:32,111 [INFO]  Epoch[0] Train-cross-entropy=6.852063
+2024-04-09 11:26:32,111 [INFO]  Epoch[0] Train-Hue-accuracy=2.333333
+2024-04-09 11:26:32,111 [INFO]  Epoch[0] Time cost=0.130
+2024-04-09 11:26:32,113 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:26:32,113 [INFO]  Epoch[0] Validation-cross-entropy=7.624783
+2024-04-09 11:26:32,113 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:32,119 [INFO]  Epoch[1] Batch [0-4]	Speed: 15529.97 samples/sec	cross-entropy=4.690417	Hue-accuracy=4.200000
+2024-04-09 11:26:32,124 [INFO]  Epoch[1] Train-cross-entropy=2.558935
+2024-04-09 11:26:32,124 [INFO]  Epoch[1] Train-Hue-accuracy=2.333333
+2024-04-09 11:26:32,124 [INFO]  Epoch[1] Time cost=0.011
+2024-04-09 11:26:32,128 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:26:32,221 [INFO]  Epoch[1] Validation-cross-entropy=1.853610
+2024-04-09 11:26:32,222 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:32,281 [INFO]  Epoch[2] Batch [0-4]	Speed: 2439.41 samples/sec	cross-entropy=1.811386	Hue-accuracy=4.200000
+2024-04-09 11:26:32,581 [INFO]  Epoch[2] Train-cross-entropy=1.096800
+2024-04-09 11:26:32,581 [INFO]  Epoch[2] Train-Hue-accuracy=2.333333
+2024-04-09 11:26:32,581 [INFO]  Epoch[2] Time cost=0.360
+2024-04-09 11:26:32,583 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:26:32,585 [INFO]  Epoch[2] Validation-cross-entropy=0.634349
+2024-04-09 11:26:32,585 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:32,590 [INFO]  Epoch[3] Batch [0-4]	Speed: 14636.61 samples/sec	cross-entropy=0.883159	Hue-accuracy=4.200000
+2024-04-09 11:26:32,594 [INFO]  Epoch[3] Train-cross-entropy=0.975831
+2024-04-09 11:26:32,594 [INFO]  Epoch[3] Train-Hue-accuracy=2.333333
+2024-04-09 11:26:32,594 [INFO]  Epoch[3] Time cost=0.009
+2024-04-09 11:26:32,595 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:26:32,596 [INFO]  Epoch[3] Validation-cross-entropy=0.313910
+2024-04-09 11:26:32,596 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:32,602 [INFO]  Epoch[4] Batch [0-4]	Speed: 13088.03 samples/sec	cross-entropy=0.509944	Hue-accuracy=4.200000
+2024-04-09 11:26:32,608 [INFO]  Epoch[4] Train-cross-entropy=0.416708
+2024-04-09 11:26:32,608 [INFO]  Epoch[4] Train-Hue-accuracy=2.333333
+2024-04-09 11:26:32,608 [INFO]  Epoch[4] Time cost=0.013
+2024-04-09 11:26:32,611 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:26:32,613 [INFO]  Epoch[4] Validation-cross-entropy=0.362562
+2024-04-09 11:26:32,614 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:32,614 [INFO]  
+========== done (0.6340713500976562 s) fit model
+2024-04-09 11:26:40,400 [INFO]  
+========== start: fit model
+2024-04-09 11:26:40,400 [WARNING]  Already bound, ignoring bind()
+2024-04-09 11:26:40,417 [INFO]  Epoch[0] Batch [0-4]	Speed: 8238.77 samples/sec	cross-entropy=16.094388	Hue-accuracy=0.000000
+2024-04-09 11:26:40,422 [INFO]  Epoch[0] Train-cross-entropy=9.983301
+2024-04-09 11:26:40,422 [INFO]  Epoch[0] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:40,422 [INFO]  Epoch[0] Time cost=0.021
+2024-04-09 11:26:40,425 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0000.params"
+2024-04-09 11:26:40,428 [INFO]  Epoch[0] Validation-cross-entropy=3.898828
+2024-04-09 11:26:40,428 [INFO]  Epoch[0] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:40,440 [INFO]  Epoch[1] Batch [0-4]	Speed: 7385.35 samples/sec	cross-entropy=5.610382	Hue-accuracy=0.000000
+2024-04-09 11:26:40,451 [INFO]  Epoch[1] Train-cross-entropy=3.017949
+2024-04-09 11:26:40,451 [INFO]  Epoch[1] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:40,451 [INFO]  Epoch[1] Time cost=0.023
+2024-04-09 11:26:40,455 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0001.params"
+2024-04-09 11:26:40,549 [INFO]  Epoch[1] Validation-cross-entropy=1.443210
+2024-04-09 11:26:40,549 [INFO]  Epoch[1] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:40,559 [INFO]  Epoch[2] Batch [0-4]	Speed: 15008.13 samples/sec	cross-entropy=1.983598	Hue-accuracy=0.000000
+2024-04-09 11:26:40,567 [INFO]  Epoch[2] Train-cross-entropy=1.151548
+2024-04-09 11:26:40,568 [INFO]  Epoch[2] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:40,568 [INFO]  Epoch[2] Time cost=0.019
+2024-04-09 11:26:40,569 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0002.params"
+2024-04-09 11:26:40,570 [INFO]  Epoch[2] Validation-cross-entropy=0.898871
+2024-04-09 11:26:40,570 [INFO]  Epoch[2] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:40,575 [INFO]  Epoch[3] Batch [0-4]	Speed: 15067.10 samples/sec	cross-entropy=0.702824	Hue-accuracy=0.000000
+2024-04-09 11:26:40,578 [INFO]  Epoch[3] Train-cross-entropy=0.385404
+2024-04-09 11:26:40,579 [INFO]  Epoch[3] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:40,579 [INFO]  Epoch[3] Time cost=0.009
+2024-04-09 11:26:40,581 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0003.params"
+2024-04-09 11:26:40,596 [INFO]  Epoch[3] Validation-cross-entropy=1.029177
+2024-04-09 11:26:40,596 [INFO]  Epoch[3] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:40,601 [INFO]  Epoch[4] Batch [0-4]	Speed: 18483.47 samples/sec	cross-entropy=0.505512	Hue-accuracy=0.000000
+2024-04-09 11:26:40,622 [INFO]  Epoch[4] Train-cross-entropy=0.336971
+2024-04-09 11:26:40,622 [INFO]  Epoch[4] Train-Hue-accuracy=0.000000
+2024-04-09 11:26:40,623 [INFO]  Epoch[4] Time cost=0.026
+2024-04-09 11:26:40,625 [INFO]  Saved checkpoint to "./imputer_model/4_wine/imputer_model_Hue/model-0004.params"
+2024-04-09 11:26:40,643 [INFO]  Epoch[4] Validation-cross-entropy=1.139068
+2024-04-09 11:26:40,643 [INFO]  Epoch[4] Validation-Hue-accuracy=0.000000
+2024-04-09 11:26:40,644 [INFO]  
+========== done (0.24379944801330566 s) fit model

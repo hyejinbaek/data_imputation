@@ -1,0 +1,1200 @@
+2024-04-08 22:08:07,842 [INFO]  
+========== start: fit model
+2024-04-08 22:08:07,843 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:07,874 [INFO]  Epoch[0] Batch [0-3]	Speed: 2213.69 samples/sec	cross-entropy=14.586678	lvdd-accuracy=3.000000
+2024-04-08 22:08:07,876 [INFO]  Epoch[0] Train-cross-entropy=19.000002
+2024-04-08 22:08:07,876 [INFO]  Epoch[0] Train-lvdd-accuracy=5.000000
+2024-04-08 22:08:07,876 [INFO]  Epoch[0] Time cost=0.033
+2024-04-08 22:08:07,878 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:07,879 [INFO]  Epoch[0] Validation-cross-entropy=26.022949
+2024-04-08 22:08:07,879 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:07,883 [INFO]  Epoch[1] Batch [0-3]	Speed: 15566.89 samples/sec	cross-entropy=7.854545	lvdd-accuracy=3.000000
+2024-04-08 22:08:07,888 [INFO]  Epoch[1] Train-cross-entropy=8.885947
+2024-04-08 22:08:07,888 [INFO]  Epoch[1] Train-lvdd-accuracy=5.000000
+2024-04-08 22:08:07,888 [INFO]  Epoch[1] Time cost=0.009
+2024-04-08 22:08:07,889 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:07,897 [INFO]  Epoch[1] Validation-cross-entropy=16.253555
+2024-04-08 22:08:07,897 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:07,905 [INFO]  Epoch[2] Batch [0-3]	Speed: 14656.86 samples/sec	cross-entropy=4.169370	lvdd-accuracy=3.000000
+2024-04-08 22:08:07,907 [INFO]  Epoch[2] Train-cross-entropy=3.461735
+2024-04-08 22:08:07,907 [INFO]  Epoch[2] Train-lvdd-accuracy=5.000000
+2024-04-08 22:08:07,907 [INFO]  Epoch[2] Time cost=0.010
+2024-04-08 22:08:07,908 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:07,909 [INFO]  Epoch[2] Validation-cross-entropy=5.675068
+2024-04-08 22:08:07,909 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:07,913 [INFO]  Epoch[3] Batch [0-3]	Speed: 15808.92 samples/sec	cross-entropy=2.238780	lvdd-accuracy=3.000000
+2024-04-08 22:08:07,915 [INFO]  Epoch[3] Train-cross-entropy=1.510294
+2024-04-08 22:08:07,915 [INFO]  Epoch[3] Train-lvdd-accuracy=5.000000
+2024-04-08 22:08:07,915 [INFO]  Epoch[3] Time cost=0.006
+2024-04-08 22:08:07,917 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:07,917 [INFO]  Epoch[3] Validation-cross-entropy=2.126672
+2024-04-08 22:08:07,917 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:07,922 [INFO]  Epoch[4] Batch [0-3]	Speed: 15140.75 samples/sec	cross-entropy=1.393697	lvdd-accuracy=3.000000
+2024-04-08 22:08:07,924 [INFO]  Epoch[4] Train-cross-entropy=0.872004
+2024-04-08 22:08:07,924 [INFO]  Epoch[4] Train-lvdd-accuracy=5.000000
+2024-04-08 22:08:07,924 [INFO]  Epoch[4] Time cost=0.007
+2024-04-08 22:08:07,926 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:07,926 [INFO]  Epoch[4] Validation-cross-entropy=1.297426
+2024-04-08 22:08:07,926 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:07,926 [INFO]  
+========== done (0.08411693572998047 s) fit model
+2024-04-08 22:08:09,869 [INFO]  
+========== start: fit model
+2024-04-08 22:08:09,869 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:09,873 [INFO]  Epoch[0] Batch [0-3]	Speed: 24597.02 samples/sec	cross-entropy=17.260431	lvdd-accuracy=3.500000
+2024-04-08 22:08:09,875 [INFO]  Epoch[0] Train-cross-entropy=4.901690
+2024-04-08 22:08:09,875 [INFO]  Epoch[0] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:09,875 [INFO]  Epoch[0] Time cost=0.005
+2024-04-08 22:08:09,876 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:09,877 [INFO]  Epoch[0] Validation-cross-entropy=9.594664
+2024-04-08 22:08:09,877 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:09,882 [INFO]  Epoch[1] Batch [0-3]	Speed: 14172.94 samples/sec	cross-entropy=6.466933	lvdd-accuracy=3.500000
+2024-04-08 22:08:09,885 [INFO]  Epoch[1] Train-cross-entropy=2.549589
+2024-04-08 22:08:09,885 [INFO]  Epoch[1] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:09,885 [INFO]  Epoch[1] Time cost=0.008
+2024-04-08 22:08:09,887 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:09,892 [INFO]  Epoch[1] Validation-cross-entropy=6.207356
+2024-04-08 22:08:09,892 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:09,903 [INFO]  Epoch[2] Batch [0-3]	Speed: 9256.82 samples/sec	cross-entropy=3.137386	lvdd-accuracy=3.500000
+2024-04-08 22:08:09,906 [INFO]  Epoch[2] Train-cross-entropy=1.692005
+2024-04-08 22:08:09,906 [INFO]  Epoch[2] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:09,906 [INFO]  Epoch[2] Time cost=0.014
+2024-04-08 22:08:09,908 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:09,909 [INFO]  Epoch[2] Validation-cross-entropy=3.247028
+2024-04-08 22:08:09,909 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:09,914 [INFO]  Epoch[3] Batch [0-3]	Speed: 13957.75 samples/sec	cross-entropy=1.768853	lvdd-accuracy=3.500000
+2024-04-08 22:08:09,917 [INFO]  Epoch[3] Train-cross-entropy=1.545450
+2024-04-08 22:08:09,917 [INFO]  Epoch[3] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:09,917 [INFO]  Epoch[3] Time cost=0.008
+2024-04-08 22:08:09,920 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:09,920 [INFO]  Epoch[3] Validation-cross-entropy=2.435310
+2024-04-08 22:08:09,921 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:09,926 [INFO]  Epoch[4] Batch [0-3]	Speed: 12390.09 samples/sec	cross-entropy=1.041836	lvdd-accuracy=3.500000
+2024-04-08 22:08:09,929 [INFO]  Epoch[4] Train-cross-entropy=0.923253
+2024-04-08 22:08:09,929 [INFO]  Epoch[4] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:09,929 [INFO]  Epoch[4] Time cost=0.008
+2024-04-08 22:08:09,931 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:09,932 [INFO]  Epoch[4] Validation-cross-entropy=1.891973
+2024-04-08 22:08:09,932 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:09,933 [INFO]  
+========== done (0.06413412094116211 s) fit model
+2024-04-08 22:08:11,939 [INFO]  
+========== start: fit model
+2024-04-08 22:08:11,939 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:11,949 [INFO]  Epoch[0] Batch [0-3]	Speed: 12237.95 samples/sec	cross-entropy=20.603218	lvdd-accuracy=2.750000
+2024-04-08 22:08:11,952 [INFO]  Epoch[0] Train-cross-entropy=22.948163
+2024-04-08 22:08:11,952 [INFO]  Epoch[0] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:11,952 [INFO]  Epoch[0] Time cost=0.010
+2024-04-08 22:08:11,955 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:11,955 [INFO]  Epoch[0] Validation-cross-entropy=5.281804
+2024-04-08 22:08:11,956 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:11,959 [INFO]  Epoch[1] Batch [0-3]	Speed: 17969.17 samples/sec	cross-entropy=10.613747	lvdd-accuracy=2.750000
+2024-04-08 22:08:11,961 [INFO]  Epoch[1] Train-cross-entropy=13.020307
+2024-04-08 22:08:11,961 [INFO]  Epoch[1] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:11,961 [INFO]  Epoch[1] Time cost=0.006
+2024-04-08 22:08:11,963 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:11,980 [INFO]  Epoch[1] Validation-cross-entropy=2.949349
+2024-04-08 22:08:11,980 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:11,983 [INFO]  Epoch[2] Batch [0-3]	Speed: 21500.06 samples/sec	cross-entropy=5.538459	lvdd-accuracy=2.750000
+2024-04-08 22:08:11,985 [INFO]  Epoch[2] Train-cross-entropy=6.639515
+2024-04-08 22:08:11,985 [INFO]  Epoch[2] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:11,985 [INFO]  Epoch[2] Time cost=0.005
+2024-04-08 22:08:11,987 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:11,988 [INFO]  Epoch[2] Validation-cross-entropy=1.789146
+2024-04-08 22:08:11,988 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:11,991 [INFO]  Epoch[3] Batch [0-3]	Speed: 20381.31 samples/sec	cross-entropy=2.820190	lvdd-accuracy=2.750000
+2024-04-08 22:08:11,993 [INFO]  Epoch[3] Train-cross-entropy=3.275259
+2024-04-08 22:08:11,993 [INFO]  Epoch[3] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:11,993 [INFO]  Epoch[3] Time cost=0.005
+2024-04-08 22:08:11,995 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:11,996 [INFO]  Epoch[3] Validation-cross-entropy=1.549137
+2024-04-08 22:08:11,996 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:11,998 [INFO]  Epoch[4] Batch [0-3]	Speed: 28638.21 samples/sec	cross-entropy=1.542038	lvdd-accuracy=2.750000
+2024-04-08 22:08:12,000 [INFO]  Epoch[4] Train-cross-entropy=1.769342
+2024-04-08 22:08:12,000 [INFO]  Epoch[4] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:12,000 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 22:08:12,001 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:12,002 [INFO]  Epoch[4] Validation-cross-entropy=1.489036
+2024-04-08 22:08:12,002 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:12,002 [INFO]  
+========== done (0.0633389949798584 s) fit model
+2024-04-08 22:08:13,661 [INFO]  
+========== start: fit model
+2024-04-08 22:08:13,661 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:13,666 [INFO]  Epoch[0] Batch [0-3]	Speed: 21360.91 samples/sec	cross-entropy=15.227971	lvdd-accuracy=3.750000
+2024-04-08 22:08:13,667 [INFO]  Epoch[0] Train-cross-entropy=23.281240
+2024-04-08 22:08:13,667 [INFO]  Epoch[0] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:13,667 [INFO]  Epoch[0] Time cost=0.005
+2024-04-08 22:08:13,669 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:13,669 [INFO]  Epoch[0] Validation-cross-entropy=12.227584
+2024-04-08 22:08:13,669 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:13,672 [INFO]  Epoch[1] Batch [0-3]	Speed: 20684.95 samples/sec	cross-entropy=6.008345	lvdd-accuracy=3.750000
+2024-04-08 22:08:13,674 [INFO]  Epoch[1] Train-cross-entropy=13.058064
+2024-04-08 22:08:13,674 [INFO]  Epoch[1] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:13,674 [INFO]  Epoch[1] Time cost=0.005
+2024-04-08 22:08:13,676 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:13,680 [INFO]  Epoch[1] Validation-cross-entropy=4.559560
+2024-04-08 22:08:13,680 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:13,694 [INFO]  Epoch[2] Batch [0-3]	Speed: 4860.14 samples/sec	cross-entropy=2.779736	lvdd-accuracy=3.750000
+2024-04-08 22:08:13,704 [INFO]  Epoch[2] Train-cross-entropy=6.321694
+2024-04-08 22:08:13,704 [INFO]  Epoch[2] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:13,704 [INFO]  Epoch[2] Time cost=0.024
+2024-04-08 22:08:13,706 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:13,706 [INFO]  Epoch[2] Validation-cross-entropy=1.379718
+2024-04-08 22:08:13,706 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:13,713 [INFO]  Epoch[3] Batch [0-3]	Speed: 8506.28 samples/sec	cross-entropy=1.337655	lvdd-accuracy=3.750000
+2024-04-08 22:08:13,716 [INFO]  Epoch[3] Train-cross-entropy=2.767184
+2024-04-08 22:08:13,716 [INFO]  Epoch[3] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:13,716 [INFO]  Epoch[3] Time cost=0.009
+2024-04-08 22:08:13,718 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:13,725 [INFO]  Epoch[3] Validation-cross-entropy=0.556531
+2024-04-08 22:08:13,725 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:13,751 [INFO]  Epoch[4] Batch [0-3]	Speed: 24757.33 samples/sec	cross-entropy=0.845115	lvdd-accuracy=3.750000
+2024-04-08 22:08:13,756 [INFO]  Epoch[4] Train-cross-entropy=1.390950
+2024-04-08 22:08:13,756 [INFO]  Epoch[4] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:13,756 [INFO]  Epoch[4] Time cost=0.031
+2024-04-08 22:08:13,757 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:13,758 [INFO]  Epoch[4] Validation-cross-entropy=0.439323
+2024-04-08 22:08:13,758 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:13,758 [INFO]  
+========== done (0.09701919555664062 s) fit model
+2024-04-08 22:08:15,477 [INFO]  
+========== start: fit model
+2024-04-08 22:08:15,477 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:15,482 [INFO]  Epoch[0] Batch [0-3]	Speed: 28055.55 samples/sec	cross-entropy=24.234311	lvdd-accuracy=0.000000
+2024-04-08 22:08:15,483 [INFO]  Epoch[0] Train-cross-entropy=5.227963
+2024-04-08 22:08:15,483 [INFO]  Epoch[0] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:15,483 [INFO]  Epoch[0] Time cost=0.005
+2024-04-08 22:08:15,484 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:15,485 [INFO]  Epoch[0] Validation-cross-entropy=3.535126
+2024-04-08 22:08:15,485 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:15,487 [INFO]  Epoch[1] Batch [0-3]	Speed: 28292.10 samples/sec	cross-entropy=10.108574	lvdd-accuracy=0.000000
+2024-04-08 22:08:15,489 [INFO]  Epoch[1] Train-cross-entropy=2.206184
+2024-04-08 22:08:15,489 [INFO]  Epoch[1] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:15,489 [INFO]  Epoch[1] Time cost=0.004
+2024-04-08 22:08:15,490 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:15,490 [INFO]  Epoch[1] Validation-cross-entropy=2.321927
+2024-04-08 22:08:15,490 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:15,493 [INFO]  Epoch[2] Batch [0-3]	Speed: 23328.69 samples/sec	cross-entropy=4.192465	lvdd-accuracy=0.000000
+2024-04-08 22:08:15,495 [INFO]  Epoch[2] Train-cross-entropy=0.905139
+2024-04-08 22:08:15,495 [INFO]  Epoch[2] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:15,495 [INFO]  Epoch[2] Time cost=0.005
+2024-04-08 22:08:15,497 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:15,498 [INFO]  Epoch[2] Validation-cross-entropy=1.719063
+2024-04-08 22:08:15,498 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:15,503 [INFO]  Epoch[3] Batch [0-3]	Speed: 14440.29 samples/sec	cross-entropy=2.022832	lvdd-accuracy=0.000000
+2024-04-08 22:08:15,505 [INFO]  Epoch[3] Train-cross-entropy=0.419556
+2024-04-08 22:08:15,505 [INFO]  Epoch[3] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:15,505 [INFO]  Epoch[3] Time cost=0.008
+2024-04-08 22:08:15,507 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:15,507 [INFO]  Epoch[3] Validation-cross-entropy=1.712288
+2024-04-08 22:08:15,508 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:15,512 [INFO]  Epoch[4] Batch [0-3]	Speed: 14875.62 samples/sec	cross-entropy=1.427691	lvdd-accuracy=0.000000
+2024-04-08 22:08:15,514 [INFO]  Epoch[4] Train-cross-entropy=0.246528
+2024-04-08 22:08:15,514 [INFO]  Epoch[4] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:15,514 [INFO]  Epoch[4] Time cost=0.007
+2024-04-08 22:08:15,516 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:15,517 [INFO]  Epoch[4] Validation-cross-entropy=1.867621
+2024-04-08 22:08:15,517 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:15,517 [INFO]  
+========== done (0.03973269462585449 s) fit model
+2024-04-08 22:08:17,197 [INFO]  
+========== start: fit model
+2024-04-08 22:08:17,197 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:17,203 [INFO]  Epoch[0] Batch [0-3]	Speed: 16143.58 samples/sec	cross-entropy=19.195882	lvdd-accuracy=0.000000
+2024-04-08 22:08:17,205 [INFO]  Epoch[0] Train-cross-entropy=18.119599
+2024-04-08 22:08:17,205 [INFO]  Epoch[0] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:17,205 [INFO]  Epoch[0] Time cost=0.008
+2024-04-08 22:08:17,207 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:17,209 [INFO]  Epoch[0] Validation-cross-entropy=9.830976
+2024-04-08 22:08:17,209 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:17,214 [INFO]  Epoch[1] Batch [0-3]	Speed: 14279.49 samples/sec	cross-entropy=9.460186	lvdd-accuracy=0.000000
+2024-04-08 22:08:17,215 [INFO]  Epoch[1] Train-cross-entropy=9.447502
+2024-04-08 22:08:17,215 [INFO]  Epoch[1] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:17,215 [INFO]  Epoch[1] Time cost=0.006
+2024-04-08 22:08:17,217 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:17,218 [INFO]  Epoch[1] Validation-cross-entropy=6.266080
+2024-04-08 22:08:17,218 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:17,222 [INFO]  Epoch[2] Batch [0-3]	Speed: 14520.49 samples/sec	cross-entropy=5.790352	lvdd-accuracy=0.000000
+2024-04-08 22:08:17,225 [INFO]  Epoch[2] Train-cross-entropy=4.601094
+2024-04-08 22:08:17,225 [INFO]  Epoch[2] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:17,225 [INFO]  Epoch[2] Time cost=0.007
+2024-04-08 22:08:17,226 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:17,227 [INFO]  Epoch[2] Validation-cross-entropy=6.302379
+2024-04-08 22:08:17,227 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:17,232 [INFO]  Epoch[3] Batch [0-3]	Speed: 14598.40 samples/sec	cross-entropy=3.044217	lvdd-accuracy=0.000000
+2024-04-08 22:08:17,234 [INFO]  Epoch[3] Train-cross-entropy=1.981767
+2024-04-08 22:08:17,234 [INFO]  Epoch[3] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:17,234 [INFO]  Epoch[3] Time cost=0.007
+2024-04-08 22:08:17,235 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:17,236 [INFO]  Epoch[3] Validation-cross-entropy=7.022860
+2024-04-08 22:08:17,236 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:17,241 [INFO]  Epoch[4] Batch [0-3]	Speed: 14603.70 samples/sec	cross-entropy=1.668268	lvdd-accuracy=0.000000
+2024-04-08 22:08:17,243 [INFO]  Epoch[4] Train-cross-entropy=1.007802
+2024-04-08 22:08:17,243 [INFO]  Epoch[4] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:17,243 [INFO]  Epoch[4] Time cost=0.007
+2024-04-08 22:08:17,245 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:17,245 [INFO]  Epoch[4] Validation-cross-entropy=6.270131
+2024-04-08 22:08:17,245 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:17,245 [INFO]  
+========== done (0.048703908920288086 s) fit model
+2024-04-08 22:08:18,866 [INFO]  
+========== start: fit model
+2024-04-08 22:08:18,866 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:18,871 [INFO]  Epoch[0] Batch [0-3]	Speed: 21497.77 samples/sec	cross-entropy=13.411723	lvdd-accuracy=3.250000
+2024-04-08 22:08:18,880 [INFO]  Epoch[0] Train-cross-entropy=14.243345
+2024-04-08 22:08:18,880 [INFO]  Epoch[0] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:18,880 [INFO]  Epoch[0] Time cost=0.013
+2024-04-08 22:08:18,882 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:18,888 [INFO]  Epoch[0] Validation-cross-entropy=27.361872
+2024-04-08 22:08:18,888 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:18,893 [INFO]  Epoch[1] Batch [0-3]	Speed: 15394.30 samples/sec	cross-entropy=6.248927	lvdd-accuracy=3.250000
+2024-04-08 22:08:18,895 [INFO]  Epoch[1] Train-cross-entropy=5.653507
+2024-04-08 22:08:18,895 [INFO]  Epoch[1] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:18,895 [INFO]  Epoch[1] Time cost=0.007
+2024-04-08 22:08:18,896 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:18,897 [INFO]  Epoch[1] Validation-cross-entropy=14.220209
+2024-04-08 22:08:18,897 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:18,902 [INFO]  Epoch[2] Batch [0-3]	Speed: 14513.16 samples/sec	cross-entropy=3.055083	lvdd-accuracy=3.250000
+2024-04-08 22:08:18,904 [INFO]  Epoch[2] Train-cross-entropy=1.918429
+2024-04-08 22:08:18,904 [INFO]  Epoch[2] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:18,904 [INFO]  Epoch[2] Time cost=0.007
+2024-04-08 22:08:18,906 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:18,907 [INFO]  Epoch[2] Validation-cross-entropy=5.986637
+2024-04-08 22:08:18,907 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:18,912 [INFO]  Epoch[3] Batch [0-3]	Speed: 14744.88 samples/sec	cross-entropy=1.591511	lvdd-accuracy=3.250000
+2024-04-08 22:08:18,914 [INFO]  Epoch[3] Train-cross-entropy=0.947651
+2024-04-08 22:08:18,914 [INFO]  Epoch[3] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:18,914 [INFO]  Epoch[3] Time cost=0.007
+2024-04-08 22:08:18,916 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:18,917 [INFO]  Epoch[3] Validation-cross-entropy=2.130473
+2024-04-08 22:08:18,917 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:18,922 [INFO]  Epoch[4] Batch [0-3]	Speed: 14976.31 samples/sec	cross-entropy=0.924896	lvdd-accuracy=3.250000
+2024-04-08 22:08:18,924 [INFO]  Epoch[4] Train-cross-entropy=0.999439
+2024-04-08 22:08:18,924 [INFO]  Epoch[4] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:18,924 [INFO]  Epoch[4] Time cost=0.007
+2024-04-08 22:08:18,926 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:18,927 [INFO]  Epoch[4] Validation-cross-entropy=1.028651
+2024-04-08 22:08:18,927 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:18,927 [INFO]  
+========== done (0.06081032752990723 s) fit model
+2024-04-08 22:08:20,759 [INFO]  
+========== start: fit model
+2024-04-08 22:08:20,759 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:20,769 [INFO]  Epoch[0] Batch [0-3]	Speed: 11728.90 samples/sec	cross-entropy=22.849199	lvdd-accuracy=2.750000
+2024-04-08 22:08:20,771 [INFO]  Epoch[0] Train-cross-entropy=11.000176
+2024-04-08 22:08:20,771 [INFO]  Epoch[0] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:20,771 [INFO]  Epoch[0] Time cost=0.011
+2024-04-08 22:08:20,772 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:20,777 [INFO]  Epoch[0] Validation-cross-entropy=8.223904
+2024-04-08 22:08:20,777 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:20,792 [INFO]  Epoch[1] Batch [0-3]	Speed: 8735.10 samples/sec	cross-entropy=8.844168	lvdd-accuracy=2.750000
+2024-04-08 22:08:20,793 [INFO]  Epoch[1] Train-cross-entropy=5.142142
+2024-04-08 22:08:20,793 [INFO]  Epoch[1] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:20,793 [INFO]  Epoch[1] Time cost=0.016
+2024-04-08 22:08:20,795 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:20,795 [INFO]  Epoch[1] Validation-cross-entropy=0.561078
+2024-04-08 22:08:20,795 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:20,797 [INFO]  Epoch[2] Batch [0-3]	Speed: 28691.26 samples/sec	cross-entropy=5.186255	lvdd-accuracy=2.750000
+2024-04-08 22:08:20,801 [INFO]  Epoch[2] Train-cross-entropy=3.041663
+2024-04-08 22:08:20,801 [INFO]  Epoch[2] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:20,801 [INFO]  Epoch[2] Time cost=0.006
+2024-04-08 22:08:20,803 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:20,803 [INFO]  Epoch[2] Validation-cross-entropy=0.465902
+2024-04-08 22:08:20,803 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:20,806 [INFO]  Epoch[3] Batch [0-3]	Speed: 25689.24 samples/sec	cross-entropy=2.366538	lvdd-accuracy=2.750000
+2024-04-08 22:08:20,807 [INFO]  Epoch[3] Train-cross-entropy=1.786977
+2024-04-08 22:08:20,807 [INFO]  Epoch[3] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:20,807 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 22:08:20,809 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:20,810 [INFO]  Epoch[3] Validation-cross-entropy=0.518573
+2024-04-08 22:08:20,810 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:20,819 [INFO]  Epoch[4] Batch [0-3]	Speed: 6628.04 samples/sec	cross-entropy=1.537369	lvdd-accuracy=2.750000
+2024-04-08 22:08:20,821 [INFO]  Epoch[4] Train-cross-entropy=1.465225
+2024-04-08 22:08:20,821 [INFO]  Epoch[4] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:20,821 [INFO]  Epoch[4] Time cost=0.011
+2024-04-08 22:08:20,822 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:20,823 [INFO]  Epoch[4] Validation-cross-entropy=0.416909
+2024-04-08 22:08:20,823 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:20,823 [INFO]  
+========== done (0.06422209739685059 s) fit model
+2024-04-08 22:08:22,636 [INFO]  
+========== start: fit model
+2024-04-08 22:08:22,636 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:22,645 [INFO]  Epoch[0] Batch [0-3]	Speed: 27206.30 samples/sec	cross-entropy=14.593462	lvdd-accuracy=3.500000
+2024-04-08 22:08:22,646 [INFO]  Epoch[0] Train-cross-entropy=16.812961
+2024-04-08 22:08:22,646 [INFO]  Epoch[0] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:22,646 [INFO]  Epoch[0] Time cost=0.009
+2024-04-08 22:08:22,648 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:22,648 [INFO]  Epoch[0] Validation-cross-entropy=13.040169
+2024-04-08 22:08:22,648 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:22,651 [INFO]  Epoch[1] Batch [0-3]	Speed: 26337.86 samples/sec	cross-entropy=6.350570	lvdd-accuracy=3.500000
+2024-04-08 22:08:22,652 [INFO]  Epoch[1] Train-cross-entropy=7.441479
+2024-04-08 22:08:22,652 [INFO]  Epoch[1] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:22,652 [INFO]  Epoch[1] Time cost=0.004
+2024-04-08 22:08:22,654 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:22,654 [INFO]  Epoch[1] Validation-cross-entropy=5.880271
+2024-04-08 22:08:22,654 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:22,665 [INFO]  Epoch[2] Batch [0-3]	Speed: 4645.93 samples/sec	cross-entropy=3.220556	lvdd-accuracy=3.500000
+2024-04-08 22:08:22,667 [INFO]  Epoch[2] Train-cross-entropy=3.120058
+2024-04-08 22:08:22,667 [INFO]  Epoch[2] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:22,667 [INFO]  Epoch[2] Time cost=0.013
+2024-04-08 22:08:22,669 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:22,669 [INFO]  Epoch[2] Validation-cross-entropy=3.434599
+2024-04-08 22:08:22,669 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:22,672 [INFO]  Epoch[3] Batch [0-3]	Speed: 21481.71 samples/sec	cross-entropy=1.666836	lvdd-accuracy=3.500000
+2024-04-08 22:08:22,674 [INFO]  Epoch[3] Train-cross-entropy=1.017980
+2024-04-08 22:08:22,674 [INFO]  Epoch[3] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:22,674 [INFO]  Epoch[3] Time cost=0.005
+2024-04-08 22:08:22,675 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:22,676 [INFO]  Epoch[3] Validation-cross-entropy=1.241290
+2024-04-08 22:08:22,676 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:22,680 [INFO]  Epoch[4] Batch [0-3]	Speed: 13736.80 samples/sec	cross-entropy=1.024614	lvdd-accuracy=3.500000
+2024-04-08 22:08:22,682 [INFO]  Epoch[4] Train-cross-entropy=0.545698
+2024-04-08 22:08:22,682 [INFO]  Epoch[4] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:22,682 [INFO]  Epoch[4] Time cost=0.006
+2024-04-08 22:08:22,684 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:22,686 [INFO]  Epoch[4] Validation-cross-entropy=0.421502
+2024-04-08 22:08:22,686 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:22,686 [INFO]  
+========== done (0.05010104179382324 s) fit model
+2024-04-08 22:08:24,395 [INFO]  
+========== start: fit model
+2024-04-08 22:08:24,395 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:24,400 [INFO]  Epoch[0] Batch [0-3]	Speed: 20659.48 samples/sec	cross-entropy=18.586923	lvdd-accuracy=2.750000
+2024-04-08 22:08:24,402 [INFO]  Epoch[0] Train-cross-entropy=12.534800
+2024-04-08 22:08:24,402 [INFO]  Epoch[0] Train-lvdd-accuracy=4.000000
+2024-04-08 22:08:24,402 [INFO]  Epoch[0] Time cost=0.006
+2024-04-08 22:08:24,403 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:24,407 [INFO]  Epoch[0] Validation-cross-entropy=6.864762
+2024-04-08 22:08:24,407 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:24,411 [INFO]  Epoch[1] Batch [0-3]	Speed: 19801.97 samples/sec	cross-entropy=8.844590	lvdd-accuracy=2.750000
+2024-04-08 22:08:24,413 [INFO]  Epoch[1] Train-cross-entropy=6.031783
+2024-04-08 22:08:24,413 [INFO]  Epoch[1] Train-lvdd-accuracy=4.000000
+2024-04-08 22:08:24,413 [INFO]  Epoch[1] Time cost=0.005
+2024-04-08 22:08:24,414 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:24,415 [INFO]  Epoch[1] Validation-cross-entropy=4.311611
+2024-04-08 22:08:24,415 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:24,418 [INFO]  Epoch[2] Batch [0-3]	Speed: 21904.75 samples/sec	cross-entropy=4.466479	lvdd-accuracy=2.750000
+2024-04-08 22:08:24,419 [INFO]  Epoch[2] Train-cross-entropy=2.136123
+2024-04-08 22:08:24,419 [INFO]  Epoch[2] Train-lvdd-accuracy=4.000000
+2024-04-08 22:08:24,419 [INFO]  Epoch[2] Time cost=0.005
+2024-04-08 22:08:24,421 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:24,421 [INFO]  Epoch[2] Validation-cross-entropy=4.004408
+2024-04-08 22:08:24,421 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:24,424 [INFO]  Epoch[3] Batch [0-3]	Speed: 21098.99 samples/sec	cross-entropy=2.068927	lvdd-accuracy=2.750000
+2024-04-08 22:08:24,426 [INFO]  Epoch[3] Train-cross-entropy=0.846769
+2024-04-08 22:08:24,426 [INFO]  Epoch[3] Train-lvdd-accuracy=4.000000
+2024-04-08 22:08:24,426 [INFO]  Epoch[3] Time cost=0.005
+2024-04-08 22:08:24,427 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:24,428 [INFO]  Epoch[3] Validation-cross-entropy=3.699818
+2024-04-08 22:08:24,428 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:24,431 [INFO]  Epoch[4] Batch [0-3]	Speed: 20967.15 samples/sec	cross-entropy=1.203141	lvdd-accuracy=2.750000
+2024-04-08 22:08:24,433 [INFO]  Epoch[4] Train-cross-entropy=0.427169
+2024-04-08 22:08:24,433 [INFO]  Epoch[4] Train-lvdd-accuracy=4.000000
+2024-04-08 22:08:24,433 [INFO]  Epoch[4] Time cost=0.005
+2024-04-08 22:08:24,434 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:24,435 [INFO]  Epoch[4] Validation-cross-entropy=2.752170
+2024-04-08 22:08:24,435 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:24,435 [INFO]  
+========== done (0.04050731658935547 s) fit model
+2024-04-08 22:08:26,173 [INFO]  
+========== start: fit model
+2024-04-08 22:08:26,174 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:26,181 [INFO]  Epoch[0] Batch [0-3]	Speed: 27243.11 samples/sec	cross-entropy=22.978407	lvdd-accuracy=3.500000
+2024-04-08 22:08:26,182 [INFO]  Epoch[0] Train-cross-entropy=15.701039
+2024-04-08 22:08:26,182 [INFO]  Epoch[0] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:26,182 [INFO]  Epoch[0] Time cost=0.008
+2024-04-08 22:08:26,183 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:26,184 [INFO]  Epoch[0] Validation-cross-entropy=3.599249
+2024-04-08 22:08:26,184 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:26,186 [INFO]  Epoch[1] Batch [0-3]	Speed: 28443.99 samples/sec	cross-entropy=10.748901	lvdd-accuracy=3.500000
+2024-04-08 22:08:26,187 [INFO]  Epoch[1] Train-cross-entropy=6.727473
+2024-04-08 22:08:26,187 [INFO]  Epoch[1] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:26,187 [INFO]  Epoch[1] Time cost=0.004
+2024-04-08 22:08:26,189 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:26,189 [INFO]  Epoch[1] Validation-cross-entropy=3.401839
+2024-04-08 22:08:26,189 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:26,191 [INFO]  Epoch[2] Batch [0-3]	Speed: 28343.88 samples/sec	cross-entropy=4.519657	lvdd-accuracy=3.500000
+2024-04-08 22:08:26,193 [INFO]  Epoch[2] Train-cross-entropy=2.529723
+2024-04-08 22:08:26,193 [INFO]  Epoch[2] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:26,193 [INFO]  Epoch[2] Time cost=0.004
+2024-04-08 22:08:26,194 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:26,195 [INFO]  Epoch[2] Validation-cross-entropy=4.146824
+2024-04-08 22:08:26,195 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:26,198 [INFO]  Epoch[3] Batch [0-3]	Speed: 24192.09 samples/sec	cross-entropy=1.422832	lvdd-accuracy=3.500000
+2024-04-08 22:08:26,200 [INFO]  Epoch[3] Train-cross-entropy=0.919146
+2024-04-08 22:08:26,200 [INFO]  Epoch[3] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:26,200 [INFO]  Epoch[3] Time cost=0.005
+2024-04-08 22:08:26,203 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:26,204 [INFO]  Epoch[3] Validation-cross-entropy=4.142904
+2024-04-08 22:08:26,204 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:26,222 [INFO]  Epoch[4] Batch [0-3]	Speed: 2936.63 samples/sec	cross-entropy=0.530540	lvdd-accuracy=3.500000
+2024-04-08 22:08:26,231 [INFO]  Epoch[4] Train-cross-entropy=0.590197
+2024-04-08 22:08:26,231 [INFO]  Epoch[4] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:26,231 [INFO]  Epoch[4] Time cost=0.027
+2024-04-08 22:08:26,233 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:26,234 [INFO]  Epoch[4] Validation-cross-entropy=3.343974
+2024-04-08 22:08:26,234 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:26,234 [INFO]  
+========== done (0.06051754951477051 s) fit model
+2024-04-08 22:08:28,109 [INFO]  
+========== start: fit model
+2024-04-08 22:08:28,109 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:28,118 [INFO]  Epoch[0] Batch [0-3]	Speed: 10362.17 samples/sec	cross-entropy=11.927394	lvdd-accuracy=3.500000
+2024-04-08 22:08:28,120 [INFO]  Epoch[0] Train-cross-entropy=18.498429
+2024-04-08 22:08:28,120 [INFO]  Epoch[0] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:28,120 [INFO]  Epoch[0] Time cost=0.009
+2024-04-08 22:08:28,121 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:28,124 [INFO]  Epoch[0] Validation-cross-entropy=1.260795
+2024-04-08 22:08:28,124 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:28,128 [INFO]  Epoch[1] Batch [0-3]	Speed: 19474.42 samples/sec	cross-entropy=5.979892	lvdd-accuracy=3.500000
+2024-04-08 22:08:28,129 [INFO]  Epoch[1] Train-cross-entropy=6.912556
+2024-04-08 22:08:28,130 [INFO]  Epoch[1] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:28,130 [INFO]  Epoch[1] Time cost=0.006
+2024-04-08 22:08:28,132 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:28,132 [INFO]  Epoch[1] Validation-cross-entropy=1.084239
+2024-04-08 22:08:28,132 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:28,144 [INFO]  Epoch[2] Batch [0-3]	Speed: 4834.93 samples/sec	cross-entropy=3.659405	lvdd-accuracy=3.500000
+2024-04-08 22:08:28,146 [INFO]  Epoch[2] Train-cross-entropy=2.423349
+2024-04-08 22:08:28,146 [INFO]  Epoch[2] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:28,146 [INFO]  Epoch[2] Time cost=0.013
+2024-04-08 22:08:28,147 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:28,148 [INFO]  Epoch[2] Validation-cross-entropy=0.713437
+2024-04-08 22:08:28,148 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:28,164 [INFO]  Epoch[3] Batch [0-3]	Speed: 3146.56 samples/sec	cross-entropy=1.967269	lvdd-accuracy=3.500000
+2024-04-08 22:08:28,166 [INFO]  Epoch[3] Train-cross-entropy=1.101606
+2024-04-08 22:08:28,167 [INFO]  Epoch[3] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:28,167 [INFO]  Epoch[3] Time cost=0.019
+2024-04-08 22:08:28,168 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:28,169 [INFO]  Epoch[3] Validation-cross-entropy=0.539089
+2024-04-08 22:08:28,169 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:28,174 [INFO]  Epoch[4] Batch [0-3]	Speed: 14576.21 samples/sec	cross-entropy=1.016862	lvdd-accuracy=3.500000
+2024-04-08 22:08:28,176 [INFO]  Epoch[4] Train-cross-entropy=0.816046
+2024-04-08 22:08:28,176 [INFO]  Epoch[4] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:28,176 [INFO]  Epoch[4] Time cost=0.007
+2024-04-08 22:08:28,177 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:28,178 [INFO]  Epoch[4] Validation-cross-entropy=0.427024
+2024-04-08 22:08:28,178 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:28,178 [INFO]  
+========== done (0.06887960433959961 s) fit model
+2024-04-08 22:08:29,914 [INFO]  
+========== start: fit model
+2024-04-08 22:08:29,915 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:29,921 [INFO]  Epoch[0] Batch [0-3]	Speed: 17041.36 samples/sec	cross-entropy=10.231547	lvdd-accuracy=3.500000
+2024-04-08 22:08:29,923 [INFO]  Epoch[0] Train-cross-entropy=4.276434
+2024-04-08 22:08:29,923 [INFO]  Epoch[0] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:29,923 [INFO]  Epoch[0] Time cost=0.007
+2024-04-08 22:08:29,924 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:29,925 [INFO]  Epoch[0] Validation-cross-entropy=13.586267
+2024-04-08 22:08:29,925 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:29,928 [INFO]  Epoch[1] Batch [0-3]	Speed: 21185.58 samples/sec	cross-entropy=4.922153	lvdd-accuracy=3.500000
+2024-04-08 22:08:29,930 [INFO]  Epoch[1] Train-cross-entropy=1.760486
+2024-04-08 22:08:29,930 [INFO]  Epoch[1] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:29,930 [INFO]  Epoch[1] Time cost=0.005
+2024-04-08 22:08:29,931 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:29,932 [INFO]  Epoch[1] Validation-cross-entropy=5.631775
+2024-04-08 22:08:29,932 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:29,935 [INFO]  Epoch[2] Batch [0-3]	Speed: 21729.80 samples/sec	cross-entropy=1.875873	lvdd-accuracy=3.500000
+2024-04-08 22:08:29,937 [INFO]  Epoch[2] Train-cross-entropy=0.993804
+2024-04-08 22:08:29,937 [INFO]  Epoch[2] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:29,937 [INFO]  Epoch[2] Time cost=0.005
+2024-04-08 22:08:29,938 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:29,939 [INFO]  Epoch[2] Validation-cross-entropy=1.447131
+2024-04-08 22:08:29,939 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:29,942 [INFO]  Epoch[3] Batch [0-3]	Speed: 21596.93 samples/sec	cross-entropy=0.824406	lvdd-accuracy=3.500000
+2024-04-08 22:08:29,943 [INFO]  Epoch[3] Train-cross-entropy=0.620611
+2024-04-08 22:08:29,943 [INFO]  Epoch[3] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:29,943 [INFO]  Epoch[3] Time cost=0.005
+2024-04-08 22:08:29,945 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:29,945 [INFO]  Epoch[3] Validation-cross-entropy=0.363457
+2024-04-08 22:08:29,945 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:29,949 [INFO]  Epoch[4] Batch [0-3]	Speed: 18574.28 samples/sec	cross-entropy=0.532794	lvdd-accuracy=3.500000
+2024-04-08 22:08:29,951 [INFO]  Epoch[4] Train-cross-entropy=0.561015
+2024-04-08 22:08:29,951 [INFO]  Epoch[4] Train-lvdd-accuracy=2.500000
+2024-04-08 22:08:29,951 [INFO]  Epoch[4] Time cost=0.005
+2024-04-08 22:08:29,953 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:29,953 [INFO]  Epoch[4] Validation-cross-entropy=0.523781
+2024-04-08 22:08:29,953 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:29,954 [INFO]  
+========== done (0.03929615020751953 s) fit model
+2024-04-08 22:08:31,836 [INFO]  
+========== start: fit model
+2024-04-08 22:08:31,836 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:31,842 [INFO]  Epoch[0] Batch [0-3]	Speed: 18914.56 samples/sec	cross-entropy=17.079498	lvdd-accuracy=0.000000
+2024-04-08 22:08:31,844 [INFO]  Epoch[0] Train-cross-entropy=3.072877
+2024-04-08 22:08:31,844 [INFO]  Epoch[0] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:31,844 [INFO]  Epoch[0] Time cost=0.006
+2024-04-08 22:08:31,846 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:31,847 [INFO]  Epoch[0] Validation-cross-entropy=3.599325
+2024-04-08 22:08:31,847 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:31,852 [INFO]  Epoch[1] Batch [0-3]	Speed: 16011.34 samples/sec	cross-entropy=6.329458	lvdd-accuracy=0.000000
+2024-04-08 22:08:31,854 [INFO]  Epoch[1] Train-cross-entropy=1.471554
+2024-04-08 22:08:31,854 [INFO]  Epoch[1] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:31,854 [INFO]  Epoch[1] Time cost=0.007
+2024-04-08 22:08:31,856 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:31,856 [INFO]  Epoch[1] Validation-cross-entropy=1.367739
+2024-04-08 22:08:31,856 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:31,860 [INFO]  Epoch[2] Batch [0-3]	Speed: 18183.40 samples/sec	cross-entropy=2.353674	lvdd-accuracy=0.000000
+2024-04-08 22:08:31,862 [INFO]  Epoch[2] Train-cross-entropy=1.042561
+2024-04-08 22:08:31,862 [INFO]  Epoch[2] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:31,862 [INFO]  Epoch[2] Time cost=0.006
+2024-04-08 22:08:31,863 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:31,864 [INFO]  Epoch[2] Validation-cross-entropy=1.193026
+2024-04-08 22:08:31,864 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:31,867 [INFO]  Epoch[3] Batch [0-3]	Speed: 22114.08 samples/sec	cross-entropy=1.007308	lvdd-accuracy=0.000000
+2024-04-08 22:08:31,869 [INFO]  Epoch[3] Train-cross-entropy=0.654559
+2024-04-08 22:08:31,869 [INFO]  Epoch[3] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:31,869 [INFO]  Epoch[3] Time cost=0.005
+2024-04-08 22:08:31,870 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:31,871 [INFO]  Epoch[3] Validation-cross-entropy=0.895001
+2024-04-08 22:08:31,871 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:31,898 [INFO]  Epoch[4] Batch [0-3]	Speed: 2744.33 samples/sec	cross-entropy=0.805668	lvdd-accuracy=0.000000
+2024-04-08 22:08:31,900 [INFO]  Epoch[4] Train-cross-entropy=0.337071
+2024-04-08 22:08:31,900 [INFO]  Epoch[4] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:31,900 [INFO]  Epoch[4] Time cost=0.029
+2024-04-08 22:08:31,902 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:31,902 [INFO]  Epoch[4] Validation-cross-entropy=0.516889
+2024-04-08 22:08:31,902 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:31,902 [INFO]  
+========== done (0.06612634658813477 s) fit model
+2024-04-08 22:08:33,539 [INFO]  
+========== start: fit model
+2024-04-08 22:08:33,539 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:33,561 [INFO]  Epoch[0] Batch [0-3]	Speed: 2462.77 samples/sec	cross-entropy=15.434830	lvdd-accuracy=3.250000
+2024-04-08 22:08:33,562 [INFO]  Epoch[0] Train-cross-entropy=23.947085
+2024-04-08 22:08:33,562 [INFO]  Epoch[0] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:33,562 [INFO]  Epoch[0] Time cost=0.023
+2024-04-08 22:08:33,564 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:33,564 [INFO]  Epoch[0] Validation-cross-entropy=1.199909
+2024-04-08 22:08:33,565 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:33,568 [INFO]  Epoch[1] Batch [0-3]	Speed: 21842.96 samples/sec	cross-entropy=7.725954	lvdd-accuracy=3.250000
+2024-04-08 22:08:33,569 [INFO]  Epoch[1] Train-cross-entropy=13.817636
+2024-04-08 22:08:33,569 [INFO]  Epoch[1] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:33,569 [INFO]  Epoch[1] Time cost=0.005
+2024-04-08 22:08:33,571 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:33,571 [INFO]  Epoch[1] Validation-cross-entropy=0.824806
+2024-04-08 22:08:33,571 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:33,574 [INFO]  Epoch[2] Batch [0-3]	Speed: 21641.04 samples/sec	cross-entropy=4.629451	lvdd-accuracy=3.250000
+2024-04-08 22:08:33,576 [INFO]  Epoch[2] Train-cross-entropy=7.537526
+2024-04-08 22:08:33,576 [INFO]  Epoch[2] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:33,576 [INFO]  Epoch[2] Time cost=0.005
+2024-04-08 22:08:33,578 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:33,580 [INFO]  Epoch[2] Validation-cross-entropy=0.372393
+2024-04-08 22:08:33,580 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:33,591 [INFO]  Epoch[3] Batch [0-3]	Speed: 25712.21 samples/sec	cross-entropy=2.847448	lvdd-accuracy=3.250000
+2024-04-08 22:08:33,592 [INFO]  Epoch[3] Train-cross-entropy=3.856861
+2024-04-08 22:08:33,592 [INFO]  Epoch[3] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:33,592 [INFO]  Epoch[3] Time cost=0.012
+2024-04-08 22:08:33,593 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:33,594 [INFO]  Epoch[3] Validation-cross-entropy=0.161126
+2024-04-08 22:08:33,594 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:33,596 [INFO]  Epoch[4] Batch [0-3]	Speed: 27842.15 samples/sec	cross-entropy=2.093084	lvdd-accuracy=3.250000
+2024-04-08 22:08:33,598 [INFO]  Epoch[4] Train-cross-entropy=1.828382
+2024-04-08 22:08:33,598 [INFO]  Epoch[4] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:33,598 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 22:08:33,599 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:33,599 [INFO]  Epoch[4] Validation-cross-entropy=0.236722
+2024-04-08 22:08:33,599 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:33,599 [INFO]  
+========== done (0.060895442962646484 s) fit model
+2024-04-08 22:08:35,456 [INFO]  
+========== start: fit model
+2024-04-08 22:08:35,457 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:35,460 [INFO]  Epoch[0] Batch [0-3]	Speed: 26479.89 samples/sec	cross-entropy=13.115087	lvdd-accuracy=0.000000
+2024-04-08 22:08:35,462 [INFO]  Epoch[0] Train-cross-entropy=16.054929
+2024-04-08 22:08:35,462 [INFO]  Epoch[0] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:35,462 [INFO]  Epoch[0] Time cost=0.004
+2024-04-08 22:08:35,463 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:35,464 [INFO]  Epoch[0] Validation-cross-entropy=6.834519
+2024-04-08 22:08:35,464 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:35,466 [INFO]  Epoch[1] Batch [0-3]	Speed: 24591.01 samples/sec	cross-entropy=6.626967	lvdd-accuracy=0.000000
+2024-04-08 22:08:35,468 [INFO]  Epoch[1] Train-cross-entropy=8.329260
+2024-04-08 22:08:35,468 [INFO]  Epoch[1] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:35,468 [INFO]  Epoch[1] Time cost=0.004
+2024-04-08 22:08:35,469 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:35,470 [INFO]  Epoch[1] Validation-cross-entropy=3.898302
+2024-04-08 22:08:35,470 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:35,472 [INFO]  Epoch[2] Batch [0-3]	Speed: 23856.69 samples/sec	cross-entropy=3.627827	lvdd-accuracy=0.000000
+2024-04-08 22:08:35,476 [INFO]  Epoch[2] Train-cross-entropy=3.678595
+2024-04-08 22:08:35,477 [INFO]  Epoch[2] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:35,477 [INFO]  Epoch[2] Time cost=0.007
+2024-04-08 22:08:35,478 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:35,478 [INFO]  Epoch[2] Validation-cross-entropy=1.855039
+2024-04-08 22:08:35,478 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:35,481 [INFO]  Epoch[3] Batch [0-3]	Speed: 23924.73 samples/sec	cross-entropy=1.713510	lvdd-accuracy=0.000000
+2024-04-08 22:08:35,483 [INFO]  Epoch[3] Train-cross-entropy=1.618432
+2024-04-08 22:08:35,483 [INFO]  Epoch[3] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:35,483 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 22:08:35,484 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:35,484 [INFO]  Epoch[3] Validation-cross-entropy=0.904059
+2024-04-08 22:08:35,484 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:35,487 [INFO]  Epoch[4] Batch [0-3]	Speed: 26051.58 samples/sec	cross-entropy=0.933819	lvdd-accuracy=0.000000
+2024-04-08 22:08:35,488 [INFO]  Epoch[4] Train-cross-entropy=0.803488
+2024-04-08 22:08:35,488 [INFO]  Epoch[4] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:35,488 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 22:08:35,490 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:35,490 [INFO]  Epoch[4] Validation-cross-entropy=0.802818
+2024-04-08 22:08:35,491 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:35,491 [INFO]  
+========== done (0.034128665924072266 s) fit model
+2024-04-08 22:08:37,310 [INFO]  
+========== start: fit model
+2024-04-08 22:08:37,310 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:37,314 [INFO]  Epoch[0] Batch [0-3]	Speed: 28683.09 samples/sec	cross-entropy=14.445217	lvdd-accuracy=0.000000
+2024-04-08 22:08:37,315 [INFO]  Epoch[0] Train-cross-entropy=12.264346
+2024-04-08 22:08:37,315 [INFO]  Epoch[0] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:37,315 [INFO]  Epoch[0] Time cost=0.004
+2024-04-08 22:08:37,317 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:37,317 [INFO]  Epoch[0] Validation-cross-entropy=2.330748
+2024-04-08 22:08:37,317 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:37,320 [INFO]  Epoch[1] Batch [0-3]	Speed: 28609.72 samples/sec	cross-entropy=6.218858	lvdd-accuracy=0.000000
+2024-04-08 22:08:37,321 [INFO]  Epoch[1] Train-cross-entropy=6.551159
+2024-04-08 22:08:37,321 [INFO]  Epoch[1] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:37,321 [INFO]  Epoch[1] Time cost=0.004
+2024-04-08 22:08:37,322 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:37,323 [INFO]  Epoch[1] Validation-cross-entropy=1.342568
+2024-04-08 22:08:37,323 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:37,326 [INFO]  Epoch[2] Batch [0-3]	Speed: 25718.78 samples/sec	cross-entropy=2.892512	lvdd-accuracy=0.000000
+2024-04-08 22:08:37,328 [INFO]  Epoch[2] Train-cross-entropy=2.948334
+2024-04-08 22:08:37,328 [INFO]  Epoch[2] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:37,328 [INFO]  Epoch[2] Time cost=0.004
+2024-04-08 22:08:37,329 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:37,330 [INFO]  Epoch[2] Validation-cross-entropy=1.248263
+2024-04-08 22:08:37,330 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:37,333 [INFO]  Epoch[3] Batch [0-3]	Speed: 23811.54 samples/sec	cross-entropy=1.874165	lvdd-accuracy=0.000000
+2024-04-08 22:08:37,334 [INFO]  Epoch[3] Train-cross-entropy=1.494410
+2024-04-08 22:08:37,334 [INFO]  Epoch[3] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:37,334 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 22:08:37,336 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:37,336 [INFO]  Epoch[3] Validation-cross-entropy=0.847777
+2024-04-08 22:08:37,336 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:37,339 [INFO]  Epoch[4] Batch [0-3]	Speed: 24588.01 samples/sec	cross-entropy=1.438812	lvdd-accuracy=0.000000
+2024-04-08 22:08:37,341 [INFO]  Epoch[4] Train-cross-entropy=1.113394
+2024-04-08 22:08:37,341 [INFO]  Epoch[4] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:37,341 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 22:08:37,342 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:37,343 [INFO]  Epoch[4] Validation-cross-entropy=0.284230
+2024-04-08 22:08:37,343 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:37,343 [INFO]  
+========== done (0.03275418281555176 s) fit model
+2024-04-08 22:08:39,262 [INFO]  
+========== start: fit model
+2024-04-08 22:08:39,262 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:39,275 [INFO]  Epoch[0] Batch [0-3]	Speed: 19238.09 samples/sec	cross-entropy=8.124493	lvdd-accuracy=2.750000
+2024-04-08 22:08:39,277 [INFO]  Epoch[0] Train-cross-entropy=5.291503
+2024-04-08 22:08:39,277 [INFO]  Epoch[0] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:39,277 [INFO]  Epoch[0] Time cost=0.014
+2024-04-08 22:08:39,278 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:39,279 [INFO]  Epoch[0] Validation-cross-entropy=19.711594
+2024-04-08 22:08:39,279 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:39,281 [INFO]  Epoch[1] Batch [0-3]	Speed: 24803.08 samples/sec	cross-entropy=3.010715	lvdd-accuracy=2.750000
+2024-04-08 22:08:39,283 [INFO]  Epoch[1] Train-cross-entropy=1.522173
+2024-04-08 22:08:39,283 [INFO]  Epoch[1] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:39,283 [INFO]  Epoch[1] Time cost=0.004
+2024-04-08 22:08:39,284 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:39,286 [INFO]  Epoch[1] Validation-cross-entropy=10.469628
+2024-04-08 22:08:39,286 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:39,290 [INFO]  Epoch[2] Batch [0-3]	Speed: 15301.86 samples/sec	cross-entropy=1.398055	lvdd-accuracy=2.750000
+2024-04-08 22:08:39,292 [INFO]  Epoch[2] Train-cross-entropy=0.764896
+2024-04-08 22:08:39,292 [INFO]  Epoch[2] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:39,292 [INFO]  Epoch[2] Time cost=0.007
+2024-04-08 22:08:39,294 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:39,294 [INFO]  Epoch[2] Validation-cross-entropy=3.629551
+2024-04-08 22:08:39,294 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:39,299 [INFO]  Epoch[3] Batch [0-3]	Speed: 15095.34 samples/sec	cross-entropy=0.950128	lvdd-accuracy=2.750000
+2024-04-08 22:08:39,301 [INFO]  Epoch[3] Train-cross-entropy=0.596652
+2024-04-08 22:08:39,301 [INFO]  Epoch[3] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:39,301 [INFO]  Epoch[3] Time cost=0.007
+2024-04-08 22:08:39,303 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:39,303 [INFO]  Epoch[3] Validation-cross-entropy=2.297551
+2024-04-08 22:08:39,303 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:39,308 [INFO]  Epoch[4] Batch [0-3]	Speed: 15022.13 samples/sec	cross-entropy=0.619803	lvdd-accuracy=2.750000
+2024-04-08 22:08:39,310 [INFO]  Epoch[4] Train-cross-entropy=0.389405
+2024-04-08 22:08:39,310 [INFO]  Epoch[4] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:39,310 [INFO]  Epoch[4] Time cost=0.007
+2024-04-08 22:08:39,312 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:39,312 [INFO]  Epoch[4] Validation-cross-entropy=1.284950
+2024-04-08 22:08:39,312 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:39,312 [INFO]  
+========== done (0.05026698112487793 s) fit model
+2024-04-08 22:08:41,055 [INFO]  
+========== start: fit model
+2024-04-08 22:08:41,055 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:41,059 [INFO]  Epoch[0] Batch [0-3]	Speed: 28122.17 samples/sec	cross-entropy=17.390969	lvdd-accuracy=3.750000
+2024-04-08 22:08:41,060 [INFO]  Epoch[0] Train-cross-entropy=3.216898
+2024-04-08 22:08:41,060 [INFO]  Epoch[0] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:41,060 [INFO]  Epoch[0] Time cost=0.004
+2024-04-08 22:08:41,061 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:41,062 [INFO]  Epoch[0] Validation-cross-entropy=6.958838
+2024-04-08 22:08:41,062 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:41,070 [INFO]  Epoch[1] Batch [0-3]	Speed: 6907.99 samples/sec	cross-entropy=8.742649	lvdd-accuracy=3.750000
+2024-04-08 22:08:41,073 [INFO]  Epoch[1] Train-cross-entropy=1.840344
+2024-04-08 22:08:41,074 [INFO]  Epoch[1] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:41,074 [INFO]  Epoch[1] Time cost=0.012
+2024-04-08 22:08:41,078 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:41,081 [INFO]  Epoch[1] Validation-cross-entropy=4.120257
+2024-04-08 22:08:41,081 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:41,090 [INFO]  Epoch[2] Batch [0-3]	Speed: 6236.11 samples/sec	cross-entropy=4.373073	lvdd-accuracy=3.750000
+2024-04-08 22:08:41,093 [INFO]  Epoch[2] Train-cross-entropy=1.037351
+2024-04-08 22:08:41,093 [INFO]  Epoch[2] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:41,093 [INFO]  Epoch[2] Time cost=0.011
+2024-04-08 22:08:41,094 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:41,095 [INFO]  Epoch[2] Validation-cross-entropy=2.432006
+2024-04-08 22:08:41,095 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:41,099 [INFO]  Epoch[3] Batch [0-3]	Speed: 15383.71 samples/sec	cross-entropy=2.064160	lvdd-accuracy=3.750000
+2024-04-08 22:08:41,101 [INFO]  Epoch[3] Train-cross-entropy=0.614262
+2024-04-08 22:08:41,102 [INFO]  Epoch[3] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:41,102 [INFO]  Epoch[3] Time cost=0.006
+2024-04-08 22:08:41,103 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:41,104 [INFO]  Epoch[3] Validation-cross-entropy=1.103032
+2024-04-08 22:08:41,104 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:41,108 [INFO]  Epoch[4] Batch [0-3]	Speed: 14989.69 samples/sec	cross-entropy=0.955825	lvdd-accuracy=3.750000
+2024-04-08 22:08:41,110 [INFO]  Epoch[4] Train-cross-entropy=0.305477
+2024-04-08 22:08:41,111 [INFO]  Epoch[4] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:41,111 [INFO]  Epoch[4] Time cost=0.007
+2024-04-08 22:08:41,112 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:41,113 [INFO]  Epoch[4] Validation-cross-entropy=0.486242
+2024-04-08 22:08:41,113 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:41,113 [INFO]  
+========== done (0.05794358253479004 s) fit model
+2024-04-08 22:08:42,885 [INFO]  
+========== start: fit model
+2024-04-08 22:08:42,885 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:42,900 [INFO]  Epoch[0] Batch [0-3]	Speed: 17802.33 samples/sec	cross-entropy=18.672402	lvdd-accuracy=3.250000
+2024-04-08 22:08:42,902 [INFO]  Epoch[0] Train-cross-entropy=6.798446
+2024-04-08 22:08:42,902 [INFO]  Epoch[0] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:42,902 [INFO]  Epoch[0] Time cost=0.016
+2024-04-08 22:08:42,904 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:42,904 [INFO]  Epoch[0] Validation-cross-entropy=7.193861
+2024-04-08 22:08:42,904 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:42,907 [INFO]  Epoch[1] Batch [0-3]	Speed: 25336.85 samples/sec	cross-entropy=8.585335	lvdd-accuracy=3.250000
+2024-04-08 22:08:42,908 [INFO]  Epoch[1] Train-cross-entropy=2.964661
+2024-04-08 22:08:42,908 [INFO]  Epoch[1] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:42,908 [INFO]  Epoch[1] Time cost=0.004
+2024-04-08 22:08:42,910 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:42,910 [INFO]  Epoch[1] Validation-cross-entropy=2.757146
+2024-04-08 22:08:42,910 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:42,913 [INFO]  Epoch[2] Batch [0-3]	Speed: 25375.17 samples/sec	cross-entropy=4.004064	lvdd-accuracy=3.250000
+2024-04-08 22:08:42,914 [INFO]  Epoch[2] Train-cross-entropy=1.575850
+2024-04-08 22:08:42,914 [INFO]  Epoch[2] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:42,914 [INFO]  Epoch[2] Time cost=0.004
+2024-04-08 22:08:42,916 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:42,916 [INFO]  Epoch[2] Validation-cross-entropy=0.664653
+2024-04-08 22:08:42,916 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:42,919 [INFO]  Epoch[3] Batch [0-3]	Speed: 28008.71 samples/sec	cross-entropy=1.657510	lvdd-accuracy=3.250000
+2024-04-08 22:08:42,920 [INFO]  Epoch[3] Train-cross-entropy=0.693913
+2024-04-08 22:08:42,920 [INFO]  Epoch[3] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:42,920 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 22:08:42,921 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:42,922 [INFO]  Epoch[3] Validation-cross-entropy=0.359444
+2024-04-08 22:08:42,922 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:42,924 [INFO]  Epoch[4] Batch [0-3]	Speed: 25000.20 samples/sec	cross-entropy=1.070127	lvdd-accuracy=3.250000
+2024-04-08 22:08:42,926 [INFO]  Epoch[4] Train-cross-entropy=0.422943
+2024-04-08 22:08:42,926 [INFO]  Epoch[4] Train-lvdd-accuracy=3.500000
+2024-04-08 22:08:42,926 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 22:08:42,927 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:42,928 [INFO]  Epoch[4] Validation-cross-entropy=0.374941
+2024-04-08 22:08:42,928 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:42,928 [INFO]  
+========== done (0.04297780990600586 s) fit model
+2024-04-08 22:08:44,801 [INFO]  
+========== start: fit model
+2024-04-08 22:08:44,801 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:44,813 [INFO]  Epoch[0] Batch [0-3]	Speed: 12160.34 samples/sec	cross-entropy=22.436894	lvdd-accuracy=0.000000
+2024-04-08 22:08:44,814 [INFO]  Epoch[0] Train-cross-entropy=9.413603
+2024-04-08 22:08:44,814 [INFO]  Epoch[0] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:44,815 [INFO]  Epoch[0] Time cost=0.012
+2024-04-08 22:08:44,816 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:44,816 [INFO]  Epoch[0] Validation-cross-entropy=7.881934
+2024-04-08 22:08:44,816 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:44,819 [INFO]  Epoch[1] Batch [0-3]	Speed: 22471.99 samples/sec	cross-entropy=10.552322	lvdd-accuracy=0.000000
+2024-04-08 22:08:44,821 [INFO]  Epoch[1] Train-cross-entropy=3.903704
+2024-04-08 22:08:44,821 [INFO]  Epoch[1] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:44,821 [INFO]  Epoch[1] Time cost=0.005
+2024-04-08 22:08:44,822 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:44,823 [INFO]  Epoch[1] Validation-cross-entropy=3.648086
+2024-04-08 22:08:44,823 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:44,826 [INFO]  Epoch[2] Batch [0-3]	Speed: 22421.94 samples/sec	cross-entropy=5.202802	lvdd-accuracy=0.000000
+2024-04-08 22:08:44,833 [INFO]  Epoch[2] Train-cross-entropy=1.787054
+2024-04-08 22:08:44,833 [INFO]  Epoch[2] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:44,833 [INFO]  Epoch[2] Time cost=0.010
+2024-04-08 22:08:44,834 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:44,835 [INFO]  Epoch[2] Validation-cross-entropy=1.749974
+2024-04-08 22:08:44,835 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:44,838 [INFO]  Epoch[3] Batch [0-3]	Speed: 21219.08 samples/sec	cross-entropy=2.635526	lvdd-accuracy=0.000000
+2024-04-08 22:08:44,839 [INFO]  Epoch[3] Train-cross-entropy=1.678911
+2024-04-08 22:08:44,839 [INFO]  Epoch[3] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:44,839 [INFO]  Epoch[3] Time cost=0.005
+2024-04-08 22:08:44,841 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:44,841 [INFO]  Epoch[3] Validation-cross-entropy=0.919644
+2024-04-08 22:08:44,842 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:44,852 [INFO]  Epoch[4] Batch [0-3]	Speed: 11417.60 samples/sec	cross-entropy=1.380978	lvdd-accuracy=0.000000
+2024-04-08 22:08:44,853 [INFO]  Epoch[4] Train-cross-entropy=1.345771
+2024-04-08 22:08:44,853 [INFO]  Epoch[4] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:44,853 [INFO]  Epoch[4] Time cost=0.012
+2024-04-08 22:08:44,855 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:44,855 [INFO]  Epoch[4] Validation-cross-entropy=0.778604
+2024-04-08 22:08:44,855 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:44,855 [INFO]  
+========== done (0.0541837215423584 s) fit model
+2024-04-08 22:08:46,567 [INFO]  
+========== start: fit model
+2024-04-08 22:08:46,567 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:46,571 [INFO]  Epoch[0] Batch [0-3]	Speed: 21983.69 samples/sec	cross-entropy=12.366734	lvdd-accuracy=0.000000
+2024-04-08 22:08:46,573 [INFO]  Epoch[0] Train-cross-entropy=12.779012
+2024-04-08 22:08:46,573 [INFO]  Epoch[0] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:46,573 [INFO]  Epoch[0] Time cost=0.005
+2024-04-08 22:08:46,574 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:46,575 [INFO]  Epoch[0] Validation-cross-entropy=120.567390
+2024-04-08 22:08:46,575 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:46,580 [INFO]  Epoch[1] Batch [0-3]	Speed: 14528.87 samples/sec	cross-entropy=5.043831	lvdd-accuracy=0.000000
+2024-04-08 22:08:46,582 [INFO]  Epoch[1] Train-cross-entropy=6.880565
+2024-04-08 22:08:46,582 [INFO]  Epoch[1] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:46,582 [INFO]  Epoch[1] Time cost=0.007
+2024-04-08 22:08:46,583 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:46,584 [INFO]  Epoch[1] Validation-cross-entropy=63.710354
+2024-04-08 22:08:46,584 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:46,589 [INFO]  Epoch[2] Batch [0-3]	Speed: 14661.13 samples/sec	cross-entropy=2.375398	lvdd-accuracy=0.000000
+2024-04-08 22:08:46,591 [INFO]  Epoch[2] Train-cross-entropy=3.800793
+2024-04-08 22:08:46,591 [INFO]  Epoch[2] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:46,591 [INFO]  Epoch[2] Time cost=0.007
+2024-04-08 22:08:46,593 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:46,593 [INFO]  Epoch[2] Validation-cross-entropy=29.356159
+2024-04-08 22:08:46,593 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:46,598 [INFO]  Epoch[3] Batch [0-3]	Speed: 14719.01 samples/sec	cross-entropy=1.474773	lvdd-accuracy=0.000000
+2024-04-08 22:08:46,600 [INFO]  Epoch[3] Train-cross-entropy=2.038755
+2024-04-08 22:08:46,600 [INFO]  Epoch[3] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:46,600 [INFO]  Epoch[3] Time cost=0.007
+2024-04-08 22:08:46,602 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:46,602 [INFO]  Epoch[3] Validation-cross-entropy=14.742895
+2024-04-08 22:08:46,603 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:46,607 [INFO]  Epoch[4] Batch [0-3]	Speed: 14719.01 samples/sec	cross-entropy=0.935473	lvdd-accuracy=0.000000
+2024-04-08 22:08:46,609 [INFO]  Epoch[4] Train-cross-entropy=0.929933
+2024-04-08 22:08:46,609 [INFO]  Epoch[4] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:46,609 [INFO]  Epoch[4] Time cost=0.007
+2024-04-08 22:08:46,611 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:46,612 [INFO]  Epoch[4] Validation-cross-entropy=8.645959
+2024-04-08 22:08:46,612 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:46,612 [INFO]  
+========== done (0.044957637786865234 s) fit model
+2024-04-08 22:08:48,385 [INFO]  
+========== start: fit model
+2024-04-08 22:08:48,385 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:48,390 [INFO]  Epoch[0] Batch [0-3]	Speed: 15597.04 samples/sec	cross-entropy=7.283928	lvdd-accuracy=0.000000
+2024-04-08 22:08:48,392 [INFO]  Epoch[0] Train-cross-entropy=38.540503
+2024-04-08 22:08:48,392 [INFO]  Epoch[0] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:48,392 [INFO]  Epoch[0] Time cost=0.006
+2024-04-08 22:08:48,394 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:48,395 [INFO]  Epoch[0] Validation-cross-entropy=86.809052
+2024-04-08 22:08:48,395 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:48,403 [INFO]  Epoch[1] Batch [0-3]	Speed: 7767.53 samples/sec	cross-entropy=2.831343	lvdd-accuracy=0.000000
+2024-04-08 22:08:48,404 [INFO]  Epoch[1] Train-cross-entropy=19.012123
+2024-04-08 22:08:48,404 [INFO]  Epoch[1] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:48,404 [INFO]  Epoch[1] Time cost=0.010
+2024-04-08 22:08:48,406 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:48,412 [INFO]  Epoch[1] Validation-cross-entropy=54.987823
+2024-04-08 22:08:48,412 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:48,458 [INFO]  Epoch[2] Batch [0-3]	Speed: 1522.48 samples/sec	cross-entropy=2.003317	lvdd-accuracy=0.000000
+2024-04-08 22:08:48,459 [INFO]  Epoch[2] Train-cross-entropy=9.289675
+2024-04-08 22:08:48,459 [INFO]  Epoch[2] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:48,459 [INFO]  Epoch[2] Time cost=0.047
+2024-04-08 22:08:48,460 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:48,461 [INFO]  Epoch[2] Validation-cross-entropy=26.231838
+2024-04-08 22:08:48,461 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:48,463 [INFO]  Epoch[3] Batch [0-3]	Speed: 28740.41 samples/sec	cross-entropy=1.643489	lvdd-accuracy=0.000000
+2024-04-08 22:08:48,465 [INFO]  Epoch[3] Train-cross-entropy=3.720353
+2024-04-08 22:08:48,465 [INFO]  Epoch[3] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:48,465 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 22:08:48,466 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:48,466 [INFO]  Epoch[3] Validation-cross-entropy=8.725923
+2024-04-08 22:08:48,466 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:48,469 [INFO]  Epoch[4] Batch [0-3]	Speed: 28785.62 samples/sec	cross-entropy=1.188304	lvdd-accuracy=0.000000
+2024-04-08 22:08:48,470 [INFO]  Epoch[4] Train-cross-entropy=1.289238
+2024-04-08 22:08:48,470 [INFO]  Epoch[4] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:48,470 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 22:08:48,471 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:48,472 [INFO]  Epoch[4] Validation-cross-entropy=2.105624
+2024-04-08 22:08:48,472 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:48,472 [INFO]  
+========== done (0.08655047416687012 s) fit model
+2024-04-08 22:08:50,371 [INFO]  
+========== start: fit model
+2024-04-08 22:08:50,371 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:50,375 [INFO]  Epoch[0] Batch [0-3]	Speed: 28145.76 samples/sec	cross-entropy=16.342814	lvdd-accuracy=2.750000
+2024-04-08 22:08:50,376 [INFO]  Epoch[0] Train-cross-entropy=12.510512
+2024-04-08 22:08:50,376 [INFO]  Epoch[0] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:50,376 [INFO]  Epoch[0] Time cost=0.004
+2024-04-08 22:08:50,377 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:50,378 [INFO]  Epoch[0] Validation-cross-entropy=1.228553
+2024-04-08 22:08:50,378 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:50,380 [INFO]  Epoch[1] Batch [0-3]	Speed: 27169.58 samples/sec	cross-entropy=7.874557	lvdd-accuracy=2.750000
+2024-04-08 22:08:50,382 [INFO]  Epoch[1] Train-cross-entropy=5.297153
+2024-04-08 22:08:50,382 [INFO]  Epoch[1] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:50,382 [INFO]  Epoch[1] Time cost=0.004
+2024-04-08 22:08:50,383 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:50,383 [INFO]  Epoch[1] Validation-cross-entropy=1.177450
+2024-04-08 22:08:50,383 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:50,386 [INFO]  Epoch[2] Batch [0-3]	Speed: 26595.32 samples/sec	cross-entropy=3.944830	lvdd-accuracy=2.750000
+2024-04-08 22:08:50,387 [INFO]  Epoch[2] Train-cross-entropy=2.479774
+2024-04-08 22:08:50,387 [INFO]  Epoch[2] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:50,387 [INFO]  Epoch[2] Time cost=0.004
+2024-04-08 22:08:50,389 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:50,389 [INFO]  Epoch[2] Validation-cross-entropy=1.502341
+2024-04-08 22:08:50,389 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:50,477 [INFO]  Epoch[3] Batch [0-3]	Speed: 668.99 samples/sec	cross-entropy=2.021260	lvdd-accuracy=2.750000
+2024-04-08 22:08:50,479 [INFO]  Epoch[3] Train-cross-entropy=1.602891
+2024-04-08 22:08:50,479 [INFO]  Epoch[3] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:50,479 [INFO]  Epoch[3] Time cost=0.089
+2024-04-08 22:08:50,481 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:50,481 [INFO]  Epoch[3] Validation-cross-entropy=1.713376
+2024-04-08 22:08:50,481 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:50,485 [INFO]  Epoch[4] Batch [0-3]	Speed: 17441.44 samples/sec	cross-entropy=1.117529	lvdd-accuracy=2.750000
+2024-04-08 22:08:50,487 [INFO]  Epoch[4] Train-cross-entropy=1.042837
+2024-04-08 22:08:50,487 [INFO]  Epoch[4] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:50,487 [INFO]  Epoch[4] Time cost=0.006
+2024-04-08 22:08:50,489 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:50,490 [INFO]  Epoch[4] Validation-cross-entropy=1.248726
+2024-04-08 22:08:50,490 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:50,490 [INFO]  
+========== done (0.11894845962524414 s) fit model
+2024-04-08 22:08:52,182 [INFO]  
+========== start: fit model
+2024-04-08 22:08:52,182 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:52,187 [INFO]  Epoch[0] Batch [0-3]	Speed: 28403.86 samples/sec	cross-entropy=12.904739	lvdd-accuracy=3.250000
+2024-04-08 22:08:52,188 [INFO]  Epoch[0] Train-cross-entropy=5.006338
+2024-04-08 22:08:52,188 [INFO]  Epoch[0] Train-lvdd-accuracy=4.000000
+2024-04-08 22:08:52,188 [INFO]  Epoch[0] Time cost=0.006
+2024-04-08 22:08:52,190 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:52,190 [INFO]  Epoch[0] Validation-cross-entropy=17.813944
+2024-04-08 22:08:52,190 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:52,192 [INFO]  Epoch[1] Batch [0-3]	Speed: 28122.17 samples/sec	cross-entropy=5.958992	lvdd-accuracy=3.250000
+2024-04-08 22:08:52,194 [INFO]  Epoch[1] Train-cross-entropy=2.389627
+2024-04-08 22:08:52,194 [INFO]  Epoch[1] Train-lvdd-accuracy=4.000000
+2024-04-08 22:08:52,194 [INFO]  Epoch[1] Time cost=0.004
+2024-04-08 22:08:52,195 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:52,195 [INFO]  Epoch[1] Validation-cross-entropy=7.987945
+2024-04-08 22:08:52,195 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:52,198 [INFO]  Epoch[2] Batch [0-3]	Speed: 28868.17 samples/sec	cross-entropy=2.627584	lvdd-accuracy=3.250000
+2024-04-08 22:08:52,204 [INFO]  Epoch[2] Train-cross-entropy=1.165686
+2024-04-08 22:08:52,204 [INFO]  Epoch[2] Train-lvdd-accuracy=4.000000
+2024-04-08 22:08:52,204 [INFO]  Epoch[2] Time cost=0.009
+2024-04-08 22:08:52,206 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:52,209 [INFO]  Epoch[2] Validation-cross-entropy=3.372289
+2024-04-08 22:08:52,209 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:52,211 [INFO]  Epoch[3] Batch [0-3]	Speed: 28228.63 samples/sec	cross-entropy=1.252893	lvdd-accuracy=3.250000
+2024-04-08 22:08:52,213 [INFO]  Epoch[3] Train-cross-entropy=0.604194
+2024-04-08 22:08:52,213 [INFO]  Epoch[3] Train-lvdd-accuracy=4.000000
+2024-04-08 22:08:52,213 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 22:08:52,214 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:52,214 [INFO]  Epoch[3] Validation-cross-entropy=2.028923
+2024-04-08 22:08:52,214 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:52,217 [INFO]  Epoch[4] Batch [0-3]	Speed: 28304.03 samples/sec	cross-entropy=0.696211	lvdd-accuracy=3.250000
+2024-04-08 22:08:52,218 [INFO]  Epoch[4] Train-cross-entropy=0.380596
+2024-04-08 22:08:52,218 [INFO]  Epoch[4] Train-lvdd-accuracy=4.000000
+2024-04-08 22:08:52,218 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 22:08:52,219 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:52,220 [INFO]  Epoch[4] Validation-cross-entropy=1.508283
+2024-04-08 22:08:52,220 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:52,220 [INFO]  
+========== done (0.03792762756347656 s) fit model
+2024-04-08 22:08:53,887 [INFO]  
+========== start: fit model
+2024-04-08 22:08:53,887 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:53,926 [INFO]  Epoch[0] Batch [0-3]	Speed: 1454.65 samples/sec	cross-entropy=15.540811	lvdd-accuracy=2.750000
+2024-04-08 22:08:53,928 [INFO]  Epoch[0] Train-cross-entropy=12.207095
+2024-04-08 22:08:53,928 [INFO]  Epoch[0] Train-lvdd-accuracy=7.000000
+2024-04-08 22:08:53,928 [INFO]  Epoch[0] Time cost=0.040
+2024-04-08 22:08:53,930 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:53,931 [INFO]  Epoch[0] Validation-cross-entropy=5.696017
+2024-04-08 22:08:53,931 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:53,936 [INFO]  Epoch[1] Batch [0-3]	Speed: 15184.15 samples/sec	cross-entropy=5.849180	lvdd-accuracy=2.750000
+2024-04-08 22:08:53,938 [INFO]  Epoch[1] Train-cross-entropy=5.800620
+2024-04-08 22:08:53,938 [INFO]  Epoch[1] Train-lvdd-accuracy=7.000000
+2024-04-08 22:08:53,938 [INFO]  Epoch[1] Time cost=0.007
+2024-04-08 22:08:53,942 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:53,951 [INFO]  Epoch[1] Validation-cross-entropy=1.907525
+2024-04-08 22:08:53,951 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:54,010 [INFO]  Epoch[2] Batch [0-3]	Speed: 944.78 samples/sec	cross-entropy=2.609824	lvdd-accuracy=2.750000
+2024-04-08 22:08:54,011 [INFO]  Epoch[2] Train-cross-entropy=2.211510
+2024-04-08 22:08:54,012 [INFO]  Epoch[2] Train-lvdd-accuracy=7.000000
+2024-04-08 22:08:54,012 [INFO]  Epoch[2] Time cost=0.061
+2024-04-08 22:08:54,013 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:54,013 [INFO]  Epoch[2] Validation-cross-entropy=1.267051
+2024-04-08 22:08:54,013 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:54,016 [INFO]  Epoch[3] Batch [0-3]	Speed: 28556.96 samples/sec	cross-entropy=1.124873	lvdd-accuracy=2.750000
+2024-04-08 22:08:54,017 [INFO]  Epoch[3] Train-cross-entropy=1.051310
+2024-04-08 22:08:54,017 [INFO]  Epoch[3] Train-lvdd-accuracy=7.000000
+2024-04-08 22:08:54,017 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 22:08:54,018 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:54,019 [INFO]  Epoch[3] Validation-cross-entropy=0.883774
+2024-04-08 22:08:54,019 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:54,021 [INFO]  Epoch[4] Batch [0-3]	Speed: 28516.51 samples/sec	cross-entropy=0.747929	lvdd-accuracy=2.750000
+2024-04-08 22:08:54,022 [INFO]  Epoch[4] Train-cross-entropy=0.912920
+2024-04-08 22:08:54,022 [INFO]  Epoch[4] Train-lvdd-accuracy=7.000000
+2024-04-08 22:08:54,022 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 22:08:54,023 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:54,024 [INFO]  Epoch[4] Validation-cross-entropy=0.536133
+2024-04-08 22:08:54,024 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:54,024 [INFO]  
+========== done (0.1370689868927002 s) fit model
+2024-04-08 22:08:55,772 [INFO]  
+========== start: fit model
+2024-04-08 22:08:55,772 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:55,777 [INFO]  Epoch[0] Batch [0-3]	Speed: 19825.37 samples/sec	cross-entropy=18.408416	lvdd-accuracy=3.000000
+2024-04-08 22:08:55,779 [INFO]  Epoch[0] Train-cross-entropy=9.881428
+2024-04-08 22:08:55,779 [INFO]  Epoch[0] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:55,780 [INFO]  Epoch[0] Time cost=0.006
+2024-04-08 22:08:55,781 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:55,782 [INFO]  Epoch[0] Validation-cross-entropy=6.299428
+2024-04-08 22:08:55,782 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:55,786 [INFO]  Epoch[1] Batch [0-3]	Speed: 18023.87 samples/sec	cross-entropy=9.015347	lvdd-accuracy=3.000000
+2024-04-08 22:08:55,787 [INFO]  Epoch[1] Train-cross-entropy=4.319088
+2024-04-08 22:08:55,787 [INFO]  Epoch[1] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:55,787 [INFO]  Epoch[1] Time cost=0.005
+2024-04-08 22:08:55,789 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:55,789 [INFO]  Epoch[1] Validation-cross-entropy=1.980445
+2024-04-08 22:08:55,789 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:55,792 [INFO]  Epoch[2] Batch [0-3]	Speed: 22138.40 samples/sec	cross-entropy=4.088174	lvdd-accuracy=3.000000
+2024-04-08 22:08:55,794 [INFO]  Epoch[2] Train-cross-entropy=1.599504
+2024-04-08 22:08:55,794 [INFO]  Epoch[2] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:55,794 [INFO]  Epoch[2] Time cost=0.005
+2024-04-08 22:08:55,795 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:55,796 [INFO]  Epoch[2] Validation-cross-entropy=0.246606
+2024-04-08 22:08:55,796 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:55,798 [INFO]  Epoch[3] Batch [0-3]	Speed: 28387.84 samples/sec	cross-entropy=1.730088	lvdd-accuracy=3.000000
+2024-04-08 22:08:55,800 [INFO]  Epoch[3] Train-cross-entropy=0.747298
+2024-04-08 22:08:55,800 [INFO]  Epoch[3] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:55,800 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 22:08:55,801 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:55,801 [INFO]  Epoch[3] Validation-cross-entropy=0.300124
+2024-04-08 22:08:55,801 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:55,804 [INFO]  Epoch[4] Batch [0-3]	Speed: 27977.57 samples/sec	cross-entropy=0.818224	lvdd-accuracy=3.000000
+2024-04-08 22:08:55,805 [INFO]  Epoch[4] Train-cross-entropy=0.566184
+2024-04-08 22:08:55,805 [INFO]  Epoch[4] Train-lvdd-accuracy=1.500000
+2024-04-08 22:08:55,805 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 22:08:55,806 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:55,807 [INFO]  Epoch[4] Validation-cross-entropy=0.450184
+2024-04-08 22:08:55,807 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:55,807 [INFO]  
+========== done (0.03477025032043457 s) fit model
+2024-04-08 22:08:57,084 [INFO]  
+========== start: fit model
+2024-04-08 22:08:57,084 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:57,089 [INFO]  Epoch[0] Batch [0-3]	Speed: 20701.96 samples/sec	cross-entropy=30.767074	lvdd-accuracy=0.000000
+2024-04-08 22:08:57,090 [INFO]  Epoch[0] Train-cross-entropy=7.688647
+2024-04-08 22:08:57,090 [INFO]  Epoch[0] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:57,091 [INFO]  Epoch[0] Time cost=0.005
+2024-04-08 22:08:57,092 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:57,092 [INFO]  Epoch[0] Validation-cross-entropy=11.631212
+2024-04-08 22:08:57,092 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:57,095 [INFO]  Epoch[1] Batch [0-3]	Speed: 24627.11 samples/sec	cross-entropy=17.217558	lvdd-accuracy=0.000000
+2024-04-08 22:08:57,097 [INFO]  Epoch[1] Train-cross-entropy=4.896297
+2024-04-08 22:08:57,097 [INFO]  Epoch[1] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:57,097 [INFO]  Epoch[1] Time cost=0.004
+2024-04-08 22:08:57,098 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:57,098 [INFO]  Epoch[1] Validation-cross-entropy=7.832854
+2024-04-08 22:08:57,098 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:57,101 [INFO]  Epoch[2] Batch [0-3]	Speed: 22859.84 samples/sec	cross-entropy=9.543316	lvdd-accuracy=0.000000
+2024-04-08 22:08:57,105 [INFO]  Epoch[2] Train-cross-entropy=3.361037
+2024-04-08 22:08:57,105 [INFO]  Epoch[2] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:57,105 [INFO]  Epoch[2] Time cost=0.007
+2024-04-08 22:08:57,107 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:57,107 [INFO]  Epoch[2] Validation-cross-entropy=5.345812
+2024-04-08 22:08:57,107 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:57,110 [INFO]  Epoch[3] Batch [0-3]	Speed: 28488.27 samples/sec	cross-entropy=5.052411	lvdd-accuracy=0.000000
+2024-04-08 22:08:57,111 [INFO]  Epoch[3] Train-cross-entropy=2.750406
+2024-04-08 22:08:57,111 [INFO]  Epoch[3] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:57,111 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 22:08:57,112 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:57,112 [INFO]  Epoch[3] Validation-cross-entropy=3.672128
+2024-04-08 22:08:57,113 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:57,115 [INFO]  Epoch[4] Batch [0-3]	Speed: 28427.93 samples/sec	cross-entropy=2.677303	lvdd-accuracy=0.000000
+2024-04-08 22:08:57,116 [INFO]  Epoch[4] Train-cross-entropy=2.303342
+2024-04-08 22:08:57,116 [INFO]  Epoch[4] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:57,116 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 22:08:57,117 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:57,118 [INFO]  Epoch[4] Validation-cross-entropy=2.398972
+2024-04-08 22:08:57,118 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:57,118 [INFO]  
+========== done (0.03376960754394531 s) fit model
+2024-04-08 22:08:58,359 [INFO]  
+========== start: fit model
+2024-04-08 22:08:58,359 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:58,368 [INFO]  Epoch[0] Batch [0-3]	Speed: 7557.59 samples/sec	cross-entropy=15.480375	lvdd-accuracy=0.000000
+2024-04-08 22:08:58,369 [INFO]  Epoch[0] Train-cross-entropy=12.416444
+2024-04-08 22:08:58,369 [INFO]  Epoch[0] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:58,369 [INFO]  Epoch[0] Time cost=0.009
+2024-04-08 22:08:58,371 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:58,371 [INFO]  Epoch[0] Validation-cross-entropy=15.998809
+2024-04-08 22:08:58,371 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:58,374 [INFO]  Epoch[1] Batch [0-3]	Speed: 23927.57 samples/sec	cross-entropy=6.629765	lvdd-accuracy=0.000000
+2024-04-08 22:08:58,375 [INFO]  Epoch[1] Train-cross-entropy=4.698295
+2024-04-08 22:08:58,376 [INFO]  Epoch[1] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:58,376 [INFO]  Epoch[1] Time cost=0.004
+2024-04-08 22:08:58,377 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:58,377 [INFO]  Epoch[1] Validation-cross-entropy=8.068802
+2024-04-08 22:08:58,378 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:58,380 [INFO]  Epoch[2] Batch [0-3]	Speed: 24651.23 samples/sec	cross-entropy=3.975610	lvdd-accuracy=0.000000
+2024-04-08 22:08:58,382 [INFO]  Epoch[2] Train-cross-entropy=1.863637
+2024-04-08 22:08:58,382 [INFO]  Epoch[2] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:58,382 [INFO]  Epoch[2] Time cost=0.004
+2024-04-08 22:08:58,383 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:58,383 [INFO]  Epoch[2] Validation-cross-entropy=4.570452
+2024-04-08 22:08:58,383 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:58,386 [INFO]  Epoch[3] Batch [0-3]	Speed: 28699.44 samples/sec	cross-entropy=2.425403	lvdd-accuracy=0.000000
+2024-04-08 22:08:58,387 [INFO]  Epoch[3] Train-cross-entropy=0.914411
+2024-04-08 22:08:58,387 [INFO]  Epoch[3] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:58,387 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 22:08:58,388 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:58,389 [INFO]  Epoch[3] Validation-cross-entropy=2.543488
+2024-04-08 22:08:58,389 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:58,391 [INFO]  Epoch[4] Batch [0-3]	Speed: 28256.36 samples/sec	cross-entropy=1.421997	lvdd-accuracy=0.000000
+2024-04-08 22:08:58,392 [INFO]  Epoch[4] Train-cross-entropy=0.590931
+2024-04-08 22:08:58,392 [INFO]  Epoch[4] Train-lvdd-accuracy=0.000000
+2024-04-08 22:08:58,392 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 22:08:58,394 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:58,394 [INFO]  Epoch[4] Validation-cross-entropy=1.523908
+2024-04-08 22:08:58,394 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:58,394 [INFO]  
+========== done (0.035214900970458984 s) fit model
+2024-04-08 22:08:59,570 [INFO]  
+========== start: fit model
+2024-04-08 22:08:59,570 [WARNING]  Already bound, ignoring bind()
+2024-04-08 22:08:59,574 [INFO]  Epoch[0] Batch [0-3]	Speed: 28126.10 samples/sec	cross-entropy=18.464001	lvdd-accuracy=3.750000
+2024-04-08 22:08:59,575 [INFO]  Epoch[0] Train-cross-entropy=20.717014
+2024-04-08 22:08:59,576 [INFO]  Epoch[0] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:59,576 [INFO]  Epoch[0] Time cost=0.004
+2024-04-08 22:08:59,577 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0000.params"
+2024-04-08 22:08:59,577 [INFO]  Epoch[0] Validation-cross-entropy=10.470160
+2024-04-08 22:08:59,577 [INFO]  Epoch[0] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:59,580 [INFO]  Epoch[1] Batch [0-3]	Speed: 26933.32 samples/sec	cross-entropy=8.550900	lvdd-accuracy=3.750000
+2024-04-08 22:08:59,581 [INFO]  Epoch[1] Train-cross-entropy=11.548643
+2024-04-08 22:08:59,581 [INFO]  Epoch[1] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:59,581 [INFO]  Epoch[1] Time cost=0.004
+2024-04-08 22:08:59,582 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0001.params"
+2024-04-08 22:08:59,583 [INFO]  Epoch[1] Validation-cross-entropy=10.286211
+2024-04-08 22:08:59,583 [INFO]  Epoch[1] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:59,585 [INFO]  Epoch[2] Batch [0-3]	Speed: 28008.71 samples/sec	cross-entropy=4.067358	lvdd-accuracy=3.750000
+2024-04-08 22:08:59,587 [INFO]  Epoch[2] Train-cross-entropy=6.128269
+2024-04-08 22:08:59,587 [INFO]  Epoch[2] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:59,587 [INFO]  Epoch[2] Time cost=0.004
+2024-04-08 22:08:59,590 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0002.params"
+2024-04-08 22:08:59,590 [INFO]  Epoch[2] Validation-cross-entropy=9.503839
+2024-04-08 22:08:59,590 [INFO]  Epoch[2] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:59,593 [INFO]  Epoch[3] Batch [0-3]	Speed: 22823.56 samples/sec	cross-entropy=2.221431	lvdd-accuracy=3.750000
+2024-04-08 22:08:59,595 [INFO]  Epoch[3] Train-cross-entropy=2.950278
+2024-04-08 22:08:59,595 [INFO]  Epoch[3] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:59,595 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 22:08:59,596 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0003.params"
+2024-04-08 22:08:59,596 [INFO]  Epoch[3] Validation-cross-entropy=7.730700
+2024-04-08 22:08:59,596 [INFO]  Epoch[3] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:59,599 [INFO]  Epoch[4] Batch [0-3]	Speed: 23696.63 samples/sec	cross-entropy=1.584189	lvdd-accuracy=3.750000
+2024-04-08 22:08:59,601 [INFO]  Epoch[4] Train-cross-entropy=1.304732
+2024-04-08 22:08:59,601 [INFO]  Epoch[4] Train-lvdd-accuracy=2.000000
+2024-04-08 22:08:59,601 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 22:08:59,602 [INFO]  Saved checkpoint to "./imputer_model/29_echocardiogram/imputer_model_lvdd/model-0004.params"
+2024-04-08 22:08:59,602 [INFO]  Epoch[4] Validation-cross-entropy=6.152174
+2024-04-08 22:08:59,602 [INFO]  Epoch[4] Validation-lvdd-accuracy=0.000000
+2024-04-08 22:08:59,603 [INFO]  
+========== done (0.03217744827270508 s) fit model

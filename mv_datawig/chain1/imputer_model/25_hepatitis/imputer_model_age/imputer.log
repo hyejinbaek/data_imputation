@@ -1,0 +1,1200 @@
+2024-04-08 00:14:56,340 [INFO]  
+========== start: fit model
+2024-04-08 00:14:56,340 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:14:56,405 [INFO]  Epoch[0] Batch [0-4]	Speed: 13889.86 samples/sec	cross-entropy=18.882300	age-accuracy=3.800000
+2024-04-08 00:14:56,407 [INFO]  Epoch[0] Train-cross-entropy=9.287980
+2024-04-08 00:14:56,407 [INFO]  Epoch[0] Train-age-accuracy=4.500000
+2024-04-08 00:14:56,407 [INFO]  Epoch[0] Time cost=0.065
+2024-04-08 00:14:56,408 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:14:56,409 [INFO]  Epoch[0] Validation-cross-entropy=0.925065
+2024-04-08 00:14:56,409 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:14:56,414 [INFO]  Epoch[1] Batch [0-4]	Speed: 19704.58 samples/sec	cross-entropy=0.593380	age-accuracy=3.800000
+2024-04-08 00:14:56,415 [INFO]  Epoch[1] Train-cross-entropy=1.169543
+2024-04-08 00:14:56,415 [INFO]  Epoch[1] Train-age-accuracy=4.500000
+2024-04-08 00:14:56,415 [INFO]  Epoch[1] Time cost=0.006
+2024-04-08 00:14:56,417 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:14:56,417 [INFO]  Epoch[1] Validation-cross-entropy=1.993055
+2024-04-08 00:14:56,417 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:14:56,421 [INFO]  Epoch[2] Batch [0-4]	Speed: 26908.13 samples/sec	cross-entropy=2.463742	age-accuracy=3.800000
+2024-04-08 00:14:56,422 [INFO]  Epoch[2] Train-cross-entropy=3.311311
+2024-04-08 00:14:56,422 [INFO]  Epoch[2] Train-age-accuracy=4.500000
+2024-04-08 00:14:56,422 [INFO]  Epoch[2] Time cost=0.004
+2024-04-08 00:14:56,423 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:14:56,425 [INFO]  Epoch[2] Validation-cross-entropy=1.447611
+2024-04-08 00:14:56,425 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:14:56,428 [INFO]  Epoch[3] Batch [0-4]	Speed: 27255.10 samples/sec	cross-entropy=0.932838	age-accuracy=3.800000
+2024-04-08 00:14:56,429 [INFO]  Epoch[3] Train-cross-entropy=0.233440
+2024-04-08 00:14:56,429 [INFO]  Epoch[3] Train-age-accuracy=4.500000
+2024-04-08 00:14:56,429 [INFO]  Epoch[3] Time cost=0.005
+2024-04-08 00:14:56,431 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:14:56,431 [INFO]  Epoch[3] Validation-cross-entropy=0.060559
+2024-04-08 00:14:56,431 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:14:56,434 [INFO]  Epoch[4] Batch [0-4]	Speed: 28295.08 samples/sec	cross-entropy=0.172132	age-accuracy=3.800000
+2024-04-08 00:14:56,436 [INFO]  Epoch[4] Train-cross-entropy=0.544654
+2024-04-08 00:14:56,436 [INFO]  Epoch[4] Train-age-accuracy=4.500000
+2024-04-08 00:14:56,436 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 00:14:56,437 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:14:56,438 [INFO]  Epoch[4] Validation-cross-entropy=0.278993
+2024-04-08 00:14:56,438 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:14:56,438 [INFO]  
+========== done (0.09748244285583496 s) fit model
+2024-04-08 00:14:59,016 [INFO]  
+========== start: fit model
+2024-04-08 00:14:59,016 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:14:59,022 [INFO]  Epoch[0] Batch [0-4]	Speed: 20979.72 samples/sec	cross-entropy=7.659889	age-accuracy=3.200000
+2024-04-08 00:14:59,023 [INFO]  Epoch[0] Train-cross-entropy=1.902247
+2024-04-08 00:14:59,023 [INFO]  Epoch[0] Train-age-accuracy=3.000000
+2024-04-08 00:14:59,023 [INFO]  Epoch[0] Time cost=0.006
+2024-04-08 00:14:59,025 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:14:59,026 [INFO]  Epoch[0] Validation-cross-entropy=1.225845
+2024-04-08 00:14:59,026 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:14:59,029 [INFO]  Epoch[1] Batch [0-4]	Speed: 21781.52 samples/sec	cross-entropy=0.379485	age-accuracy=3.200000
+2024-04-08 00:14:59,031 [INFO]  Epoch[1] Train-cross-entropy=0.506227
+2024-04-08 00:14:59,031 [INFO]  Epoch[1] Train-age-accuracy=3.000000
+2024-04-08 00:14:59,031 [INFO]  Epoch[1] Time cost=0.005
+2024-04-08 00:14:59,032 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:14:59,033 [INFO]  Epoch[1] Validation-cross-entropy=0.779077
+2024-04-08 00:14:59,033 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:14:59,036 [INFO]  Epoch[2] Batch [0-4]	Speed: 26728.61 samples/sec	cross-entropy=0.938048	age-accuracy=3.200000
+2024-04-08 00:14:59,037 [INFO]  Epoch[2] Train-cross-entropy=0.691501
+2024-04-08 00:14:59,037 [INFO]  Epoch[2] Train-age-accuracy=3.000000
+2024-04-08 00:14:59,037 [INFO]  Epoch[2] Time cost=0.004
+2024-04-08 00:14:59,039 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:14:59,039 [INFO]  Epoch[2] Validation-cross-entropy=0.813213
+2024-04-08 00:14:59,039 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:14:59,042 [INFO]  Epoch[3] Batch [0-4]	Speed: 27883.60 samples/sec	cross-entropy=0.476306	age-accuracy=3.200000
+2024-04-08 00:14:59,043 [INFO]  Epoch[3] Train-cross-entropy=0.105799
+2024-04-08 00:14:59,043 [INFO]  Epoch[3] Train-age-accuracy=3.000000
+2024-04-08 00:14:59,043 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 00:14:59,045 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:14:59,045 [INFO]  Epoch[3] Validation-cross-entropy=0.030272
+2024-04-08 00:14:59,045 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:14:59,049 [INFO]  Epoch[4] Batch [0-4]	Speed: 23421.64 samples/sec	cross-entropy=0.079862	age-accuracy=3.200000
+2024-04-08 00:14:59,050 [INFO]  Epoch[4] Train-cross-entropy=0.069522
+2024-04-08 00:14:59,050 [INFO]  Epoch[4] Train-age-accuracy=3.000000
+2024-04-08 00:14:59,050 [INFO]  Epoch[4] Time cost=0.005
+2024-04-08 00:14:59,052 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:14:59,052 [INFO]  Epoch[4] Validation-cross-entropy=0.234895
+2024-04-08 00:14:59,052 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:14:59,052 [INFO]  
+========== done (0.03600597381591797 s) fit model
+2024-04-08 00:15:01,693 [INFO]  
+========== start: fit model
+2024-04-08 00:15:01,693 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:01,699 [INFO]  Epoch[0] Batch [0-4]	Speed: 21528.23 samples/sec	cross-entropy=26.457679	age-accuracy=3.400000
+2024-04-08 00:15:01,700 [INFO]  Epoch[0] Train-cross-entropy=7.973917
+2024-04-08 00:15:01,700 [INFO]  Epoch[0] Train-age-accuracy=3.000000
+2024-04-08 00:15:01,700 [INFO]  Epoch[0] Time cost=0.006
+2024-04-08 00:15:01,702 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:01,702 [INFO]  Epoch[0] Validation-cross-entropy=1.277417
+2024-04-08 00:15:01,702 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:01,706 [INFO]  Epoch[1] Batch [0-4]	Speed: 21815.15 samples/sec	cross-entropy=1.372645	age-accuracy=3.400000
+2024-04-08 00:15:01,707 [INFO]  Epoch[1] Train-cross-entropy=0.665298
+2024-04-08 00:15:01,708 [INFO]  Epoch[1] Train-age-accuracy=3.000000
+2024-04-08 00:15:01,708 [INFO]  Epoch[1] Time cost=0.005
+2024-04-08 00:15:01,709 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:01,709 [INFO]  Epoch[1] Validation-cross-entropy=0.485075
+2024-04-08 00:15:01,709 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:01,712 [INFO]  Epoch[2] Batch [0-4]	Speed: 26994.72 samples/sec	cross-entropy=2.585229	age-accuracy=3.400000
+2024-04-08 00:15:01,714 [INFO]  Epoch[2] Train-cross-entropy=2.593780
+2024-04-08 00:15:01,714 [INFO]  Epoch[2] Train-age-accuracy=3.000000
+2024-04-08 00:15:01,714 [INFO]  Epoch[2] Time cost=0.004
+2024-04-08 00:15:01,715 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:01,716 [INFO]  Epoch[2] Validation-cross-entropy=0.986400
+2024-04-08 00:15:01,716 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:01,719 [INFO]  Epoch[3] Batch [0-4]	Speed: 27517.73 samples/sec	cross-entropy=1.722765	age-accuracy=3.400000
+2024-04-08 00:15:01,720 [INFO]  Epoch[3] Train-cross-entropy=0.790139
+2024-04-08 00:15:01,720 [INFO]  Epoch[3] Train-age-accuracy=3.000000
+2024-04-08 00:15:01,720 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 00:15:01,721 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:01,722 [INFO]  Epoch[3] Validation-cross-entropy=0.235541
+2024-04-08 00:15:01,722 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:01,724 [INFO]  Epoch[4] Batch [0-4]	Speed: 28799.00 samples/sec	cross-entropy=0.263501	age-accuracy=3.400000
+2024-04-08 00:15:01,726 [INFO]  Epoch[4] Train-cross-entropy=0.151052
+2024-04-08 00:15:01,726 [INFO]  Epoch[4] Train-age-accuracy=3.000000
+2024-04-08 00:15:01,726 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 00:15:01,727 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:01,727 [INFO]  Epoch[4] Validation-cross-entropy=0.049715
+2024-04-08 00:15:01,727 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:01,727 [INFO]  
+========== done (0.0342864990234375 s) fit model
+2024-04-08 00:15:04,305 [INFO]  
+========== start: fit model
+2024-04-08 00:15:04,305 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:04,312 [INFO]  Epoch[0] Batch [0-4]	Speed: 12679.99 samples/sec	cross-entropy=27.902355	age-accuracy=0.000000
+2024-04-08 00:15:04,316 [INFO]  Epoch[0] Train-cross-entropy=19.290708
+2024-04-08 00:15:04,316 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:15:04,317 [INFO]  Epoch[0] Time cost=0.011
+2024-04-08 00:15:04,320 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:04,321 [INFO]  Epoch[0] Validation-cross-entropy=4.740262
+2024-04-08 00:15:04,322 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:04,329 [INFO]  Epoch[1] Batch [0-4]	Speed: 11220.34 samples/sec	cross-entropy=2.642940	age-accuracy=0.000000
+2024-04-08 00:15:04,331 [INFO]  Epoch[1] Train-cross-entropy=0.550545
+2024-04-08 00:15:04,331 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:15:04,331 [INFO]  Epoch[1] Time cost=0.010
+2024-04-08 00:15:04,333 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:04,334 [INFO]  Epoch[1] Validation-cross-entropy=0.772051
+2024-04-08 00:15:04,334 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:04,339 [INFO]  Epoch[2] Batch [0-4]	Speed: 17819.67 samples/sec	cross-entropy=1.290677	age-accuracy=0.000000
+2024-04-08 00:15:04,340 [INFO]  Epoch[2] Train-cross-entropy=3.637321
+2024-04-08 00:15:04,341 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:15:04,341 [INFO]  Epoch[2] Time cost=0.007
+2024-04-08 00:15:04,342 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:04,343 [INFO]  Epoch[2] Validation-cross-entropy=2.507365
+2024-04-08 00:15:04,343 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:04,346 [INFO]  Epoch[3] Batch [0-4]	Speed: 21918.47 samples/sec	cross-entropy=2.246567	age-accuracy=0.000000
+2024-04-08 00:15:04,348 [INFO]  Epoch[3] Train-cross-entropy=1.683018
+2024-04-08 00:15:04,348 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:15:04,348 [INFO]  Epoch[3] Time cost=0.005
+2024-04-08 00:15:04,349 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:04,350 [INFO]  Epoch[3] Validation-cross-entropy=0.792263
+2024-04-08 00:15:04,350 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:04,354 [INFO]  Epoch[4] Batch [0-4]	Speed: 22199.43 samples/sec	cross-entropy=0.360692	age-accuracy=0.000000
+2024-04-08 00:15:04,355 [INFO]  Epoch[4] Train-cross-entropy=0.182911
+2024-04-08 00:15:04,355 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:15:04,355 [INFO]  Epoch[4] Time cost=0.005
+2024-04-08 00:15:04,357 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:04,357 [INFO]  Epoch[4] Validation-cross-entropy=0.113617
+2024-04-08 00:15:04,357 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:04,357 [INFO]  
+========== done (0.05254340171813965 s) fit model
+2024-04-08 00:15:06,835 [INFO]  
+========== start: fit model
+2024-04-08 00:15:06,836 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:06,841 [INFO]  Epoch[0] Batch [0-4]	Speed: 20899.68 samples/sec	cross-entropy=23.735989	age-accuracy=4.000000
+2024-04-08 00:15:06,843 [INFO]  Epoch[0] Train-cross-entropy=3.717661
+2024-04-08 00:15:06,843 [INFO]  Epoch[0] Train-age-accuracy=5.000000
+2024-04-08 00:15:06,843 [INFO]  Epoch[0] Time cost=0.006
+2024-04-08 00:15:06,844 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:06,845 [INFO]  Epoch[0] Validation-cross-entropy=1.970037
+2024-04-08 00:15:06,845 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:06,848 [INFO]  Epoch[1] Batch [0-4]	Speed: 21655.01 samples/sec	cross-entropy=2.129145	age-accuracy=4.000000
+2024-04-08 00:15:06,850 [INFO]  Epoch[1] Train-cross-entropy=1.236919
+2024-04-08 00:15:06,850 [INFO]  Epoch[1] Train-age-accuracy=5.000000
+2024-04-08 00:15:06,850 [INFO]  Epoch[1] Time cost=0.005
+2024-04-08 00:15:06,851 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:06,852 [INFO]  Epoch[1] Validation-cross-entropy=3.308598
+2024-04-08 00:15:06,852 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:06,855 [INFO]  Epoch[2] Batch [0-4]	Speed: 25307.39 samples/sec	cross-entropy=1.576016	age-accuracy=4.000000
+2024-04-08 00:15:06,856 [INFO]  Epoch[2] Train-cross-entropy=1.424390
+2024-04-08 00:15:06,857 [INFO]  Epoch[2] Train-age-accuracy=5.000000
+2024-04-08 00:15:06,857 [INFO]  Epoch[2] Time cost=0.005
+2024-04-08 00:15:06,858 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:06,858 [INFO]  Epoch[2] Validation-cross-entropy=1.477731
+2024-04-08 00:15:06,858 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:06,861 [INFO]  Epoch[3] Batch [0-4]	Speed: 27817.15 samples/sec	cross-entropy=1.351703	age-accuracy=4.000000
+2024-04-08 00:15:06,863 [INFO]  Epoch[3] Train-cross-entropy=0.725053
+2024-04-08 00:15:06,863 [INFO]  Epoch[3] Train-age-accuracy=5.000000
+2024-04-08 00:15:06,863 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 00:15:06,864 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:06,864 [INFO]  Epoch[3] Validation-cross-entropy=0.811508
+2024-04-08 00:15:06,864 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:06,867 [INFO]  Epoch[4] Batch [0-4]	Speed: 27753.87 samples/sec	cross-entropy=0.465721	age-accuracy=4.000000
+2024-04-08 00:15:06,869 [INFO]  Epoch[4] Train-cross-entropy=0.188163
+2024-04-08 00:15:06,869 [INFO]  Epoch[4] Train-age-accuracy=5.000000
+2024-04-08 00:15:06,869 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 00:15:06,870 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:06,870 [INFO]  Epoch[4] Validation-cross-entropy=0.243966
+2024-04-08 00:15:06,870 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:06,870 [INFO]  
+========== done (0.03505873680114746 s) fit model
+2024-04-08 00:15:09,540 [INFO]  
+========== start: fit model
+2024-04-08 00:15:09,540 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:09,544 [INFO]  Epoch[0] Batch [0-4]	Speed: 27814.26 samples/sec	cross-entropy=6.191887	age-accuracy=4.400000
+2024-04-08 00:15:09,545 [INFO]  Epoch[0] Train-cross-entropy=0.083632
+2024-04-08 00:15:09,546 [INFO]  Epoch[0] Train-age-accuracy=3.000000
+2024-04-08 00:15:09,546 [INFO]  Epoch[0] Time cost=0.005
+2024-04-08 00:15:09,547 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:09,547 [INFO]  Epoch[0] Validation-cross-entropy=0.595043
+2024-04-08 00:15:09,548 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:09,551 [INFO]  Epoch[1] Batch [0-4]	Speed: 28630.06 samples/sec	cross-entropy=1.047372	age-accuracy=4.400000
+2024-04-08 00:15:09,552 [INFO]  Epoch[1] Train-cross-entropy=1.462642
+2024-04-08 00:15:09,552 [INFO]  Epoch[1] Train-age-accuracy=3.000000
+2024-04-08 00:15:09,552 [INFO]  Epoch[1] Time cost=0.005
+2024-04-08 00:15:09,553 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:09,554 [INFO]  Epoch[1] Validation-cross-entropy=2.549967
+2024-04-08 00:15:09,554 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:09,557 [INFO]  Epoch[2] Batch [0-4]	Speed: 26956.76 samples/sec	cross-entropy=0.755583	age-accuracy=4.400000
+2024-04-08 00:15:09,558 [INFO]  Epoch[2] Train-cross-entropy=0.032141
+2024-04-08 00:15:09,558 [INFO]  Epoch[2] Train-age-accuracy=3.000000
+2024-04-08 00:15:09,558 [INFO]  Epoch[2] Time cost=0.004
+2024-04-08 00:15:09,560 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:09,560 [INFO]  Epoch[2] Validation-cross-entropy=0.112251
+2024-04-08 00:15:09,560 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:09,563 [INFO]  Epoch[3] Batch [0-4]	Speed: 28888.88 samples/sec	cross-entropy=0.221228	age-accuracy=4.400000
+2024-04-08 00:15:09,564 [INFO]  Epoch[3] Train-cross-entropy=0.306477
+2024-04-08 00:15:09,564 [INFO]  Epoch[3] Train-age-accuracy=3.000000
+2024-04-08 00:15:09,564 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 00:15:09,566 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:09,566 [INFO]  Epoch[3] Validation-cross-entropy=0.720571
+2024-04-08 00:15:09,566 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:09,569 [INFO]  Epoch[4] Batch [0-4]	Speed: 28569.12 samples/sec	cross-entropy=0.218986	age-accuracy=4.400000
+2024-04-08 00:15:09,570 [INFO]  Epoch[4] Train-cross-entropy=0.011167
+2024-04-08 00:15:09,570 [INFO]  Epoch[4] Train-age-accuracy=3.000000
+2024-04-08 00:15:09,570 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 00:15:09,572 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:09,572 [INFO]  Epoch[4] Validation-cross-entropy=0.025737
+2024-04-08 00:15:09,572 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:09,572 [INFO]  
+========== done (0.032639503479003906 s) fit model
+2024-04-08 00:15:12,296 [INFO]  
+========== start: fit model
+2024-04-08 00:15:12,296 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:12,302 [INFO]  Epoch[0] Batch [0-4]	Speed: 19004.28 samples/sec	cross-entropy=6.853643	age-accuracy=3.200000
+2024-04-08 00:15:12,304 [INFO]  Epoch[0] Train-cross-entropy=0.819111
+2024-04-08 00:15:12,304 [INFO]  Epoch[0] Train-age-accuracy=3.500000
+2024-04-08 00:15:12,304 [INFO]  Epoch[0] Time cost=0.007
+2024-04-08 00:15:12,306 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:12,306 [INFO]  Epoch[0] Validation-cross-entropy=0.046701
+2024-04-08 00:15:12,307 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:12,311 [INFO]  Epoch[1] Batch [0-4]	Speed: 18175.60 samples/sec	cross-entropy=0.942817	age-accuracy=3.200000
+2024-04-08 00:15:12,313 [INFO]  Epoch[1] Train-cross-entropy=2.147237
+2024-04-08 00:15:12,313 [INFO]  Epoch[1] Train-age-accuracy=3.500000
+2024-04-08 00:15:12,313 [INFO]  Epoch[1] Time cost=0.006
+2024-04-08 00:15:12,314 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:12,315 [INFO]  Epoch[1] Validation-cross-entropy=4.539390
+2024-04-08 00:15:12,315 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:12,319 [INFO]  Epoch[2] Batch [0-4]	Speed: 21932.79 samples/sec	cross-entropy=1.007448	age-accuracy=3.200000
+2024-04-08 00:15:12,320 [INFO]  Epoch[2] Train-cross-entropy=0.279738
+2024-04-08 00:15:12,321 [INFO]  Epoch[2] Train-age-accuracy=3.500000
+2024-04-08 00:15:12,321 [INFO]  Epoch[2] Time cost=0.005
+2024-04-08 00:15:12,322 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:12,323 [INFO]  Epoch[2] Validation-cross-entropy=0.053688
+2024-04-08 00:15:12,323 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:12,326 [INFO]  Epoch[3] Batch [0-4]	Speed: 22033.61 samples/sec	cross-entropy=0.187206	age-accuracy=3.200000
+2024-04-08 00:15:12,328 [INFO]  Epoch[3] Train-cross-entropy=0.418403
+2024-04-08 00:15:12,328 [INFO]  Epoch[3] Train-age-accuracy=3.500000
+2024-04-08 00:15:12,328 [INFO]  Epoch[3] Time cost=0.005
+2024-04-08 00:15:12,330 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:12,330 [INFO]  Epoch[3] Validation-cross-entropy=1.341294
+2024-04-08 00:15:12,330 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:12,336 [INFO]  Epoch[4] Batch [0-4]	Speed: 11845.18 samples/sec	cross-entropy=0.251658	age-accuracy=3.200000
+2024-04-08 00:15:12,338 [INFO]  Epoch[4] Train-cross-entropy=0.135911
+2024-04-08 00:15:12,338 [INFO]  Epoch[4] Train-age-accuracy=3.500000
+2024-04-08 00:15:12,338 [INFO]  Epoch[4] Time cost=0.008
+2024-04-08 00:15:12,340 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:12,340 [INFO]  Epoch[4] Validation-cross-entropy=0.018613
+2024-04-08 00:15:12,340 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:12,340 [INFO]  
+========== done (0.044104576110839844 s) fit model
+2024-04-08 00:15:14,888 [INFO]  
+========== start: fit model
+2024-04-08 00:15:14,889 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:14,894 [INFO]  Epoch[0] Batch [0-4]	Speed: 19881.16 samples/sec	cross-entropy=10.015945	age-accuracy=4.000000
+2024-04-08 00:15:14,896 [INFO]  Epoch[0] Train-cross-entropy=2.460826
+2024-04-08 00:15:14,896 [INFO]  Epoch[0] Train-age-accuracy=2.000000
+2024-04-08 00:15:14,896 [INFO]  Epoch[0] Time cost=0.006
+2024-04-08 00:15:14,897 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:14,898 [INFO]  Epoch[0] Validation-cross-entropy=1.035066
+2024-04-08 00:15:14,898 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:14,902 [INFO]  Epoch[1] Batch [0-4]	Speed: 20292.97 samples/sec	cross-entropy=0.889199	age-accuracy=4.000000
+2024-04-08 00:15:14,908 [INFO]  Epoch[1] Train-cross-entropy=1.164391
+2024-04-08 00:15:14,908 [INFO]  Epoch[1] Train-age-accuracy=2.000000
+2024-04-08 00:15:14,908 [INFO]  Epoch[1] Time cost=0.010
+2024-04-08 00:15:14,910 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:14,911 [INFO]  Epoch[1] Validation-cross-entropy=1.255310
+2024-04-08 00:15:14,911 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:14,923 [INFO]  Epoch[2] Batch [0-4]	Speed: 21306.09 samples/sec	cross-entropy=0.947858	age-accuracy=4.000000
+2024-04-08 00:15:14,925 [INFO]  Epoch[2] Train-cross-entropy=1.133582
+2024-04-08 00:15:14,925 [INFO]  Epoch[2] Train-age-accuracy=2.000000
+2024-04-08 00:15:14,925 [INFO]  Epoch[2] Time cost=0.014
+2024-04-08 00:15:14,927 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:14,927 [INFO]  Epoch[2] Validation-cross-entropy=1.325319
+2024-04-08 00:15:14,927 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:14,931 [INFO]  Epoch[3] Batch [0-4]	Speed: 21972.29 samples/sec	cross-entropy=0.637438	age-accuracy=4.000000
+2024-04-08 00:15:14,933 [INFO]  Epoch[3] Train-cross-entropy=0.185356
+2024-04-08 00:15:14,933 [INFO]  Epoch[3] Train-age-accuracy=2.000000
+2024-04-08 00:15:14,933 [INFO]  Epoch[3] Time cost=0.005
+2024-04-08 00:15:14,934 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:14,941 [INFO]  Epoch[3] Validation-cross-entropy=0.049326
+2024-04-08 00:15:14,941 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:14,945 [INFO]  Epoch[4] Batch [0-4]	Speed: 22133.53 samples/sec	cross-entropy=0.061255	age-accuracy=4.000000
+2024-04-08 00:15:14,946 [INFO]  Epoch[4] Train-cross-entropy=0.228619
+2024-04-08 00:15:14,946 [INFO]  Epoch[4] Train-age-accuracy=2.000000
+2024-04-08 00:15:14,946 [INFO]  Epoch[4] Time cost=0.005
+2024-04-08 00:15:14,948 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:14,949 [INFO]  Epoch[4] Validation-cross-entropy=0.178750
+2024-04-08 00:15:14,949 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:14,949 [INFO]  
+========== done (0.06034231185913086 s) fit model
+2024-04-08 00:15:17,449 [INFO]  
+========== start: fit model
+2024-04-08 00:15:17,449 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:17,453 [INFO]  Epoch[0] Batch [0-4]	Speed: 22833.91 samples/sec	cross-entropy=14.546834	age-accuracy=0.000000
+2024-04-08 00:15:17,455 [INFO]  Epoch[0] Train-cross-entropy=5.163880
+2024-04-08 00:15:17,455 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:15:17,455 [INFO]  Epoch[0] Time cost=0.006
+2024-04-08 00:15:17,456 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:17,457 [INFO]  Epoch[0] Validation-cross-entropy=0.805669
+2024-04-08 00:15:17,457 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:17,461 [INFO]  Epoch[1] Batch [0-4]	Speed: 21866.69 samples/sec	cross-entropy=0.421964	age-accuracy=0.000000
+2024-04-08 00:15:17,466 [INFO]  Epoch[1] Train-cross-entropy=1.545407
+2024-04-08 00:15:17,467 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:15:17,467 [INFO]  Epoch[1] Time cost=0.009
+2024-04-08 00:15:17,468 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:17,476 [INFO]  Epoch[1] Validation-cross-entropy=1.638136
+2024-04-08 00:15:17,476 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:17,480 [INFO]  Epoch[2] Batch [0-4]	Speed: 21086.84 samples/sec	cross-entropy=2.305764	age-accuracy=0.000000
+2024-04-08 00:15:17,481 [INFO]  Epoch[2] Train-cross-entropy=2.148930
+2024-04-08 00:15:17,481 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:15:17,481 [INFO]  Epoch[2] Time cost=0.006
+2024-04-08 00:15:17,483 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:17,483 [INFO]  Epoch[2] Validation-cross-entropy=0.845788
+2024-04-08 00:15:17,483 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:17,487 [INFO]  Epoch[3] Batch [0-4]	Speed: 21159.98 samples/sec	cross-entropy=0.466406	age-accuracy=0.000000
+2024-04-08 00:15:17,489 [INFO]  Epoch[3] Train-cross-entropy=0.087669
+2024-04-08 00:15:17,489 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:15:17,489 [INFO]  Epoch[3] Time cost=0.006
+2024-04-08 00:15:17,490 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:17,491 [INFO]  Epoch[3] Validation-cross-entropy=0.084792
+2024-04-08 00:15:17,491 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:17,503 [INFO]  Epoch[4] Batch [0-4]	Speed: 5773.92 samples/sec	cross-entropy=0.298833	age-accuracy=0.000000
+2024-04-08 00:15:17,508 [INFO]  Epoch[4] Train-cross-entropy=0.524300
+2024-04-08 00:15:17,508 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:15:17,508 [INFO]  Epoch[4] Time cost=0.017
+2024-04-08 00:15:17,509 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:17,510 [INFO]  Epoch[4] Validation-cross-entropy=0.232884
+2024-04-08 00:15:17,510 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:17,510 [INFO]  
+========== done (0.06147956848144531 s) fit model
+2024-04-08 00:15:19,855 [INFO]  
+========== start: fit model
+2024-04-08 00:15:19,855 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:19,862 [INFO]  Epoch[0] Batch [0-4]	Speed: 18309.49 samples/sec	cross-entropy=6.117012	age-accuracy=0.000000
+2024-04-08 00:15:19,864 [INFO]  Epoch[0] Train-cross-entropy=0.498890
+2024-04-08 00:15:19,864 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:15:19,864 [INFO]  Epoch[0] Time cost=0.007
+2024-04-08 00:15:19,866 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:19,867 [INFO]  Epoch[0] Validation-cross-entropy=0.286348
+2024-04-08 00:15:19,867 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:19,874 [INFO]  Epoch[1] Batch [0-4]	Speed: 10439.68 samples/sec	cross-entropy=1.217556	age-accuracy=0.000000
+2024-04-08 00:15:19,876 [INFO]  Epoch[1] Train-cross-entropy=1.266969
+2024-04-08 00:15:19,876 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:15:19,876 [INFO]  Epoch[1] Time cost=0.009
+2024-04-08 00:15:19,878 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:19,879 [INFO]  Epoch[1] Validation-cross-entropy=3.001043
+2024-04-08 00:15:19,879 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:19,882 [INFO]  Epoch[2] Batch [0-4]	Speed: 21581.88 samples/sec	cross-entropy=1.068090	age-accuracy=0.000000
+2024-04-08 00:15:19,884 [INFO]  Epoch[2] Train-cross-entropy=0.392049
+2024-04-08 00:15:19,884 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:15:19,884 [INFO]  Epoch[2] Time cost=0.006
+2024-04-08 00:15:19,886 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:19,886 [INFO]  Epoch[2] Validation-cross-entropy=0.091171
+2024-04-08 00:15:19,886 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:19,890 [INFO]  Epoch[3] Batch [0-4]	Speed: 21394.39 samples/sec	cross-entropy=0.090529	age-accuracy=0.000000
+2024-04-08 00:15:19,892 [INFO]  Epoch[3] Train-cross-entropy=0.226257
+2024-04-08 00:15:19,892 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:15:19,892 [INFO]  Epoch[3] Time cost=0.005
+2024-04-08 00:15:19,893 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:19,894 [INFO]  Epoch[3] Validation-cross-entropy=0.787196
+2024-04-08 00:15:19,894 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:19,898 [INFO]  Epoch[4] Batch [0-4]	Speed: 21459.39 samples/sec	cross-entropy=0.315487	age-accuracy=0.000000
+2024-04-08 00:15:19,899 [INFO]  Epoch[4] Train-cross-entropy=0.077342
+2024-04-08 00:15:19,899 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:15:19,899 [INFO]  Epoch[4] Time cost=0.005
+2024-04-08 00:15:19,901 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:19,902 [INFO]  Epoch[4] Validation-cross-entropy=0.071739
+2024-04-08 00:15:19,902 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:19,902 [INFO]  
+========== done (0.046561479568481445 s) fit model
+2024-04-08 00:15:22,593 [INFO]  
+========== start: fit model
+2024-04-08 00:15:22,593 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:22,599 [INFO]  Epoch[0] Batch [0-4]	Speed: 21382.46 samples/sec	cross-entropy=31.734139	age-accuracy=0.000000
+2024-04-08 00:15:22,601 [INFO]  Epoch[0] Train-cross-entropy=4.916142
+2024-04-08 00:15:22,601 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:15:22,601 [INFO]  Epoch[0] Time cost=0.006
+2024-04-08 00:15:22,602 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:22,603 [INFO]  Epoch[0] Validation-cross-entropy=7.163866
+2024-04-08 00:15:22,603 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:22,607 [INFO]  Epoch[1] Batch [0-4]	Speed: 19655.52 samples/sec	cross-entropy=3.413837	age-accuracy=0.000000
+2024-04-08 00:15:22,609 [INFO]  Epoch[1] Train-cross-entropy=0.192677
+2024-04-08 00:15:22,609 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:15:22,609 [INFO]  Epoch[1] Time cost=0.006
+2024-04-08 00:15:22,610 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:22,611 [INFO]  Epoch[1] Validation-cross-entropy=0.333115
+2024-04-08 00:15:22,611 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:22,615 [INFO]  Epoch[2] Batch [0-4]	Speed: 22008.32 samples/sec	cross-entropy=1.107879	age-accuracy=0.000000
+2024-04-08 00:15:22,617 [INFO]  Epoch[2] Train-cross-entropy=1.477676
+2024-04-08 00:15:22,617 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:15:22,617 [INFO]  Epoch[2] Time cost=0.005
+2024-04-08 00:15:22,618 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:22,619 [INFO]  Epoch[2] Validation-cross-entropy=2.658186
+2024-04-08 00:15:22,619 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:22,623 [INFO]  Epoch[3] Batch [0-4]	Speed: 21983.09 samples/sec	cross-entropy=2.326902	age-accuracy=0.000000
+2024-04-08 00:15:22,624 [INFO]  Epoch[3] Train-cross-entropy=0.827838
+2024-04-08 00:15:22,624 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:15:22,624 [INFO]  Epoch[3] Time cost=0.005
+2024-04-08 00:15:22,626 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:22,626 [INFO]  Epoch[3] Validation-cross-entropy=1.099476
+2024-04-08 00:15:22,626 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:22,630 [INFO]  Epoch[4] Batch [0-4]	Speed: 22128.06 samples/sec	cross-entropy=0.540051	age-accuracy=0.000000
+2024-04-08 00:15:22,632 [INFO]  Epoch[4] Train-cross-entropy=0.089061
+2024-04-08 00:15:22,632 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:15:22,632 [INFO]  Epoch[4] Time cost=0.005
+2024-04-08 00:15:22,633 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:22,634 [INFO]  Epoch[4] Validation-cross-entropy=0.098182
+2024-04-08 00:15:22,634 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:22,634 [INFO]  
+========== done (0.04085969924926758 s) fit model
+2024-04-08 00:15:25,377 [INFO]  
+========== start: fit model
+2024-04-08 00:15:25,377 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:25,391 [INFO]  Epoch[0] Batch [0-4]	Speed: 19154.81 samples/sec	cross-entropy=3.972200	age-accuracy=3.200000
+2024-04-08 00:15:25,393 [INFO]  Epoch[0] Train-cross-entropy=0.158511
+2024-04-08 00:15:25,393 [INFO]  Epoch[0] Train-age-accuracy=5.000000
+2024-04-08 00:15:25,393 [INFO]  Epoch[0] Time cost=0.015
+2024-04-08 00:15:25,395 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:25,396 [INFO]  Epoch[0] Validation-cross-entropy=0.477484
+2024-04-08 00:15:25,396 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:25,400 [INFO]  Epoch[1] Batch [0-4]	Speed: 21402.92 samples/sec	cross-entropy=0.590834	age-accuracy=3.200000
+2024-04-08 00:15:25,401 [INFO]  Epoch[1] Train-cross-entropy=0.904304
+2024-04-08 00:15:25,401 [INFO]  Epoch[1] Train-age-accuracy=5.000000
+2024-04-08 00:15:25,401 [INFO]  Epoch[1] Time cost=0.005
+2024-04-08 00:15:25,403 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:25,403 [INFO]  Epoch[1] Validation-cross-entropy=1.405176
+2024-04-08 00:15:25,404 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:25,407 [INFO]  Epoch[2] Batch [0-4]	Speed: 25386.37 samples/sec	cross-entropy=0.576507	age-accuracy=3.200000
+2024-04-08 00:15:25,408 [INFO]  Epoch[2] Train-cross-entropy=0.066707
+2024-04-08 00:15:25,408 [INFO]  Epoch[2] Train-age-accuracy=5.000000
+2024-04-08 00:15:25,408 [INFO]  Epoch[2] Time cost=0.005
+2024-04-08 00:15:25,410 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:25,410 [INFO]  Epoch[2] Validation-cross-entropy=0.029291
+2024-04-08 00:15:25,410 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:25,413 [INFO]  Epoch[3] Batch [0-4]	Speed: 27710.90 samples/sec	cross-entropy=0.124724	age-accuracy=3.200000
+2024-04-08 00:15:25,414 [INFO]  Epoch[3] Train-cross-entropy=0.162211
+2024-04-08 00:15:25,414 [INFO]  Epoch[3] Train-age-accuracy=5.000000
+2024-04-08 00:15:25,414 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 00:15:25,416 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:25,416 [INFO]  Epoch[3] Validation-cross-entropy=0.627655
+2024-04-08 00:15:25,416 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:25,419 [INFO]  Epoch[4] Batch [0-4]	Speed: 28146.74 samples/sec	cross-entropy=0.164544	age-accuracy=3.200000
+2024-04-08 00:15:25,420 [INFO]  Epoch[4] Train-cross-entropy=0.017468
+2024-04-08 00:15:25,421 [INFO]  Epoch[4] Train-age-accuracy=5.000000
+2024-04-08 00:15:25,421 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 00:15:25,422 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:25,422 [INFO]  Epoch[4] Validation-cross-entropy=0.027248
+2024-04-08 00:15:25,422 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:25,422 [INFO]  
+========== done (0.04523134231567383 s) fit model
+2024-04-08 00:15:28,206 [INFO]  
+========== start: fit model
+2024-04-08 00:15:28,206 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:28,211 [INFO]  Epoch[0] Batch [0-4]	Speed: 27611.14 samples/sec	cross-entropy=12.551610	age-accuracy=3.000000
+2024-04-08 00:15:28,212 [INFO]  Epoch[0] Train-cross-entropy=1.722918
+2024-04-08 00:15:28,212 [INFO]  Epoch[0] Train-age-accuracy=4.500000
+2024-04-08 00:15:28,212 [INFO]  Epoch[0] Time cost=0.005
+2024-04-08 00:15:28,213 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:28,214 [INFO]  Epoch[0] Validation-cross-entropy=0.811773
+2024-04-08 00:15:28,214 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:28,219 [INFO]  Epoch[1] Batch [0-4]	Speed: 14053.48 samples/sec	cross-entropy=0.708861	age-accuracy=3.000000
+2024-04-08 00:15:28,221 [INFO]  Epoch[1] Train-cross-entropy=2.596900
+2024-04-08 00:15:28,221 [INFO]  Epoch[1] Train-age-accuracy=4.500000
+2024-04-08 00:15:28,221 [INFO]  Epoch[1] Time cost=0.007
+2024-04-08 00:15:28,223 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:28,223 [INFO]  Epoch[1] Validation-cross-entropy=14.537648
+2024-04-08 00:15:28,223 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:28,226 [INFO]  Epoch[2] Batch [0-4]	Speed: 28740.41 samples/sec	cross-entropy=2.153583	age-accuracy=3.000000
+2024-04-08 00:15:28,227 [INFO]  Epoch[2] Train-cross-entropy=0.823541
+2024-04-08 00:15:28,227 [INFO]  Epoch[2] Train-age-accuracy=4.500000
+2024-04-08 00:15:28,227 [INFO]  Epoch[2] Time cost=0.004
+2024-04-08 00:15:28,229 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:28,229 [INFO]  Epoch[2] Validation-cross-entropy=0.253409
+2024-04-08 00:15:28,229 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:28,232 [INFO]  Epoch[3] Batch [0-4]	Speed: 28378.84 samples/sec	cross-entropy=0.239895	age-accuracy=3.000000
+2024-04-08 00:15:28,233 [INFO]  Epoch[3] Train-cross-entropy=0.391281
+2024-04-08 00:15:28,233 [INFO]  Epoch[3] Train-age-accuracy=4.500000
+2024-04-08 00:15:28,233 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 00:15:28,235 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:28,235 [INFO]  Epoch[3] Validation-cross-entropy=5.262615
+2024-04-08 00:15:28,235 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:28,238 [INFO]  Epoch[4] Batch [0-4]	Speed: 28429.94 samples/sec	cross-entropy=0.406934	age-accuracy=3.000000
+2024-04-08 00:15:28,239 [INFO]  Epoch[4] Train-cross-entropy=0.358750
+2024-04-08 00:15:28,239 [INFO]  Epoch[4] Train-age-accuracy=4.500000
+2024-04-08 00:15:28,239 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 00:15:28,241 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:28,241 [INFO]  Epoch[4] Validation-cross-entropy=0.928330
+2024-04-08 00:15:28,241 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:28,241 [INFO]  
+========== done (0.03548288345336914 s) fit model
+2024-04-08 00:15:30,816 [INFO]  
+========== start: fit model
+2024-04-08 00:15:30,816 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:30,820 [INFO]  Epoch[0] Batch [0-4]	Speed: 28140.84 samples/sec	cross-entropy=2.097757	age-accuracy=0.000000
+2024-04-08 00:15:30,821 [INFO]  Epoch[0] Train-cross-entropy=0.323255
+2024-04-08 00:15:30,821 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:15:30,821 [INFO]  Epoch[0] Time cost=0.005
+2024-04-08 00:15:30,822 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:30,823 [INFO]  Epoch[0] Validation-cross-entropy=0.617586
+2024-04-08 00:15:30,823 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:30,826 [INFO]  Epoch[1] Batch [0-4]	Speed: 26816.73 samples/sec	cross-entropy=0.752338	age-accuracy=0.000000
+2024-04-08 00:15:30,827 [INFO]  Epoch[1] Train-cross-entropy=0.426262
+2024-04-08 00:15:30,827 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:15:30,827 [INFO]  Epoch[1] Time cost=0.004
+2024-04-08 00:15:30,828 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:30,829 [INFO]  Epoch[1] Validation-cross-entropy=0.078936
+2024-04-08 00:15:30,829 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:30,832 [INFO]  Epoch[2] Batch [0-4]	Speed: 28235.56 samples/sec	cross-entropy=0.157183	age-accuracy=0.000000
+2024-04-08 00:15:30,833 [INFO]  Epoch[2] Train-cross-entropy=0.266682
+2024-04-08 00:15:30,833 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:15:30,833 [INFO]  Epoch[2] Time cost=0.004
+2024-04-08 00:15:30,834 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:30,835 [INFO]  Epoch[2] Validation-cross-entropy=0.046401
+2024-04-08 00:15:30,835 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:30,838 [INFO]  Epoch[3] Batch [0-4]	Speed: 28688.20 samples/sec	cross-entropy=0.157313	age-accuracy=0.000000
+2024-04-08 00:15:30,839 [INFO]  Epoch[3] Train-cross-entropy=0.102201
+2024-04-08 00:15:30,839 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:15:30,839 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 00:15:30,840 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:30,841 [INFO]  Epoch[3] Validation-cross-entropy=0.058946
+2024-04-08 00:15:30,841 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:30,844 [INFO]  Epoch[4] Batch [0-4]	Speed: 28817.55 samples/sec	cross-entropy=0.033939	age-accuracy=0.000000
+2024-04-08 00:15:30,845 [INFO]  Epoch[4] Train-cross-entropy=0.077372
+2024-04-08 00:15:30,845 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:15:30,845 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 00:15:30,846 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:30,846 [INFO]  Epoch[4] Validation-cross-entropy=0.036144
+2024-04-08 00:15:30,847 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:30,847 [INFO]  
+========== done (0.030991792678833008 s) fit model
+2024-04-08 00:15:33,204 [INFO]  
+========== start: fit model
+2024-04-08 00:15:33,204 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:33,209 [INFO]  Epoch[0] Batch [0-4]	Speed: 20394.73 samples/sec	cross-entropy=42.731784	age-accuracy=0.000000
+2024-04-08 00:15:33,211 [INFO]  Epoch[0] Train-cross-entropy=15.591819
+2024-04-08 00:15:33,211 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:15:33,211 [INFO]  Epoch[0] Time cost=0.006
+2024-04-08 00:15:33,212 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:33,213 [INFO]  Epoch[0] Validation-cross-entropy=5.475648
+2024-04-08 00:15:33,213 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:33,217 [INFO]  Epoch[1] Batch [0-4]	Speed: 21488.59 samples/sec	cross-entropy=5.343759	age-accuracy=0.000000
+2024-04-08 00:15:33,218 [INFO]  Epoch[1] Train-cross-entropy=0.224339
+2024-04-08 00:15:33,219 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:15:33,219 [INFO]  Epoch[1] Time cost=0.005
+2024-04-08 00:15:33,220 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:33,221 [INFO]  Epoch[1] Validation-cross-entropy=0.415084
+2024-04-08 00:15:33,221 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:33,225 [INFO]  Epoch[2] Batch [0-4]	Speed: 18728.49 samples/sec	cross-entropy=1.208523	age-accuracy=0.000000
+2024-04-08 00:15:33,228 [INFO]  Epoch[2] Train-cross-entropy=2.742728
+2024-04-08 00:15:33,228 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:15:33,228 [INFO]  Epoch[2] Time cost=0.007
+2024-04-08 00:15:33,230 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:33,231 [INFO]  Epoch[2] Validation-cross-entropy=2.435093
+2024-04-08 00:15:33,231 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:33,236 [INFO]  Epoch[3] Batch [0-4]	Speed: 19695.90 samples/sec	cross-entropy=3.082366	age-accuracy=0.000000
+2024-04-08 00:15:33,238 [INFO]  Epoch[3] Train-cross-entropy=2.078670
+2024-04-08 00:15:33,238 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:15:33,238 [INFO]  Epoch[3] Time cost=0.006
+2024-04-08 00:15:33,240 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:33,240 [INFO]  Epoch[3] Validation-cross-entropy=1.218064
+2024-04-08 00:15:33,240 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:33,244 [INFO]  Epoch[4] Batch [0-4]	Speed: 21351.85 samples/sec	cross-entropy=0.853931	age-accuracy=0.000000
+2024-04-08 00:15:33,246 [INFO]  Epoch[4] Train-cross-entropy=0.151761
+2024-04-08 00:15:33,246 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:15:33,246 [INFO]  Epoch[4] Time cost=0.006
+2024-04-08 00:15:33,247 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:33,248 [INFO]  Epoch[4] Validation-cross-entropy=0.145353
+2024-04-08 00:15:33,248 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:33,248 [INFO]  
+========== done (0.044350385665893555 s) fit model
+2024-04-08 00:15:35,870 [INFO]  
+========== start: fit model
+2024-04-08 00:15:35,870 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:35,874 [INFO]  Epoch[0] Batch [0-4]	Speed: 27808.50 samples/sec	cross-entropy=26.262041	age-accuracy=4.000000
+2024-04-08 00:15:35,876 [INFO]  Epoch[0] Train-cross-entropy=11.703149
+2024-04-08 00:15:35,876 [INFO]  Epoch[0] Train-age-accuracy=2.000000
+2024-04-08 00:15:35,876 [INFO]  Epoch[0] Time cost=0.005
+2024-04-08 00:15:35,877 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:35,878 [INFO]  Epoch[0] Validation-cross-entropy=1.339973
+2024-04-08 00:15:35,878 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:35,881 [INFO]  Epoch[1] Batch [0-4]	Speed: 25898.26 samples/sec	cross-entropy=3.067840	age-accuracy=4.000000
+2024-04-08 00:15:35,882 [INFO]  Epoch[1] Train-cross-entropy=1.493983
+2024-04-08 00:15:35,882 [INFO]  Epoch[1] Train-age-accuracy=2.000000
+2024-04-08 00:15:35,882 [INFO]  Epoch[1] Time cost=0.004
+2024-04-08 00:15:35,883 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:35,884 [INFO]  Epoch[1] Validation-cross-entropy=1.143900
+2024-04-08 00:15:35,884 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:35,887 [INFO]  Epoch[2] Batch [0-4]	Speed: 28998.10 samples/sec	cross-entropy=1.289645	age-accuracy=4.000000
+2024-04-08 00:15:35,888 [INFO]  Epoch[2] Train-cross-entropy=2.026857
+2024-04-08 00:15:35,888 [INFO]  Epoch[2] Train-age-accuracy=2.000000
+2024-04-08 00:15:35,888 [INFO]  Epoch[2] Time cost=0.004
+2024-04-08 00:15:35,889 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:35,890 [INFO]  Epoch[2] Validation-cross-entropy=0.745907
+2024-04-08 00:15:35,890 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:35,893 [INFO]  Epoch[3] Batch [0-4]	Speed: 28623.96 samples/sec	cross-entropy=1.815559	age-accuracy=4.000000
+2024-04-08 00:15:35,898 [INFO]  Epoch[3] Train-cross-entropy=1.713278
+2024-04-08 00:15:35,898 [INFO]  Epoch[3] Train-age-accuracy=2.000000
+2024-04-08 00:15:35,898 [INFO]  Epoch[3] Time cost=0.008
+2024-04-08 00:15:35,899 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:35,931 [INFO]  Epoch[3] Validation-cross-entropy=0.595201
+2024-04-08 00:15:35,931 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:35,934 [INFO]  Epoch[4] Batch [0-4]	Speed: 26651.65 samples/sec	cross-entropy=0.608876	age-accuracy=4.000000
+2024-04-08 00:15:35,935 [INFO]  Epoch[4] Train-cross-entropy=0.131503
+2024-04-08 00:15:35,936 [INFO]  Epoch[4] Train-age-accuracy=2.000000
+2024-04-08 00:15:35,936 [INFO]  Epoch[4] Time cost=0.005
+2024-04-08 00:15:35,937 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:35,937 [INFO]  Epoch[4] Validation-cross-entropy=0.043668
+2024-04-08 00:15:35,937 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:35,937 [INFO]  
+========== done (0.06745147705078125 s) fit model
+2024-04-08 00:15:39,418 [INFO]  
+========== start: fit model
+2024-04-08 00:15:39,418 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:39,423 [INFO]  Epoch[0] Batch [0-4]	Speed: 22433.18 samples/sec	cross-entropy=5.730033	age-accuracy=4.000000
+2024-04-08 00:15:39,425 [INFO]  Epoch[0] Train-cross-entropy=1.304207
+2024-04-08 00:15:39,425 [INFO]  Epoch[0] Train-age-accuracy=2.500000
+2024-04-08 00:15:39,425 [INFO]  Epoch[0] Time cost=0.006
+2024-04-08 00:15:39,426 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:39,427 [INFO]  Epoch[0] Validation-cross-entropy=0.651550
+2024-04-08 00:15:39,427 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:39,445 [INFO]  Epoch[1] Batch [0-4]	Speed: 5137.13 samples/sec	cross-entropy=1.619853	age-accuracy=4.000000
+2024-04-08 00:15:39,447 [INFO]  Epoch[1] Train-cross-entropy=4.653236
+2024-04-08 00:15:39,448 [INFO]  Epoch[1] Train-age-accuracy=2.500000
+2024-04-08 00:15:39,448 [INFO]  Epoch[1] Time cost=0.021
+2024-04-08 00:15:39,449 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:39,450 [INFO]  Epoch[1] Validation-cross-entropy=0.436829
+2024-04-08 00:15:39,450 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:39,455 [INFO]  Epoch[2] Batch [0-4]	Speed: 15274.58 samples/sec	cross-entropy=0.578023	age-accuracy=4.000000
+2024-04-08 00:15:39,457 [INFO]  Epoch[2] Train-cross-entropy=0.092644
+2024-04-08 00:15:39,457 [INFO]  Epoch[2] Train-age-accuracy=2.500000
+2024-04-08 00:15:39,457 [INFO]  Epoch[2] Time cost=0.007
+2024-04-08 00:15:39,459 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:39,459 [INFO]  Epoch[2] Validation-cross-entropy=0.156274
+2024-04-08 00:15:39,459 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:39,462 [INFO]  Epoch[3] Batch [0-4]	Speed: 27458.62 samples/sec	cross-entropy=0.385184	age-accuracy=4.000000
+2024-04-08 00:15:39,464 [INFO]  Epoch[3] Train-cross-entropy=1.254040
+2024-04-08 00:15:39,464 [INFO]  Epoch[3] Train-age-accuracy=2.500000
+2024-04-08 00:15:39,464 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 00:15:39,465 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:39,466 [INFO]  Epoch[3] Validation-cross-entropy=0.037244
+2024-04-08 00:15:39,466 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:39,469 [INFO]  Epoch[4] Batch [0-4]	Speed: 28194.04 samples/sec	cross-entropy=0.118160	age-accuracy=4.000000
+2024-04-08 00:15:39,470 [INFO]  Epoch[4] Train-cross-entropy=0.055397
+2024-04-08 00:15:39,470 [INFO]  Epoch[4] Train-age-accuracy=2.500000
+2024-04-08 00:15:39,470 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 00:15:39,471 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:39,472 [INFO]  Epoch[4] Validation-cross-entropy=0.084938
+2024-04-08 00:15:39,472 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:39,472 [INFO]  
+========== done (0.0541226863861084 s) fit model
+2024-04-08 00:15:46,827 [INFO]  
+========== start: fit model
+2024-04-08 00:15:46,827 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:46,838 [INFO]  Epoch[0] Batch [0-4]	Speed: 8513.65 samples/sec	cross-entropy=7.345835	age-accuracy=0.000000
+2024-04-08 00:15:46,839 [INFO]  Epoch[0] Train-cross-entropy=2.347097
+2024-04-08 00:15:46,840 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:15:46,840 [INFO]  Epoch[0] Time cost=0.011
+2024-04-08 00:15:46,841 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:46,844 [INFO]  Epoch[0] Validation-cross-entropy=0.228185
+2024-04-08 00:15:46,844 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:46,850 [INFO]  Epoch[1] Batch [0-4]	Speed: 16142.61 samples/sec	cross-entropy=0.406533	age-accuracy=0.000000
+2024-04-08 00:15:46,853 [INFO]  Epoch[1] Train-cross-entropy=1.020794
+2024-04-08 00:15:46,853 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:15:46,853 [INFO]  Epoch[1] Time cost=0.009
+2024-04-08 00:15:46,855 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:46,858 [INFO]  Epoch[1] Validation-cross-entropy=0.628956
+2024-04-08 00:15:46,858 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:46,862 [INFO]  Epoch[2] Batch [0-4]	Speed: 24530.34 samples/sec	cross-entropy=1.155607	age-accuracy=0.000000
+2024-04-08 00:15:46,863 [INFO]  Epoch[2] Train-cross-entropy=1.007370
+2024-04-08 00:15:46,863 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:15:46,863 [INFO]  Epoch[2] Time cost=0.005
+2024-04-08 00:15:46,865 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:46,865 [INFO]  Epoch[2] Validation-cross-entropy=0.289662
+2024-04-08 00:15:46,865 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:46,871 [INFO]  Epoch[3] Batch [0-4]	Speed: 14688.67 samples/sec	cross-entropy=0.266844	age-accuracy=0.000000
+2024-04-08 00:15:46,873 [INFO]  Epoch[3] Train-cross-entropy=0.047634
+2024-04-08 00:15:46,873 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:15:46,873 [INFO]  Epoch[3] Time cost=0.008
+2024-04-08 00:15:46,875 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:46,876 [INFO]  Epoch[3] Validation-cross-entropy=0.042124
+2024-04-08 00:15:46,876 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:46,881 [INFO]  Epoch[4] Batch [0-4]	Speed: 14608.73 samples/sec	cross-entropy=0.169829	age-accuracy=0.000000
+2024-04-08 00:15:46,884 [INFO]  Epoch[4] Train-cross-entropy=0.317611
+2024-04-08 00:15:46,884 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:15:46,884 [INFO]  Epoch[4] Time cost=0.008
+2024-04-08 00:15:46,885 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:46,886 [INFO]  Epoch[4] Validation-cross-entropy=0.092119
+2024-04-08 00:15:46,886 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:46,886 [INFO]  
+========== done (0.0590052604675293 s) fit model
+2024-04-08 00:15:55,831 [INFO]  
+========== start: fit model
+2024-04-08 00:15:55,831 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:15:56,039 [INFO]  Epoch[0] Batch [0-4]	Speed: 8315.84 samples/sec	cross-entropy=3.975639	age-accuracy=0.000000
+2024-04-08 00:15:56,042 [INFO]  Epoch[0] Train-cross-entropy=0.333207
+2024-04-08 00:15:56,042 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:15:56,042 [INFO]  Epoch[0] Time cost=0.210
+2024-04-08 00:15:56,043 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:15:56,046 [INFO]  Epoch[0] Validation-cross-entropy=0.649129
+2024-04-08 00:15:56,047 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:15:56,066 [INFO]  Epoch[1] Batch [0-4]	Speed: 4004.05 samples/sec	cross-entropy=1.593180	age-accuracy=0.000000
+2024-04-08 00:15:56,075 [INFO]  Epoch[1] Train-cross-entropy=1.463004
+2024-04-08 00:15:56,075 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:15:56,075 [INFO]  Epoch[1] Time cost=0.028
+2024-04-08 00:15:56,076 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:15:56,078 [INFO]  Epoch[1] Validation-cross-entropy=2.703925
+2024-04-08 00:15:56,078 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:15:56,083 [INFO]  Epoch[2] Batch [0-4]	Speed: 15336.54 samples/sec	cross-entropy=0.508667	age-accuracy=0.000000
+2024-04-08 00:15:56,088 [INFO]  Epoch[2] Train-cross-entropy=0.304763
+2024-04-08 00:15:56,089 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:15:56,089 [INFO]  Epoch[2] Time cost=0.011
+2024-04-08 00:15:56,090 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:15:56,091 [INFO]  Epoch[2] Validation-cross-entropy=0.406378
+2024-04-08 00:15:56,091 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:15:56,097 [INFO]  Epoch[3] Batch [0-4]	Speed: 15008.13 samples/sec	cross-entropy=0.318147	age-accuracy=0.000000
+2024-04-08 00:15:56,099 [INFO]  Epoch[3] Train-cross-entropy=0.473380
+2024-04-08 00:15:56,099 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:15:56,099 [INFO]  Epoch[3] Time cost=0.008
+2024-04-08 00:15:56,101 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:15:56,102 [INFO]  Epoch[3] Validation-cross-entropy=0.674388
+2024-04-08 00:15:56,102 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:15:56,116 [INFO]  Epoch[4] Batch [0-4]	Speed: 5088.05 samples/sec	cross-entropy=0.082578	age-accuracy=0.000000
+2024-04-08 00:15:56,122 [INFO]  Epoch[4] Train-cross-entropy=0.022646
+2024-04-08 00:15:56,123 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:15:56,123 [INFO]  Epoch[4] Time cost=0.021
+2024-04-08 00:15:56,124 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:15:56,125 [INFO]  Epoch[4] Validation-cross-entropy=0.147754
+2024-04-08 00:15:56,125 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:15:56,125 [INFO]  
+========== done (0.2940859794616699 s) fit model
+2024-04-08 00:16:04,377 [INFO]  
+========== start: fit model
+2024-04-08 00:16:04,377 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:16:04,504 [INFO]  Epoch[0] Batch [0-4]	Speed: 1239.08 samples/sec	cross-entropy=2.745485	age-accuracy=0.000000
+2024-04-08 00:16:04,506 [INFO]  Epoch[0] Train-cross-entropy=0.099157
+2024-04-08 00:16:04,506 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:16:04,506 [INFO]  Epoch[0] Time cost=0.128
+2024-04-08 00:16:04,507 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:16:04,512 [INFO]  Epoch[0] Validation-cross-entropy=0.443081
+2024-04-08 00:16:04,512 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:16:04,515 [INFO]  Epoch[1] Batch [0-4]	Speed: 24220.47 samples/sec	cross-entropy=1.150014	age-accuracy=0.000000
+2024-04-08 00:16:04,525 [INFO]  Epoch[1] Train-cross-entropy=0.834676
+2024-04-08 00:16:04,525 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:16:04,525 [INFO]  Epoch[1] Time cost=0.014
+2024-04-08 00:16:04,527 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:16:04,645 [INFO]  Epoch[1] Validation-cross-entropy=0.716061
+2024-04-08 00:16:04,645 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:16:04,760 [INFO]  Epoch[2] Batch [0-4]	Speed: 1165.72 samples/sec	cross-entropy=0.493554	age-accuracy=0.000000
+2024-04-08 00:16:04,762 [INFO]  Epoch[2] Train-cross-entropy=0.045883
+2024-04-08 00:16:04,762 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:16:04,762 [INFO]  Epoch[2] Time cost=0.117
+2024-04-08 00:16:04,764 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:16:04,765 [INFO]  Epoch[2] Validation-cross-entropy=0.099045
+2024-04-08 00:16:04,765 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:16:04,770 [INFO]  Epoch[3] Batch [0-4]	Speed: 15381.36 samples/sec	cross-entropy=0.479667	age-accuracy=0.000000
+2024-04-08 00:16:04,781 [INFO]  Epoch[3] Train-cross-entropy=0.356602
+2024-04-08 00:16:04,781 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:16:04,781 [INFO]  Epoch[3] Time cost=0.016
+2024-04-08 00:16:04,782 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:16:04,783 [INFO]  Epoch[3] Validation-cross-entropy=0.105915
+2024-04-08 00:16:04,783 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:16:04,812 [INFO]  Epoch[4] Batch [0-4]	Speed: 13932.40 samples/sec	cross-entropy=0.320037	age-accuracy=0.000000
+2024-04-08 00:16:04,814 [INFO]  Epoch[4] Train-cross-entropy=0.161228
+2024-04-08 00:16:04,814 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:16:04,814 [INFO]  Epoch[4] Time cost=0.031
+2024-04-08 00:16:04,816 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:16:04,817 [INFO]  Epoch[4] Validation-cross-entropy=0.050727
+2024-04-08 00:16:04,817 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:16:04,817 [INFO]  
+========== done (0.44028306007385254 s) fit model
+2024-04-08 00:16:12,365 [INFO]  
+========== start: fit model
+2024-04-08 00:16:12,365 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:16:12,372 [INFO]  Epoch[0] Batch [0-4]	Speed: 20502.21 samples/sec	cross-entropy=0.958380	age-accuracy=0.000000
+2024-04-08 00:16:12,374 [INFO]  Epoch[0] Train-cross-entropy=0.605608
+2024-04-08 00:16:12,374 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:16:12,374 [INFO]  Epoch[0] Time cost=0.008
+2024-04-08 00:16:12,375 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:16:12,376 [INFO]  Epoch[0] Validation-cross-entropy=0.680258
+2024-04-08 00:16:12,376 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:16:12,389 [INFO]  Epoch[1] Batch [0-4]	Speed: 5371.18 samples/sec	cross-entropy=0.500500	age-accuracy=0.000000
+2024-04-08 00:16:12,407 [INFO]  Epoch[1] Train-cross-entropy=0.028326
+2024-04-08 00:16:12,408 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:16:12,408 [INFO]  Epoch[1] Time cost=0.031
+2024-04-08 00:16:12,411 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:16:12,530 [INFO]  Epoch[1] Validation-cross-entropy=0.022704
+2024-04-08 00:16:12,530 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:16:12,784 [INFO]  Epoch[2] Batch [0-4]	Speed: 1386.52 samples/sec	cross-entropy=0.184658	age-accuracy=0.000000
+2024-04-08 00:16:12,787 [INFO]  Epoch[2] Train-cross-entropy=0.117601
+2024-04-08 00:16:12,787 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:16:12,787 [INFO]  Epoch[2] Time cost=0.256
+2024-04-08 00:16:12,788 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:16:12,789 [INFO]  Epoch[2] Validation-cross-entropy=0.053504
+2024-04-08 00:16:12,789 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:16:12,794 [INFO]  Epoch[3] Batch [0-4]	Speed: 15318.16 samples/sec	cross-entropy=0.053122	age-accuracy=0.000000
+2024-04-08 00:16:13,045 [INFO]  Epoch[3] Train-cross-entropy=0.054246
+2024-04-08 00:16:13,045 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:16:13,045 [INFO]  Epoch[3] Time cost=0.256
+2024-04-08 00:16:13,047 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:16:13,152 [INFO]  Epoch[3] Validation-cross-entropy=0.092059
+2024-04-08 00:16:13,152 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:16:13,157 [INFO]  Epoch[4] Batch [0-4]	Speed: 19800.51 samples/sec	cross-entropy=0.072336	age-accuracy=0.000000
+2024-04-08 00:16:13,159 [INFO]  Epoch[4] Train-cross-entropy=0.008188
+2024-04-08 00:16:13,159 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:16:13,159 [INFO]  Epoch[4] Time cost=0.006
+2024-04-08 00:16:13,163 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:16:13,167 [INFO]  Epoch[4] Validation-cross-entropy=0.021371
+2024-04-08 00:16:13,167 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:16:13,167 [INFO]  
+========== done (0.8024673461914062 s) fit model
+2024-04-08 00:16:19,529 [INFO]  
+========== start: fit model
+2024-04-08 00:16:19,530 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:16:19,534 [INFO]  Epoch[0] Batch [0-4]	Speed: 27030.05 samples/sec	cross-entropy=8.002875	age-accuracy=0.000000
+2024-04-08 00:16:19,535 [INFO]  Epoch[0] Train-cross-entropy=1.260487
+2024-04-08 00:16:19,535 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:16:19,536 [INFO]  Epoch[0] Time cost=0.005
+2024-04-08 00:16:19,537 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:16:19,537 [INFO]  Epoch[0] Validation-cross-entropy=2.106362
+2024-04-08 00:16:19,537 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:16:19,541 [INFO]  Epoch[1] Batch [0-4]	Speed: 25099.15 samples/sec	cross-entropy=0.513982	age-accuracy=0.000000
+2024-04-08 00:16:19,542 [INFO]  Epoch[1] Train-cross-entropy=0.488617
+2024-04-08 00:16:19,542 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:16:19,542 [INFO]  Epoch[1] Time cost=0.005
+2024-04-08 00:16:19,543 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:16:19,544 [INFO]  Epoch[1] Validation-cross-entropy=0.968529
+2024-04-08 00:16:19,544 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:16:19,547 [INFO]  Epoch[2] Batch [0-4]	Speed: 28372.84 samples/sec	cross-entropy=1.367060	age-accuracy=0.000000
+2024-04-08 00:16:19,548 [INFO]  Epoch[2] Train-cross-entropy=0.461941
+2024-04-08 00:16:19,548 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:16:19,548 [INFO]  Epoch[2] Time cost=0.004
+2024-04-08 00:16:19,550 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:16:19,550 [INFO]  Epoch[2] Validation-cross-entropy=0.189080
+2024-04-08 00:16:19,550 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:16:19,553 [INFO]  Epoch[3] Batch [0-4]	Speed: 28256.36 samples/sec	cross-entropy=0.340522	age-accuracy=0.000000
+2024-04-08 00:16:19,554 [INFO]  Epoch[3] Train-cross-entropy=0.123644
+2024-04-08 00:16:19,554 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:16:19,554 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 00:16:19,556 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:16:19,556 [INFO]  Epoch[3] Validation-cross-entropy=0.112006
+2024-04-08 00:16:19,556 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:16:19,559 [INFO]  Epoch[4] Batch [0-4]	Speed: 28740.41 samples/sec	cross-entropy=0.131253	age-accuracy=0.000000
+2024-04-08 00:16:19,560 [INFO]  Epoch[4] Train-cross-entropy=0.109622
+2024-04-08 00:16:19,560 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:16:19,560 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 00:16:19,567 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:16:19,595 [INFO]  Epoch[4] Validation-cross-entropy=0.203322
+2024-04-08 00:16:19,595 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:16:19,595 [INFO]  
+========== done (0.06584739685058594 s) fit model
+2024-04-08 00:16:28,388 [INFO]  
+========== start: fit model
+2024-04-08 00:16:28,389 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:16:28,409 [INFO]  Epoch[0] Batch [0-4]	Speed: 24361.14 samples/sec	cross-entropy=4.825281	age-accuracy=0.000000
+2024-04-08 00:16:28,410 [INFO]  Epoch[0] Train-cross-entropy=0.216382
+2024-04-08 00:16:28,410 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:16:28,410 [INFO]  Epoch[0] Time cost=0.020
+2024-04-08 00:16:28,412 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:16:28,412 [INFO]  Epoch[0] Validation-cross-entropy=1.350510
+2024-04-08 00:16:28,412 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:16:28,415 [INFO]  Epoch[1] Batch [0-4]	Speed: 28336.90 samples/sec	cross-entropy=1.341911	age-accuracy=0.000000
+2024-04-08 00:16:28,561 [INFO]  Epoch[1] Train-cross-entropy=1.449762
+2024-04-08 00:16:28,561 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:16:28,561 [INFO]  Epoch[1] Time cost=0.149
+2024-04-08 00:16:28,563 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:16:28,595 [INFO]  Epoch[1] Validation-cross-entropy=1.788207
+2024-04-08 00:16:28,596 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:16:28,600 [INFO]  Epoch[2] Batch [0-4]	Speed: 18902.57 samples/sec	cross-entropy=0.456623	age-accuracy=0.000000
+2024-04-08 00:16:28,602 [INFO]  Epoch[2] Train-cross-entropy=0.062806
+2024-04-08 00:16:28,602 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:16:28,602 [INFO]  Epoch[2] Time cost=0.006
+2024-04-08 00:16:28,604 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:16:28,608 [INFO]  Epoch[2] Validation-cross-entropy=0.556344
+2024-04-08 00:16:28,608 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:16:28,635 [INFO]  Epoch[3] Batch [0-4]	Speed: 2453.08 samples/sec	cross-entropy=0.332505	age-accuracy=0.000000
+2024-04-08 00:16:28,637 [INFO]  Epoch[3] Train-cross-entropy=0.337257
+2024-04-08 00:16:28,638 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:16:28,638 [INFO]  Epoch[3] Time cost=0.029
+2024-04-08 00:16:28,639 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:16:28,640 [INFO]  Epoch[3] Validation-cross-entropy=0.416137
+2024-04-08 00:16:28,640 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:16:28,645 [INFO]  Epoch[4] Batch [0-4]	Speed: 15265.89 samples/sec	cross-entropy=0.112931	age-accuracy=0.000000
+2024-04-08 00:16:28,648 [INFO]  Epoch[4] Train-cross-entropy=0.036405
+2024-04-08 00:16:28,648 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:16:28,648 [INFO]  Epoch[4] Time cost=0.008
+2024-04-08 00:16:28,649 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:16:28,650 [INFO]  Epoch[4] Validation-cross-entropy=0.140574
+2024-04-08 00:16:28,650 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:16:28,650 [INFO]  
+========== done (0.261763334274292 s) fit model
+2024-04-08 00:16:37,300 [INFO]  
+========== start: fit model
+2024-04-08 00:16:37,300 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:16:37,307 [INFO]  Epoch[0] Batch [0-4]	Speed: 20558.74 samples/sec	cross-entropy=22.399291	age-accuracy=0.000000
+2024-04-08 00:16:37,309 [INFO]  Epoch[0] Train-cross-entropy=5.289047
+2024-04-08 00:16:37,309 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:16:37,309 [INFO]  Epoch[0] Time cost=0.008
+2024-04-08 00:16:37,310 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:16:37,311 [INFO]  Epoch[0] Validation-cross-entropy=3.824042
+2024-04-08 00:16:37,311 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:16:37,339 [INFO]  Epoch[1] Batch [0-4]	Speed: 3305.37 samples/sec	cross-entropy=1.287381	age-accuracy=0.000000
+2024-04-08 00:16:37,341 [INFO]  Epoch[1] Train-cross-entropy=0.880578
+2024-04-08 00:16:37,341 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:16:37,341 [INFO]  Epoch[1] Time cost=0.031
+2024-04-08 00:16:37,343 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:16:37,344 [INFO]  Epoch[1] Validation-cross-entropy=3.391655
+2024-04-08 00:16:37,344 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:16:37,372 [INFO]  Epoch[2] Batch [0-4]	Speed: 2352.08 samples/sec	cross-entropy=2.129429	age-accuracy=0.000000
+2024-04-08 00:16:37,374 [INFO]  Epoch[2] Train-cross-entropy=2.248127
+2024-04-08 00:16:37,374 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:16:37,374 [INFO]  Epoch[2] Time cost=0.030
+2024-04-08 00:16:37,376 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:16:37,392 [INFO]  Epoch[2] Validation-cross-entropy=2.970740
+2024-04-08 00:16:37,392 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:16:37,395 [INFO]  Epoch[3] Batch [0-4]	Speed: 27947.47 samples/sec	cross-entropy=1.447064	age-accuracy=0.000000
+2024-04-08 00:16:37,396 [INFO]  Epoch[3] Train-cross-entropy=0.323479
+2024-04-08 00:16:37,397 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:16:37,397 [INFO]  Epoch[3] Time cost=0.004
+2024-04-08 00:16:37,398 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:16:37,398 [INFO]  Epoch[3] Validation-cross-entropy=0.277950
+2024-04-08 00:16:37,398 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:16:37,401 [INFO]  Epoch[4] Batch [0-4]	Speed: 27828.68 samples/sec	cross-entropy=0.167287	age-accuracy=0.000000
+2024-04-08 00:16:37,403 [INFO]  Epoch[4] Train-cross-entropy=0.315478
+2024-04-08 00:16:37,403 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:16:37,403 [INFO]  Epoch[4] Time cost=0.004
+2024-04-08 00:16:37,407 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:16:37,476 [INFO]  Epoch[4] Validation-cross-entropy=0.795510
+2024-04-08 00:16:37,476 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:16:37,476 [INFO]  
+========== done (0.17677807807922363 s) fit model
+2024-04-08 00:16:44,642 [INFO]  
+========== start: fit model
+2024-04-08 00:16:44,642 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:16:44,824 [INFO]  Epoch[0] Batch [0-4]	Speed: 375.57 samples/sec	cross-entropy=4.075934	age-accuracy=0.000000
+2024-04-08 00:16:45,125 [INFO]  Epoch[0] Train-cross-entropy=0.253869
+2024-04-08 00:16:45,125 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:16:45,125 [INFO]  Epoch[0] Time cost=0.482
+2024-04-08 00:16:45,127 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:16:45,130 [INFO]  Epoch[0] Validation-cross-entropy=0.129269
+2024-04-08 00:16:45,130 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:16:45,200 [INFO]  Epoch[1] Batch [0-4]	Speed: 927.21 samples/sec	cross-entropy=0.549222	age-accuracy=0.000000
+2024-04-08 00:16:45,202 [INFO]  Epoch[1] Train-cross-entropy=0.927795
+2024-04-08 00:16:45,202 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:16:45,202 [INFO]  Epoch[1] Time cost=0.072
+2024-04-08 00:16:45,204 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:16:45,204 [INFO]  Epoch[1] Validation-cross-entropy=1.629817
+2024-04-08 00:16:45,204 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:16:45,212 [INFO]  Epoch[2] Batch [0-4]	Speed: 10341.54 samples/sec	cross-entropy=0.721230	age-accuracy=0.000000
+2024-04-08 00:16:45,214 [INFO]  Epoch[2] Train-cross-entropy=0.167064
+2024-04-08 00:16:45,214 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:16:45,214 [INFO]  Epoch[2] Time cost=0.010
+2024-04-08 00:16:45,216 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:16:45,216 [INFO]  Epoch[2] Validation-cross-entropy=0.021965
+2024-04-08 00:16:45,217 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:16:45,224 [INFO]  Epoch[3] Batch [0-4]	Speed: 10068.47 samples/sec	cross-entropy=0.174769	age-accuracy=0.000000
+2024-04-08 00:16:45,227 [INFO]  Epoch[3] Train-cross-entropy=0.426219
+2024-04-08 00:16:45,228 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:16:45,228 [INFO]  Epoch[3] Time cost=0.011
+2024-04-08 00:16:45,229 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:16:45,231 [INFO]  Epoch[3] Validation-cross-entropy=0.329848
+2024-04-08 00:16:45,232 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:16:45,237 [INFO]  Epoch[4] Batch [0-4]	Speed: 15355.84 samples/sec	cross-entropy=0.229329	age-accuracy=0.000000
+2024-04-08 00:16:45,239 [INFO]  Epoch[4] Train-cross-entropy=0.190323
+2024-04-08 00:16:45,239 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:16:45,239 [INFO]  Epoch[4] Time cost=0.008
+2024-04-08 00:16:45,240 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:16:45,241 [INFO]  Epoch[4] Validation-cross-entropy=0.021658
+2024-04-08 00:16:45,241 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:16:45,241 [INFO]  
+========== done (0.5995559692382812 s) fit model
+2024-04-08 00:16:51,496 [INFO]  
+========== start: fit model
+2024-04-08 00:16:51,496 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:16:51,533 [INFO]  Epoch[0] Batch [0-4]	Speed: 18804.59 samples/sec	cross-entropy=5.227010	age-accuracy=0.000000
+2024-04-08 00:16:51,535 [INFO]  Epoch[0] Train-cross-entropy=1.226133
+2024-04-08 00:16:51,535 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:16:51,535 [INFO]  Epoch[0] Time cost=0.038
+2024-04-08 00:16:51,539 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:16:51,561 [INFO]  Epoch[0] Validation-cross-entropy=0.246625
+2024-04-08 00:16:51,561 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:16:51,569 [INFO]  Epoch[1] Batch [0-4]	Speed: 23360.50 samples/sec	cross-entropy=0.591871	age-accuracy=0.000000
+2024-04-08 00:16:51,570 [INFO]  Epoch[1] Train-cross-entropy=2.228335
+2024-04-08 00:16:51,570 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:16:51,570 [INFO]  Epoch[1] Time cost=0.009
+2024-04-08 00:16:51,574 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:16:51,605 [INFO]  Epoch[1] Validation-cross-entropy=1.366958
+2024-04-08 00:16:51,605 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:16:51,625 [INFO]  Epoch[2] Batch [0-4]	Speed: 4263.25 samples/sec	cross-entropy=0.799932	age-accuracy=0.000000
+2024-04-08 00:16:51,627 [INFO]  Epoch[2] Train-cross-entropy=0.301473
+2024-04-08 00:16:51,627 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:16:51,627 [INFO]  Epoch[2] Time cost=0.022
+2024-04-08 00:16:51,628 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:16:51,629 [INFO]  Epoch[2] Validation-cross-entropy=0.065223
+2024-04-08 00:16:51,629 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:16:51,634 [INFO]  Epoch[3] Batch [0-4]	Speed: 15555.16 samples/sec	cross-entropy=0.192509	age-accuracy=0.000000
+2024-04-08 00:16:51,637 [INFO]  Epoch[3] Train-cross-entropy=0.500882
+2024-04-08 00:16:51,637 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:16:51,637 [INFO]  Epoch[3] Time cost=0.008
+2024-04-08 00:16:51,638 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:16:51,639 [INFO]  Epoch[3] Validation-cross-entropy=0.166028
+2024-04-08 00:16:51,639 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:16:51,644 [INFO]  Epoch[4] Batch [0-4]	Speed: 15530.86 samples/sec	cross-entropy=0.246652	age-accuracy=0.000000
+2024-04-08 00:16:51,646 [INFO]  Epoch[4] Train-cross-entropy=0.238200
+2024-04-08 00:16:51,646 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:16:51,646 [INFO]  Epoch[4] Time cost=0.008
+2024-04-08 00:16:51,648 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:16:51,649 [INFO]  Epoch[4] Validation-cross-entropy=0.015373
+2024-04-08 00:16:51,649 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:16:51,649 [INFO]  
+========== done (0.15266823768615723 s) fit model
+2024-04-08 00:16:59,977 [INFO]  
+========== start: fit model
+2024-04-08 00:16:59,977 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:17:00,217 [INFO]  Epoch[0] Batch [0-4]	Speed: 13787.13 samples/sec	cross-entropy=11.735298	age-accuracy=0.000000
+2024-04-08 00:17:00,219 [INFO]  Epoch[0] Train-cross-entropy=8.204375
+2024-04-08 00:17:00,219 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:17:00,219 [INFO]  Epoch[0] Time cost=0.241
+2024-04-08 00:17:00,221 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:17:00,222 [INFO]  Epoch[0] Validation-cross-entropy=0.517425
+2024-04-08 00:17:00,222 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:17:00,230 [INFO]  Epoch[1] Batch [0-4]	Speed: 8658.93 samples/sec	cross-entropy=0.674861	age-accuracy=0.000000
+2024-04-08 00:17:00,232 [INFO]  Epoch[1] Train-cross-entropy=0.503053
+2024-04-08 00:17:00,233 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:17:00,233 [INFO]  Epoch[1] Time cost=0.011
+2024-04-08 00:17:00,234 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:17:00,235 [INFO]  Epoch[1] Validation-cross-entropy=0.440252
+2024-04-08 00:17:00,235 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:17:00,240 [INFO]  Epoch[2] Batch [0-4]	Speed: 15067.95 samples/sec	cross-entropy=1.035308	age-accuracy=0.000000
+2024-04-08 00:17:00,243 [INFO]  Epoch[2] Train-cross-entropy=2.507741
+2024-04-08 00:17:00,243 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:17:00,243 [INFO]  Epoch[2] Time cost=0.008
+2024-04-08 00:17:00,244 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:17:00,245 [INFO]  Epoch[2] Validation-cross-entropy=0.622989
+2024-04-08 00:17:00,245 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:17:00,251 [INFO]  Epoch[3] Batch [0-4]	Speed: 14738.67 samples/sec	cross-entropy=0.778409	age-accuracy=0.000000
+2024-04-08 00:17:00,257 [INFO]  Epoch[3] Train-cross-entropy=0.346419
+2024-04-08 00:17:00,257 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:17:00,257 [INFO]  Epoch[3] Time cost=0.012
+2024-04-08 00:17:00,259 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:17:00,267 [INFO]  Epoch[3] Validation-cross-entropy=0.080123
+2024-04-08 00:17:00,267 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:17:00,276 [INFO]  Epoch[4] Batch [0-4]	Speed: 10101.43 samples/sec	cross-entropy=0.045195	age-accuracy=0.000000
+2024-04-08 00:17:00,277 [INFO]  Epoch[4] Train-cross-entropy=0.300228
+2024-04-08 00:17:00,278 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:17:00,278 [INFO]  Epoch[4] Time cost=0.011
+2024-04-08 00:17:00,279 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:17:00,280 [INFO]  Epoch[4] Validation-cross-entropy=0.069128
+2024-04-08 00:17:00,280 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:17:00,280 [INFO]  
+========== done (0.30321812629699707 s) fit model
+2024-04-08 00:17:08,171 [INFO]  
+========== start: fit model
+2024-04-08 00:17:08,171 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:17:08,255 [INFO]  Epoch[0] Batch [0-4]	Speed: 1799.17 samples/sec	cross-entropy=16.668046	age-accuracy=4.600000
+2024-04-08 00:17:08,279 [INFO]  Epoch[0] Train-cross-entropy=2.881413
+2024-04-08 00:17:08,280 [INFO]  Epoch[0] Train-age-accuracy=3.500000
+2024-04-08 00:17:08,280 [INFO]  Epoch[0] Time cost=0.107
+2024-04-08 00:17:08,283 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:17:08,389 [INFO]  Epoch[0] Validation-cross-entropy=2.596941
+2024-04-08 00:17:08,389 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:17:08,527 [INFO]  Epoch[1] Batch [0-4]	Speed: 1370.39 samples/sec	cross-entropy=1.094152	age-accuracy=4.600000
+2024-04-08 00:17:08,569 [INFO]  Epoch[1] Train-cross-entropy=0.989136
+2024-04-08 00:17:08,569 [INFO]  Epoch[1] Train-age-accuracy=3.500000
+2024-04-08 00:17:08,569 [INFO]  Epoch[1] Time cost=0.180
+2024-04-08 00:17:08,571 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:17:08,572 [INFO]  Epoch[1] Validation-cross-entropy=1.444895
+2024-04-08 00:17:08,572 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:17:08,601 [INFO]  Epoch[2] Batch [0-4]	Speed: 3118.33 samples/sec	cross-entropy=1.515046	age-accuracy=4.600000
+2024-04-08 00:17:08,603 [INFO]  Epoch[2] Train-cross-entropy=1.039451
+2024-04-08 00:17:08,603 [INFO]  Epoch[2] Train-age-accuracy=3.500000
+2024-04-08 00:17:08,603 [INFO]  Epoch[2] Time cost=0.032
+2024-04-08 00:17:08,605 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:17:08,614 [INFO]  Epoch[2] Validation-cross-entropy=2.354525
+2024-04-08 00:17:08,614 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:17:08,673 [INFO]  Epoch[3] Batch [0-4]	Speed: 13969.37 samples/sec	cross-entropy=1.169290	age-accuracy=4.600000
+2024-04-08 00:17:08,675 [INFO]  Epoch[3] Train-cross-entropy=0.450182
+2024-04-08 00:17:08,675 [INFO]  Epoch[3] Train-age-accuracy=3.500000
+2024-04-08 00:17:08,675 [INFO]  Epoch[3] Time cost=0.061
+2024-04-08 00:17:08,677 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:17:08,677 [INFO]  Epoch[3] Validation-cross-entropy=0.353256
+2024-04-08 00:17:08,677 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:17:08,703 [INFO]  Epoch[4] Batch [0-4]	Speed: 2642.06 samples/sec	cross-entropy=0.119092	age-accuracy=4.600000
+2024-04-08 00:17:08,704 [INFO]  Epoch[4] Train-cross-entropy=0.036217
+2024-04-08 00:17:08,704 [INFO]  Epoch[4] Train-age-accuracy=3.500000
+2024-04-08 00:17:08,704 [INFO]  Epoch[4] Time cost=0.027
+2024-04-08 00:17:08,706 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:17:08,706 [INFO]  Epoch[4] Validation-cross-entropy=0.154340
+2024-04-08 00:17:08,706 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:17:08,706 [INFO]  
+========== done (0.5351173877716064 s) fit model
+2024-04-08 00:17:16,339 [INFO]  
+========== start: fit model
+2024-04-08 00:17:16,339 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:17:16,395 [INFO]  Epoch[0] Batch [0-4]	Speed: 20880.17 samples/sec	cross-entropy=10.980777	age-accuracy=0.000000
+2024-04-08 00:17:16,397 [INFO]  Epoch[0] Train-cross-entropy=2.653154
+2024-04-08 00:17:16,397 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:17:16,397 [INFO]  Epoch[0] Time cost=0.057
+2024-04-08 00:17:16,399 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:17:16,415 [INFO]  Epoch[0] Validation-cross-entropy=0.484133
+2024-04-08 00:17:16,416 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:17:16,419 [INFO]  Epoch[1] Batch [0-4]	Speed: 22120.76 samples/sec	cross-entropy=0.987350	age-accuracy=0.000000
+2024-04-08 00:17:16,421 [INFO]  Epoch[1] Train-cross-entropy=1.185829
+2024-04-08 00:17:16,421 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:17:16,421 [INFO]  Epoch[1] Time cost=0.006
+2024-04-08 00:17:16,423 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:17:16,423 [INFO]  Epoch[1] Validation-cross-entropy=0.623020
+2024-04-08 00:17:16,423 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:17:16,457 [INFO]  Epoch[2] Batch [0-4]	Speed: 1941.39 samples/sec	cross-entropy=1.231068	age-accuracy=0.000000
+2024-04-08 00:17:16,458 [INFO]  Epoch[2] Train-cross-entropy=0.969609
+2024-04-08 00:17:16,458 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:17:16,459 [INFO]  Epoch[2] Time cost=0.035
+2024-04-08 00:17:16,460 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:17:16,460 [INFO]  Epoch[2] Validation-cross-entropy=0.555976
+2024-04-08 00:17:16,460 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:17:16,463 [INFO]  Epoch[3] Batch [0-4]	Speed: 28502.38 samples/sec	cross-entropy=0.685885	age-accuracy=0.000000
+2024-04-08 00:17:16,523 [INFO]  Epoch[3] Train-cross-entropy=0.390679
+2024-04-08 00:17:16,523 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:17:16,523 [INFO]  Epoch[3] Time cost=0.063
+2024-04-08 00:17:16,527 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:17:16,528 [INFO]  Epoch[3] Validation-cross-entropy=0.109325
+2024-04-08 00:17:16,528 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:17:16,531 [INFO]  Epoch[4] Batch [0-4]	Speed: 25302.62 samples/sec	cross-entropy=0.115919	age-accuracy=0.000000
+2024-04-08 00:17:16,545 [INFO]  Epoch[4] Train-cross-entropy=0.093264
+2024-04-08 00:17:16,545 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:17:16,545 [INFO]  Epoch[4] Time cost=0.017
+2024-04-08 00:17:16,546 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:17:16,546 [INFO]  Epoch[4] Validation-cross-entropy=0.064937
+2024-04-08 00:17:16,546 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:17:16,546 [INFO]  
+========== done (0.2076559066772461 s) fit model
+2024-04-08 00:17:23,789 [INFO]  
+========== start: fit model
+2024-04-08 00:17:23,789 [WARNING]  Already bound, ignoring bind()
+2024-04-08 00:17:23,805 [INFO]  Epoch[0] Batch [0-4]	Speed: 8332.62 samples/sec	cross-entropy=12.401308	age-accuracy=0.000000
+2024-04-08 00:17:23,807 [INFO]  Epoch[0] Train-cross-entropy=5.325587
+2024-04-08 00:17:23,807 [INFO]  Epoch[0] Train-age-accuracy=0.000000
+2024-04-08 00:17:23,807 [INFO]  Epoch[0] Time cost=0.017
+2024-04-08 00:17:23,811 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0000.params"
+2024-04-08 00:17:23,859 [INFO]  Epoch[0] Validation-cross-entropy=1.338471
+2024-04-08 00:17:23,859 [INFO]  Epoch[0] Validation-age-accuracy=0.000000
+2024-04-08 00:17:23,864 [INFO]  Epoch[1] Batch [0-4]	Speed: 15221.74 samples/sec	cross-entropy=0.604722	age-accuracy=0.000000
+2024-04-08 00:17:23,866 [INFO]  Epoch[1] Train-cross-entropy=0.226744
+2024-04-08 00:17:23,866 [INFO]  Epoch[1] Train-age-accuracy=0.000000
+2024-04-08 00:17:23,866 [INFO]  Epoch[1] Time cost=0.007
+2024-04-08 00:17:23,867 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0001.params"
+2024-04-08 00:17:23,920 [INFO]  Epoch[1] Validation-cross-entropy=0.466543
+2024-04-08 00:17:23,920 [INFO]  Epoch[1] Validation-age-accuracy=0.000000
+2024-04-08 00:17:23,945 [INFO]  Epoch[2] Batch [0-4]	Speed: 14275.44 samples/sec	cross-entropy=1.164355	age-accuracy=0.000000
+2024-04-08 00:17:23,947 [INFO]  Epoch[2] Train-cross-entropy=1.501041
+2024-04-08 00:17:23,947 [INFO]  Epoch[2] Train-age-accuracy=0.000000
+2024-04-08 00:17:23,947 [INFO]  Epoch[2] Time cost=0.027
+2024-04-08 00:17:23,949 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0002.params"
+2024-04-08 00:17:23,950 [INFO]  Epoch[2] Validation-cross-entropy=0.876849
+2024-04-08 00:17:23,950 [INFO]  Epoch[2] Validation-age-accuracy=0.000000
+2024-04-08 00:17:24,136 [INFO]  Epoch[3] Batch [0-4]	Speed: 479.02 samples/sec	cross-entropy=0.944042	age-accuracy=0.000000
+2024-04-08 00:17:24,139 [INFO]  Epoch[3] Train-cross-entropy=0.425396
+2024-04-08 00:17:24,139 [INFO]  Epoch[3] Train-age-accuracy=0.000000
+2024-04-08 00:17:24,139 [INFO]  Epoch[3] Time cost=0.189
+2024-04-08 00:17:24,141 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0003.params"
+2024-04-08 00:17:24,141 [INFO]  Epoch[3] Validation-cross-entropy=0.165350
+2024-04-08 00:17:24,141 [INFO]  Epoch[3] Validation-age-accuracy=0.000000
+2024-04-08 00:17:24,159 [INFO]  Epoch[4] Batch [0-4]	Speed: 3906.62 samples/sec	cross-entropy=0.085866	age-accuracy=0.000000
+2024-04-08 00:17:24,161 [INFO]  Epoch[4] Train-cross-entropy=0.060617
+2024-04-08 00:17:24,161 [INFO]  Epoch[4] Train-age-accuracy=0.000000
+2024-04-08 00:17:24,161 [INFO]  Epoch[4] Time cost=0.020
+2024-04-08 00:17:24,163 [INFO]  Saved checkpoint to "./imputer_model/25_hepatitis/imputer_model_age/model-0004.params"
+2024-04-08 00:17:24,261 [INFO]  Epoch[4] Validation-cross-entropy=0.052004
+2024-04-08 00:17:24,262 [INFO]  Epoch[4] Validation-age-accuracy=0.000000
+2024-04-08 00:17:24,262 [INFO]  
+========== done (0.4731459617614746 s) fit model

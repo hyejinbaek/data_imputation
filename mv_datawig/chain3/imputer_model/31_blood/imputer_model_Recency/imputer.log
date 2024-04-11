@@ -1,0 +1,2400 @@
+2024-04-11 15:49:02,843 [INFO]  
+========== start: fit model
+2024-04-11 15:49:02,843 [WARNING]  Already bound, ignoring bind()
+2024-04-11 15:49:07,465 [INFO]  Epoch[0] Batch [0-17]	Speed: 68.00 samples/sec	cross-entropy=5.702770	Recency-accuracy=0.000000
+2024-04-11 15:49:10,311 [INFO]  Epoch[0] Train-cross-entropy=0.597759
+2024-04-11 15:49:10,311 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 15:49:10,311 [INFO]  Epoch[0] Time cost=7.467
+2024-04-11 15:49:10,317 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 15:49:10,467 [INFO]  Epoch[0] Validation-cross-entropy=0.339283
+2024-04-11 15:49:10,467 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 15:49:13,568 [INFO]  Epoch[1] Batch [0-17]	Speed: 87.76 samples/sec	cross-entropy=0.150071	Recency-accuracy=0.000000
+2024-04-11 15:49:15,737 [INFO]  Epoch[1] Train-cross-entropy=0.101293
+2024-04-11 15:49:15,737 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 15:49:15,737 [INFO]  Epoch[1] Time cost=5.270
+2024-04-11 15:49:15,739 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 15:49:16,092 [INFO]  Epoch[1] Validation-cross-entropy=0.135109
+2024-04-11 15:49:16,092 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 15:49:16,626 [INFO]  Epoch[2] Batch [0-17]	Speed: 518.68 samples/sec	cross-entropy=0.062066	Recency-accuracy=0.000000
+2024-04-11 15:49:19,476 [INFO]  Epoch[2] Train-cross-entropy=0.036644
+2024-04-11 15:49:19,476 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 15:49:19,480 [INFO]  Epoch[2] Time cost=3.388
+2024-04-11 15:49:19,483 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 15:49:19,686 [INFO]  Epoch[2] Validation-cross-entropy=0.055830
+2024-04-11 15:49:19,686 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 15:49:23,036 [INFO]  Epoch[3] Batch [0-17]	Speed: 84.08 samples/sec	cross-entropy=0.034890	Recency-accuracy=0.000000
+2024-04-11 15:49:23,064 [INFO]  Epoch[3] Train-cross-entropy=0.097010
+2024-04-11 15:49:23,064 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 15:49:23,064 [INFO]  Epoch[3] Time cost=3.379
+2024-04-11 15:49:23,066 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 15:49:23,068 [INFO]  Epoch[3] Validation-cross-entropy=0.198407
+2024-04-11 15:49:23,068 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 15:49:24,915 [INFO]  Epoch[4] Batch [0-17]	Speed: 147.40 samples/sec	cross-entropy=0.234413	Recency-accuracy=0.000000
+2024-04-11 15:49:24,929 [INFO]  Epoch[4] Train-cross-entropy=0.219562
+2024-04-11 15:49:24,929 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 15:49:24,929 [INFO]  Epoch[4] Time cost=1.861
+2024-04-11 15:49:24,933 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 15:49:25,110 [INFO]  Epoch[4] Validation-cross-entropy=0.489244
+2024-04-11 15:49:25,110 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 15:49:25,110 [INFO]  
+========== done (22.26706576347351 s) fit model
+2024-04-11 15:51:03,708 [INFO]  
+========== start: fit model
+2024-04-11 15:51:03,708 [WARNING]  Already bound, ignoring bind()
+2024-04-11 15:51:08,081 [INFO]  Epoch[0] Batch [0-17]	Speed: 67.81 samples/sec	cross-entropy=8.205622	Recency-accuracy=2.777778
+2024-04-11 15:51:13,718 [INFO]  Epoch[0] Train-cross-entropy=1.628171
+2024-04-11 15:51:13,719 [INFO]  Epoch[0] Train-Recency-accuracy=4.187500
+2024-04-11 15:51:13,719 [INFO]  Epoch[0] Time cost=10.009
+2024-04-11 15:51:13,720 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 15:51:14,297 [INFO]  Epoch[0] Validation-cross-entropy=0.933778
+2024-04-11 15:51:14,297 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 15:51:20,141 [INFO]  Epoch[1] Batch [0-17]	Speed: 47.17 samples/sec	cross-entropy=0.389990	Recency-accuracy=2.777778
+2024-04-11 15:51:22,795 [INFO]  Epoch[1] Train-cross-entropy=0.112723
+2024-04-11 15:51:22,796 [INFO]  Epoch[1] Train-Recency-accuracy=4.187500
+2024-04-11 15:51:22,796 [INFO]  Epoch[1] Time cost=8.498
+2024-04-11 15:51:22,804 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 15:51:23,204 [INFO]  Epoch[1] Validation-cross-entropy=0.083456
+2024-04-11 15:51:23,204 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 15:51:24,905 [INFO]  Epoch[2] Batch [0-17]	Speed: 228.94 samples/sec	cross-entropy=0.076962	Recency-accuracy=2.777778
+2024-04-11 15:51:24,946 [INFO]  Epoch[2] Train-cross-entropy=0.039476
+2024-04-11 15:51:24,946 [INFO]  Epoch[2] Train-Recency-accuracy=4.187500
+2024-04-11 15:51:24,946 [INFO]  Epoch[2] Time cost=1.742
+2024-04-11 15:51:24,948 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 15:51:24,950 [INFO]  Epoch[2] Validation-cross-entropy=0.033279
+2024-04-11 15:51:24,950 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 15:51:24,985 [INFO]  Epoch[3] Batch [0-17]	Speed: 8536.94 samples/sec	cross-entropy=0.036830	Recency-accuracy=2.777778
+2024-04-11 15:51:25,180 [INFO]  Epoch[3] Train-cross-entropy=0.017333
+2024-04-11 15:51:25,180 [INFO]  Epoch[3] Train-Recency-accuracy=4.187500
+2024-04-11 15:51:25,180 [INFO]  Epoch[3] Time cost=0.230
+2024-04-11 15:51:25,182 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 15:51:25,184 [INFO]  Epoch[3] Validation-cross-entropy=0.018565
+2024-04-11 15:51:25,184 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 15:51:31,373 [INFO]  Epoch[4] Batch [0-17]	Speed: 44.97 samples/sec	cross-entropy=0.021730	Recency-accuracy=2.777778
+2024-04-11 15:51:34,722 [INFO]  Epoch[4] Train-cross-entropy=0.011048
+2024-04-11 15:51:34,722 [INFO]  Epoch[4] Train-Recency-accuracy=4.187500
+2024-04-11 15:51:34,722 [INFO]  Epoch[4] Time cost=9.538
+2024-04-11 15:51:34,729 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 15:51:35,148 [INFO]  Epoch[4] Validation-cross-entropy=0.012037
+2024-04-11 15:51:35,149 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 15:51:35,149 [INFO]  
+========== done (31.440753698349 s) fit model
+2024-04-11 15:53:29,370 [INFO]  
+========== start: fit model
+2024-04-11 15:53:29,370 [WARNING]  Already bound, ignoring bind()
+2024-04-11 15:53:32,427 [INFO]  Epoch[0] Batch [0-17]	Speed: 89.09 samples/sec	cross-entropy=0.913213	Recency-accuracy=3.333333
+2024-04-11 15:53:35,254 [INFO]  Epoch[0] Train-cross-entropy=0.156708
+2024-04-11 15:53:35,254 [INFO]  Epoch[0] Train-Recency-accuracy=3.750000
+2024-04-11 15:53:35,254 [INFO]  Epoch[0] Time cost=5.882
+2024-04-11 15:53:35,256 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 15:53:35,793 [INFO]  Epoch[0] Validation-cross-entropy=0.079108
+2024-04-11 15:53:35,793 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 15:53:38,738 [INFO]  Epoch[1] Batch [0-17]	Speed: 107.95 samples/sec	cross-entropy=0.142482	Recency-accuracy=3.333333
+2024-04-11 15:53:42,814 [INFO]  Epoch[1] Train-cross-entropy=0.042985
+2024-04-11 15:53:42,814 [INFO]  Epoch[1] Train-Recency-accuracy=3.750000
+2024-04-11 15:53:42,814 [INFO]  Epoch[1] Time cost=7.021
+2024-04-11 15:53:42,816 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 15:53:43,141 [INFO]  Epoch[1] Validation-cross-entropy=0.027785
+2024-04-11 15:53:43,141 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 15:53:46,898 [INFO]  Epoch[2] Batch [0-17]	Speed: 81.11 samples/sec	cross-entropy=0.076751	Recency-accuracy=3.333333
+2024-04-11 15:53:49,219 [INFO]  Epoch[2] Train-cross-entropy=0.024873
+2024-04-11 15:53:49,219 [INFO]  Epoch[2] Train-Recency-accuracy=3.750000
+2024-04-11 15:53:49,219 [INFO]  Epoch[2] Time cost=6.078
+2024-04-11 15:53:49,221 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 15:53:49,677 [INFO]  Epoch[2] Validation-cross-entropy=0.017074
+2024-04-11 15:53:49,677 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 15:53:52,721 [INFO]  Epoch[3] Batch [0-17]	Speed: 98.72 samples/sec	cross-entropy=0.047353	Recency-accuracy=3.333333
+2024-04-11 15:53:54,422 [INFO]  Epoch[3] Train-cross-entropy=0.012755
+2024-04-11 15:53:54,422 [INFO]  Epoch[3] Train-Recency-accuracy=3.750000
+2024-04-11 15:53:54,422 [INFO]  Epoch[3] Time cost=4.745
+2024-04-11 15:53:54,424 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 15:53:54,452 [INFO]  Epoch[3] Validation-cross-entropy=0.021739
+2024-04-11 15:53:54,452 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 15:53:57,449 [INFO]  Epoch[4] Batch [0-17]	Speed: 93.09 samples/sec	cross-entropy=0.026335	Recency-accuracy=3.333333
+2024-04-11 15:53:59,016 [INFO]  Epoch[4] Train-cross-entropy=0.007936
+2024-04-11 15:53:59,016 [INFO]  Epoch[4] Train-Recency-accuracy=3.750000
+2024-04-11 15:53:59,016 [INFO]  Epoch[4] Time cost=4.564
+2024-04-11 15:53:59,022 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 15:53:59,454 [INFO]  Epoch[4] Validation-cross-entropy=0.014761
+2024-04-11 15:53:59,454 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 15:53:59,455 [INFO]  
+========== done (30.084543704986572 s) fit model
+2024-04-11 15:55:19,739 [INFO]  
+========== start: fit model
+2024-04-11 15:55:19,739 [WARNING]  Already bound, ignoring bind()
+2024-04-11 15:55:22,905 [INFO]  Epoch[0] Batch [0-17]	Speed: 104.29 samples/sec	cross-entropy=8.622934	Recency-accuracy=0.000000
+2024-04-11 15:55:26,736 [INFO]  Epoch[0] Train-cross-entropy=1.083534
+2024-04-11 15:55:26,736 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 15:55:26,736 [INFO]  Epoch[0] Time cost=6.996
+2024-04-11 15:55:26,740 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 15:55:27,296 [INFO]  Epoch[0] Validation-cross-entropy=0.355678
+2024-04-11 15:55:27,296 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 15:55:32,052 [INFO]  Epoch[1] Batch [0-17]	Speed: 60.43 samples/sec	cross-entropy=0.165097	Recency-accuracy=0.000000
+2024-04-11 15:55:37,731 [INFO]  Epoch[1] Train-cross-entropy=0.056059
+2024-04-11 15:55:37,731 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 15:55:37,732 [INFO]  Epoch[1] Time cost=10.436
+2024-04-11 15:55:37,734 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 15:55:38,387 [INFO]  Epoch[1] Validation-cross-entropy=0.058170
+2024-04-11 15:55:38,387 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 15:55:44,137 [INFO]  Epoch[2] Batch [0-17]	Speed: 51.72 samples/sec	cross-entropy=0.029077	Recency-accuracy=0.000000
+2024-04-11 15:55:46,607 [INFO]  Epoch[2] Train-cross-entropy=0.018137
+2024-04-11 15:55:46,607 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 15:55:46,607 [INFO]  Epoch[2] Time cost=8.220
+2024-04-11 15:55:46,610 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 15:55:47,209 [INFO]  Epoch[2] Validation-cross-entropy=0.031570
+2024-04-11 15:55:47,209 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 15:55:50,309 [INFO]  Epoch[3] Batch [0-17]	Speed: 105.35 samples/sec	cross-entropy=0.015611	Recency-accuracy=0.000000
+2024-04-11 15:55:54,605 [INFO]  Epoch[3] Train-cross-entropy=0.011631
+2024-04-11 15:55:54,605 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 15:55:54,605 [INFO]  Epoch[3] Time cost=7.396
+2024-04-11 15:55:54,607 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 15:55:55,196 [INFO]  Epoch[3] Validation-cross-entropy=0.022699
+2024-04-11 15:55:55,196 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 15:55:58,131 [INFO]  Epoch[4] Batch [0-17]	Speed: 105.67 samples/sec	cross-entropy=0.011526	Recency-accuracy=0.000000
+2024-04-11 15:56:02,789 [INFO]  Epoch[4] Train-cross-entropy=0.008919
+2024-04-11 15:56:02,789 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 15:56:02,789 [INFO]  Epoch[4] Time cost=7.593
+2024-04-11 15:56:02,791 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 15:56:03,261 [INFO]  Epoch[4] Validation-cross-entropy=0.016684
+2024-04-11 15:56:03,261 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 15:56:03,261 [INFO]  
+========== done (43.52228093147278 s) fit model
+2024-04-11 15:57:35,465 [INFO]  
+========== start: fit model
+2024-04-11 15:57:35,465 [WARNING]  Already bound, ignoring bind()
+2024-04-11 15:57:38,211 [INFO]  Epoch[0] Batch [0-17]	Speed: 101.89 samples/sec	cross-entropy=11.257774	Recency-accuracy=3.611111
+2024-04-11 15:57:42,138 [INFO]  Epoch[0] Train-cross-entropy=1.887644
+2024-04-11 15:57:42,138 [INFO]  Epoch[0] Train-Recency-accuracy=3.375000
+2024-04-11 15:57:42,138 [INFO]  Epoch[0] Time cost=6.671
+2024-04-11 15:57:42,141 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 15:57:42,690 [INFO]  Epoch[0] Validation-cross-entropy=1.982009
+2024-04-11 15:57:42,690 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 15:57:45,452 [INFO]  Epoch[1] Batch [0-17]	Speed: 102.62 samples/sec	cross-entropy=0.799708	Recency-accuracy=3.611111
+2024-04-11 15:57:48,038 [INFO]  Epoch[1] Train-cross-entropy=0.232498
+2024-04-11 15:57:48,038 [INFO]  Epoch[1] Train-Recency-accuracy=3.375000
+2024-04-11 15:57:48,038 [INFO]  Epoch[1] Time cost=5.349
+2024-04-11 15:57:48,040 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 15:57:48,134 [INFO]  Epoch[1] Validation-cross-entropy=0.599852
+2024-04-11 15:57:48,134 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 15:57:51,538 [INFO]  Epoch[2] Batch [0-17]	Speed: 79.95 samples/sec	cross-entropy=0.155954	Recency-accuracy=3.611111
+2024-04-11 15:57:52,669 [INFO]  Epoch[2] Train-cross-entropy=0.063140
+2024-04-11 15:57:52,669 [INFO]  Epoch[2] Train-Recency-accuracy=3.375000
+2024-04-11 15:57:52,669 [INFO]  Epoch[2] Time cost=4.535
+2024-04-11 15:57:52,671 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 15:57:52,769 [INFO]  Epoch[2] Validation-cross-entropy=0.260156
+2024-04-11 15:57:52,769 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 15:57:55,745 [INFO]  Epoch[3] Batch [0-17]	Speed: 106.73 samples/sec	cross-entropy=0.078005	Recency-accuracy=3.611111
+2024-04-11 15:57:58,037 [INFO]  Epoch[3] Train-cross-entropy=0.044062
+2024-04-11 15:57:58,037 [INFO]  Epoch[3] Train-Recency-accuracy=3.375000
+2024-04-11 15:57:58,037 [INFO]  Epoch[3] Time cost=5.268
+2024-04-11 15:57:58,041 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 15:57:58,541 [INFO]  Epoch[3] Validation-cross-entropy=0.169903
+2024-04-11 15:57:58,541 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 15:58:01,741 [INFO]  Epoch[4] Batch [0-17]	Speed: 90.06 samples/sec	cross-entropy=0.053802	Recency-accuracy=3.611111
+2024-04-11 15:58:04,226 [INFO]  Epoch[4] Train-cross-entropy=0.032742
+2024-04-11 15:58:04,226 [INFO]  Epoch[4] Train-Recency-accuracy=3.375000
+2024-04-11 15:58:04,226 [INFO]  Epoch[4] Time cost=5.685
+2024-04-11 15:58:04,230 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 15:58:04,461 [INFO]  Epoch[4] Validation-cross-entropy=0.137786
+2024-04-11 15:58:04,461 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 15:58:04,461 [INFO]  
+========== done (28.99620485305786 s) fit model
+2024-04-11 15:59:09,027 [INFO]  
+========== start: fit model
+2024-04-11 15:59:09,028 [WARNING]  Already bound, ignoring bind()
+2024-04-11 15:59:09,047 [INFO]  Epoch[0] Batch [0-17]	Speed: 26028.99 samples/sec	cross-entropy=11.895478	Recency-accuracy=0.000000
+2024-04-11 15:59:09,075 [INFO]  Epoch[0] Train-cross-entropy=1.480824
+2024-04-11 15:59:09,075 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 15:59:09,075 [INFO]  Epoch[0] Time cost=0.047
+2024-04-11 15:59:09,077 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 15:59:09,078 [INFO]  Epoch[0] Validation-cross-entropy=2.134930
+2024-04-11 15:59:09,078 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 15:59:09,094 [INFO]  Epoch[1] Batch [0-17]	Speed: 19050.37 samples/sec	cross-entropy=0.817098	Recency-accuracy=0.000000
+2024-04-11 15:59:09,112 [INFO]  Epoch[1] Train-cross-entropy=0.260156
+2024-04-11 15:59:09,112 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 15:59:09,112 [INFO]  Epoch[1] Time cost=0.034
+2024-04-11 15:59:09,117 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 15:59:09,450 [INFO]  Epoch[1] Validation-cross-entropy=0.105961
+2024-04-11 15:59:09,450 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 15:59:11,762 [INFO]  Epoch[2] Batch [0-17]	Speed: 135.00 samples/sec	cross-entropy=0.102613	Recency-accuracy=0.000000
+2024-04-11 15:59:14,534 [INFO]  Epoch[2] Train-cross-entropy=0.078072
+2024-04-11 15:59:14,534 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 15:59:14,534 [INFO]  Epoch[2] Time cost=5.083
+2024-04-11 15:59:14,536 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 15:59:14,623 [INFO]  Epoch[2] Validation-cross-entropy=0.112344
+2024-04-11 15:59:14,623 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 15:59:18,573 [INFO]  Epoch[3] Batch [0-17]	Speed: 68.89 samples/sec	cross-entropy=0.060134	Recency-accuracy=0.000000
+2024-04-11 15:59:22,169 [INFO]  Epoch[3] Train-cross-entropy=0.047671
+2024-04-11 15:59:22,169 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 15:59:22,169 [INFO]  Epoch[3] Time cost=7.545
+2024-04-11 15:59:22,171 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 15:59:22,202 [INFO]  Epoch[3] Validation-cross-entropy=0.064176
+2024-04-11 15:59:22,203 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 15:59:24,515 [INFO]  Epoch[4] Batch [0-17]	Speed: 117.89 samples/sec	cross-entropy=0.043586	Recency-accuracy=0.000000
+2024-04-11 15:59:28,405 [INFO]  Epoch[4] Train-cross-entropy=0.037577
+2024-04-11 15:59:28,405 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 15:59:28,405 [INFO]  Epoch[4] Time cost=6.203
+2024-04-11 15:59:28,409 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 15:59:28,876 [INFO]  Epoch[4] Validation-cross-entropy=0.056437
+2024-04-11 15:59:28,876 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 15:59:28,876 [INFO]  
+========== done (19.848710775375366 s) fit model
+2024-04-11 16:00:37,887 [INFO]  
+========== start: fit model
+2024-04-11 16:00:37,887 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:00:41,028 [INFO]  Epoch[0] Batch [0-17]	Speed: 87.52 samples/sec	cross-entropy=5.589626	Recency-accuracy=0.000000
+2024-04-11 16:00:44,343 [INFO]  Epoch[0] Train-cross-entropy=1.495928
+2024-04-11 16:00:44,343 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:00:44,343 [INFO]  Epoch[0] Time cost=6.455
+2024-04-11 16:00:44,349 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:00:44,673 [INFO]  Epoch[0] Validation-cross-entropy=0.243614
+2024-04-11 16:00:44,673 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:00:47,930 [INFO]  Epoch[1] Batch [0-17]	Speed: 83.56 samples/sec	cross-entropy=0.364571	Recency-accuracy=0.000000
+2024-04-11 16:00:51,957 [INFO]  Epoch[1] Train-cross-entropy=0.248022
+2024-04-11 16:00:51,957 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:00:51,957 [INFO]  Epoch[1] Time cost=7.284
+2024-04-11 16:00:51,959 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:00:52,333 [INFO]  Epoch[1] Validation-cross-entropy=0.219143
+2024-04-11 16:00:52,333 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:00:55,788 [INFO]  Epoch[2] Batch [0-17]	Speed: 91.43 samples/sec	cross-entropy=0.302767	Recency-accuracy=0.000000
+2024-04-11 16:00:59,584 [INFO]  Epoch[2] Train-cross-entropy=0.113736
+2024-04-11 16:00:59,584 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:00:59,584 [INFO]  Epoch[2] Time cost=7.251
+2024-04-11 16:00:59,596 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:00:59,600 [INFO]  Epoch[2] Validation-cross-entropy=0.110278
+2024-04-11 16:00:59,600 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:00:59,632 [INFO]  Epoch[3] Batch [0-17]	Speed: 9099.65 samples/sec	cross-entropy=0.221881	Recency-accuracy=0.000000
+2024-04-11 16:00:59,654 [INFO]  Epoch[3] Train-cross-entropy=0.133265
+2024-04-11 16:00:59,654 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:00:59,654 [INFO]  Epoch[3] Time cost=0.054
+2024-04-11 16:00:59,656 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:00:59,657 [INFO]  Epoch[3] Validation-cross-entropy=0.163459
+2024-04-11 16:00:59,657 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:00:59,696 [INFO]  Epoch[4] Batch [0-17]	Speed: 7100.63 samples/sec	cross-entropy=0.297411	Recency-accuracy=0.000000
+2024-04-11 16:00:59,745 [INFO]  Epoch[4] Train-cross-entropy=0.168528
+2024-04-11 16:00:59,745 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:00:59,746 [INFO]  Epoch[4] Time cost=0.088
+2024-04-11 16:00:59,748 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:00:59,750 [INFO]  Epoch[4] Validation-cross-entropy=0.245022
+2024-04-11 16:00:59,750 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:00:59,750 [INFO]  
+========== done (21.86293339729309 s) fit model
+2024-04-11 16:02:54,358 [INFO]  
+========== start: fit model
+2024-04-11 16:02:54,358 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:02:57,334 [INFO]  Epoch[0] Batch [0-17]	Speed: 112.79 samples/sec	cross-entropy=7.640875	Recency-accuracy=3.166667
+2024-04-11 16:02:57,358 [INFO]  Epoch[0] Train-cross-entropy=1.019879
+2024-04-11 16:02:57,358 [INFO]  Epoch[0] Train-Recency-accuracy=4.187500
+2024-04-11 16:02:57,359 [INFO]  Epoch[0] Time cost=3.000
+2024-04-11 16:02:57,361 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:02:57,363 [INFO]  Epoch[0] Validation-cross-entropy=0.675118
+2024-04-11 16:02:57,363 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:02:57,383 [INFO]  Epoch[1] Batch [0-17]	Speed: 14724.64 samples/sec	cross-entropy=0.234434	Recency-accuracy=3.166667
+2024-04-11 16:02:57,401 [INFO]  Epoch[1] Train-cross-entropy=0.069324
+2024-04-11 16:02:57,401 [INFO]  Epoch[1] Train-Recency-accuracy=4.187500
+2024-04-11 16:02:57,401 [INFO]  Epoch[1] Time cost=0.038
+2024-04-11 16:02:57,403 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:02:57,405 [INFO]  Epoch[1] Validation-cross-entropy=0.051212
+2024-04-11 16:02:57,405 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:02:57,429 [INFO]  Epoch[2] Batch [0-17]	Speed: 12412.96 samples/sec	cross-entropy=0.033333	Recency-accuracy=3.166667
+2024-04-11 16:02:57,447 [INFO]  Epoch[2] Train-cross-entropy=0.025528
+2024-04-11 16:02:57,447 [INFO]  Epoch[2] Train-Recency-accuracy=4.187500
+2024-04-11 16:02:57,447 [INFO]  Epoch[2] Time cost=0.042
+2024-04-11 16:02:57,449 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:02:57,451 [INFO]  Epoch[2] Validation-cross-entropy=0.027301
+2024-04-11 16:02:57,451 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:02:57,480 [INFO]  Epoch[3] Batch [0-17]	Speed: 11850.53 samples/sec	cross-entropy=0.023508	Recency-accuracy=3.166667
+2024-04-11 16:02:57,498 [INFO]  Epoch[3] Train-cross-entropy=0.020709
+2024-04-11 16:02:57,498 [INFO]  Epoch[3] Train-Recency-accuracy=4.187500
+2024-04-11 16:02:57,498 [INFO]  Epoch[3] Time cost=0.047
+2024-04-11 16:02:57,500 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:02:57,502 [INFO]  Epoch[3] Validation-cross-entropy=0.018412
+2024-04-11 16:02:57,502 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:02:57,522 [INFO]  Epoch[4] Batch [0-17]	Speed: 14977.89 samples/sec	cross-entropy=0.017564	Recency-accuracy=3.166667
+2024-04-11 16:02:57,539 [INFO]  Epoch[4] Train-cross-entropy=0.018783
+2024-04-11 16:02:57,539 [INFO]  Epoch[4] Train-Recency-accuracy=4.187500
+2024-04-11 16:02:57,539 [INFO]  Epoch[4] Time cost=0.037
+2024-04-11 16:02:57,541 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:02:57,543 [INFO]  Epoch[4] Validation-cross-entropy=0.013523
+2024-04-11 16:02:57,543 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:02:57,543 [INFO]  
+========== done (3.185887336730957 s) fit model
+2024-04-11 16:04:02,467 [INFO]  
+========== start: fit model
+2024-04-11 16:04:02,467 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:04:06,201 [INFO]  Epoch[0] Batch [0-17]	Speed: 73.61 samples/sec	cross-entropy=8.016183	Recency-accuracy=3.500000
+2024-04-11 16:04:07,837 [INFO]  Epoch[0] Train-cross-entropy=0.590103
+2024-04-11 16:04:07,837 [INFO]  Epoch[0] Train-Recency-accuracy=3.500000
+2024-04-11 16:04:07,837 [INFO]  Epoch[0] Time cost=5.368
+2024-04-11 16:04:07,839 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:04:08,421 [INFO]  Epoch[0] Validation-cross-entropy=0.263854
+2024-04-11 16:04:08,421 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:04:11,450 [INFO]  Epoch[1] Batch [0-17]	Speed: 90.15 samples/sec	cross-entropy=0.192080	Recency-accuracy=3.500000
+2024-04-11 16:04:13,362 [INFO]  Epoch[1] Train-cross-entropy=0.150071
+2024-04-11 16:04:13,362 [INFO]  Epoch[1] Train-Recency-accuracy=3.500000
+2024-04-11 16:04:13,363 [INFO]  Epoch[1] Time cost=4.942
+2024-04-11 16:04:13,364 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:04:14,078 [INFO]  Epoch[1] Validation-cross-entropy=0.071585
+2024-04-11 16:04:14,078 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:04:16,185 [INFO]  Epoch[2] Batch [0-17]	Speed: 154.95 samples/sec	cross-entropy=0.044094	Recency-accuracy=3.500000
+2024-04-11 16:04:19,765 [INFO]  Epoch[2] Train-cross-entropy=0.029006
+2024-04-11 16:04:19,765 [INFO]  Epoch[2] Train-Recency-accuracy=3.500000
+2024-04-11 16:04:19,765 [INFO]  Epoch[2] Time cost=5.687
+2024-04-11 16:04:19,767 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:04:20,090 [INFO]  Epoch[2] Validation-cross-entropy=0.021726
+2024-04-11 16:04:20,090 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:04:24,330 [INFO]  Epoch[3] Batch [0-17]	Speed: 64.19 samples/sec	cross-entropy=0.019410	Recency-accuracy=3.500000
+2024-04-11 16:04:26,079 [INFO]  Epoch[3] Train-cross-entropy=0.015314
+2024-04-11 16:04:26,079 [INFO]  Epoch[3] Train-Recency-accuracy=3.500000
+2024-04-11 16:04:26,079 [INFO]  Epoch[3] Time cost=5.989
+2024-04-11 16:04:26,085 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:04:26,601 [INFO]  Epoch[3] Validation-cross-entropy=0.012125
+2024-04-11 16:04:26,601 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:04:30,880 [INFO]  Epoch[4] Batch [0-17]	Speed: 70.93 samples/sec	cross-entropy=0.013217	Recency-accuracy=3.500000
+2024-04-11 16:04:35,333 [INFO]  Epoch[4] Train-cross-entropy=0.011282
+2024-04-11 16:04:35,333 [INFO]  Epoch[4] Train-Recency-accuracy=3.500000
+2024-04-11 16:04:35,333 [INFO]  Epoch[4] Time cost=8.732
+2024-04-11 16:04:35,337 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:04:36,070 [INFO]  Epoch[4] Validation-cross-entropy=0.007945
+2024-04-11 16:04:36,070 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:04:36,070 [INFO]  
+========== done (33.6033456325531 s) fit model
+2024-04-11 16:05:57,605 [INFO]  
+========== start: fit model
+2024-04-11 16:05:57,605 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:06:01,282 [INFO]  Epoch[0] Batch [0-17]	Speed: 75.96 samples/sec	cross-entropy=7.529053	Recency-accuracy=0.000000
+2024-04-11 16:06:05,730 [INFO]  Epoch[0] Train-cross-entropy=1.842580
+2024-04-11 16:06:05,730 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:06:05,730 [INFO]  Epoch[0] Time cost=8.124
+2024-04-11 16:06:05,733 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:06:06,226 [INFO]  Epoch[0] Validation-cross-entropy=0.530786
+2024-04-11 16:06:06,226 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:06:11,511 [INFO]  Epoch[1] Batch [0-17]	Speed: 51.77 samples/sec	cross-entropy=0.358954	Recency-accuracy=0.000000
+2024-04-11 16:06:15,480 [INFO]  Epoch[1] Train-cross-entropy=0.090343
+2024-04-11 16:06:15,480 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:06:15,480 [INFO]  Epoch[1] Time cost=9.254
+2024-04-11 16:06:15,482 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:06:15,571 [INFO]  Epoch[1] Validation-cross-entropy=0.124747
+2024-04-11 16:06:15,571 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:06:17,353 [INFO]  Epoch[2] Batch [0-17]	Speed: 152.80 samples/sec	cross-entropy=0.057517	Recency-accuracy=0.000000
+2024-04-11 16:06:22,025 [INFO]  Epoch[2] Train-cross-entropy=0.045741
+2024-04-11 16:06:22,025 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:06:22,025 [INFO]  Epoch[2] Time cost=6.454
+2024-04-11 16:06:22,027 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:06:22,581 [INFO]  Epoch[2] Validation-cross-entropy=0.084178
+2024-04-11 16:06:22,581 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:06:26,548 [INFO]  Epoch[3] Batch [0-17]	Speed: 70.01 samples/sec	cross-entropy=0.042572	Recency-accuracy=0.000000
+2024-04-11 16:06:28,927 [INFO]  Epoch[3] Train-cross-entropy=0.021185
+2024-04-11 16:06:28,928 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:06:28,928 [INFO]  Epoch[3] Time cost=6.347
+2024-04-11 16:06:28,933 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:06:29,476 [INFO]  Epoch[3] Validation-cross-entropy=0.041323
+2024-04-11 16:06:29,476 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:06:32,513 [INFO]  Epoch[4] Batch [0-17]	Speed: 91.02 samples/sec	cross-entropy=0.023988	Recency-accuracy=0.000000
+2024-04-11 16:06:35,894 [INFO]  Epoch[4] Train-cross-entropy=0.014119
+2024-04-11 16:06:35,894 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:06:35,894 [INFO]  Epoch[4] Time cost=6.418
+2024-04-11 16:06:35,896 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:06:36,425 [INFO]  Epoch[4] Validation-cross-entropy=0.032845
+2024-04-11 16:06:36,425 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:06:36,425 [INFO]  
+========== done (38.82033586502075 s) fit model
+2024-04-11 16:07:42,045 [INFO]  
+========== start: fit model
+2024-04-11 16:07:42,046 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:07:46,434 [INFO]  Epoch[0] Batch [0-17]	Speed: 71.72 samples/sec	cross-entropy=6.827221	Recency-accuracy=3.944444
+2024-04-11 16:07:49,759 [INFO]  Epoch[0] Train-cross-entropy=1.019178
+2024-04-11 16:07:49,760 [INFO]  Epoch[0] Train-Recency-accuracy=3.250000
+2024-04-11 16:07:49,760 [INFO]  Epoch[0] Time cost=7.713
+2024-04-11 16:07:49,767 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:07:50,006 [INFO]  Epoch[0] Validation-cross-entropy=2.632231
+2024-04-11 16:07:50,006 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:07:53,774 [INFO]  Epoch[1] Batch [0-17]	Speed: 72.23 samples/sec	cross-entropy=0.531599	Recency-accuracy=3.944444
+2024-04-11 16:07:55,015 [INFO]  Epoch[1] Train-cross-entropy=0.120757
+2024-04-11 16:07:55,016 [INFO]  Epoch[1] Train-Recency-accuracy=3.250000
+2024-04-11 16:07:55,016 [INFO]  Epoch[1] Time cost=5.009
+2024-04-11 16:07:55,021 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:07:55,382 [INFO]  Epoch[1] Validation-cross-entropy=0.163632
+2024-04-11 16:07:55,382 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:07:58,801 [INFO]  Epoch[2] Batch [0-17]	Speed: 89.47 samples/sec	cross-entropy=0.067658	Recency-accuracy=3.944444
+2024-04-11 16:08:00,816 [INFO]  Epoch[2] Train-cross-entropy=0.040394
+2024-04-11 16:08:00,816 [INFO]  Epoch[2] Train-Recency-accuracy=3.250000
+2024-04-11 16:08:00,816 [INFO]  Epoch[2] Time cost=5.434
+2024-04-11 16:08:00,825 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:08:00,992 [INFO]  Epoch[2] Validation-cross-entropy=0.073293
+2024-04-11 16:08:00,993 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:08:05,023 [INFO]  Epoch[3] Batch [0-17]	Speed: 74.78 samples/sec	cross-entropy=0.033403	Recency-accuracy=3.944444
+2024-04-11 16:08:06,588 [INFO]  Epoch[3] Train-cross-entropy=0.027165
+2024-04-11 16:08:06,592 [INFO]  Epoch[3] Train-Recency-accuracy=3.250000
+2024-04-11 16:08:06,592 [INFO]  Epoch[3] Time cost=5.600
+2024-04-11 16:08:06,594 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:08:07,009 [INFO]  Epoch[3] Validation-cross-entropy=0.040927
+2024-04-11 16:08:07,009 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:08:07,612 [INFO]  Epoch[4] Batch [0-17]	Speed: 909.07 samples/sec	cross-entropy=0.021273	Recency-accuracy=3.944444
+2024-04-11 16:08:10,416 [INFO]  Epoch[4] Train-cross-entropy=0.018916
+2024-04-11 16:08:10,416 [INFO]  Epoch[4] Train-Recency-accuracy=3.250000
+2024-04-11 16:08:10,416 [INFO]  Epoch[4] Time cost=3.408
+2024-04-11 16:08:10,422 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:08:10,748 [INFO]  Epoch[4] Validation-cross-entropy=0.025817
+2024-04-11 16:08:10,748 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:08:10,748 [INFO]  
+========== done (28.70245862007141 s) fit model
+2024-04-11 16:09:30,465 [INFO]  
+========== start: fit model
+2024-04-11 16:09:30,465 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:09:30,503 [INFO]  Epoch[0] Batch [0-17]	Speed: 8152.31 samples/sec	cross-entropy=4.990360	Recency-accuracy=0.000000
+2024-04-11 16:09:30,515 [INFO]  Epoch[0] Train-cross-entropy=0.629831
+2024-04-11 16:09:30,515 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:09:30,515 [INFO]  Epoch[0] Time cost=0.050
+2024-04-11 16:09:30,517 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:09:30,519 [INFO]  Epoch[0] Validation-cross-entropy=0.248664
+2024-04-11 16:09:30,519 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:09:30,536 [INFO]  Epoch[1] Batch [0-17]	Speed: 16149.52 samples/sec	cross-entropy=0.222781	Recency-accuracy=0.000000
+2024-04-11 16:09:30,569 [INFO]  Epoch[1] Train-cross-entropy=0.084790
+2024-04-11 16:09:30,569 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:09:30,569 [INFO]  Epoch[1] Time cost=0.050
+2024-04-11 16:09:30,570 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:09:30,572 [INFO]  Epoch[1] Validation-cross-entropy=0.071413
+2024-04-11 16:09:30,572 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:09:32,270 [INFO]  Epoch[2] Batch [0-17]	Speed: 160.21 samples/sec	cross-entropy=0.057254	Recency-accuracy=0.000000
+2024-04-11 16:09:34,027 [INFO]  Epoch[2] Train-cross-entropy=0.041806
+2024-04-11 16:09:34,027 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:09:34,027 [INFO]  Epoch[2] Time cost=3.456
+2024-04-11 16:09:34,033 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:09:34,413 [INFO]  Epoch[2] Validation-cross-entropy=0.039257
+2024-04-11 16:09:34,413 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:09:38,111 [INFO]  Epoch[3] Batch [0-17]	Speed: 82.75 samples/sec	cross-entropy=0.029892	Recency-accuracy=0.000000
+2024-04-11 16:09:40,220 [INFO]  Epoch[3] Train-cross-entropy=0.023876
+2024-04-11 16:09:40,220 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:09:40,220 [INFO]  Epoch[3] Time cost=5.807
+2024-04-11 16:09:40,222 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:09:40,792 [INFO]  Epoch[3] Validation-cross-entropy=0.027579
+2024-04-11 16:09:40,793 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:09:44,287 [INFO]  Epoch[4] Batch [0-17]	Speed: 85.64 samples/sec	cross-entropy=0.020693	Recency-accuracy=0.000000
+2024-04-11 16:09:47,085 [INFO]  Epoch[4] Train-cross-entropy=0.014146
+2024-04-11 16:09:47,085 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:09:47,086 [INFO]  Epoch[4] Time cost=6.293
+2024-04-11 16:09:47,087 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:09:47,489 [INFO]  Epoch[4] Validation-cross-entropy=0.018833
+2024-04-11 16:09:47,489 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:09:47,489 [INFO]  
+========== done (17.024627208709717 s) fit model
+2024-04-11 16:11:19,081 [INFO]  
+========== start: fit model
+2024-04-11 16:11:19,081 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:11:23,397 [INFO]  Epoch[0] Batch [0-17]	Speed: 64.49 samples/sec	cross-entropy=1.702346	Recency-accuracy=0.000000
+2024-04-11 16:11:23,650 [INFO]  Epoch[0] Train-cross-entropy=0.264492
+2024-04-11 16:11:23,651 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:11:23,651 [INFO]  Epoch[0] Time cost=4.569
+2024-04-11 16:11:23,652 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:11:23,734 [INFO]  Epoch[0] Validation-cross-entropy=0.062239
+2024-04-11 16:11:23,734 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:11:23,754 [INFO]  Epoch[1] Batch [0-17]	Speed: 15138.68 samples/sec	cross-entropy=0.096474	Recency-accuracy=0.000000
+2024-04-11 16:11:23,777 [INFO]  Epoch[1] Train-cross-entropy=0.039010
+2024-04-11 16:11:23,777 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:11:23,777 [INFO]  Epoch[1] Time cost=0.043
+2024-04-11 16:11:23,781 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:11:23,830 [INFO]  Epoch[1] Validation-cross-entropy=0.024960
+2024-04-11 16:11:23,830 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:11:23,873 [INFO]  Epoch[2] Batch [0-17]	Speed: 6556.39 samples/sec	cross-entropy=0.033853	Recency-accuracy=0.000000
+2024-04-11 16:11:23,893 [INFO]  Epoch[2] Train-cross-entropy=0.012751
+2024-04-11 16:11:23,893 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:11:23,893 [INFO]  Epoch[2] Time cost=0.063
+2024-04-11 16:11:23,895 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:11:23,901 [INFO]  Epoch[2] Validation-cross-entropy=0.010955
+2024-04-11 16:11:23,901 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:11:23,962 [INFO]  Epoch[3] Batch [0-17]	Speed: 4551.06 samples/sec	cross-entropy=0.011450	Recency-accuracy=0.000000
+2024-04-11 16:11:24,368 [INFO]  Epoch[3] Train-cross-entropy=0.016051
+2024-04-11 16:11:24,369 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:11:24,369 [INFO]  Epoch[3] Time cost=0.468
+2024-04-11 16:11:24,371 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:11:24,913 [INFO]  Epoch[3] Validation-cross-entropy=0.014377
+2024-04-11 16:11:24,913 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:11:29,785 [INFO]  Epoch[4] Batch [0-17]	Speed: 61.99 samples/sec	cross-entropy=0.012951	Recency-accuracy=0.000000
+2024-04-11 16:11:33,669 [INFO]  Epoch[4] Train-cross-entropy=0.010496
+2024-04-11 16:11:33,669 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:11:33,669 [INFO]  Epoch[4] Time cost=8.756
+2024-04-11 16:11:33,671 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:11:34,253 [INFO]  Epoch[4] Validation-cross-entropy=0.005802
+2024-04-11 16:11:34,253 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:11:34,253 [INFO]  
+========== done (15.17214560508728 s) fit model
+2024-04-11 16:12:24,681 [INFO]  
+========== start: fit model
+2024-04-11 16:12:24,681 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:12:24,696 [INFO]  Epoch[0] Batch [0-17]	Speed: 20815.78 samples/sec	cross-entropy=4.117265	Recency-accuracy=3.388889
+2024-04-11 16:12:24,751 [INFO]  Epoch[0] Train-cross-entropy=0.338024
+2024-04-11 16:12:24,751 [INFO]  Epoch[0] Train-Recency-accuracy=3.312500
+2024-04-11 16:12:24,751 [INFO]  Epoch[0] Time cost=0.069
+2024-04-11 16:12:24,752 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:12:24,754 [INFO]  Epoch[0] Validation-cross-entropy=0.362480
+2024-04-11 16:12:24,754 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:24,780 [INFO]  Epoch[1] Batch [0-17]	Speed: 24357.89 samples/sec	cross-entropy=0.151860	Recency-accuracy=3.388889
+2024-04-11 16:12:24,791 [INFO]  Epoch[1] Train-cross-entropy=0.074583
+2024-04-11 16:12:24,791 [INFO]  Epoch[1] Train-Recency-accuracy=3.312500
+2024-04-11 16:12:24,791 [INFO]  Epoch[1] Time cost=0.037
+2024-04-11 16:12:24,793 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:12:24,794 [INFO]  Epoch[1] Validation-cross-entropy=0.087366
+2024-04-11 16:12:24,794 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:24,897 [INFO]  Epoch[2] Batch [0-17]	Speed: 2674.17 samples/sec	cross-entropy=0.042624	Recency-accuracy=3.388889
+2024-04-11 16:12:24,912 [INFO]  Epoch[2] Train-cross-entropy=0.024358
+2024-04-11 16:12:24,913 [INFO]  Epoch[2] Train-Recency-accuracy=3.312500
+2024-04-11 16:12:24,913 [INFO]  Epoch[2] Time cost=0.119
+2024-04-11 16:12:24,915 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:12:24,917 [INFO]  Epoch[2] Validation-cross-entropy=0.032753
+2024-04-11 16:12:24,917 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:24,938 [INFO]  Epoch[3] Batch [0-17]	Speed: 13382.10 samples/sec	cross-entropy=0.019606	Recency-accuracy=3.388889
+2024-04-11 16:12:24,949 [INFO]  Epoch[3] Train-cross-entropy=0.014077
+2024-04-11 16:12:24,949 [INFO]  Epoch[3] Train-Recency-accuracy=3.312500
+2024-04-11 16:12:24,949 [INFO]  Epoch[3] Time cost=0.032
+2024-04-11 16:12:24,950 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:12:24,952 [INFO]  Epoch[3] Validation-cross-entropy=0.016752
+2024-04-11 16:12:24,952 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:25,133 [INFO]  Epoch[4] Batch [0-17]	Speed: 1511.25 samples/sec	cross-entropy=0.011414	Recency-accuracy=3.388889
+2024-04-11 16:12:25,325 [INFO]  Epoch[4] Train-cross-entropy=0.008939
+2024-04-11 16:12:25,325 [INFO]  Epoch[4] Train-Recency-accuracy=3.312500
+2024-04-11 16:12:25,325 [INFO]  Epoch[4] Time cost=0.373
+2024-04-11 16:12:25,327 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:12:25,328 [INFO]  Epoch[4] Validation-cross-entropy=0.012492
+2024-04-11 16:12:25,328 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:25,328 [INFO]  
+========== done (0.6475586891174316 s) fit model
+2024-04-11 16:12:27,315 [INFO]  
+========== start: fit model
+2024-04-11 16:12:27,315 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:12:27,371 [INFO]  Epoch[0] Batch [0-17]	Speed: 16161.88 samples/sec	cross-entropy=5.003385	Recency-accuracy=0.000000
+2024-04-11 16:12:27,402 [INFO]  Epoch[0] Train-cross-entropy=1.602340
+2024-04-11 16:12:27,402 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:27,402 [INFO]  Epoch[0] Time cost=0.086
+2024-04-11 16:12:27,404 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:12:27,407 [INFO]  Epoch[0] Validation-cross-entropy=0.171097
+2024-04-11 16:12:27,408 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:27,425 [INFO]  Epoch[1] Batch [0-17]	Speed: 19172.35 samples/sec	cross-entropy=0.315555	Recency-accuracy=0.000000
+2024-04-11 16:12:27,437 [INFO]  Epoch[1] Train-cross-entropy=0.081989
+2024-04-11 16:12:27,437 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:27,437 [INFO]  Epoch[1] Time cost=0.029
+2024-04-11 16:12:27,439 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:12:27,440 [INFO]  Epoch[1] Validation-cross-entropy=0.050004
+2024-04-11 16:12:27,440 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:27,508 [INFO]  Epoch[2] Batch [0-17]	Speed: 5375.44 samples/sec	cross-entropy=0.028619	Recency-accuracy=0.000000
+2024-04-11 16:12:27,545 [INFO]  Epoch[2] Train-cross-entropy=0.022447
+2024-04-11 16:12:27,545 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:27,545 [INFO]  Epoch[2] Time cost=0.104
+2024-04-11 16:12:27,546 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:12:27,548 [INFO]  Epoch[2] Validation-cross-entropy=0.016218
+2024-04-11 16:12:27,548 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:27,575 [INFO]  Epoch[3] Batch [0-17]	Speed: 10257.42 samples/sec	cross-entropy=0.022787	Recency-accuracy=0.000000
+2024-04-11 16:12:27,589 [INFO]  Epoch[3] Train-cross-entropy=0.017226
+2024-04-11 16:12:27,590 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:27,590 [INFO]  Epoch[3] Time cost=0.042
+2024-04-11 16:12:27,592 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:12:27,593 [INFO]  Epoch[3] Validation-cross-entropy=0.011066
+2024-04-11 16:12:27,593 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:27,630 [INFO]  Epoch[4] Batch [0-17]	Speed: 7572.50 samples/sec	cross-entropy=0.017292	Recency-accuracy=0.000000
+2024-04-11 16:12:27,677 [INFO]  Epoch[4] Train-cross-entropy=0.012801
+2024-04-11 16:12:27,678 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:27,678 [INFO]  Epoch[4] Time cost=0.084
+2024-04-11 16:12:27,679 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:12:27,681 [INFO]  Epoch[4] Validation-cross-entropy=0.009206
+2024-04-11 16:12:27,681 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:27,681 [INFO]  
+========== done (0.36675262451171875 s) fit model
+2024-04-11 16:12:29,975 [INFO]  
+========== start: fit model
+2024-04-11 16:12:29,975 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:12:29,991 [INFO]  Epoch[0] Batch [0-17]	Speed: 20575.15 samples/sec	cross-entropy=1.513124	Recency-accuracy=0.000000
+2024-04-11 16:12:30,025 [INFO]  Epoch[0] Train-cross-entropy=0.338016
+2024-04-11 16:12:30,025 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:30,025 [INFO]  Epoch[0] Time cost=0.049
+2024-04-11 16:12:30,026 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:12:30,028 [INFO]  Epoch[0] Validation-cross-entropy=0.279986
+2024-04-11 16:12:30,028 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:30,055 [INFO]  Epoch[1] Batch [0-17]	Speed: 10401.16 samples/sec	cross-entropy=0.253450	Recency-accuracy=0.000000
+2024-04-11 16:12:30,116 [INFO]  Epoch[1] Train-cross-entropy=0.095583
+2024-04-11 16:12:30,117 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:30,117 [INFO]  Epoch[1] Time cost=0.089
+2024-04-11 16:12:30,118 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:12:30,162 [INFO]  Epoch[1] Validation-cross-entropy=0.050564
+2024-04-11 16:12:30,162 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:30,192 [INFO]  Epoch[2] Batch [0-17]	Speed: 9385.24 samples/sec	cross-entropy=0.072391	Recency-accuracy=0.000000
+2024-04-11 16:12:30,212 [INFO]  Epoch[2] Train-cross-entropy=0.056435
+2024-04-11 16:12:30,212 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:30,212 [INFO]  Epoch[2] Time cost=0.050
+2024-04-11 16:12:30,214 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:12:30,215 [INFO]  Epoch[2] Validation-cross-entropy=0.045265
+2024-04-11 16:12:30,215 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:30,233 [INFO]  Epoch[3] Batch [0-17]	Speed: 16464.63 samples/sec	cross-entropy=0.028212	Recency-accuracy=0.000000
+2024-04-11 16:12:30,249 [INFO]  Epoch[3] Train-cross-entropy=0.016804
+2024-04-11 16:12:30,249 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:30,249 [INFO]  Epoch[3] Time cost=0.034
+2024-04-11 16:12:30,251 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:12:30,253 [INFO]  Epoch[3] Validation-cross-entropy=0.021079
+2024-04-11 16:12:30,253 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:30,272 [INFO]  Epoch[4] Batch [0-17]	Speed: 15103.40 samples/sec	cross-entropy=0.015802	Recency-accuracy=0.000000
+2024-04-11 16:12:30,294 [INFO]  Epoch[4] Train-cross-entropy=0.015508
+2024-04-11 16:12:30,294 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:30,294 [INFO]  Epoch[4] Time cost=0.041
+2024-04-11 16:12:30,296 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:12:30,298 [INFO]  Epoch[4] Validation-cross-entropy=0.012836
+2024-04-11 16:12:30,298 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:30,298 [INFO]  
+========== done (0.32285547256469727 s) fit model
+2024-04-11 16:12:33,431 [INFO]  
+========== start: fit model
+2024-04-11 16:12:33,431 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:12:33,472 [INFO]  Epoch[0] Batch [0-17]	Speed: 7028.58 samples/sec	cross-entropy=3.973133	Recency-accuracy=3.944444
+2024-04-11 16:12:33,513 [INFO]  Epoch[0] Train-cross-entropy=0.634201
+2024-04-11 16:12:33,513 [INFO]  Epoch[0] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:33,513 [INFO]  Epoch[0] Time cost=0.081
+2024-04-11 16:12:33,515 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:12:33,517 [INFO]  Epoch[0] Validation-cross-entropy=0.251380
+2024-04-11 16:12:33,517 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:33,645 [INFO]  Epoch[1] Batch [0-17]	Speed: 2156.45 samples/sec	cross-entropy=0.219443	Recency-accuracy=3.944444
+2024-04-11 16:12:33,664 [INFO]  Epoch[1] Train-cross-entropy=0.078252
+2024-04-11 16:12:33,664 [INFO]  Epoch[1] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:33,664 [INFO]  Epoch[1] Time cost=0.147
+2024-04-11 16:12:33,666 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:12:33,668 [INFO]  Epoch[1] Validation-cross-entropy=0.066712
+2024-04-11 16:12:33,668 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:33,814 [INFO]  Epoch[2] Batch [0-17]	Speed: 1882.26 samples/sec	cross-entropy=0.051102	Recency-accuracy=3.944444
+2024-04-11 16:12:33,834 [INFO]  Epoch[2] Train-cross-entropy=0.027776
+2024-04-11 16:12:33,835 [INFO]  Epoch[2] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:33,835 [INFO]  Epoch[2] Time cost=0.167
+2024-04-11 16:12:33,836 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:12:33,838 [INFO]  Epoch[2] Validation-cross-entropy=0.073535
+2024-04-11 16:12:33,838 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:33,916 [INFO]  Epoch[3] Batch [0-17]	Speed: 3575.06 samples/sec	cross-entropy=0.026399	Recency-accuracy=3.944444
+2024-04-11 16:12:33,980 [INFO]  Epoch[3] Train-cross-entropy=0.018228
+2024-04-11 16:12:33,980 [INFO]  Epoch[3] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:33,980 [INFO]  Epoch[3] Time cost=0.142
+2024-04-11 16:12:33,982 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:12:33,983 [INFO]  Epoch[3] Validation-cross-entropy=0.046747
+2024-04-11 16:12:33,983 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:34,013 [INFO]  Epoch[4] Batch [0-17]	Speed: 9315.58 samples/sec	cross-entropy=0.015715	Recency-accuracy=3.944444
+2024-04-11 16:12:34,057 [INFO]  Epoch[4] Train-cross-entropy=0.012457
+2024-04-11 16:12:34,057 [INFO]  Epoch[4] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:34,057 [INFO]  Epoch[4] Time cost=0.074
+2024-04-11 16:12:34,059 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:12:34,061 [INFO]  Epoch[4] Validation-cross-entropy=0.030559
+2024-04-11 16:12:34,061 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:34,061 [INFO]  
+========== done (0.6295397281646729 s) fit model
+2024-04-11 16:12:36,320 [INFO]  
+========== start: fit model
+2024-04-11 16:12:36,321 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:12:36,380 [INFO]  Epoch[0] Batch [0-17]	Speed: 5904.96 samples/sec	cross-entropy=6.157282	Recency-accuracy=3.722222
+2024-04-11 16:12:36,504 [INFO]  Epoch[0] Train-cross-entropy=0.833318
+2024-04-11 16:12:36,505 [INFO]  Epoch[0] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:36,505 [INFO]  Epoch[0] Time cost=0.183
+2024-04-11 16:12:36,506 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:12:36,508 [INFO]  Epoch[0] Validation-cross-entropy=0.330955
+2024-04-11 16:12:36,508 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:36,535 [INFO]  Epoch[1] Batch [0-17]	Speed: 10811.60 samples/sec	cross-entropy=0.252083	Recency-accuracy=3.722222
+2024-04-11 16:12:36,552 [INFO]  Epoch[1] Train-cross-entropy=0.176160
+2024-04-11 16:12:36,552 [INFO]  Epoch[1] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:36,552 [INFO]  Epoch[1] Time cost=0.043
+2024-04-11 16:12:36,554 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:12:36,556 [INFO]  Epoch[1] Validation-cross-entropy=0.049006
+2024-04-11 16:12:36,556 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:36,579 [INFO]  Epoch[2] Batch [0-17]	Speed: 12759.91 samples/sec	cross-entropy=0.065353	Recency-accuracy=3.722222
+2024-04-11 16:12:36,600 [INFO]  Epoch[2] Train-cross-entropy=0.032868
+2024-04-11 16:12:36,600 [INFO]  Epoch[2] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:36,600 [INFO]  Epoch[2] Time cost=0.044
+2024-04-11 16:12:36,602 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:12:36,604 [INFO]  Epoch[2] Validation-cross-entropy=0.016083
+2024-04-11 16:12:36,604 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:36,620 [INFO]  Epoch[3] Batch [0-17]	Speed: 19496.39 samples/sec	cross-entropy=0.027136	Recency-accuracy=3.722222
+2024-04-11 16:12:36,631 [INFO]  Epoch[3] Train-cross-entropy=0.018760
+2024-04-11 16:12:36,631 [INFO]  Epoch[3] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:36,631 [INFO]  Epoch[3] Time cost=0.027
+2024-04-11 16:12:36,633 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:12:36,639 [INFO]  Epoch[3] Validation-cross-entropy=0.011894
+2024-04-11 16:12:36,639 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:36,658 [INFO]  Epoch[4] Batch [0-17]	Speed: 14769.44 samples/sec	cross-entropy=0.020001	Recency-accuracy=3.722222
+2024-04-11 16:12:36,674 [INFO]  Epoch[4] Train-cross-entropy=0.013722
+2024-04-11 16:12:36,674 [INFO]  Epoch[4] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:36,674 [INFO]  Epoch[4] Time cost=0.035
+2024-04-11 16:12:36,676 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:12:36,702 [INFO]  Epoch[4] Validation-cross-entropy=0.011690
+2024-04-11 16:12:36,702 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:36,702 [INFO]  
+========== done (0.381511926651001 s) fit model
+2024-04-11 16:12:39,042 [INFO]  
+========== start: fit model
+2024-04-11 16:12:39,042 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:12:39,056 [INFO]  Epoch[0] Batch [0-17]	Speed: 27561.44 samples/sec	cross-entropy=3.058197	Recency-accuracy=3.611111
+2024-04-11 16:12:39,076 [INFO]  Epoch[0] Train-cross-entropy=0.545250
+2024-04-11 16:12:39,076 [INFO]  Epoch[0] Train-Recency-accuracy=3.062500
+2024-04-11 16:12:39,076 [INFO]  Epoch[0] Time cost=0.033
+2024-04-11 16:12:39,078 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:12:39,081 [INFO]  Epoch[0] Validation-cross-entropy=0.167367
+2024-04-11 16:12:39,081 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:39,115 [INFO]  Epoch[1] Batch [0-17]	Speed: 8362.60 samples/sec	cross-entropy=0.242756	Recency-accuracy=3.611111
+2024-04-11 16:12:39,124 [INFO]  Epoch[1] Train-cross-entropy=0.113176
+2024-04-11 16:12:39,124 [INFO]  Epoch[1] Train-Recency-accuracy=3.062500
+2024-04-11 16:12:39,124 [INFO]  Epoch[1] Time cost=0.043
+2024-04-11 16:12:39,126 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:12:39,127 [INFO]  Epoch[1] Validation-cross-entropy=0.050139
+2024-04-11 16:12:39,127 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:39,138 [INFO]  Epoch[2] Batch [0-17]	Speed: 27910.04 samples/sec	cross-entropy=0.056777	Recency-accuracy=3.611111
+2024-04-11 16:12:39,152 [INFO]  Epoch[2] Train-cross-entropy=0.035307
+2024-04-11 16:12:39,152 [INFO]  Epoch[2] Train-Recency-accuracy=3.062500
+2024-04-11 16:12:39,152 [INFO]  Epoch[2] Time cost=0.025
+2024-04-11 16:12:39,156 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:12:39,162 [INFO]  Epoch[2] Validation-cross-entropy=0.025232
+2024-04-11 16:12:39,162 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:39,209 [INFO]  Epoch[3] Batch [0-17]	Speed: 5920.38 samples/sec	cross-entropy=0.024748	Recency-accuracy=3.611111
+2024-04-11 16:12:39,224 [INFO]  Epoch[3] Train-cross-entropy=0.020223
+2024-04-11 16:12:39,224 [INFO]  Epoch[3] Train-Recency-accuracy=3.062500
+2024-04-11 16:12:39,224 [INFO]  Epoch[3] Time cost=0.062
+2024-04-11 16:12:39,226 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:12:39,228 [INFO]  Epoch[3] Validation-cross-entropy=0.015126
+2024-04-11 16:12:39,228 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:39,246 [INFO]  Epoch[4] Batch [0-17]	Speed: 16786.84 samples/sec	cross-entropy=0.012496	Recency-accuracy=3.611111
+2024-04-11 16:12:39,492 [INFO]  Epoch[4] Train-cross-entropy=0.011385
+2024-04-11 16:12:39,492 [INFO]  Epoch[4] Train-Recency-accuracy=3.062500
+2024-04-11 16:12:39,492 [INFO]  Epoch[4] Time cost=0.264
+2024-04-11 16:12:39,494 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:12:39,496 [INFO]  Epoch[4] Validation-cross-entropy=0.011683
+2024-04-11 16:12:39,496 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:39,496 [INFO]  
+========== done (0.45403170585632324 s) fit model
+2024-04-11 16:12:41,800 [INFO]  
+========== start: fit model
+2024-04-11 16:12:41,800 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:12:41,812 [INFO]  Epoch[0] Batch [0-17]	Speed: 27717.46 samples/sec	cross-entropy=2.139918	Recency-accuracy=0.000000
+2024-04-11 16:12:41,864 [INFO]  Epoch[0] Train-cross-entropy=0.297690
+2024-04-11 16:12:41,864 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:41,864 [INFO]  Epoch[0] Time cost=0.063
+2024-04-11 16:12:41,866 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:12:41,868 [INFO]  Epoch[0] Validation-cross-entropy=0.861217
+2024-04-11 16:12:41,868 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:41,891 [INFO]  Epoch[1] Batch [0-17]	Speed: 12212.84 samples/sec	cross-entropy=0.192509	Recency-accuracy=0.000000
+2024-04-11 16:12:41,925 [INFO]  Epoch[1] Train-cross-entropy=0.053671
+2024-04-11 16:12:41,925 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:41,925 [INFO]  Epoch[1] Time cost=0.057
+2024-04-11 16:12:41,927 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:12:41,933 [INFO]  Epoch[1] Validation-cross-entropy=0.107284
+2024-04-11 16:12:41,933 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:41,953 [INFO]  Epoch[2] Batch [0-17]	Speed: 14211.25 samples/sec	cross-entropy=0.056396	Recency-accuracy=0.000000
+2024-04-11 16:12:41,973 [INFO]  Epoch[2] Train-cross-entropy=0.021463
+2024-04-11 16:12:41,973 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:41,973 [INFO]  Epoch[2] Time cost=0.040
+2024-04-11 16:12:41,975 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:12:41,977 [INFO]  Epoch[2] Validation-cross-entropy=0.038063
+2024-04-11 16:12:41,977 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:42,002 [INFO]  Epoch[3] Batch [0-17]	Speed: 11285.72 samples/sec	cross-entropy=0.021659	Recency-accuracy=0.000000
+2024-04-11 16:12:42,018 [INFO]  Epoch[3] Train-cross-entropy=0.010469
+2024-04-11 16:12:42,018 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:42,018 [INFO]  Epoch[3] Time cost=0.041
+2024-04-11 16:12:42,020 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:12:42,042 [INFO]  Epoch[3] Validation-cross-entropy=0.022904
+2024-04-11 16:12:42,042 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:42,064 [INFO]  Epoch[4] Batch [0-17]	Speed: 13141.78 samples/sec	cross-entropy=0.012577	Recency-accuracy=0.000000
+2024-04-11 16:12:42,073 [INFO]  Epoch[4] Train-cross-entropy=0.007256
+2024-04-11 16:12:42,073 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:42,073 [INFO]  Epoch[4] Time cost=0.031
+2024-04-11 16:12:42,074 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:12:42,075 [INFO]  Epoch[4] Validation-cross-entropy=0.015439
+2024-04-11 16:12:42,076 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:42,076 [INFO]  
+========== done (0.2755265235900879 s) fit model
+2024-04-11 16:12:44,105 [INFO]  
+========== start: fit model
+2024-04-11 16:12:44,105 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:12:44,128 [INFO]  Epoch[0] Batch [0-17]	Speed: 17809.10 samples/sec	cross-entropy=4.603803	Recency-accuracy=3.888889
+2024-04-11 16:12:44,178 [INFO]  Epoch[0] Train-cross-entropy=0.503419
+2024-04-11 16:12:44,178 [INFO]  Epoch[0] Train-Recency-accuracy=3.812500
+2024-04-11 16:12:44,178 [INFO]  Epoch[0] Time cost=0.072
+2024-04-11 16:12:44,180 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:12:44,181 [INFO]  Epoch[0] Validation-cross-entropy=0.067547
+2024-04-11 16:12:44,181 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:44,209 [INFO]  Epoch[1] Batch [0-17]	Speed: 14220.99 samples/sec	cross-entropy=0.093914	Recency-accuracy=3.888889
+2024-04-11 16:12:44,221 [INFO]  Epoch[1] Train-cross-entropy=0.019844
+2024-04-11 16:12:44,221 [INFO]  Epoch[1] Train-Recency-accuracy=3.812500
+2024-04-11 16:12:44,221 [INFO]  Epoch[1] Time cost=0.040
+2024-04-11 16:12:44,223 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:12:44,224 [INFO]  Epoch[1] Validation-cross-entropy=0.017874
+2024-04-11 16:12:44,224 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:44,511 [INFO]  Epoch[2] Batch [0-17]	Speed: 951.27 samples/sec	cross-entropy=0.022726	Recency-accuracy=3.888889
+2024-04-11 16:12:44,570 [INFO]  Epoch[2] Train-cross-entropy=0.010781
+2024-04-11 16:12:44,570 [INFO]  Epoch[2] Train-Recency-accuracy=3.812500
+2024-04-11 16:12:44,570 [INFO]  Epoch[2] Time cost=0.346
+2024-04-11 16:12:44,572 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:12:44,574 [INFO]  Epoch[2] Validation-cross-entropy=0.009483
+2024-04-11 16:12:44,574 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:44,617 [INFO]  Epoch[3] Batch [0-17]	Speed: 6394.65 samples/sec	cross-entropy=0.015305	Recency-accuracy=3.888889
+2024-04-11 16:12:44,627 [INFO]  Epoch[3] Train-cross-entropy=0.007993
+2024-04-11 16:12:44,627 [INFO]  Epoch[3] Train-Recency-accuracy=3.812500
+2024-04-11 16:12:44,627 [INFO]  Epoch[3] Time cost=0.053
+2024-04-11 16:12:44,628 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:12:44,633 [INFO]  Epoch[3] Validation-cross-entropy=0.006447
+2024-04-11 16:12:44,634 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:44,665 [INFO]  Epoch[4] Batch [0-17]	Speed: 10024.79 samples/sec	cross-entropy=0.009420	Recency-accuracy=3.888889
+2024-04-11 16:12:44,677 [INFO]  Epoch[4] Train-cross-entropy=0.007103
+2024-04-11 16:12:44,677 [INFO]  Epoch[4] Train-Recency-accuracy=3.812500
+2024-04-11 16:12:44,677 [INFO]  Epoch[4] Time cost=0.044
+2024-04-11 16:12:44,679 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:12:44,680 [INFO]  Epoch[4] Validation-cross-entropy=0.005059
+2024-04-11 16:12:44,680 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:44,680 [INFO]  
+========== done (0.5752894878387451 s) fit model
+2024-04-11 16:12:46,524 [INFO]  
+========== start: fit model
+2024-04-11 16:12:46,524 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:12:46,571 [INFO]  Epoch[0] Batch [0-17]	Speed: 20385.80 samples/sec	cross-entropy=20.787988	Recency-accuracy=3.277778
+2024-04-11 16:12:46,622 [INFO]  Epoch[0] Train-cross-entropy=0.874314
+2024-04-11 16:12:46,623 [INFO]  Epoch[0] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:46,623 [INFO]  Epoch[0] Time cost=0.097
+2024-04-11 16:12:46,624 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:12:46,625 [INFO]  Epoch[0] Validation-cross-entropy=0.336013
+2024-04-11 16:12:46,625 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:46,650 [INFO]  Epoch[1] Batch [0-17]	Speed: 11504.92 samples/sec	cross-entropy=0.785971	Recency-accuracy=3.277778
+2024-04-11 16:12:46,667 [INFO]  Epoch[1] Train-cross-entropy=0.146359
+2024-04-11 16:12:46,667 [INFO]  Epoch[1] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:46,668 [INFO]  Epoch[1] Time cost=0.042
+2024-04-11 16:12:46,670 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:12:46,672 [INFO]  Epoch[1] Validation-cross-entropy=0.082317
+2024-04-11 16:12:46,672 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:46,692 [INFO]  Epoch[2] Batch [0-17]	Speed: 14359.90 samples/sec	cross-entropy=0.197960	Recency-accuracy=3.277778
+2024-04-11 16:12:46,713 [INFO]  Epoch[2] Train-cross-entropy=0.060702
+2024-04-11 16:12:46,713 [INFO]  Epoch[2] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:46,713 [INFO]  Epoch[2] Time cost=0.041
+2024-04-11 16:12:46,715 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:12:46,717 [INFO]  Epoch[2] Validation-cross-entropy=0.036578
+2024-04-11 16:12:46,718 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:46,738 [INFO]  Epoch[3] Batch [0-17]	Speed: 14327.98 samples/sec	cross-entropy=0.088206	Recency-accuracy=3.277778
+2024-04-11 16:12:46,795 [INFO]  Epoch[3] Train-cross-entropy=0.035075
+2024-04-11 16:12:46,795 [INFO]  Epoch[3] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:46,795 [INFO]  Epoch[3] Time cost=0.078
+2024-04-11 16:12:46,797 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:12:46,798 [INFO]  Epoch[3] Validation-cross-entropy=0.033207
+2024-04-11 16:12:46,798 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:46,890 [INFO]  Epoch[4] Batch [0-17]	Speed: 2990.89 samples/sec	cross-entropy=0.058420	Recency-accuracy=3.277778
+2024-04-11 16:12:46,954 [INFO]  Epoch[4] Train-cross-entropy=0.027505
+2024-04-11 16:12:46,954 [INFO]  Epoch[4] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:46,954 [INFO]  Epoch[4] Time cost=0.156
+2024-04-11 16:12:46,956 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:12:46,957 [INFO]  Epoch[4] Validation-cross-entropy=0.039044
+2024-04-11 16:12:46,957 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:46,957 [INFO]  
+========== done (0.4324808120727539 s) fit model
+2024-04-11 16:12:48,990 [INFO]  
+========== start: fit model
+2024-04-11 16:12:48,991 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:12:49,053 [INFO]  Epoch[0] Batch [0-17]	Speed: 5870.08 samples/sec	cross-entropy=5.191551	Recency-accuracy=0.000000
+2024-04-11 16:12:49,068 [INFO]  Epoch[0] Train-cross-entropy=0.657964
+2024-04-11 16:12:49,068 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:49,068 [INFO]  Epoch[0] Time cost=0.077
+2024-04-11 16:12:49,070 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:12:49,072 [INFO]  Epoch[0] Validation-cross-entropy=0.098599
+2024-04-11 16:12:49,073 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:49,118 [INFO]  Epoch[1] Batch [0-17]	Speed: 6148.28 samples/sec	cross-entropy=0.141227	Recency-accuracy=0.000000
+2024-04-11 16:12:49,235 [INFO]  Epoch[1] Train-cross-entropy=0.087346
+2024-04-11 16:12:49,235 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:49,235 [INFO]  Epoch[1] Time cost=0.163
+2024-04-11 16:12:49,237 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:12:49,238 [INFO]  Epoch[1] Validation-cross-entropy=0.122383
+2024-04-11 16:12:49,238 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:49,334 [INFO]  Epoch[2] Batch [0-17]	Speed: 2854.77 samples/sec	cross-entropy=0.038348	Recency-accuracy=0.000000
+2024-04-11 16:12:49,392 [INFO]  Epoch[2] Train-cross-entropy=0.025656
+2024-04-11 16:12:49,393 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:49,393 [INFO]  Epoch[2] Time cost=0.154
+2024-04-11 16:12:49,395 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:12:49,536 [INFO]  Epoch[2] Validation-cross-entropy=0.049983
+2024-04-11 16:12:49,536 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:49,658 [INFO]  Epoch[3] Batch [0-17]	Speed: 5494.74 samples/sec	cross-entropy=0.018634	Recency-accuracy=0.000000
+2024-04-11 16:12:49,687 [INFO]  Epoch[3] Train-cross-entropy=0.020694
+2024-04-11 16:12:49,687 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:49,687 [INFO]  Epoch[3] Time cost=0.151
+2024-04-11 16:12:49,689 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:12:49,690 [INFO]  Epoch[3] Validation-cross-entropy=0.060050
+2024-04-11 16:12:49,690 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:49,719 [INFO]  Epoch[4] Batch [0-17]	Speed: 9894.03 samples/sec	cross-entropy=0.019331	Recency-accuracy=0.000000
+2024-04-11 16:12:49,759 [INFO]  Epoch[4] Train-cross-entropy=0.015239
+2024-04-11 16:12:49,759 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:49,759 [INFO]  Epoch[4] Time cost=0.069
+2024-04-11 16:12:49,761 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:12:49,763 [INFO]  Epoch[4] Validation-cross-entropy=0.037736
+2024-04-11 16:12:49,763 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:49,763 [INFO]  
+========== done (0.7725636959075928 s) fit model
+2024-04-11 16:12:52,338 [INFO]  
+========== start: fit model
+2024-04-11 16:12:52,338 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:12:52,354 [INFO]  Epoch[0] Batch [0-17]	Speed: 20765.39 samples/sec	cross-entropy=4.962439	Recency-accuracy=0.000000
+2024-04-11 16:12:52,450 [INFO]  Epoch[0] Train-cross-entropy=0.761091
+2024-04-11 16:12:52,450 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:52,450 [INFO]  Epoch[0] Time cost=0.111
+2024-04-11 16:12:52,452 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:12:52,454 [INFO]  Epoch[0] Validation-cross-entropy=0.414646
+2024-04-11 16:12:52,454 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:52,492 [INFO]  Epoch[1] Batch [0-17]	Speed: 7228.26 samples/sec	cross-entropy=0.105326	Recency-accuracy=0.000000
+2024-04-11 16:12:52,621 [INFO]  Epoch[1] Train-cross-entropy=0.070022
+2024-04-11 16:12:52,622 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:52,622 [INFO]  Epoch[1] Time cost=0.168
+2024-04-11 16:12:52,624 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:12:52,625 [INFO]  Epoch[1] Validation-cross-entropy=0.031146
+2024-04-11 16:12:52,626 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:52,647 [INFO]  Epoch[2] Batch [0-17]	Speed: 13492.57 samples/sec	cross-entropy=0.024466	Recency-accuracy=0.000000
+2024-04-11 16:12:52,666 [INFO]  Epoch[2] Train-cross-entropy=0.030596
+2024-04-11 16:12:52,666 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:52,666 [INFO]  Epoch[2] Time cost=0.040
+2024-04-11 16:12:52,668 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:12:52,670 [INFO]  Epoch[2] Validation-cross-entropy=0.017721
+2024-04-11 16:12:52,670 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:52,760 [INFO]  Epoch[3] Batch [0-17]	Speed: 3068.87 samples/sec	cross-entropy=0.013389	Recency-accuracy=0.000000
+2024-04-11 16:12:52,971 [INFO]  Epoch[3] Train-cross-entropy=0.024230
+2024-04-11 16:12:52,971 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:52,971 [INFO]  Epoch[3] Time cost=0.301
+2024-04-11 16:12:52,973 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:12:53,033 [INFO]  Epoch[3] Validation-cross-entropy=0.017198
+2024-04-11 16:12:53,034 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:53,088 [INFO]  Epoch[4] Batch [0-17]	Speed: 5158.79 samples/sec	cross-entropy=0.010527	Recency-accuracy=0.000000
+2024-04-11 16:12:53,133 [INFO]  Epoch[4] Train-cross-entropy=0.019760
+2024-04-11 16:12:53,133 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:53,134 [INFO]  Epoch[4] Time cost=0.100
+2024-04-11 16:12:53,136 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:12:53,138 [INFO]  Epoch[4] Validation-cross-entropy=0.016084
+2024-04-11 16:12:53,138 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:53,138 [INFO]  
+========== done (0.7997286319732666 s) fit model
+2024-04-11 16:12:55,558 [INFO]  
+========== start: fit model
+2024-04-11 16:12:55,558 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:12:55,711 [INFO]  Epoch[0] Batch [0-17]	Speed: 7233.76 samples/sec	cross-entropy=2.267408	Recency-accuracy=3.388889
+2024-04-11 16:12:55,737 [INFO]  Epoch[0] Train-cross-entropy=0.664458
+2024-04-11 16:12:55,738 [INFO]  Epoch[0] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:55,738 [INFO]  Epoch[0] Time cost=0.179
+2024-04-11 16:12:55,739 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:12:55,740 [INFO]  Epoch[0] Validation-cross-entropy=0.103063
+2024-04-11 16:12:55,740 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:55,751 [INFO]  Epoch[1] Batch [0-17]	Speed: 28056.24 samples/sec	cross-entropy=0.129063	Recency-accuracy=3.388889
+2024-04-11 16:12:55,822 [INFO]  Epoch[1] Train-cross-entropy=0.081748
+2024-04-11 16:12:55,822 [INFO]  Epoch[1] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:55,823 [INFO]  Epoch[1] Time cost=0.082
+2024-04-11 16:12:55,824 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:12:55,825 [INFO]  Epoch[1] Validation-cross-entropy=0.025432
+2024-04-11 16:12:55,825 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:55,853 [INFO]  Epoch[2] Batch [0-17]	Speed: 9875.10 samples/sec	cross-entropy=0.030838	Recency-accuracy=3.388889
+2024-04-11 16:12:55,863 [INFO]  Epoch[2] Train-cross-entropy=0.041597
+2024-04-11 16:12:55,863 [INFO]  Epoch[2] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:55,863 [INFO]  Epoch[2] Time cost=0.038
+2024-04-11 16:12:55,864 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:12:55,865 [INFO]  Epoch[2] Validation-cross-entropy=0.022901
+2024-04-11 16:12:55,865 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:55,876 [INFO]  Epoch[3] Batch [0-17]	Speed: 27877.98 samples/sec	cross-entropy=0.028338	Recency-accuracy=3.388889
+2024-04-11 16:12:55,885 [INFO]  Epoch[3] Train-cross-entropy=0.023094
+2024-04-11 16:12:55,885 [INFO]  Epoch[3] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:55,885 [INFO]  Epoch[3] Time cost=0.020
+2024-04-11 16:12:55,887 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:12:55,888 [INFO]  Epoch[3] Validation-cross-entropy=0.011440
+2024-04-11 16:12:55,888 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:55,903 [INFO]  Epoch[4] Batch [0-17]	Speed: 18219.50 samples/sec	cross-entropy=0.013006	Recency-accuracy=3.388889
+2024-04-11 16:12:55,920 [INFO]  Epoch[4] Train-cross-entropy=0.034388
+2024-04-11 16:12:55,920 [INFO]  Epoch[4] Train-Recency-accuracy=3.687500
+2024-04-11 16:12:55,920 [INFO]  Epoch[4] Time cost=0.033
+2024-04-11 16:12:55,922 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:12:55,928 [INFO]  Epoch[4] Validation-cross-entropy=0.021788
+2024-04-11 16:12:55,928 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:55,928 [INFO]  
+========== done (0.3700900077819824 s) fit model
+2024-04-11 16:12:58,517 [INFO]  
+========== start: fit model
+2024-04-11 16:12:58,517 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:12:58,561 [INFO]  Epoch[0] Batch [0-17]	Speed: 9769.65 samples/sec	cross-entropy=8.076905	Recency-accuracy=0.000000
+2024-04-11 16:12:58,579 [INFO]  Epoch[0] Train-cross-entropy=1.525545
+2024-04-11 16:12:58,579 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:58,579 [INFO]  Epoch[0] Time cost=0.061
+2024-04-11 16:12:58,581 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:12:58,582 [INFO]  Epoch[0] Validation-cross-entropy=0.478780
+2024-04-11 16:12:58,582 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:58,618 [INFO]  Epoch[1] Batch [0-17]	Speed: 7797.60 samples/sec	cross-entropy=0.273363	Recency-accuracy=0.000000
+2024-04-11 16:12:58,696 [INFO]  Epoch[1] Train-cross-entropy=0.143832
+2024-04-11 16:12:58,696 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:58,696 [INFO]  Epoch[1] Time cost=0.114
+2024-04-11 16:12:58,698 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:12:58,699 [INFO]  Epoch[1] Validation-cross-entropy=0.050201
+2024-04-11 16:12:58,699 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:58,780 [INFO]  Epoch[2] Batch [0-17]	Speed: 3388.54 samples/sec	cross-entropy=0.043340	Recency-accuracy=0.000000
+2024-04-11 16:12:58,865 [INFO]  Epoch[2] Train-cross-entropy=0.029518
+2024-04-11 16:12:58,865 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:58,866 [INFO]  Epoch[2] Time cost=0.166
+2024-04-11 16:12:58,867 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:12:58,868 [INFO]  Epoch[2] Validation-cross-entropy=0.019303
+2024-04-11 16:12:58,868 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:58,880 [INFO]  Epoch[3] Batch [0-17]	Speed: 24302.89 samples/sec	cross-entropy=0.022259	Recency-accuracy=0.000000
+2024-04-11 16:12:58,905 [INFO]  Epoch[3] Train-cross-entropy=0.016703
+2024-04-11 16:12:58,905 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:58,905 [INFO]  Epoch[3] Time cost=0.037
+2024-04-11 16:12:58,907 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:12:58,909 [INFO]  Epoch[3] Validation-cross-entropy=0.011055
+2024-04-11 16:12:58,909 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:58,931 [INFO]  Epoch[4] Batch [0-17]	Speed: 13473.13 samples/sec	cross-entropy=0.015473	Recency-accuracy=0.000000
+2024-04-11 16:12:58,948 [INFO]  Epoch[4] Train-cross-entropy=0.012845
+2024-04-11 16:12:58,948 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:12:58,948 [INFO]  Epoch[4] Time cost=0.039
+2024-04-11 16:12:58,950 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:12:58,979 [INFO]  Epoch[4] Validation-cross-entropy=0.009762
+2024-04-11 16:12:58,979 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:12:58,979 [INFO]  
+========== done (0.46238064765930176 s) fit model
+2024-04-11 16:13:01,155 [INFO]  
+========== start: fit model
+2024-04-11 16:13:01,155 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:13:01,167 [INFO]  Epoch[0] Batch [0-17]	Speed: 27923.02 samples/sec	cross-entropy=1.459237	Recency-accuracy=3.777778
+2024-04-11 16:13:01,209 [INFO]  Epoch[0] Train-cross-entropy=0.572189
+2024-04-11 16:13:01,209 [INFO]  Epoch[0] Train-Recency-accuracy=3.687500
+2024-04-11 16:13:01,209 [INFO]  Epoch[0] Time cost=0.053
+2024-04-11 16:13:01,211 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:13:01,212 [INFO]  Epoch[0] Validation-cross-entropy=0.257832
+2024-04-11 16:13:01,212 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:01,222 [INFO]  Epoch[1] Batch [0-17]	Speed: 28297.01 samples/sec	cross-entropy=0.141647	Recency-accuracy=3.777778
+2024-04-11 16:13:01,237 [INFO]  Epoch[1] Train-cross-entropy=0.092600
+2024-04-11 16:13:01,237 [INFO]  Epoch[1] Train-Recency-accuracy=3.687500
+2024-04-11 16:13:01,237 [INFO]  Epoch[1] Time cost=0.025
+2024-04-11 16:13:01,238 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:13:01,240 [INFO]  Epoch[1] Validation-cross-entropy=0.078139
+2024-04-11 16:13:01,240 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:01,269 [INFO]  Epoch[2] Batch [0-17]	Speed: 9796.33 samples/sec	cross-entropy=0.047064	Recency-accuracy=3.777778
+2024-04-11 16:13:01,284 [INFO]  Epoch[2] Train-cross-entropy=0.040017
+2024-04-11 16:13:01,284 [INFO]  Epoch[2] Train-Recency-accuracy=3.687500
+2024-04-11 16:13:01,284 [INFO]  Epoch[2] Time cost=0.044
+2024-04-11 16:13:01,287 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:13:01,288 [INFO]  Epoch[2] Validation-cross-entropy=0.061646
+2024-04-11 16:13:01,288 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:01,353 [INFO]  Epoch[3] Batch [0-17]	Speed: 4292.27 samples/sec	cross-entropy=0.044221	Recency-accuracy=3.777778
+2024-04-11 16:13:01,430 [INFO]  Epoch[3] Train-cross-entropy=0.088091
+2024-04-11 16:13:01,430 [INFO]  Epoch[3] Train-Recency-accuracy=3.687500
+2024-04-11 16:13:01,430 [INFO]  Epoch[3] Time cost=0.142
+2024-04-11 16:13:01,432 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:13:01,437 [INFO]  Epoch[3] Validation-cross-entropy=0.155077
+2024-04-11 16:13:01,437 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:01,460 [INFO]  Epoch[4] Batch [0-17]	Speed: 12757.91 samples/sec	cross-entropy=0.154344	Recency-accuracy=3.777778
+2024-04-11 16:13:01,474 [INFO]  Epoch[4] Train-cross-entropy=0.297219
+2024-04-11 16:13:01,474 [INFO]  Epoch[4] Train-Recency-accuracy=3.687500
+2024-04-11 16:13:01,474 [INFO]  Epoch[4] Time cost=0.037
+2024-04-11 16:13:01,476 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:13:01,478 [INFO]  Epoch[4] Validation-cross-entropy=0.368447
+2024-04-11 16:13:01,479 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:01,479 [INFO]  
+========== done (0.3238096237182617 s) fit model
+2024-04-11 16:13:03,672 [INFO]  
+========== start: fit model
+2024-04-11 16:13:03,672 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:13:03,685 [INFO]  Epoch[0] Batch [0-17]	Speed: 24834.57 samples/sec	cross-entropy=10.852882	Recency-accuracy=3.500000
+2024-04-11 16:13:03,694 [INFO]  Epoch[0] Train-cross-entropy=1.131037
+2024-04-11 16:13:03,695 [INFO]  Epoch[0] Train-Recency-accuracy=3.375000
+2024-04-11 16:13:03,695 [INFO]  Epoch[0] Time cost=0.022
+2024-04-11 16:13:03,696 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:13:03,748 [INFO]  Epoch[0] Validation-cross-entropy=0.783008
+2024-04-11 16:13:03,748 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:03,901 [INFO]  Epoch[1] Batch [0-17]	Speed: 1798.69 samples/sec	cross-entropy=0.341847	Recency-accuracy=3.500000
+2024-04-11 16:13:03,964 [INFO]  Epoch[1] Train-cross-entropy=0.090599
+2024-04-11 16:13:03,964 [INFO]  Epoch[1] Train-Recency-accuracy=3.375000
+2024-04-11 16:13:03,964 [INFO]  Epoch[1] Time cost=0.216
+2024-04-11 16:13:03,966 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:13:03,967 [INFO]  Epoch[1] Validation-cross-entropy=0.072829
+2024-04-11 16:13:03,967 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:04,146 [INFO]  Epoch[2] Batch [0-17]	Speed: 1530.28 samples/sec	cross-entropy=0.049993	Recency-accuracy=3.500000
+2024-04-11 16:13:04,166 [INFO]  Epoch[2] Train-cross-entropy=0.024859
+2024-04-11 16:13:04,166 [INFO]  Epoch[2] Train-Recency-accuracy=3.375000
+2024-04-11 16:13:04,166 [INFO]  Epoch[2] Time cost=0.199
+2024-04-11 16:13:04,168 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:13:04,170 [INFO]  Epoch[2] Validation-cross-entropy=0.049912
+2024-04-11 16:13:04,170 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:04,219 [INFO]  Epoch[3] Batch [0-17]	Speed: 6392.57 samples/sec	cross-entropy=0.031324	Recency-accuracy=3.500000
+2024-04-11 16:13:04,268 [INFO]  Epoch[3] Train-cross-entropy=0.016554
+2024-04-11 16:13:04,268 [INFO]  Epoch[3] Train-Recency-accuracy=3.375000
+2024-04-11 16:13:04,268 [INFO]  Epoch[3] Time cost=0.098
+2024-04-11 16:13:04,270 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:13:04,271 [INFO]  Epoch[3] Validation-cross-entropy=0.037203
+2024-04-11 16:13:04,271 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:04,281 [INFO]  Epoch[4] Batch [0-17]	Speed: 28183.07 samples/sec	cross-entropy=0.022418	Recency-accuracy=3.500000
+2024-04-11 16:13:04,292 [INFO]  Epoch[4] Train-cross-entropy=0.013579
+2024-04-11 16:13:04,292 [INFO]  Epoch[4] Train-Recency-accuracy=3.375000
+2024-04-11 16:13:04,292 [INFO]  Epoch[4] Time cost=0.021
+2024-04-11 16:13:04,293 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:13:04,295 [INFO]  Epoch[4] Validation-cross-entropy=0.031123
+2024-04-11 16:13:04,295 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:04,295 [INFO]  
+========== done (0.6228287220001221 s) fit model
+2024-04-11 16:13:07,065 [INFO]  
+========== start: fit model
+2024-04-11 16:13:07,065 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:13:07,109 [INFO]  Epoch[0] Batch [0-17]	Speed: 6605.39 samples/sec	cross-entropy=5.739206	Recency-accuracy=3.222222
+2024-04-11 16:13:07,143 [INFO]  Epoch[0] Train-cross-entropy=0.637511
+2024-04-11 16:13:07,143 [INFO]  Epoch[0] Train-Recency-accuracy=3.687500
+2024-04-11 16:13:07,143 [INFO]  Epoch[0] Time cost=0.077
+2024-04-11 16:13:07,145 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:13:07,148 [INFO]  Epoch[0] Validation-cross-entropy=0.220856
+2024-04-11 16:13:07,148 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:07,201 [INFO]  Epoch[1] Batch [0-17]	Speed: 5485.76 samples/sec	cross-entropy=0.160561	Recency-accuracy=3.222222
+2024-04-11 16:13:07,237 [INFO]  Epoch[1] Train-cross-entropy=0.050843
+2024-04-11 16:13:07,237 [INFO]  Epoch[1] Train-Recency-accuracy=3.687500
+2024-04-11 16:13:07,237 [INFO]  Epoch[1] Time cost=0.089
+2024-04-11 16:13:07,239 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:13:07,240 [INFO]  Epoch[1] Validation-cross-entropy=0.037220
+2024-04-11 16:13:07,240 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:07,251 [INFO]  Epoch[2] Batch [0-17]	Speed: 26626.77 samples/sec	cross-entropy=0.043882	Recency-accuracy=3.222222
+2024-04-11 16:13:07,270 [INFO]  Epoch[2] Train-cross-entropy=0.022016
+2024-04-11 16:13:07,270 [INFO]  Epoch[2] Train-Recency-accuracy=3.687500
+2024-04-11 16:13:07,270 [INFO]  Epoch[2] Time cost=0.030
+2024-04-11 16:13:07,274 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:13:07,347 [INFO]  Epoch[2] Validation-cross-entropy=0.022244
+2024-04-11 16:13:07,347 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:07,611 [INFO]  Epoch[3] Batch [0-17]	Speed: 1036.49 samples/sec	cross-entropy=0.022144	Recency-accuracy=3.222222
+2024-04-11 16:13:07,620 [INFO]  Epoch[3] Train-cross-entropy=0.014436
+2024-04-11 16:13:07,620 [INFO]  Epoch[3] Train-Recency-accuracy=3.687500
+2024-04-11 16:13:07,620 [INFO]  Epoch[3] Time cost=0.273
+2024-04-11 16:13:07,622 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:13:07,623 [INFO]  Epoch[3] Validation-cross-entropy=0.019629
+2024-04-11 16:13:07,623 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:07,736 [INFO]  Epoch[4] Batch [0-17]	Speed: 2427.30 samples/sec	cross-entropy=0.014994	Recency-accuracy=3.222222
+2024-04-11 16:13:07,756 [INFO]  Epoch[4] Train-cross-entropy=0.011825
+2024-04-11 16:13:07,756 [INFO]  Epoch[4] Train-Recency-accuracy=3.687500
+2024-04-11 16:13:07,756 [INFO]  Epoch[4] Time cost=0.133
+2024-04-11 16:13:07,758 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:13:07,760 [INFO]  Epoch[4] Validation-cross-entropy=0.017711
+2024-04-11 16:13:07,760 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:07,760 [INFO]  
+========== done (0.6950602531433105 s) fit model
+2024-04-11 16:13:09,377 [INFO]  
+========== start: fit model
+2024-04-11 16:13:09,377 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:13:09,394 [INFO]  Epoch[0] Batch [0-17]	Speed: 19613.70 samples/sec	cross-entropy=2.241887	Recency-accuracy=3.611111
+2024-04-11 16:13:09,406 [INFO]  Epoch[0] Train-cross-entropy=1.106325
+2024-04-11 16:13:09,406 [INFO]  Epoch[0] Train-Recency-accuracy=4.187500
+2024-04-11 16:13:09,406 [INFO]  Epoch[0] Time cost=0.028
+2024-04-11 16:13:09,408 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:13:09,410 [INFO]  Epoch[0] Validation-cross-entropy=0.315414
+2024-04-11 16:13:09,410 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:09,432 [INFO]  Epoch[1] Batch [0-17]	Speed: 12959.79 samples/sec	cross-entropy=0.344994	Recency-accuracy=3.611111
+2024-04-11 16:13:09,444 [INFO]  Epoch[1] Train-cross-entropy=0.185107
+2024-04-11 16:13:09,444 [INFO]  Epoch[1] Train-Recency-accuracy=4.187500
+2024-04-11 16:13:09,444 [INFO]  Epoch[1] Time cost=0.034
+2024-04-11 16:13:09,452 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:13:09,454 [INFO]  Epoch[1] Validation-cross-entropy=0.114205
+2024-04-11 16:13:09,454 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:09,469 [INFO]  Epoch[2] Batch [0-17]	Speed: 19148.86 samples/sec	cross-entropy=0.080725	Recency-accuracy=3.611111
+2024-04-11 16:13:09,482 [INFO]  Epoch[2] Train-cross-entropy=0.068374
+2024-04-11 16:13:09,482 [INFO]  Epoch[2] Train-Recency-accuracy=4.187500
+2024-04-11 16:13:09,482 [INFO]  Epoch[2] Time cost=0.027
+2024-04-11 16:13:09,483 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:13:09,485 [INFO]  Epoch[2] Validation-cross-entropy=0.039470
+2024-04-11 16:13:09,485 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:09,499 [INFO]  Epoch[3] Batch [0-17]	Speed: 20837.07 samples/sec	cross-entropy=0.023535	Recency-accuracy=3.611111
+2024-04-11 16:13:09,511 [INFO]  Epoch[3] Train-cross-entropy=0.028855
+2024-04-11 16:13:09,511 [INFO]  Epoch[3] Train-Recency-accuracy=4.187500
+2024-04-11 16:13:09,511 [INFO]  Epoch[3] Time cost=0.026
+2024-04-11 16:13:09,513 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:13:09,515 [INFO]  Epoch[3] Validation-cross-entropy=0.022872
+2024-04-11 16:13:09,515 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:09,528 [INFO]  Epoch[4] Batch [0-17]	Speed: 21655.83 samples/sec	cross-entropy=0.015025	Recency-accuracy=3.611111
+2024-04-11 16:13:09,540 [INFO]  Epoch[4] Train-cross-entropy=0.023914
+2024-04-11 16:13:09,540 [INFO]  Epoch[4] Train-Recency-accuracy=4.187500
+2024-04-11 16:13:09,540 [INFO]  Epoch[4] Time cost=0.025
+2024-04-11 16:13:09,542 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:13:09,543 [INFO]  Epoch[4] Validation-cross-entropy=0.017889
+2024-04-11 16:13:09,543 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:13:09,543 [INFO]  
+========== done (0.16613149642944336 s) fit model
+2024-04-11 16:16:30,952 [INFO]  
+========== start: fit model
+2024-04-11 16:16:30,952 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:16:30,966 [INFO]  Epoch[0] Batch [0-17]	Speed: 23112.39 samples/sec	cross-entropy=4.177860	Recency-accuracy=0.000000
+2024-04-11 16:16:30,976 [INFO]  Epoch[0] Train-cross-entropy=0.494372
+2024-04-11 16:16:30,976 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:30,976 [INFO]  Epoch[0] Time cost=0.023
+2024-04-11 16:16:30,978 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:16:30,979 [INFO]  Epoch[0] Validation-cross-entropy=0.086053
+2024-04-11 16:16:30,979 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:30,991 [INFO]  Epoch[1] Batch [0-17]	Speed: 23884.66 samples/sec	cross-entropy=0.118437	Recency-accuracy=0.000000
+2024-04-11 16:16:31,001 [INFO]  Epoch[1] Train-cross-entropy=0.036389
+2024-04-11 16:16:31,001 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:31,001 [INFO]  Epoch[1] Time cost=0.022
+2024-04-11 16:16:31,003 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:16:31,004 [INFO]  Epoch[1] Validation-cross-entropy=0.019430
+2024-04-11 16:16:31,004 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:31,016 [INFO]  Epoch[2] Batch [0-17]	Speed: 24100.10 samples/sec	cross-entropy=0.016391	Recency-accuracy=0.000000
+2024-04-11 16:16:31,028 [INFO]  Epoch[2] Train-cross-entropy=0.013408
+2024-04-11 16:16:31,028 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:31,028 [INFO]  Epoch[2] Time cost=0.024
+2024-04-11 16:16:31,029 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:16:31,030 [INFO]  Epoch[2] Validation-cross-entropy=0.012279
+2024-04-11 16:16:31,031 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:31,047 [INFO]  Epoch[3] Batch [0-17]	Speed: 17979.74 samples/sec	cross-entropy=0.009179	Recency-accuracy=0.000000
+2024-04-11 16:16:31,059 [INFO]  Epoch[3] Train-cross-entropy=0.009695
+2024-04-11 16:16:31,059 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:31,060 [INFO]  Epoch[3] Time cost=0.029
+2024-04-11 16:16:31,061 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:16:31,062 [INFO]  Epoch[3] Validation-cross-entropy=0.010039
+2024-04-11 16:16:31,062 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:31,073 [INFO]  Epoch[4] Batch [0-17]	Speed: 26186.12 samples/sec	cross-entropy=0.006386	Recency-accuracy=0.000000
+2024-04-11 16:16:31,083 [INFO]  Epoch[4] Train-cross-entropy=0.006527
+2024-04-11 16:16:31,083 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:31,083 [INFO]  Epoch[4] Time cost=0.021
+2024-04-11 16:16:31,085 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:16:31,086 [INFO]  Epoch[4] Validation-cross-entropy=0.006555
+2024-04-11 16:16:31,086 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:31,086 [INFO]  
+========== done (0.13468217849731445 s) fit model
+2024-04-11 16:16:32,003 [INFO]  
+========== start: fit model
+2024-04-11 16:16:32,004 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:16:32,035 [INFO]  Epoch[0] Batch [0-17]	Speed: 9339.90 samples/sec	cross-entropy=3.021678	Recency-accuracy=2.777778
+2024-04-11 16:16:32,048 [INFO]  Epoch[0] Train-cross-entropy=0.258849
+2024-04-11 16:16:32,048 [INFO]  Epoch[0] Train-Recency-accuracy=4.187500
+2024-04-11 16:16:32,048 [INFO]  Epoch[0] Time cost=0.044
+2024-04-11 16:16:32,050 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:16:32,051 [INFO]  Epoch[0] Validation-cross-entropy=0.139845
+2024-04-11 16:16:32,051 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:32,062 [INFO]  Epoch[1] Batch [0-17]	Speed: 27192.89 samples/sec	cross-entropy=0.067554	Recency-accuracy=2.777778
+2024-04-11 16:16:32,072 [INFO]  Epoch[1] Train-cross-entropy=0.020425
+2024-04-11 16:16:32,072 [INFO]  Epoch[1] Train-Recency-accuracy=4.187500
+2024-04-11 16:16:32,072 [INFO]  Epoch[1] Time cost=0.021
+2024-04-11 16:16:32,074 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:16:32,075 [INFO]  Epoch[1] Validation-cross-entropy=0.017510
+2024-04-11 16:16:32,075 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:32,089 [INFO]  Epoch[2] Batch [0-17]	Speed: 21458.68 samples/sec	cross-entropy=0.013272	Recency-accuracy=2.777778
+2024-04-11 16:16:32,098 [INFO]  Epoch[2] Train-cross-entropy=0.007942
+2024-04-11 16:16:32,098 [INFO]  Epoch[2] Train-Recency-accuracy=4.187500
+2024-04-11 16:16:32,098 [INFO]  Epoch[2] Time cost=0.023
+2024-04-11 16:16:32,100 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:16:32,101 [INFO]  Epoch[2] Validation-cross-entropy=0.007164
+2024-04-11 16:16:32,101 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:32,112 [INFO]  Epoch[3] Batch [0-17]	Speed: 26817.04 samples/sec	cross-entropy=0.007761	Recency-accuracy=2.777778
+2024-04-11 16:16:32,122 [INFO]  Epoch[3] Train-cross-entropy=0.006655
+2024-04-11 16:16:32,122 [INFO]  Epoch[3] Train-Recency-accuracy=4.187500
+2024-04-11 16:16:32,122 [INFO]  Epoch[3] Time cost=0.021
+2024-04-11 16:16:32,124 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:16:32,125 [INFO]  Epoch[3] Validation-cross-entropy=0.005928
+2024-04-11 16:16:32,125 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:32,137 [INFO]  Epoch[4] Batch [0-17]	Speed: 23028.88 samples/sec	cross-entropy=0.006643	Recency-accuracy=2.777778
+2024-04-11 16:16:32,149 [INFO]  Epoch[4] Train-cross-entropy=0.005768
+2024-04-11 16:16:32,149 [INFO]  Epoch[4] Train-Recency-accuracy=4.187500
+2024-04-11 16:16:32,149 [INFO]  Epoch[4] Time cost=0.024
+2024-04-11 16:16:32,150 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:16:32,152 [INFO]  Epoch[4] Validation-cross-entropy=0.005484
+2024-04-11 16:16:32,152 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:32,152 [INFO]  
+========== done (0.14833307266235352 s) fit model
+2024-04-11 16:16:33,015 [INFO]  
+========== start: fit model
+2024-04-11 16:16:33,016 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:16:33,028 [INFO]  Epoch[0] Batch [0-17]	Speed: 27286.55 samples/sec	cross-entropy=1.171030	Recency-accuracy=3.333333
+2024-04-11 16:16:33,037 [INFO]  Epoch[0] Train-cross-entropy=0.116861
+2024-04-11 16:16:33,037 [INFO]  Epoch[0] Train-Recency-accuracy=3.750000
+2024-04-11 16:16:33,037 [INFO]  Epoch[0] Time cost=0.021
+2024-04-11 16:16:33,039 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:16:33,040 [INFO]  Epoch[0] Validation-cross-entropy=0.140399
+2024-04-11 16:16:33,040 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:33,051 [INFO]  Epoch[1] Batch [0-17]	Speed: 26730.96 samples/sec	cross-entropy=0.151837	Recency-accuracy=3.333333
+2024-04-11 16:16:33,060 [INFO]  Epoch[1] Train-cross-entropy=0.043742
+2024-04-11 16:16:33,060 [INFO]  Epoch[1] Train-Recency-accuracy=3.750000
+2024-04-11 16:16:33,060 [INFO]  Epoch[1] Time cost=0.020
+2024-04-11 16:16:33,062 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:16:33,063 [INFO]  Epoch[1] Validation-cross-entropy=0.048740
+2024-04-11 16:16:33,063 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:33,077 [INFO]  Epoch[2] Batch [0-17]	Speed: 21135.48 samples/sec	cross-entropy=0.046195	Recency-accuracy=3.333333
+2024-04-11 16:16:33,089 [INFO]  Epoch[2] Train-cross-entropy=0.013849
+2024-04-11 16:16:33,090 [INFO]  Epoch[2] Train-Recency-accuracy=3.750000
+2024-04-11 16:16:33,090 [INFO]  Epoch[2] Time cost=0.026
+2024-04-11 16:16:33,091 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:16:33,093 [INFO]  Epoch[2] Validation-cross-entropy=0.013250
+2024-04-11 16:16:33,093 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:33,106 [INFO]  Epoch[3] Batch [0-17]	Speed: 21652.54 samples/sec	cross-entropy=0.025601	Recency-accuracy=3.333333
+2024-04-11 16:16:33,119 [INFO]  Epoch[3] Train-cross-entropy=0.012887
+2024-04-11 16:16:33,119 [INFO]  Epoch[3] Train-Recency-accuracy=3.750000
+2024-04-11 16:16:33,119 [INFO]  Epoch[3] Time cost=0.026
+2024-04-11 16:16:33,121 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:16:33,122 [INFO]  Epoch[3] Validation-cross-entropy=0.020874
+2024-04-11 16:16:33,122 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:33,136 [INFO]  Epoch[4] Batch [0-17]	Speed: 20995.84 samples/sec	cross-entropy=0.046684	Recency-accuracy=3.333333
+2024-04-11 16:16:33,149 [INFO]  Epoch[4] Train-cross-entropy=0.021505
+2024-04-11 16:16:33,149 [INFO]  Epoch[4] Train-Recency-accuracy=3.750000
+2024-04-11 16:16:33,149 [INFO]  Epoch[4] Time cost=0.026
+2024-04-11 16:16:33,151 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:16:33,152 [INFO]  Epoch[4] Validation-cross-entropy=0.034565
+2024-04-11 16:16:33,152 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:33,152 [INFO]  
+========== done (0.13687872886657715 s) fit model
+2024-04-11 16:16:34,113 [INFO]  
+========== start: fit model
+2024-04-11 16:16:34,113 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:16:34,128 [INFO]  Epoch[0] Batch [0-17]	Speed: 21335.08 samples/sec	cross-entropy=7.617666	Recency-accuracy=0.000000
+2024-04-11 16:16:34,140 [INFO]  Epoch[0] Train-cross-entropy=0.962160
+2024-04-11 16:16:34,140 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:34,140 [INFO]  Epoch[0] Time cost=0.026
+2024-04-11 16:16:34,142 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:16:34,143 [INFO]  Epoch[0] Validation-cross-entropy=0.220515
+2024-04-11 16:16:34,143 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:34,157 [INFO]  Epoch[1] Batch [0-17]	Speed: 21456.26 samples/sec	cross-entropy=0.207690	Recency-accuracy=0.000000
+2024-04-11 16:16:34,169 [INFO]  Epoch[1] Train-cross-entropy=0.053952
+2024-04-11 16:16:34,170 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:34,170 [INFO]  Epoch[1] Time cost=0.026
+2024-04-11 16:16:34,171 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:16:34,172 [INFO]  Epoch[1] Validation-cross-entropy=0.045863
+2024-04-11 16:16:34,173 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:34,186 [INFO]  Epoch[2] Batch [0-17]	Speed: 21213.68 samples/sec	cross-entropy=0.040643	Recency-accuracy=0.000000
+2024-04-11 16:16:34,200 [INFO]  Epoch[2] Train-cross-entropy=0.015719
+2024-04-11 16:16:34,200 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:34,200 [INFO]  Epoch[2] Time cost=0.028
+2024-04-11 16:16:34,202 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:16:34,204 [INFO]  Epoch[2] Validation-cross-entropy=0.015466
+2024-04-11 16:16:34,204 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:34,217 [INFO]  Epoch[3] Batch [0-17]	Speed: 21609.89 samples/sec	cross-entropy=0.015717	Recency-accuracy=0.000000
+2024-04-11 16:16:34,229 [INFO]  Epoch[3] Train-cross-entropy=0.007680
+2024-04-11 16:16:34,229 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:34,229 [INFO]  Epoch[3] Time cost=0.026
+2024-04-11 16:16:34,231 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:16:34,232 [INFO]  Epoch[3] Validation-cross-entropy=0.009433
+2024-04-11 16:16:34,233 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:34,246 [INFO]  Epoch[4] Batch [0-17]	Speed: 21817.76 samples/sec	cross-entropy=0.008487	Recency-accuracy=0.000000
+2024-04-11 16:16:34,258 [INFO]  Epoch[4] Train-cross-entropy=0.004348
+2024-04-11 16:16:34,258 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:34,258 [INFO]  Epoch[4] Time cost=0.026
+2024-04-11 16:16:34,260 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:16:34,261 [INFO]  Epoch[4] Validation-cross-entropy=0.005663
+2024-04-11 16:16:34,262 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:34,262 [INFO]  
+========== done (0.1487746238708496 s) fit model
+2024-04-11 16:16:35,233 [INFO]  
+========== start: fit model
+2024-04-11 16:16:35,233 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:16:35,246 [INFO]  Epoch[0] Batch [0-17]	Speed: 25501.85 samples/sec	cross-entropy=6.977505	Recency-accuracy=3.611111
+2024-04-11 16:16:35,256 [INFO]  Epoch[0] Train-cross-entropy=0.823328
+2024-04-11 16:16:35,257 [INFO]  Epoch[0] Train-Recency-accuracy=3.375000
+2024-04-11 16:16:35,257 [INFO]  Epoch[0] Time cost=0.022
+2024-04-11 16:16:35,258 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:16:35,259 [INFO]  Epoch[0] Validation-cross-entropy=0.167235
+2024-04-11 16:16:35,259 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:35,270 [INFO]  Epoch[1] Batch [0-17]	Speed: 27082.51 samples/sec	cross-entropy=0.092466	Recency-accuracy=3.611111
+2024-04-11 16:16:35,280 [INFO]  Epoch[1] Train-cross-entropy=0.037581
+2024-04-11 16:16:35,280 [INFO]  Epoch[1] Train-Recency-accuracy=3.375000
+2024-04-11 16:16:35,280 [INFO]  Epoch[1] Time cost=0.021
+2024-04-11 16:16:35,282 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:16:35,283 [INFO]  Epoch[1] Validation-cross-entropy=0.052762
+2024-04-11 16:16:35,283 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:35,296 [INFO]  Epoch[2] Batch [0-17]	Speed: 23471.88 samples/sec	cross-entropy=0.019657	Recency-accuracy=3.611111
+2024-04-11 16:16:35,306 [INFO]  Epoch[2] Train-cross-entropy=0.009883
+2024-04-11 16:16:35,306 [INFO]  Epoch[2] Train-Recency-accuracy=3.375000
+2024-04-11 16:16:35,306 [INFO]  Epoch[2] Time cost=0.022
+2024-04-11 16:16:35,307 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:16:35,308 [INFO]  Epoch[2] Validation-cross-entropy=0.019632
+2024-04-11 16:16:35,309 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:35,320 [INFO]  Epoch[3] Batch [0-17]	Speed: 25074.19 samples/sec	cross-entropy=0.009460	Recency-accuracy=3.611111
+2024-04-11 16:16:35,330 [INFO]  Epoch[3] Train-cross-entropy=0.005371
+2024-04-11 16:16:35,330 [INFO]  Epoch[3] Train-Recency-accuracy=3.375000
+2024-04-11 16:16:35,330 [INFO]  Epoch[3] Time cost=0.022
+2024-04-11 16:16:35,332 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:16:35,333 [INFO]  Epoch[3] Validation-cross-entropy=0.011859
+2024-04-11 16:16:35,333 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:35,347 [INFO]  Epoch[4] Batch [0-17]	Speed: 21609.48 samples/sec	cross-entropy=0.005939	Recency-accuracy=3.611111
+2024-04-11 16:16:35,358 [INFO]  Epoch[4] Train-cross-entropy=0.003236
+2024-04-11 16:16:35,358 [INFO]  Epoch[4] Train-Recency-accuracy=3.375000
+2024-04-11 16:16:35,358 [INFO]  Epoch[4] Time cost=0.025
+2024-04-11 16:16:35,360 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:16:35,362 [INFO]  Epoch[4] Validation-cross-entropy=0.006832
+2024-04-11 16:16:35,362 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:35,362 [INFO]  
+========== done (0.12863993644714355 s) fit model
+2024-04-11 16:16:36,924 [INFO]  
+========== start: fit model
+2024-04-11 16:16:36,924 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:16:36,937 [INFO]  Epoch[0] Batch [0-17]	Speed: 25064.83 samples/sec	cross-entropy=2.657329	Recency-accuracy=0.000000
+2024-04-11 16:16:36,950 [INFO]  Epoch[0] Train-cross-entropy=0.256690
+2024-04-11 16:16:36,950 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:36,950 [INFO]  Epoch[0] Time cost=0.025
+2024-04-11 16:16:36,952 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:16:36,954 [INFO]  Epoch[0] Validation-cross-entropy=0.139458
+2024-04-11 16:16:36,954 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:36,967 [INFO]  Epoch[1] Batch [0-17]	Speed: 21567.40 samples/sec	cross-entropy=0.065229	Recency-accuracy=0.000000
+2024-04-11 16:16:36,979 [INFO]  Epoch[1] Train-cross-entropy=0.027008
+2024-04-11 16:16:36,979 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:36,979 [INFO]  Epoch[1] Time cost=0.025
+2024-04-11 16:16:36,981 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:16:36,982 [INFO]  Epoch[1] Validation-cross-entropy=0.018964
+2024-04-11 16:16:36,983 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:36,996 [INFO]  Epoch[2] Batch [0-17]	Speed: 21874.23 samples/sec	cross-entropy=0.013821	Recency-accuracy=0.000000
+2024-04-11 16:16:37,008 [INFO]  Epoch[2] Train-cross-entropy=0.014952
+2024-04-11 16:16:37,008 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:37,008 [INFO]  Epoch[2] Time cost=0.025
+2024-04-11 16:16:37,009 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:16:37,011 [INFO]  Epoch[2] Validation-cross-entropy=0.012678
+2024-04-11 16:16:37,011 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:37,027 [INFO]  Epoch[3] Batch [0-17]	Speed: 18446.04 samples/sec	cross-entropy=0.009017	Recency-accuracy=0.000000
+2024-04-11 16:16:37,039 [INFO]  Epoch[3] Train-cross-entropy=0.010807
+2024-04-11 16:16:37,040 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:37,040 [INFO]  Epoch[3] Time cost=0.029
+2024-04-11 16:16:37,041 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:16:37,043 [INFO]  Epoch[3] Validation-cross-entropy=0.010141
+2024-04-11 16:16:37,043 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:37,057 [INFO]  Epoch[4] Batch [0-17]	Speed: 21737.94 samples/sec	cross-entropy=0.006621	Recency-accuracy=0.000000
+2024-04-11 16:16:37,069 [INFO]  Epoch[4] Train-cross-entropy=0.007888
+2024-04-11 16:16:37,069 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:37,069 [INFO]  Epoch[4] Time cost=0.026
+2024-04-11 16:16:37,070 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:16:37,072 [INFO]  Epoch[4] Validation-cross-entropy=0.008478
+2024-04-11 16:16:37,072 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:37,072 [INFO]  
+========== done (0.14843249320983887 s) fit model
+2024-04-11 16:16:38,142 [INFO]  
+========== start: fit model
+2024-04-11 16:16:38,142 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:16:38,218 [INFO]  Epoch[0] Batch [0-17]	Speed: 16277.17 samples/sec	cross-entropy=6.461376	Recency-accuracy=0.000000
+2024-04-11 16:16:38,233 [INFO]  Epoch[0] Train-cross-entropy=1.061070
+2024-04-11 16:16:38,233 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:38,233 [INFO]  Epoch[0] Time cost=0.090
+2024-04-11 16:16:38,235 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:16:38,236 [INFO]  Epoch[0] Validation-cross-entropy=0.304273
+2024-04-11 16:16:38,236 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:38,267 [INFO]  Epoch[1] Batch [0-17]	Speed: 9324.10 samples/sec	cross-entropy=0.132231	Recency-accuracy=0.000000
+2024-04-11 16:16:38,421 [INFO]  Epoch[1] Train-cross-entropy=0.052549
+2024-04-11 16:16:38,421 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:38,421 [INFO]  Epoch[1] Time cost=0.185
+2024-04-11 16:16:38,423 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:16:38,424 [INFO]  Epoch[1] Validation-cross-entropy=0.062425
+2024-04-11 16:16:38,424 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:38,484 [INFO]  Epoch[2] Batch [0-17]	Speed: 4631.11 samples/sec	cross-entropy=0.022711	Recency-accuracy=0.000000
+2024-04-11 16:16:38,506 [INFO]  Epoch[2] Train-cross-entropy=0.011421
+2024-04-11 16:16:38,506 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:38,506 [INFO]  Epoch[2] Time cost=0.082
+2024-04-11 16:16:38,508 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:16:38,509 [INFO]  Epoch[2] Validation-cross-entropy=0.011475
+2024-04-11 16:16:38,509 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:38,572 [INFO]  Epoch[3] Batch [0-17]	Speed: 4441.80 samples/sec	cross-entropy=0.008594	Recency-accuracy=0.000000
+2024-04-11 16:16:38,596 [INFO]  Epoch[3] Train-cross-entropy=0.006377
+2024-04-11 16:16:38,596 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:38,596 [INFO]  Epoch[3] Time cost=0.086
+2024-04-11 16:16:38,600 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:16:38,614 [INFO]  Epoch[3] Validation-cross-entropy=0.006429
+2024-04-11 16:16:38,614 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:38,641 [INFO]  Epoch[4] Batch [0-17]	Speed: 10652.30 samples/sec	cross-entropy=0.004783	Recency-accuracy=0.000000
+2024-04-11 16:16:38,652 [INFO]  Epoch[4] Train-cross-entropy=0.004004
+2024-04-11 16:16:38,652 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:38,652 [INFO]  Epoch[4] Time cost=0.038
+2024-04-11 16:16:38,654 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:16:38,655 [INFO]  Epoch[4] Validation-cross-entropy=0.004070
+2024-04-11 16:16:38,655 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:38,655 [INFO]  
+========== done (0.5132746696472168 s) fit model
+2024-04-11 16:16:41,097 [INFO]  
+========== start: fit model
+2024-04-11 16:16:41,098 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:16:41,142 [INFO]  Epoch[0] Batch [0-17]	Speed: 19949.13 samples/sec	cross-entropy=4.324336	Recency-accuracy=3.166667
+2024-04-11 16:16:41,213 [INFO]  Epoch[0] Train-cross-entropy=0.910223
+2024-04-11 16:16:41,214 [INFO]  Epoch[0] Train-Recency-accuracy=4.187500
+2024-04-11 16:16:41,214 [INFO]  Epoch[0] Time cost=0.115
+2024-04-11 16:16:41,215 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:16:41,217 [INFO]  Epoch[0] Validation-cross-entropy=0.261734
+2024-04-11 16:16:41,217 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:41,241 [INFO]  Epoch[1] Batch [0-17]	Speed: 11904.94 samples/sec	cross-entropy=0.130984	Recency-accuracy=3.166667
+2024-04-11 16:16:41,303 [INFO]  Epoch[1] Train-cross-entropy=0.029512
+2024-04-11 16:16:41,303 [INFO]  Epoch[1] Train-Recency-accuracy=4.187500
+2024-04-11 16:16:41,304 [INFO]  Epoch[1] Time cost=0.086
+2024-04-11 16:16:41,305 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:16:41,308 [INFO]  Epoch[1] Validation-cross-entropy=0.019022
+2024-04-11 16:16:41,308 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:41,440 [INFO]  Epoch[2] Batch [0-17]	Speed: 2081.95 samples/sec	cross-entropy=0.024772	Recency-accuracy=3.166667
+2024-04-11 16:16:41,518 [INFO]  Epoch[2] Train-cross-entropy=0.014414
+2024-04-11 16:16:41,519 [INFO]  Epoch[2] Train-Recency-accuracy=4.187500
+2024-04-11 16:16:41,519 [INFO]  Epoch[2] Time cost=0.211
+2024-04-11 16:16:41,521 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:16:41,524 [INFO]  Epoch[2] Validation-cross-entropy=0.013541
+2024-04-11 16:16:41,524 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:41,610 [INFO]  Epoch[3] Batch [0-17]	Speed: 3335.80 samples/sec	cross-entropy=0.018081	Recency-accuracy=3.166667
+2024-04-11 16:16:41,672 [INFO]  Epoch[3] Train-cross-entropy=0.011052
+2024-04-11 16:16:41,672 [INFO]  Epoch[3] Train-Recency-accuracy=4.187500
+2024-04-11 16:16:41,672 [INFO]  Epoch[3] Time cost=0.149
+2024-04-11 16:16:41,674 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:16:41,676 [INFO]  Epoch[3] Validation-cross-entropy=0.010404
+2024-04-11 16:16:41,676 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:41,783 [INFO]  Epoch[4] Batch [0-17]	Speed: 19202.68 samples/sec	cross-entropy=0.011283	Recency-accuracy=3.166667
+2024-04-11 16:16:41,943 [INFO]  Epoch[4] Train-cross-entropy=0.006889
+2024-04-11 16:16:41,943 [INFO]  Epoch[4] Train-Recency-accuracy=4.187500
+2024-04-11 16:16:41,943 [INFO]  Epoch[4] Time cost=0.267
+2024-04-11 16:16:41,947 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:16:41,954 [INFO]  Epoch[4] Validation-cross-entropy=0.006806
+2024-04-11 16:16:41,954 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:41,954 [INFO]  
+========== done (0.8570892810821533 s) fit model
+2024-04-11 16:16:44,150 [INFO]  
+========== start: fit model
+2024-04-11 16:16:44,150 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:16:44,176 [INFO]  Epoch[0] Batch [0-17]	Speed: 11749.84 samples/sec	cross-entropy=17.921504	Recency-accuracy=3.500000
+2024-04-11 16:16:44,187 [INFO]  Epoch[0] Train-cross-entropy=2.935693
+2024-04-11 16:16:44,187 [INFO]  Epoch[0] Train-Recency-accuracy=3.500000
+2024-04-11 16:16:44,187 [INFO]  Epoch[0] Time cost=0.036
+2024-04-11 16:16:44,189 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:16:44,191 [INFO]  Epoch[0] Validation-cross-entropy=1.187141
+2024-04-11 16:16:44,191 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:44,204 [INFO]  Epoch[1] Batch [0-17]	Speed: 21480.90 samples/sec	cross-entropy=0.430732	Recency-accuracy=3.500000
+2024-04-11 16:16:44,240 [INFO]  Epoch[1] Train-cross-entropy=0.220558
+2024-04-11 16:16:44,241 [INFO]  Epoch[1] Train-Recency-accuracy=3.500000
+2024-04-11 16:16:44,241 [INFO]  Epoch[1] Time cost=0.050
+2024-04-11 16:16:44,242 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:16:44,244 [INFO]  Epoch[1] Validation-cross-entropy=0.087327
+2024-04-11 16:16:44,244 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:44,271 [INFO]  Epoch[2] Batch [0-17]	Speed: 10101.30 samples/sec	cross-entropy=0.078177	Recency-accuracy=3.500000
+2024-04-11 16:16:44,357 [INFO]  Epoch[2] Train-cross-entropy=0.053342
+2024-04-11 16:16:44,357 [INFO]  Epoch[2] Train-Recency-accuracy=3.500000
+2024-04-11 16:16:44,357 [INFO]  Epoch[2] Time cost=0.113
+2024-04-11 16:16:44,361 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:16:44,373 [INFO]  Epoch[2] Validation-cross-entropy=0.034818
+2024-04-11 16:16:44,374 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:44,410 [INFO]  Epoch[3] Batch [0-17]	Speed: 7697.27 samples/sec	cross-entropy=0.036458	Recency-accuracy=3.500000
+2024-04-11 16:16:44,456 [INFO]  Epoch[3] Train-cross-entropy=0.045014
+2024-04-11 16:16:44,456 [INFO]  Epoch[3] Train-Recency-accuracy=3.500000
+2024-04-11 16:16:44,456 [INFO]  Epoch[3] Time cost=0.082
+2024-04-11 16:16:44,457 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:16:44,460 [INFO]  Epoch[3] Validation-cross-entropy=0.027757
+2024-04-11 16:16:44,460 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:44,485 [INFO]  Epoch[4] Batch [0-17]	Speed: 11485.81 samples/sec	cross-entropy=0.026210	Recency-accuracy=3.500000
+2024-04-11 16:16:44,524 [INFO]  Epoch[4] Train-cross-entropy=0.031216
+2024-04-11 16:16:44,524 [INFO]  Epoch[4] Train-Recency-accuracy=3.500000
+2024-04-11 16:16:44,524 [INFO]  Epoch[4] Time cost=0.064
+2024-04-11 16:16:44,526 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:16:44,529 [INFO]  Epoch[4] Validation-cross-entropy=0.018985
+2024-04-11 16:16:44,529 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:44,529 [INFO]  
+========== done (0.3789808750152588 s) fit model
+2024-04-11 16:16:46,828 [INFO]  
+========== start: fit model
+2024-04-11 16:16:46,828 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:16:46,906 [INFO]  Epoch[0] Batch [0-17]	Speed: 21885.98 samples/sec	cross-entropy=6.986978	Recency-accuracy=0.000000
+2024-04-11 16:16:46,976 [INFO]  Epoch[0] Train-cross-entropy=1.245589
+2024-04-11 16:16:46,976 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:46,976 [INFO]  Epoch[0] Time cost=0.147
+2024-04-11 16:16:46,980 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:16:46,987 [INFO]  Epoch[0] Validation-cross-entropy=0.462731
+2024-04-11 16:16:46,987 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:47,013 [INFO]  Epoch[1] Batch [0-17]	Speed: 10917.44 samples/sec	cross-entropy=0.169193	Recency-accuracy=0.000000
+2024-04-11 16:16:47,030 [INFO]  Epoch[1] Train-cross-entropy=0.050812
+2024-04-11 16:16:47,033 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:47,033 [INFO]  Epoch[1] Time cost=0.046
+2024-04-11 16:16:47,035 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:16:47,062 [INFO]  Epoch[1] Validation-cross-entropy=0.043435
+2024-04-11 16:16:47,062 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:47,150 [INFO]  Epoch[2] Batch [0-17]	Speed: 3216.46 samples/sec	cross-entropy=0.033431	Recency-accuracy=0.000000
+2024-04-11 16:16:47,160 [INFO]  Epoch[2] Train-cross-entropy=0.020891
+2024-04-11 16:16:47,160 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:47,160 [INFO]  Epoch[2] Time cost=0.098
+2024-04-11 16:16:47,161 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:16:47,162 [INFO]  Epoch[2] Validation-cross-entropy=0.021005
+2024-04-11 16:16:47,163 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:47,194 [INFO]  Epoch[3] Batch [0-17]	Speed: 8824.79 samples/sec	cross-entropy=0.015390	Recency-accuracy=0.000000
+2024-04-11 16:16:47,237 [INFO]  Epoch[3] Train-cross-entropy=0.013838
+2024-04-11 16:16:47,237 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:47,237 [INFO]  Epoch[3] Time cost=0.075
+2024-04-11 16:16:47,239 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:16:47,240 [INFO]  Epoch[3] Validation-cross-entropy=0.014257
+2024-04-11 16:16:47,240 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:47,253 [INFO]  Epoch[4] Batch [0-17]	Speed: 23486.38 samples/sec	cross-entropy=0.010062	Recency-accuracy=0.000000
+2024-04-11 16:16:47,280 [INFO]  Epoch[4] Train-cross-entropy=0.008961
+2024-04-11 16:16:47,281 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:47,281 [INFO]  Epoch[4] Time cost=0.040
+2024-04-11 16:16:47,283 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:16:47,286 [INFO]  Epoch[4] Validation-cross-entropy=0.009596
+2024-04-11 16:16:47,286 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:47,286 [INFO]  
+========== done (0.457775354385376 s) fit model
+2024-04-11 16:16:49,597 [INFO]  
+========== start: fit model
+2024-04-11 16:16:49,598 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:16:49,626 [INFO]  Epoch[0] Batch [0-17]	Speed: 16072.62 samples/sec	cross-entropy=4.257152	Recency-accuracy=3.944444
+2024-04-11 16:16:49,642 [INFO]  Epoch[0] Train-cross-entropy=0.749491
+2024-04-11 16:16:49,642 [INFO]  Epoch[0] Train-Recency-accuracy=3.250000
+2024-04-11 16:16:49,642 [INFO]  Epoch[0] Time cost=0.043
+2024-04-11 16:16:49,644 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:16:49,646 [INFO]  Epoch[0] Validation-cross-entropy=4.445070
+2024-04-11 16:16:49,646 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:49,665 [INFO]  Epoch[1] Batch [0-17]	Speed: 15565.83 samples/sec	cross-entropy=0.211981	Recency-accuracy=3.944444
+2024-04-11 16:16:49,679 [INFO]  Epoch[1] Train-cross-entropy=0.073657
+2024-04-11 16:16:49,680 [INFO]  Epoch[1] Train-Recency-accuracy=3.250000
+2024-04-11 16:16:49,680 [INFO]  Epoch[1] Time cost=0.033
+2024-04-11 16:16:49,681 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:16:49,683 [INFO]  Epoch[1] Validation-cross-entropy=0.926693
+2024-04-11 16:16:49,684 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:49,702 [INFO]  Epoch[2] Batch [0-17]	Speed: 16009.92 samples/sec	cross-entropy=0.035515	Recency-accuracy=3.944444
+2024-04-11 16:16:49,716 [INFO]  Epoch[2] Train-cross-entropy=0.024824
+2024-04-11 16:16:49,716 [INFO]  Epoch[2] Train-Recency-accuracy=3.250000
+2024-04-11 16:16:49,716 [INFO]  Epoch[2] Time cost=0.032
+2024-04-11 16:16:49,718 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:16:49,720 [INFO]  Epoch[2] Validation-cross-entropy=0.805149
+2024-04-11 16:16:49,720 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:49,744 [INFO]  Epoch[3] Batch [0-17]	Speed: 13218.52 samples/sec	cross-entropy=0.017743	Recency-accuracy=3.944444
+2024-04-11 16:16:49,758 [INFO]  Epoch[3] Train-cross-entropy=0.012823
+2024-04-11 16:16:49,758 [INFO]  Epoch[3] Train-Recency-accuracy=3.250000
+2024-04-11 16:16:49,758 [INFO]  Epoch[3] Time cost=0.038
+2024-04-11 16:16:49,760 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:16:49,762 [INFO]  Epoch[3] Validation-cross-entropy=0.587456
+2024-04-11 16:16:49,762 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:49,780 [INFO]  Epoch[4] Batch [0-17]	Speed: 15636.02 samples/sec	cross-entropy=0.010853	Recency-accuracy=3.944444
+2024-04-11 16:16:49,795 [INFO]  Epoch[4] Train-cross-entropy=0.007953
+2024-04-11 16:16:49,795 [INFO]  Epoch[4] Train-Recency-accuracy=3.250000
+2024-04-11 16:16:49,795 [INFO]  Epoch[4] Time cost=0.033
+2024-04-11 16:16:49,797 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:16:49,800 [INFO]  Epoch[4] Validation-cross-entropy=0.380309
+2024-04-11 16:16:49,800 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:49,800 [INFO]  
+========== done (0.202772855758667 s) fit model
+2024-04-11 16:16:52,212 [INFO]  
+========== start: fit model
+2024-04-11 16:16:52,212 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:16:52,251 [INFO]  Epoch[0] Batch [0-17]	Speed: 10346.82 samples/sec	cross-entropy=1.050021	Recency-accuracy=0.000000
+2024-04-11 16:16:52,273 [INFO]  Epoch[0] Train-cross-entropy=0.116492
+2024-04-11 16:16:52,274 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:52,274 [INFO]  Epoch[0] Time cost=0.060
+2024-04-11 16:16:52,275 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:16:52,277 [INFO]  Epoch[0] Validation-cross-entropy=0.020559
+2024-04-11 16:16:52,277 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:52,302 [INFO]  Epoch[1] Batch [0-17]	Speed: 11876.81 samples/sec	cross-entropy=0.026384	Recency-accuracy=0.000000
+2024-04-11 16:16:52,327 [INFO]  Epoch[1] Train-cross-entropy=0.016804
+2024-04-11 16:16:52,327 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:52,327 [INFO]  Epoch[1] Time cost=0.049
+2024-04-11 16:16:52,329 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:16:52,333 [INFO]  Epoch[1] Validation-cross-entropy=0.021120
+2024-04-11 16:16:52,333 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:52,355 [INFO]  Epoch[2] Batch [0-17]	Speed: 13555.57 samples/sec	cross-entropy=0.011642	Recency-accuracy=0.000000
+2024-04-11 16:16:52,388 [INFO]  Epoch[2] Train-cross-entropy=0.006739
+2024-04-11 16:16:52,389 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:52,389 [INFO]  Epoch[2] Time cost=0.055
+2024-04-11 16:16:52,390 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:16:52,392 [INFO]  Epoch[2] Validation-cross-entropy=0.007271
+2024-04-11 16:16:52,392 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:52,419 [INFO]  Epoch[3] Batch [0-17]	Speed: 11013.24 samples/sec	cross-entropy=0.006122	Recency-accuracy=0.000000
+2024-04-11 16:16:52,438 [INFO]  Epoch[3] Train-cross-entropy=0.004558
+2024-04-11 16:16:52,438 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:52,439 [INFO]  Epoch[3] Time cost=0.046
+2024-04-11 16:16:52,440 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:16:52,442 [INFO]  Epoch[3] Validation-cross-entropy=0.005458
+2024-04-11 16:16:52,442 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:52,462 [INFO]  Epoch[4] Batch [0-17]	Speed: 14515.19 samples/sec	cross-entropy=0.004272	Recency-accuracy=0.000000
+2024-04-11 16:16:52,482 [INFO]  Epoch[4] Train-cross-entropy=0.003193
+2024-04-11 16:16:52,482 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:52,482 [INFO]  Epoch[4] Time cost=0.040
+2024-04-11 16:16:52,484 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:16:52,486 [INFO]  Epoch[4] Validation-cross-entropy=0.003847
+2024-04-11 16:16:52,486 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:52,486 [INFO]  
+========== done (0.27364635467529297 s) fit model
+2024-04-11 16:16:54,724 [INFO]  
+========== start: fit model
+2024-04-11 16:16:54,724 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:16:54,743 [INFO]  Epoch[0] Batch [0-17]	Speed: 17475.73 samples/sec	cross-entropy=5.426298	Recency-accuracy=0.000000
+2024-04-11 16:16:54,758 [INFO]  Epoch[0] Train-cross-entropy=0.764162
+2024-04-11 16:16:54,759 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:54,759 [INFO]  Epoch[0] Time cost=0.033
+2024-04-11 16:16:54,761 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:16:54,768 [INFO]  Epoch[0] Validation-cross-entropy=0.058955
+2024-04-11 16:16:54,768 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:54,815 [INFO]  Epoch[1] Batch [0-17]	Speed: 7996.04 samples/sec	cross-entropy=0.108602	Recency-accuracy=0.000000
+2024-04-11 16:16:54,842 [INFO]  Epoch[1] Train-cross-entropy=0.194484
+2024-04-11 16:16:54,842 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:54,842 [INFO]  Epoch[1] Time cost=0.074
+2024-04-11 16:16:54,845 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:16:54,878 [INFO]  Epoch[1] Validation-cross-entropy=0.091947
+2024-04-11 16:16:54,878 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:54,952 [INFO]  Epoch[2] Batch [0-17]	Speed: 4684.72 samples/sec	cross-entropy=0.053227	Recency-accuracy=0.000000
+2024-04-11 16:16:54,976 [INFO]  Epoch[2] Train-cross-entropy=0.024691
+2024-04-11 16:16:54,976 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:54,977 [INFO]  Epoch[2] Time cost=0.099
+2024-04-11 16:16:54,980 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:16:54,983 [INFO]  Epoch[2] Validation-cross-entropy=0.012167
+2024-04-11 16:16:54,983 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:55,031 [INFO]  Epoch[3] Batch [0-17]	Speed: 6010.39 samples/sec	cross-entropy=0.009270	Recency-accuracy=0.000000
+2024-04-11 16:16:55,066 [INFO]  Epoch[3] Train-cross-entropy=0.012341
+2024-04-11 16:16:55,066 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:55,066 [INFO]  Epoch[3] Time cost=0.083
+2024-04-11 16:16:55,068 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:16:55,142 [INFO]  Epoch[3] Validation-cross-entropy=0.008585
+2024-04-11 16:16:55,142 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:55,199 [INFO]  Epoch[4] Batch [0-17]	Speed: 4905.91 samples/sec	cross-entropy=0.006920	Recency-accuracy=0.000000
+2024-04-11 16:16:55,213 [INFO]  Epoch[4] Train-cross-entropy=0.005680
+2024-04-11 16:16:55,213 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:16:55,213 [INFO]  Epoch[4] Time cost=0.071
+2024-04-11 16:16:55,215 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:16:55,221 [INFO]  Epoch[4] Validation-cross-entropy=0.003992
+2024-04-11 16:16:55,221 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:55,221 [INFO]  
+========== done (0.49668121337890625 s) fit model
+2024-04-11 16:16:57,460 [INFO]  
+========== start: fit model
+2024-04-11 16:16:57,460 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:16:57,478 [INFO]  Epoch[0] Batch [0-17]	Speed: 19172.03 samples/sec	cross-entropy=6.628944	Recency-accuracy=3.388889
+2024-04-11 16:16:57,573 [INFO]  Epoch[0] Train-cross-entropy=0.925967
+2024-04-11 16:16:57,573 [INFO]  Epoch[0] Train-Recency-accuracy=3.312500
+2024-04-11 16:16:57,573 [INFO]  Epoch[0] Time cost=0.112
+2024-04-11 16:16:57,575 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:16:57,576 [INFO]  Epoch[0] Validation-cross-entropy=0.158125
+2024-04-11 16:16:57,576 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:57,609 [INFO]  Epoch[1] Batch [0-17]	Speed: 21293.66 samples/sec	cross-entropy=0.202617	Recency-accuracy=3.388889
+2024-04-11 16:16:57,621 [INFO]  Epoch[1] Train-cross-entropy=0.082487
+2024-04-11 16:16:57,622 [INFO]  Epoch[1] Train-Recency-accuracy=3.312500
+2024-04-11 16:16:57,622 [INFO]  Epoch[1] Time cost=0.046
+2024-04-11 16:16:57,623 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:16:57,624 [INFO]  Epoch[1] Validation-cross-entropy=0.027993
+2024-04-11 16:16:57,625 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:57,638 [INFO]  Epoch[2] Batch [0-17]	Speed: 21465.54 samples/sec	cross-entropy=0.034867	Recency-accuracy=3.388889
+2024-04-11 16:16:57,666 [INFO]  Epoch[2] Train-cross-entropy=0.019489
+2024-04-11 16:16:57,666 [INFO]  Epoch[2] Train-Recency-accuracy=3.312500
+2024-04-11 16:16:57,666 [INFO]  Epoch[2] Time cost=0.041
+2024-04-11 16:16:57,667 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:16:57,682 [INFO]  Epoch[2] Validation-cross-entropy=0.012523
+2024-04-11 16:16:57,682 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:57,710 [INFO]  Epoch[3] Batch [0-17]	Speed: 10347.66 samples/sec	cross-entropy=0.015642	Recency-accuracy=3.388889
+2024-04-11 16:16:57,720 [INFO]  Epoch[3] Train-cross-entropy=0.010846
+2024-04-11 16:16:57,720 [INFO]  Epoch[3] Train-Recency-accuracy=3.312500
+2024-04-11 16:16:57,720 [INFO]  Epoch[3] Time cost=0.038
+2024-04-11 16:16:57,722 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:16:57,723 [INFO]  Epoch[3] Validation-cross-entropy=0.009792
+2024-04-11 16:16:57,723 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:57,734 [INFO]  Epoch[4] Batch [0-17]	Speed: 26476.00 samples/sec	cross-entropy=0.010734	Recency-accuracy=3.388889
+2024-04-11 16:16:57,749 [INFO]  Epoch[4] Train-cross-entropy=0.007917
+2024-04-11 16:16:57,749 [INFO]  Epoch[4] Train-Recency-accuracy=3.312500
+2024-04-11 16:16:57,749 [INFO]  Epoch[4] Time cost=0.026
+2024-04-11 16:16:57,753 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:16:57,786 [INFO]  Epoch[4] Validation-cross-entropy=0.007281
+2024-04-11 16:16:57,786 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:16:57,786 [INFO]  
+========== done (0.3260948657989502 s) fit model
+2024-04-11 16:17:00,905 [INFO]  
+========== start: fit model
+2024-04-11 16:17:00,905 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:00,920 [INFO]  Epoch[0] Batch [0-17]	Speed: 21495.47 samples/sec	cross-entropy=9.207796	Recency-accuracy=0.000000
+2024-04-11 16:17:00,930 [INFO]  Epoch[0] Train-cross-entropy=0.656333
+2024-04-11 16:17:00,930 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:00,930 [INFO]  Epoch[0] Time cost=0.024
+2024-04-11 16:17:00,932 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:00,933 [INFO]  Epoch[0] Validation-cross-entropy=0.386746
+2024-04-11 16:17:00,933 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:00,957 [INFO]  Epoch[1] Batch [0-17]	Speed: 11692.76 samples/sec	cross-entropy=0.147347	Recency-accuracy=0.000000
+2024-04-11 16:17:00,968 [INFO]  Epoch[1] Train-cross-entropy=0.114218
+2024-04-11 16:17:00,968 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:00,968 [INFO]  Epoch[1] Time cost=0.036
+2024-04-11 16:17:00,970 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:00,971 [INFO]  Epoch[1] Validation-cross-entropy=0.068448
+2024-04-11 16:17:00,971 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:00,982 [INFO]  Epoch[2] Batch [0-17]	Speed: 26725.33 samples/sec	cross-entropy=0.047061	Recency-accuracy=0.000000
+2024-04-11 16:17:00,993 [INFO]  Epoch[2] Train-cross-entropy=0.032911
+2024-04-11 16:17:00,993 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:00,993 [INFO]  Epoch[2] Time cost=0.022
+2024-04-11 16:17:00,995 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:00,996 [INFO]  Epoch[2] Validation-cross-entropy=0.019435
+2024-04-11 16:17:00,996 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:01,059 [INFO]  Epoch[3] Batch [0-17]	Speed: 4438.76 samples/sec	cross-entropy=0.018536	Recency-accuracy=0.000000
+2024-04-11 16:17:01,083 [INFO]  Epoch[3] Train-cross-entropy=0.018626
+2024-04-11 16:17:01,083 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:01,084 [INFO]  Epoch[3] Time cost=0.087
+2024-04-11 16:17:01,086 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:01,088 [INFO]  Epoch[3] Validation-cross-entropy=0.012427
+2024-04-11 16:17:01,088 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:01,129 [INFO]  Epoch[4] Batch [0-17]	Speed: 6854.18 samples/sec	cross-entropy=0.012032	Recency-accuracy=0.000000
+2024-04-11 16:17:01,147 [INFO]  Epoch[4] Train-cross-entropy=0.012433
+2024-04-11 16:17:01,147 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:01,147 [INFO]  Epoch[4] Time cost=0.059
+2024-04-11 16:17:01,149 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:01,155 [INFO]  Epoch[4] Validation-cross-entropy=0.008792
+2024-04-11 16:17:01,155 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:01,155 [INFO]  
+========== done (0.25046515464782715 s) fit model
+2024-04-11 16:17:03,459 [INFO]  
+========== start: fit model
+2024-04-11 16:17:03,459 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:03,574 [INFO]  Epoch[0] Batch [0-17]	Speed: 3258.40 samples/sec	cross-entropy=3.652191	Recency-accuracy=0.000000
+2024-04-11 16:17:03,639 [INFO]  Epoch[0] Train-cross-entropy=1.104300
+2024-04-11 16:17:03,639 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:03,640 [INFO]  Epoch[0] Time cost=0.180
+2024-04-11 16:17:03,641 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:03,644 [INFO]  Epoch[0] Validation-cross-entropy=0.278849
+2024-04-11 16:17:03,644 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:03,747 [INFO]  Epoch[1] Batch [0-17]	Speed: 2766.50 samples/sec	cross-entropy=0.179392	Recency-accuracy=0.000000
+2024-04-11 16:17:03,833 [INFO]  Epoch[1] Train-cross-entropy=0.069265
+2024-04-11 16:17:03,833 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:03,833 [INFO]  Epoch[1] Time cost=0.189
+2024-04-11 16:17:03,835 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:03,837 [INFO]  Epoch[1] Validation-cross-entropy=0.032506
+2024-04-11 16:17:03,837 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:03,867 [INFO]  Epoch[2] Batch [0-17]	Speed: 9329.21 samples/sec	cross-entropy=0.018122	Recency-accuracy=0.000000
+2024-04-11 16:17:03,907 [INFO]  Epoch[2] Train-cross-entropy=0.023490
+2024-04-11 16:17:03,907 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:03,907 [INFO]  Epoch[2] Time cost=0.071
+2024-04-11 16:17:03,909 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:03,911 [INFO]  Epoch[2] Validation-cross-entropy=0.023753
+2024-04-11 16:17:03,911 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:03,935 [INFO]  Epoch[3] Batch [0-17]	Speed: 12321.93 samples/sec	cross-entropy=0.011554	Recency-accuracy=0.000000
+2024-04-11 16:17:03,986 [INFO]  Epoch[3] Train-cross-entropy=0.010207
+2024-04-11 16:17:03,986 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:03,986 [INFO]  Epoch[3] Time cost=0.075
+2024-04-11 16:17:03,988 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:03,996 [INFO]  Epoch[3] Validation-cross-entropy=0.012426
+2024-04-11 16:17:03,996 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:04,085 [INFO]  Epoch[4] Batch [0-17]	Speed: 3108.86 samples/sec	cross-entropy=0.006984	Recency-accuracy=0.000000
+2024-04-11 16:17:04,103 [INFO]  Epoch[4] Train-cross-entropy=0.005928
+2024-04-11 16:17:04,103 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:04,103 [INFO]  Epoch[4] Time cost=0.107
+2024-04-11 16:17:04,104 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:04,106 [INFO]  Epoch[4] Validation-cross-entropy=0.009796
+2024-04-11 16:17:04,106 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:04,106 [INFO]  
+========== done (0.6474685668945312 s) fit model
+2024-04-11 16:17:06,066 [INFO]  
+========== start: fit model
+2024-04-11 16:17:06,066 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:06,079 [INFO]  Epoch[0] Batch [0-17]	Speed: 25117.80 samples/sec	cross-entropy=5.607171	Recency-accuracy=3.944444
+2024-04-11 16:17:06,131 [INFO]  Epoch[0] Train-cross-entropy=0.820356
+2024-04-11 16:17:06,131 [INFO]  Epoch[0] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:06,131 [INFO]  Epoch[0] Time cost=0.064
+2024-04-11 16:17:06,137 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:06,146 [INFO]  Epoch[0] Validation-cross-entropy=0.119096
+2024-04-11 16:17:06,146 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:06,181 [INFO]  Epoch[1] Batch [0-17]	Speed: 8145.56 samples/sec	cross-entropy=0.103422	Recency-accuracy=3.944444
+2024-04-11 16:17:06,192 [INFO]  Epoch[1] Train-cross-entropy=0.025918
+2024-04-11 16:17:06,192 [INFO]  Epoch[1] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:06,192 [INFO]  Epoch[1] Time cost=0.046
+2024-04-11 16:17:06,194 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:06,195 [INFO]  Epoch[1] Validation-cross-entropy=0.031892
+2024-04-11 16:17:06,195 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:06,206 [INFO]  Epoch[2] Batch [0-17]	Speed: 26517.84 samples/sec	cross-entropy=0.016192	Recency-accuracy=3.944444
+2024-04-11 16:17:06,251 [INFO]  Epoch[2] Train-cross-entropy=0.013109
+2024-04-11 16:17:06,252 [INFO]  Epoch[2] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:06,252 [INFO]  Epoch[2] Time cost=0.056
+2024-04-11 16:17:06,254 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:06,256 [INFO]  Epoch[2] Validation-cross-entropy=0.027863
+2024-04-11 16:17:06,256 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:06,299 [INFO]  Epoch[3] Batch [0-17]	Speed: 7260.32 samples/sec	cross-entropy=0.008314	Recency-accuracy=3.944444
+2024-04-11 16:17:06,313 [INFO]  Epoch[3] Train-cross-entropy=0.008249
+2024-04-11 16:17:06,313 [INFO]  Epoch[3] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:06,313 [INFO]  Epoch[3] Time cost=0.057
+2024-04-11 16:17:06,315 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:06,319 [INFO]  Epoch[3] Validation-cross-entropy=0.020087
+2024-04-11 16:17:06,319 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:06,345 [INFO]  Epoch[4] Batch [0-17]	Speed: 10855.32 samples/sec	cross-entropy=0.005523	Recency-accuracy=3.944444
+2024-04-11 16:17:06,368 [INFO]  Epoch[4] Train-cross-entropy=0.005679
+2024-04-11 16:17:06,368 [INFO]  Epoch[4] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:06,368 [INFO]  Epoch[4] Time cost=0.049
+2024-04-11 16:17:06,370 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:06,372 [INFO]  Epoch[4] Validation-cross-entropy=0.016553
+2024-04-11 16:17:06,372 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:06,372 [INFO]  
+========== done (0.3057889938354492 s) fit model
+2024-04-11 16:17:08,444 [INFO]  
+========== start: fit model
+2024-04-11 16:17:08,444 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:08,460 [INFO]  Epoch[0] Batch [0-17]	Speed: 20777.87 samples/sec	cross-entropy=1.647737	Recency-accuracy=3.722222
+2024-04-11 16:17:08,516 [INFO]  Epoch[0] Train-cross-entropy=0.617661
+2024-04-11 16:17:08,516 [INFO]  Epoch[0] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:08,516 [INFO]  Epoch[0] Time cost=0.071
+2024-04-11 16:17:08,518 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:08,520 [INFO]  Epoch[0] Validation-cross-entropy=0.295295
+2024-04-11 16:17:08,520 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:08,542 [INFO]  Epoch[1] Batch [0-17]	Speed: 13957.41 samples/sec	cross-entropy=0.173111	Recency-accuracy=3.722222
+2024-04-11 16:17:08,560 [INFO]  Epoch[1] Train-cross-entropy=0.088653
+2024-04-11 16:17:08,560 [INFO]  Epoch[1] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:08,560 [INFO]  Epoch[1] Time cost=0.040
+2024-04-11 16:17:08,562 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:08,565 [INFO]  Epoch[1] Validation-cross-entropy=0.061388
+2024-04-11 16:17:08,565 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:08,582 [INFO]  Epoch[2] Batch [0-17]	Speed: 17737.38 samples/sec	cross-entropy=0.056157	Recency-accuracy=3.722222
+2024-04-11 16:17:08,631 [INFO]  Epoch[2] Train-cross-entropy=0.036878
+2024-04-11 16:17:08,631 [INFO]  Epoch[2] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:08,631 [INFO]  Epoch[2] Time cost=0.066
+2024-04-11 16:17:08,633 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:08,648 [INFO]  Epoch[2] Validation-cross-entropy=0.020640
+2024-04-11 16:17:08,648 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:08,662 [INFO]  Epoch[3] Batch [0-17]	Speed: 21188.47 samples/sec	cross-entropy=0.022002	Recency-accuracy=3.722222
+2024-04-11 16:17:08,672 [INFO]  Epoch[3] Train-cross-entropy=0.016386
+2024-04-11 16:17:08,672 [INFO]  Epoch[3] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:08,672 [INFO]  Epoch[3] Time cost=0.024
+2024-04-11 16:17:08,674 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:08,675 [INFO]  Epoch[3] Validation-cross-entropy=0.011495
+2024-04-11 16:17:08,675 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:08,723 [INFO]  Epoch[4] Batch [0-17]	Speed: 5857.03 samples/sec	cross-entropy=0.013012	Recency-accuracy=3.722222
+2024-04-11 16:17:08,766 [INFO]  Epoch[4] Train-cross-entropy=0.010217
+2024-04-11 16:17:08,766 [INFO]  Epoch[4] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:08,766 [INFO]  Epoch[4] Time cost=0.091
+2024-04-11 16:17:08,767 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:08,789 [INFO]  Epoch[4] Validation-cross-entropy=0.008317
+2024-04-11 16:17:08,789 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:08,789 [INFO]  
+========== done (0.34495091438293457 s) fit model
+2024-04-11 16:17:10,989 [INFO]  
+========== start: fit model
+2024-04-11 16:17:10,989 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:11,123 [INFO]  Epoch[0] Batch [0-17]	Speed: 4407.01 samples/sec	cross-entropy=6.323256	Recency-accuracy=3.611111
+2024-04-11 16:17:11,173 [INFO]  Epoch[0] Train-cross-entropy=0.817218
+2024-04-11 16:17:11,173 [INFO]  Epoch[0] Train-Recency-accuracy=3.062500
+2024-04-11 16:17:11,173 [INFO]  Epoch[0] Time cost=0.183
+2024-04-11 16:17:11,175 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:11,177 [INFO]  Epoch[0] Validation-cross-entropy=0.149684
+2024-04-11 16:17:11,177 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:11,227 [INFO]  Epoch[1] Batch [0-17]	Speed: 5629.33 samples/sec	cross-entropy=0.103367	Recency-accuracy=3.611111
+2024-04-11 16:17:11,261 [INFO]  Epoch[1] Train-cross-entropy=0.070600
+2024-04-11 16:17:11,261 [INFO]  Epoch[1] Train-Recency-accuracy=3.062500
+2024-04-11 16:17:11,261 [INFO]  Epoch[1] Time cost=0.084
+2024-04-11 16:17:11,263 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:11,264 [INFO]  Epoch[1] Validation-cross-entropy=0.044006
+2024-04-11 16:17:11,265 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:11,288 [INFO]  Epoch[2] Batch [0-17]	Speed: 12111.20 samples/sec	cross-entropy=0.026290	Recency-accuracy=3.611111
+2024-04-11 16:17:11,309 [INFO]  Epoch[2] Train-cross-entropy=0.017175
+2024-04-11 16:17:11,309 [INFO]  Epoch[2] Train-Recency-accuracy=3.062500
+2024-04-11 16:17:11,309 [INFO]  Epoch[2] Time cost=0.044
+2024-04-11 16:17:11,311 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:11,313 [INFO]  Epoch[2] Validation-cross-entropy=0.010572
+2024-04-11 16:17:11,315 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:11,347 [INFO]  Epoch[3] Batch [0-17]	Speed: 23945.82 samples/sec	cross-entropy=0.013447	Recency-accuracy=3.611111
+2024-04-11 16:17:11,357 [INFO]  Epoch[3] Train-cross-entropy=0.009764
+2024-04-11 16:17:11,358 [INFO]  Epoch[3] Train-Recency-accuracy=3.062500
+2024-04-11 16:17:11,358 [INFO]  Epoch[3] Time cost=0.043
+2024-04-11 16:17:11,359 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:11,360 [INFO]  Epoch[3] Validation-cross-entropy=0.007748
+2024-04-11 16:17:11,360 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:11,372 [INFO]  Epoch[4] Batch [0-17]	Speed: 24786.55 samples/sec	cross-entropy=0.007585	Recency-accuracy=3.611111
+2024-04-11 16:17:11,382 [INFO]  Epoch[4] Train-cross-entropy=0.006234
+2024-04-11 16:17:11,382 [INFO]  Epoch[4] Train-Recency-accuracy=3.062500
+2024-04-11 16:17:11,382 [INFO]  Epoch[4] Time cost=0.022
+2024-04-11 16:17:11,880 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:11,882 [INFO]  Epoch[4] Validation-cross-entropy=0.006974
+2024-04-11 16:17:11,882 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:11,882 [INFO]  
+========== done (0.8933830261230469 s) fit model
+2024-04-11 16:17:14,210 [INFO]  
+========== start: fit model
+2024-04-11 16:17:14,211 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:14,298 [INFO]  Epoch[0] Batch [0-17]	Speed: 4368.70 samples/sec	cross-entropy=2.693993	Recency-accuracy=0.000000
+2024-04-11 16:17:14,311 [INFO]  Epoch[0] Train-cross-entropy=0.318410
+2024-04-11 16:17:14,311 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:14,311 [INFO]  Epoch[0] Time cost=0.100
+2024-04-11 16:17:14,314 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:14,315 [INFO]  Epoch[0] Validation-cross-entropy=0.971265
+2024-04-11 16:17:14,315 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:14,338 [INFO]  Epoch[1] Batch [0-17]	Speed: 12646.33 samples/sec	cross-entropy=0.135439	Recency-accuracy=0.000000
+2024-04-11 16:17:14,754 [INFO]  Epoch[1] Train-cross-entropy=0.047337
+2024-04-11 16:17:14,755 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:14,755 [INFO]  Epoch[1] Time cost=0.439
+2024-04-11 16:17:14,756 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:14,759 [INFO]  Epoch[1] Validation-cross-entropy=0.059517
+2024-04-11 16:17:14,759 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:14,847 [INFO]  Epoch[2] Batch [0-17]	Speed: 3125.72 samples/sec	cross-entropy=0.024808	Recency-accuracy=0.000000
+2024-04-11 16:17:15,002 [INFO]  Epoch[2] Train-cross-entropy=0.018302
+2024-04-11 16:17:15,002 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:15,002 [INFO]  Epoch[2] Time cost=0.243
+2024-04-11 16:17:15,003 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:15,006 [INFO]  Epoch[2] Validation-cross-entropy=0.047473
+2024-04-11 16:17:15,006 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:15,028 [INFO]  Epoch[3] Batch [0-17]	Speed: 13074.90 samples/sec	cross-entropy=0.015172	Recency-accuracy=0.000000
+2024-04-11 16:17:15,083 [INFO]  Epoch[3] Train-cross-entropy=0.011979
+2024-04-11 16:17:15,083 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:15,083 [INFO]  Epoch[3] Time cost=0.077
+2024-04-11 16:17:15,084 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:15,086 [INFO]  Epoch[3] Validation-cross-entropy=0.038807
+2024-04-11 16:17:15,086 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:15,384 [INFO]  Epoch[4] Batch [0-17]	Speed: 916.79 samples/sec	cross-entropy=0.009983	Recency-accuracy=0.000000
+2024-04-11 16:17:15,410 [INFO]  Epoch[4] Train-cross-entropy=0.008119
+2024-04-11 16:17:15,410 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:15,410 [INFO]  Epoch[4] Time cost=0.324
+2024-04-11 16:17:15,412 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:15,415 [INFO]  Epoch[4] Validation-cross-entropy=0.031432
+2024-04-11 16:17:15,415 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:15,415 [INFO]  
+========== done (1.2045953273773193 s) fit model
+2024-04-11 16:17:18,709 [INFO]  
+========== start: fit model
+2024-04-11 16:17:18,709 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:18,727 [INFO]  Epoch[0] Batch [0-17]	Speed: 21140.57 samples/sec	cross-entropy=10.642774	Recency-accuracy=3.888889
+2024-04-11 16:17:18,778 [INFO]  Epoch[0] Train-cross-entropy=0.515175
+2024-04-11 16:17:18,778 [INFO]  Epoch[0] Train-Recency-accuracy=3.812500
+2024-04-11 16:17:18,778 [INFO]  Epoch[0] Time cost=0.068
+2024-04-11 16:17:18,785 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:18,806 [INFO]  Epoch[0] Validation-cross-entropy=0.503698
+2024-04-11 16:17:18,806 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:18,837 [INFO]  Epoch[1] Batch [0-17]	Speed: 9365.36 samples/sec	cross-entropy=0.160866	Recency-accuracy=3.888889
+2024-04-11 16:17:18,896 [INFO]  Epoch[1] Train-cross-entropy=0.082890
+2024-04-11 16:17:18,896 [INFO]  Epoch[1] Train-Recency-accuracy=3.812500
+2024-04-11 16:17:18,896 [INFO]  Epoch[1] Time cost=0.090
+2024-04-11 16:17:18,898 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:18,902 [INFO]  Epoch[1] Validation-cross-entropy=0.040884
+2024-04-11 16:17:18,902 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:18,929 [INFO]  Epoch[2] Batch [0-17]	Speed: 10161.85 samples/sec	cross-entropy=0.041057	Recency-accuracy=3.888889
+2024-04-11 16:17:18,950 [INFO]  Epoch[2] Train-cross-entropy=0.032394
+2024-04-11 16:17:18,950 [INFO]  Epoch[2] Train-Recency-accuracy=3.812500
+2024-04-11 16:17:18,950 [INFO]  Epoch[2] Time cost=0.048
+2024-04-11 16:17:18,952 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:18,954 [INFO]  Epoch[2] Validation-cross-entropy=0.023814
+2024-04-11 16:17:18,954 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:18,972 [INFO]  Epoch[3] Batch [0-17]	Speed: 15938.79 samples/sec	cross-entropy=0.017317	Recency-accuracy=3.888889
+2024-04-11 16:17:19,016 [INFO]  Epoch[3] Train-cross-entropy=0.017465
+2024-04-11 16:17:19,016 [INFO]  Epoch[3] Train-Recency-accuracy=3.812500
+2024-04-11 16:17:19,016 [INFO]  Epoch[3] Time cost=0.061
+2024-04-11 16:17:19,020 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:19,068 [INFO]  Epoch[3] Validation-cross-entropy=0.014093
+2024-04-11 16:17:19,068 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:19,089 [INFO]  Epoch[4] Batch [0-17]	Speed: 13523.76 samples/sec	cross-entropy=0.009373	Recency-accuracy=3.888889
+2024-04-11 16:17:19,112 [INFO]  Epoch[4] Train-cross-entropy=0.009896
+2024-04-11 16:17:19,112 [INFO]  Epoch[4] Train-Recency-accuracy=3.812500
+2024-04-11 16:17:19,112 [INFO]  Epoch[4] Time cost=0.044
+2024-04-11 16:17:19,114 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:19,115 [INFO]  Epoch[4] Validation-cross-entropy=0.008805
+2024-04-11 16:17:19,116 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:19,116 [INFO]  
+========== done (0.4066812992095947 s) fit model
+2024-04-11 16:17:22,133 [INFO]  
+========== start: fit model
+2024-04-11 16:17:22,133 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:22,285 [INFO]  Epoch[0] Batch [0-17]	Speed: 2140.78 samples/sec	cross-entropy=3.917745	Recency-accuracy=3.277778
+2024-04-11 16:17:22,325 [INFO]  Epoch[0] Train-cross-entropy=0.376313
+2024-04-11 16:17:22,325 [INFO]  Epoch[0] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:22,325 [INFO]  Epoch[0] Time cost=0.191
+2024-04-11 16:17:22,326 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:22,328 [INFO]  Epoch[0] Validation-cross-entropy=0.098907
+2024-04-11 16:17:22,328 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:22,391 [INFO]  Epoch[1] Batch [0-17]	Speed: 4359.48 samples/sec	cross-entropy=0.104933	Recency-accuracy=3.277778
+2024-04-11 16:17:22,401 [INFO]  Epoch[1] Train-cross-entropy=0.038034
+2024-04-11 16:17:22,401 [INFO]  Epoch[1] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:22,401 [INFO]  Epoch[1] Time cost=0.074
+2024-04-11 16:17:22,403 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:22,404 [INFO]  Epoch[1] Validation-cross-entropy=0.029044
+2024-04-11 16:17:22,405 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:22,498 [INFO]  Epoch[2] Batch [0-17]	Speed: 3131.86 samples/sec	cross-entropy=0.021732	Recency-accuracy=3.277778
+2024-04-11 16:17:22,526 [INFO]  Epoch[2] Train-cross-entropy=0.017982
+2024-04-11 16:17:22,526 [INFO]  Epoch[2] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:22,526 [INFO]  Epoch[2] Time cost=0.122
+2024-04-11 16:17:22,528 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:22,530 [INFO]  Epoch[2] Validation-cross-entropy=0.014488
+2024-04-11 16:17:22,530 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:22,584 [INFO]  Epoch[3] Batch [0-17]	Speed: 5148.92 samples/sec	cross-entropy=0.013164	Recency-accuracy=3.277778
+2024-04-11 16:17:22,601 [INFO]  Epoch[3] Train-cross-entropy=0.012971
+2024-04-11 16:17:22,601 [INFO]  Epoch[3] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:22,601 [INFO]  Epoch[3] Time cost=0.071
+2024-04-11 16:17:22,603 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:22,605 [INFO]  Epoch[3] Validation-cross-entropy=0.010828
+2024-04-11 16:17:22,605 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:22,622 [INFO]  Epoch[4] Batch [0-17]	Speed: 18129.46 samples/sec	cross-entropy=0.008300	Recency-accuracy=3.277778
+2024-04-11 16:17:22,666 [INFO]  Epoch[4] Train-cross-entropy=0.009142
+2024-04-11 16:17:22,667 [INFO]  Epoch[4] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:22,667 [INFO]  Epoch[4] Time cost=0.061
+2024-04-11 16:17:22,669 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:22,671 [INFO]  Epoch[4] Validation-cross-entropy=0.008097
+2024-04-11 16:17:22,671 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:22,671 [INFO]  
+========== done (0.5384247303009033 s) fit model
+2024-04-11 16:17:25,035 [INFO]  
+========== start: fit model
+2024-04-11 16:17:25,035 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:25,134 [INFO]  Epoch[0] Batch [0-17]	Speed: 3396.69 samples/sec	cross-entropy=3.008860	Recency-accuracy=0.000000
+2024-04-11 16:17:25,154 [INFO]  Epoch[0] Train-cross-entropy=0.551617
+2024-04-11 16:17:25,154 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:25,154 [INFO]  Epoch[0] Time cost=0.118
+2024-04-11 16:17:25,156 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:25,159 [INFO]  Epoch[0] Validation-cross-entropy=0.109631
+2024-04-11 16:17:25,159 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:25,205 [INFO]  Epoch[1] Batch [0-17]	Speed: 6147.26 samples/sec	cross-entropy=0.065195	Recency-accuracy=0.000000
+2024-04-11 16:17:25,249 [INFO]  Epoch[1] Train-cross-entropy=0.025491
+2024-04-11 16:17:25,249 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:25,249 [INFO]  Epoch[1] Time cost=0.089
+2024-04-11 16:17:25,250 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:25,253 [INFO]  Epoch[1] Validation-cross-entropy=0.067060
+2024-04-11 16:17:25,253 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:25,264 [INFO]  Epoch[2] Batch [0-17]	Speed: 25842.67 samples/sec	cross-entropy=0.019052	Recency-accuracy=0.000000
+2024-04-11 16:17:25,274 [INFO]  Epoch[2] Train-cross-entropy=0.011440
+2024-04-11 16:17:25,274 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:25,274 [INFO]  Epoch[2] Time cost=0.021
+2024-04-11 16:17:25,275 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:25,277 [INFO]  Epoch[2] Validation-cross-entropy=0.032079
+2024-04-11 16:17:25,277 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:25,406 [INFO]  Epoch[3] Batch [0-17]	Speed: 2133.88 samples/sec	cross-entropy=0.012675	Recency-accuracy=0.000000
+2024-04-11 16:17:25,422 [INFO]  Epoch[3] Train-cross-entropy=0.007834
+2024-04-11 16:17:25,422 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:25,422 [INFO]  Epoch[3] Time cost=0.144
+2024-04-11 16:17:25,424 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:25,428 [INFO]  Epoch[3] Validation-cross-entropy=0.032907
+2024-04-11 16:17:25,428 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:25,590 [INFO]  Epoch[4] Batch [0-17]	Speed: 1927.86 samples/sec	cross-entropy=0.009897	Recency-accuracy=0.000000
+2024-04-11 16:17:25,616 [INFO]  Epoch[4] Train-cross-entropy=0.006299
+2024-04-11 16:17:25,616 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:25,616 [INFO]  Epoch[4] Time cost=0.188
+2024-04-11 16:17:25,620 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:25,711 [INFO]  Epoch[4] Validation-cross-entropy=0.038376
+2024-04-11 16:17:25,711 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:25,712 [INFO]  
+========== done (0.676760196685791 s) fit model
+2024-04-11 16:17:29,268 [INFO]  
+========== start: fit model
+2024-04-11 16:17:29,269 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:29,370 [INFO]  Epoch[0] Batch [0-17]	Speed: 4954.86 samples/sec	cross-entropy=5.267487	Recency-accuracy=0.000000
+2024-04-11 16:17:29,380 [INFO]  Epoch[0] Train-cross-entropy=1.089108
+2024-04-11 16:17:29,380 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:29,380 [INFO]  Epoch[0] Time cost=0.110
+2024-04-11 16:17:29,382 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:29,392 [INFO]  Epoch[0] Validation-cross-entropy=0.134418
+2024-04-11 16:17:29,392 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:29,422 [INFO]  Epoch[1] Batch [0-17]	Speed: 9469.13 samples/sec	cross-entropy=0.153948	Recency-accuracy=0.000000
+2024-04-11 16:17:29,435 [INFO]  Epoch[1] Train-cross-entropy=0.082787
+2024-04-11 16:17:29,435 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:29,435 [INFO]  Epoch[1] Time cost=0.042
+2024-04-11 16:17:29,436 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:29,438 [INFO]  Epoch[1] Validation-cross-entropy=0.073499
+2024-04-11 16:17:29,438 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:29,452 [INFO]  Epoch[2] Batch [0-17]	Speed: 20974.22 samples/sec	cross-entropy=0.041168	Recency-accuracy=0.000000
+2024-04-11 16:17:29,533 [INFO]  Epoch[2] Train-cross-entropy=0.032533
+2024-04-11 16:17:29,534 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:29,534 [INFO]  Epoch[2] Time cost=0.096
+2024-04-11 16:17:29,535 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:29,537 [INFO]  Epoch[2] Validation-cross-entropy=0.023125
+2024-04-11 16:17:29,537 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:29,748 [INFO]  Epoch[3] Batch [0-17]	Speed: 2078.60 samples/sec	cross-entropy=0.017363	Recency-accuracy=0.000000
+2024-04-11 16:17:29,772 [INFO]  Epoch[3] Train-cross-entropy=0.015585
+2024-04-11 16:17:29,772 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:29,772 [INFO]  Epoch[3] Time cost=0.235
+2024-04-11 16:17:29,774 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:29,776 [INFO]  Epoch[3] Validation-cross-entropy=0.013666
+2024-04-11 16:17:29,776 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:29,820 [INFO]  Epoch[4] Batch [0-17]	Speed: 6609.83 samples/sec	cross-entropy=0.009361	Recency-accuracy=0.000000
+2024-04-11 16:17:29,846 [INFO]  Epoch[4] Train-cross-entropy=0.009051
+2024-04-11 16:17:29,846 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:29,846 [INFO]  Epoch[4] Time cost=0.070
+2024-04-11 16:17:29,848 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:29,850 [INFO]  Epoch[4] Validation-cross-entropy=0.008126
+2024-04-11 16:17:29,850 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:29,850 [INFO]  
+========== done (0.5814690589904785 s) fit model
+2024-04-11 16:17:32,410 [INFO]  
+========== start: fit model
+2024-04-11 16:17:32,410 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:32,480 [INFO]  Epoch[0] Batch [0-17]	Speed: 4409.10 samples/sec	cross-entropy=4.245689	Recency-accuracy=3.388889
+2024-04-11 16:17:32,534 [INFO]  Epoch[0] Train-cross-entropy=0.519718
+2024-04-11 16:17:32,534 [INFO]  Epoch[0] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:32,534 [INFO]  Epoch[0] Time cost=0.123
+2024-04-11 16:17:32,536 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:32,538 [INFO]  Epoch[0] Validation-cross-entropy=0.171820
+2024-04-11 16:17:32,538 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:32,575 [INFO]  Epoch[1] Batch [0-17]	Speed: 7753.56 samples/sec	cross-entropy=0.108304	Recency-accuracy=3.388889
+2024-04-11 16:17:32,625 [INFO]  Epoch[1] Train-cross-entropy=0.049471
+2024-04-11 16:17:32,625 [INFO]  Epoch[1] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:32,625 [INFO]  Epoch[1] Time cost=0.087
+2024-04-11 16:17:32,627 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:32,628 [INFO]  Epoch[1] Validation-cross-entropy=0.011143
+2024-04-11 16:17:32,628 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:32,642 [INFO]  Epoch[2] Batch [0-17]	Speed: 21482.52 samples/sec	cross-entropy=0.016501	Recency-accuracy=3.388889
+2024-04-11 16:17:32,685 [INFO]  Epoch[2] Train-cross-entropy=0.010615
+2024-04-11 16:17:32,685 [INFO]  Epoch[2] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:32,685 [INFO]  Epoch[2] Time cost=0.057
+2024-04-11 16:17:32,687 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:32,688 [INFO]  Epoch[2] Validation-cross-entropy=0.005414
+2024-04-11 16:17:32,688 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:32,747 [INFO]  Epoch[3] Batch [0-17]	Speed: 5129.06 samples/sec	cross-entropy=0.008784	Recency-accuracy=3.388889
+2024-04-11 16:17:32,757 [INFO]  Epoch[3] Train-cross-entropy=0.007194
+2024-04-11 16:17:32,757 [INFO]  Epoch[3] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:32,757 [INFO]  Epoch[3] Time cost=0.069
+2024-04-11 16:17:32,759 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:32,761 [INFO]  Epoch[3] Validation-cross-entropy=0.003347
+2024-04-11 16:17:32,761 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:32,775 [INFO]  Epoch[4] Batch [0-17]	Speed: 21453.43 samples/sec	cross-entropy=0.005950	Recency-accuracy=3.388889
+2024-04-11 16:17:32,815 [INFO]  Epoch[4] Train-cross-entropy=0.004389
+2024-04-11 16:17:32,816 [INFO]  Epoch[4] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:32,816 [INFO]  Epoch[4] Time cost=0.055
+2024-04-11 16:17:32,820 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:32,839 [INFO]  Epoch[4] Validation-cross-entropy=0.002696
+2024-04-11 16:17:32,839 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:32,839 [INFO]  
+========== done (0.4294719696044922 s) fit model
+2024-04-11 16:17:35,396 [INFO]  
+========== start: fit model
+2024-04-11 16:17:35,396 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:35,469 [INFO]  Epoch[0] Batch [0-17]	Speed: 4460.96 samples/sec	cross-entropy=2.670880	Recency-accuracy=0.000000
+2024-04-11 16:17:35,504 [INFO]  Epoch[0] Train-cross-entropy=0.483178
+2024-04-11 16:17:35,505 [INFO]  Epoch[0] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:35,505 [INFO]  Epoch[0] Time cost=0.107
+2024-04-11 16:17:35,506 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:35,508 [INFO]  Epoch[0] Validation-cross-entropy=0.199546
+2024-04-11 16:17:35,508 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:35,555 [INFO]  Epoch[1] Batch [0-17]	Speed: 7070.70 samples/sec	cross-entropy=0.103813	Recency-accuracy=0.000000
+2024-04-11 16:17:35,593 [INFO]  Epoch[1] Train-cross-entropy=0.045310
+2024-04-11 16:17:35,593 [INFO]  Epoch[1] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:35,593 [INFO]  Epoch[1] Time cost=0.085
+2024-04-11 16:17:35,595 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:35,598 [INFO]  Epoch[1] Validation-cross-entropy=0.020636
+2024-04-11 16:17:35,598 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:35,757 [INFO]  Epoch[2] Batch [0-17]	Speed: 1719.73 samples/sec	cross-entropy=0.017769	Recency-accuracy=0.000000
+2024-04-11 16:17:35,813 [INFO]  Epoch[2] Train-cross-entropy=0.036107
+2024-04-11 16:17:35,813 [INFO]  Epoch[2] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:35,813 [INFO]  Epoch[2] Time cost=0.215
+2024-04-11 16:17:35,815 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:35,816 [INFO]  Epoch[2] Validation-cross-entropy=0.023350
+2024-04-11 16:17:35,816 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:35,869 [INFO]  Epoch[3] Batch [0-17]	Speed: 5217.73 samples/sec	cross-entropy=0.014805	Recency-accuracy=0.000000
+2024-04-11 16:17:35,883 [INFO]  Epoch[3] Train-cross-entropy=0.023065
+2024-04-11 16:17:35,883 [INFO]  Epoch[3] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:35,883 [INFO]  Epoch[3] Time cost=0.067
+2024-04-11 16:17:35,885 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:35,905 [INFO]  Epoch[3] Validation-cross-entropy=0.018265
+2024-04-11 16:17:35,905 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:35,944 [INFO]  Epoch[4] Batch [0-17]	Speed: 23047.02 samples/sec	cross-entropy=0.009216	Recency-accuracy=0.000000
+2024-04-11 16:17:35,960 [INFO]  Epoch[4] Train-cross-entropy=0.011300
+2024-04-11 16:17:35,960 [INFO]  Epoch[4] Train-Recency-accuracy=0.000000
+2024-04-11 16:17:35,960 [INFO]  Epoch[4] Time cost=0.055
+2024-04-11 16:17:35,962 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:35,964 [INFO]  Epoch[4] Validation-cross-entropy=0.010545
+2024-04-11 16:17:35,964 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:35,964 [INFO]  
+========== done (0.5684814453125 s) fit model
+2024-04-11 16:17:38,979 [INFO]  
+========== start: fit model
+2024-04-11 16:17:38,979 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:38,992 [INFO]  Epoch[0] Batch [0-17]	Speed: 25446.11 samples/sec	cross-entropy=6.692305	Recency-accuracy=3.777778
+2024-04-11 16:17:39,004 [INFO]  Epoch[0] Train-cross-entropy=1.098719
+2024-04-11 16:17:39,005 [INFO]  Epoch[0] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:39,005 [INFO]  Epoch[0] Time cost=0.024
+2024-04-11 16:17:39,006 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:39,012 [INFO]  Epoch[0] Validation-cross-entropy=0.302127
+2024-04-11 16:17:39,012 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:39,044 [INFO]  Epoch[1] Batch [0-17]	Speed: 9159.63 samples/sec	cross-entropy=0.122989	Recency-accuracy=3.777778
+2024-04-11 16:17:39,078 [INFO]  Epoch[1] Train-cross-entropy=0.067599
+2024-04-11 16:17:39,078 [INFO]  Epoch[1] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:39,078 [INFO]  Epoch[1] Time cost=0.066
+2024-04-11 16:17:39,080 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:39,081 [INFO]  Epoch[1] Validation-cross-entropy=0.058614
+2024-04-11 16:17:39,081 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:39,113 [INFO]  Epoch[2] Batch [0-17]	Speed: 8844.56 samples/sec	cross-entropy=0.035100	Recency-accuracy=3.777778
+2024-04-11 16:17:39,128 [INFO]  Epoch[2] Train-cross-entropy=0.027335
+2024-04-11 16:17:39,128 [INFO]  Epoch[2] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:39,128 [INFO]  Epoch[2] Time cost=0.047
+2024-04-11 16:17:39,130 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:39,132 [INFO]  Epoch[2] Validation-cross-entropy=0.025555
+2024-04-11 16:17:39,132 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:39,156 [INFO]  Epoch[3] Batch [0-17]	Speed: 11967.38 samples/sec	cross-entropy=0.015745	Recency-accuracy=3.777778
+2024-04-11 16:17:39,329 [INFO]  Epoch[3] Train-cross-entropy=0.015408
+2024-04-11 16:17:39,330 [INFO]  Epoch[3] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:39,330 [INFO]  Epoch[3] Time cost=0.198
+2024-04-11 16:17:39,331 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:39,333 [INFO]  Epoch[3] Validation-cross-entropy=0.017223
+2024-04-11 16:17:39,333 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:39,397 [INFO]  Epoch[4] Batch [0-17]	Speed: 4336.99 samples/sec	cross-entropy=0.010735	Recency-accuracy=3.777778
+2024-04-11 16:17:39,590 [INFO]  Epoch[4] Train-cross-entropy=0.010578
+2024-04-11 16:17:39,591 [INFO]  Epoch[4] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:39,591 [INFO]  Epoch[4] Time cost=0.257
+2024-04-11 16:17:39,593 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:39,594 [INFO]  Epoch[4] Validation-cross-entropy=0.012684
+2024-04-11 16:17:39,594 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:39,594 [INFO]  
+========== done (0.6150517463684082 s) fit model
+2024-04-11 16:17:42,430 [INFO]  
+========== start: fit model
+2024-04-11 16:17:42,430 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:42,519 [INFO]  Epoch[0] Batch [0-17]	Speed: 3334.27 samples/sec	cross-entropy=7.043293	Recency-accuracy=3.500000
+2024-04-11 16:17:42,604 [INFO]  Epoch[0] Train-cross-entropy=1.208299
+2024-04-11 16:17:42,604 [INFO]  Epoch[0] Train-Recency-accuracy=3.375000
+2024-04-11 16:17:42,604 [INFO]  Epoch[0] Time cost=0.173
+2024-04-11 16:17:42,606 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:42,608 [INFO]  Epoch[0] Validation-cross-entropy=0.136813
+2024-04-11 16:17:42,608 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:42,679 [INFO]  Epoch[1] Batch [0-17]	Speed: 24750.52 samples/sec	cross-entropy=0.210599	Recency-accuracy=3.500000
+2024-04-11 16:17:42,690 [INFO]  Epoch[1] Train-cross-entropy=0.053965
+2024-04-11 16:17:42,690 [INFO]  Epoch[1] Train-Recency-accuracy=3.375000
+2024-04-11 16:17:42,690 [INFO]  Epoch[1] Time cost=0.082
+2024-04-11 16:17:42,692 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:42,693 [INFO]  Epoch[1] Validation-cross-entropy=0.056502
+2024-04-11 16:17:42,693 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:42,747 [INFO]  Epoch[2] Batch [0-17]	Speed: 5118.22 samples/sec	cross-entropy=0.027601	Recency-accuracy=3.500000
+2024-04-11 16:17:42,956 [INFO]  Epoch[2] Train-cross-entropy=0.022763
+2024-04-11 16:17:42,956 [INFO]  Epoch[2] Train-Recency-accuracy=3.375000
+2024-04-11 16:17:42,956 [INFO]  Epoch[2] Time cost=0.263
+2024-04-11 16:17:42,957 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:42,959 [INFO]  Epoch[2] Validation-cross-entropy=0.033444
+2024-04-11 16:17:42,959 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:42,987 [INFO]  Epoch[3] Batch [0-17]	Speed: 10326.12 samples/sec	cross-entropy=0.014146	Recency-accuracy=3.500000
+2024-04-11 16:17:43,168 [INFO]  Epoch[3] Train-cross-entropy=0.013042
+2024-04-11 16:17:43,168 [INFO]  Epoch[3] Train-Recency-accuracy=3.375000
+2024-04-11 16:17:43,168 [INFO]  Epoch[3] Time cost=0.209
+2024-04-11 16:17:43,170 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:43,172 [INFO]  Epoch[3] Validation-cross-entropy=0.028134
+2024-04-11 16:17:43,172 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:43,227 [INFO]  Epoch[4] Batch [0-17]	Speed: 5001.47 samples/sec	cross-entropy=0.009291	Recency-accuracy=3.500000
+2024-04-11 16:17:43,250 [INFO]  Epoch[4] Train-cross-entropy=0.006906
+2024-04-11 16:17:43,251 [INFO]  Epoch[4] Train-Recency-accuracy=3.375000
+2024-04-11 16:17:43,251 [INFO]  Epoch[4] Time cost=0.079
+2024-04-11 16:17:43,252 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:43,275 [INFO]  Epoch[4] Validation-cross-entropy=0.027438
+2024-04-11 16:17:43,275 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:43,275 [INFO]  
+========== done (0.8454375267028809 s) fit model
+2024-04-11 16:17:45,396 [INFO]  
+========== start: fit model
+2024-04-11 16:17:45,396 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:45,488 [INFO]  Epoch[0] Batch [0-17]	Speed: 3297.31 samples/sec	cross-entropy=29.379800	Recency-accuracy=3.222222
+2024-04-11 16:17:45,498 [INFO]  Epoch[0] Train-cross-entropy=2.107431
+2024-04-11 16:17:45,498 [INFO]  Epoch[0] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:45,498 [INFO]  Epoch[0] Time cost=0.101
+2024-04-11 16:17:45,500 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:45,501 [INFO]  Epoch[0] Validation-cross-entropy=0.969433
+2024-04-11 16:17:45,501 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:45,535 [INFO]  Epoch[1] Batch [0-17]	Speed: 8211.10 samples/sec	cross-entropy=1.219274	Recency-accuracy=3.222222
+2024-04-11 16:17:45,561 [INFO]  Epoch[1] Train-cross-entropy=0.233550
+2024-04-11 16:17:45,561 [INFO]  Epoch[1] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:45,561 [INFO]  Epoch[1] Time cost=0.060
+2024-04-11 16:17:45,563 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:45,564 [INFO]  Epoch[1] Validation-cross-entropy=0.078005
+2024-04-11 16:17:45,564 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:45,583 [INFO]  Epoch[2] Batch [0-17]	Speed: 14706.99 samples/sec	cross-entropy=0.217398	Recency-accuracy=3.222222
+2024-04-11 16:17:45,618 [INFO]  Epoch[2] Train-cross-entropy=0.072036
+2024-04-11 16:17:45,618 [INFO]  Epoch[2] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:45,618 [INFO]  Epoch[2] Time cost=0.054
+2024-04-11 16:17:45,620 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:45,621 [INFO]  Epoch[2] Validation-cross-entropy=0.057821
+2024-04-11 16:17:45,621 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:45,635 [INFO]  Epoch[3] Batch [0-17]	Speed: 20858.03 samples/sec	cross-entropy=0.085805	Recency-accuracy=3.222222
+2024-04-11 16:17:45,647 [INFO]  Epoch[3] Train-cross-entropy=0.041127
+2024-04-11 16:17:45,648 [INFO]  Epoch[3] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:45,648 [INFO]  Epoch[3] Time cost=0.026
+2024-04-11 16:17:45,649 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:45,655 [INFO]  Epoch[3] Validation-cross-entropy=0.040074
+2024-04-11 16:17:45,655 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:45,720 [INFO]  Epoch[4] Batch [0-17]	Speed: 4225.84 samples/sec	cross-entropy=0.053447	Recency-accuracy=3.222222
+2024-04-11 16:17:45,742 [INFO]  Epoch[4] Train-cross-entropy=0.027127
+2024-04-11 16:17:45,742 [INFO]  Epoch[4] Train-Recency-accuracy=3.687500
+2024-04-11 16:17:45,742 [INFO]  Epoch[4] Time cost=0.087
+2024-04-11 16:17:45,744 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:45,746 [INFO]  Epoch[4] Validation-cross-entropy=0.029431
+2024-04-11 16:17:45,746 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:45,746 [INFO]  
+========== done (0.34989213943481445 s) fit model
+2024-04-11 16:17:48,532 [INFO]  
+========== start: fit model
+2024-04-11 16:17:48,532 [WARNING]  Already bound, ignoring bind()
+2024-04-11 16:17:48,569 [INFO]  Epoch[0] Batch [0-17]	Speed: 13598.88 samples/sec	cross-entropy=9.229665	Recency-accuracy=3.611111
+2024-04-11 16:17:48,607 [INFO]  Epoch[0] Train-cross-entropy=1.582783
+2024-04-11 16:17:48,607 [INFO]  Epoch[0] Train-Recency-accuracy=4.187500
+2024-04-11 16:17:48,607 [INFO]  Epoch[0] Time cost=0.073
+2024-04-11 16:17:48,608 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0000.params"
+2024-04-11 16:17:48,610 [INFO]  Epoch[0] Validation-cross-entropy=0.735276
+2024-04-11 16:17:48,610 [INFO]  Epoch[0] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:48,624 [INFO]  Epoch[1] Batch [0-17]	Speed: 21558.43 samples/sec	cross-entropy=0.259765	Recency-accuracy=3.611111
+2024-04-11 16:17:48,637 [INFO]  Epoch[1] Train-cross-entropy=0.224766
+2024-04-11 16:17:48,637 [INFO]  Epoch[1] Train-Recency-accuracy=4.187500
+2024-04-11 16:17:48,637 [INFO]  Epoch[1] Time cost=0.027
+2024-04-11 16:17:48,638 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0001.params"
+2024-04-11 16:17:48,640 [INFO]  Epoch[1] Validation-cross-entropy=0.193467
+2024-04-11 16:17:48,640 [INFO]  Epoch[1] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:48,695 [INFO]  Epoch[2] Batch [0-17]	Speed: 4995.45 samples/sec	cross-entropy=0.084405	Recency-accuracy=3.611111
+2024-04-11 16:17:48,755 [INFO]  Epoch[2] Train-cross-entropy=0.103565
+2024-04-11 16:17:48,755 [INFO]  Epoch[2] Train-Recency-accuracy=4.187500
+2024-04-11 16:17:48,755 [INFO]  Epoch[2] Time cost=0.115
+2024-04-11 16:17:48,757 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0002.params"
+2024-04-11 16:17:48,791 [INFO]  Epoch[2] Validation-cross-entropy=0.092083
+2024-04-11 16:17:48,791 [INFO]  Epoch[2] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:48,922 [INFO]  Epoch[3] Batch [0-17]	Speed: 2095.13 samples/sec	cross-entropy=0.040046	Recency-accuracy=3.611111
+2024-04-11 16:17:48,970 [INFO]  Epoch[3] Train-cross-entropy=0.050009
+2024-04-11 16:17:48,972 [INFO]  Epoch[3] Train-Recency-accuracy=4.187500
+2024-04-11 16:17:48,972 [INFO]  Epoch[3] Time cost=0.181
+2024-04-11 16:17:48,975 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0003.params"
+2024-04-11 16:17:48,990 [INFO]  Epoch[3] Validation-cross-entropy=0.045713
+2024-04-11 16:17:48,991 [INFO]  Epoch[3] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:49,041 [INFO]  Epoch[4] Batch [0-17]	Speed: 5595.61 samples/sec	cross-entropy=0.020657	Recency-accuracy=3.611111
+2024-04-11 16:17:49,061 [INFO]  Epoch[4] Train-cross-entropy=0.022665
+2024-04-11 16:17:49,061 [INFO]  Epoch[4] Train-Recency-accuracy=4.187500
+2024-04-11 16:17:49,061 [INFO]  Epoch[4] Time cost=0.070
+2024-04-11 16:17:49,063 [INFO]  Saved checkpoint to "./imputer_model/31_blood/imputer_model_Recency/model-0004.params"
+2024-04-11 16:17:49,085 [INFO]  Epoch[4] Validation-cross-entropy=0.022440
+2024-04-11 16:17:49,085 [INFO]  Epoch[4] Validation-Recency-accuracy=0.000000
+2024-04-11 16:17:49,085 [INFO]  
+========== done (0.5526933670043945 s) fit model

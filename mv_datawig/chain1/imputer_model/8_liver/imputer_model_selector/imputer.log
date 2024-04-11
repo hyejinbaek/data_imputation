@@ -1,0 +1,1200 @@
+2024-04-04 19:21:11,261 [INFO]  
+========== start: fit model
+2024-04-04 19:21:11,262 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:21:11,513 [INFO]  Epoch[0] Batch [0-8]	Speed: 2416.64 samples/sec	cross-entropy=7.374119	selector-accuracy=2.333333
+2024-04-04 19:21:12,994 [INFO]  Epoch[0] Train-cross-entropy=1.863180
+2024-04-04 19:21:12,994 [INFO]  Epoch[0] Train-selector-accuracy=3.142857
+2024-04-04 19:21:12,994 [INFO]  Epoch[0] Time cost=1.731
+2024-04-04 19:21:12,996 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:21:13,088 [INFO]  Epoch[0] Validation-cross-entropy=0.849380
+2024-04-04 19:21:13,088 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:21:13,983 [INFO]  Epoch[1] Batch [0-8]	Speed: 174.18 samples/sec	cross-entropy=2.071004	selector-accuracy=2.333333
+2024-04-04 19:21:14,325 [INFO]  Epoch[1] Train-cross-entropy=0.860857
+2024-04-04 19:21:14,325 [INFO]  Epoch[1] Train-selector-accuracy=3.142857
+2024-04-04 19:21:14,325 [INFO]  Epoch[1] Time cost=1.237
+2024-04-04 19:21:14,329 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:21:14,379 [INFO]  Epoch[1] Validation-cross-entropy=0.313800
+2024-04-04 19:21:14,379 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:21:14,497 [INFO]  Epoch[2] Batch [0-8]	Speed: 1100.51 samples/sec	cross-entropy=0.501956	selector-accuracy=2.333333
+2024-04-04 19:21:14,939 [INFO]  Epoch[2] Train-cross-entropy=0.393643
+2024-04-04 19:21:14,939 [INFO]  Epoch[2] Train-selector-accuracy=3.142857
+2024-04-04 19:21:14,939 [INFO]  Epoch[2] Time cost=0.560
+2024-04-04 19:21:14,941 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:21:14,997 [INFO]  Epoch[2] Validation-cross-entropy=0.093102
+2024-04-04 19:21:14,997 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:21:15,274 [INFO]  Epoch[3] Batch [0-8]	Speed: 465.15 samples/sec	cross-entropy=0.211668	selector-accuracy=2.333333
+2024-04-04 19:21:16,028 [INFO]  Epoch[3] Train-cross-entropy=0.206603
+2024-04-04 19:21:16,029 [INFO]  Epoch[3] Train-selector-accuracy=3.142857
+2024-04-04 19:21:16,029 [INFO]  Epoch[3] Time cost=1.031
+2024-04-04 19:21:16,030 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:21:16,134 [INFO]  Epoch[3] Validation-cross-entropy=0.080113
+2024-04-04 19:21:16,134 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:21:16,143 [INFO]  Epoch[4] Batch [0-8]	Speed: 18798.66 samples/sec	cross-entropy=0.126719	selector-accuracy=2.333333
+2024-04-04 19:21:16,568 [INFO]  Epoch[4] Train-cross-entropy=0.127921
+2024-04-04 19:21:16,568 [INFO]  Epoch[4] Train-selector-accuracy=3.142857
+2024-04-04 19:21:16,568 [INFO]  Epoch[4] Time cost=0.434
+2024-04-04 19:21:16,572 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:21:16,686 [INFO]  Epoch[4] Validation-cross-entropy=0.072870
+2024-04-04 19:21:16,686 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:21:16,686 [INFO]  
+========== done (5.4244468212127686 s) fit model
+2024-04-04 19:21:45,339 [INFO]  
+========== start: fit model
+2024-04-04 19:21:45,340 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:21:46,474 [INFO]  Epoch[0] Batch [0-8]	Speed: 114.41 samples/sec	cross-entropy=15.573034	selector-accuracy=3.333333
+2024-04-04 19:21:46,754 [INFO]  Epoch[0] Train-cross-entropy=3.077496
+2024-04-04 19:21:46,754 [INFO]  Epoch[0] Train-selector-accuracy=2.571429
+2024-04-04 19:21:46,754 [INFO]  Epoch[0] Time cost=1.413
+2024-04-04 19:21:46,756 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:21:46,780 [INFO]  Epoch[0] Validation-cross-entropy=1.758299
+2024-04-04 19:21:46,780 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:21:47,078 [INFO]  Epoch[1] Batch [0-8]	Speed: 430.96 samples/sec	cross-entropy=0.834562	selector-accuracy=3.333333
+2024-04-04 19:21:47,086 [INFO]  Epoch[1] Train-cross-entropy=1.604439
+2024-04-04 19:21:47,087 [INFO]  Epoch[1] Train-selector-accuracy=2.571429
+2024-04-04 19:21:47,087 [INFO]  Epoch[1] Time cost=0.307
+2024-04-04 19:21:47,089 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:21:47,106 [INFO]  Epoch[1] Validation-cross-entropy=0.835559
+2024-04-04 19:21:47,106 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:21:47,238 [INFO]  Epoch[2] Batch [0-8]	Speed: 984.77 samples/sec	cross-entropy=0.545337	selector-accuracy=3.333333
+2024-04-04 19:21:47,350 [INFO]  Epoch[2] Train-cross-entropy=0.257860
+2024-04-04 19:21:47,350 [INFO]  Epoch[2] Train-selector-accuracy=2.571429
+2024-04-04 19:21:47,351 [INFO]  Epoch[2] Time cost=0.245
+2024-04-04 19:21:47,352 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:21:47,354 [INFO]  Epoch[2] Validation-cross-entropy=0.250472
+2024-04-04 19:21:47,354 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:21:48,117 [INFO]  Epoch[3] Batch [0-8]	Speed: 236.02 samples/sec	cross-entropy=0.264580	selector-accuracy=3.333333
+2024-04-04 19:21:48,274 [INFO]  Epoch[3] Train-cross-entropy=0.168541
+2024-04-04 19:21:48,274 [INFO]  Epoch[3] Train-selector-accuracy=2.571429
+2024-04-04 19:21:48,274 [INFO]  Epoch[3] Time cost=0.920
+2024-04-04 19:21:48,276 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:21:48,284 [INFO]  Epoch[3] Validation-cross-entropy=0.298808
+2024-04-04 19:21:48,284 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:21:48,468 [INFO]  Epoch[4] Batch [0-8]	Speed: 701.63 samples/sec	cross-entropy=0.150646	selector-accuracy=3.333333
+2024-04-04 19:21:48,509 [INFO]  Epoch[4] Train-cross-entropy=0.129829
+2024-04-04 19:21:48,509 [INFO]  Epoch[4] Train-selector-accuracy=2.571429
+2024-04-04 19:21:48,509 [INFO]  Epoch[4] Time cost=0.224
+2024-04-04 19:21:48,513 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:21:48,522 [INFO]  Epoch[4] Validation-cross-entropy=0.226565
+2024-04-04 19:21:48,522 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:21:48,522 [INFO]  
+========== done (3.1822495460510254 s) fit model
+2024-04-04 19:22:12,398 [INFO]  
+========== start: fit model
+2024-04-04 19:22:12,398 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:22:13,034 [INFO]  Epoch[0] Batch [0-8]	Speed: 463.31 samples/sec	cross-entropy=11.321776	selector-accuracy=2.777778
+2024-04-04 19:22:13,103 [INFO]  Epoch[0] Train-cross-entropy=2.362843
+2024-04-04 19:22:13,104 [INFO]  Epoch[0] Train-selector-accuracy=4.142857
+2024-04-04 19:22:13,104 [INFO]  Epoch[0] Time cost=0.704
+2024-04-04 19:22:13,106 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:22:13,144 [INFO]  Epoch[0] Validation-cross-entropy=1.416610
+2024-04-04 19:22:13,144 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:22:13,362 [INFO]  Epoch[1] Batch [0-8]	Speed: 593.16 samples/sec	cross-entropy=0.781220	selector-accuracy=2.777778
+2024-04-04 19:22:13,564 [INFO]  Epoch[1] Train-cross-entropy=0.679478
+2024-04-04 19:22:13,564 [INFO]  Epoch[1] Train-selector-accuracy=4.142857
+2024-04-04 19:22:13,564 [INFO]  Epoch[1] Time cost=0.419
+2024-04-04 19:22:13,566 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:22:13,571 [INFO]  Epoch[1] Validation-cross-entropy=0.368539
+2024-04-04 19:22:13,571 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:22:14,240 [INFO]  Epoch[2] Batch [0-8]	Speed: 191.86 samples/sec	cross-entropy=0.480228	selector-accuracy=2.777778
+2024-04-04 19:22:15,651 [INFO]  Epoch[2] Train-cross-entropy=0.278497
+2024-04-04 19:22:15,651 [INFO]  Epoch[2] Train-selector-accuracy=4.142857
+2024-04-04 19:22:15,651 [INFO]  Epoch[2] Time cost=2.080
+2024-04-04 19:22:15,653 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:22:15,809 [INFO]  Epoch[2] Validation-cross-entropy=0.746007
+2024-04-04 19:22:15,809 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:22:16,036 [INFO]  Epoch[3] Batch [0-8]	Speed: 565.60 samples/sec	cross-entropy=0.189936	selector-accuracy=2.777778
+2024-04-04 19:22:16,445 [INFO]  Epoch[3] Train-cross-entropy=0.132406
+2024-04-04 19:22:16,446 [INFO]  Epoch[3] Train-selector-accuracy=4.142857
+2024-04-04 19:22:16,446 [INFO]  Epoch[3] Time cost=0.637
+2024-04-04 19:22:16,448 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:22:16,751 [INFO]  Epoch[3] Validation-cross-entropy=0.255501
+2024-04-04 19:22:16,751 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:22:17,055 [INFO]  Epoch[4] Batch [0-8]	Speed: 491.06 samples/sec	cross-entropy=0.106760	selector-accuracy=2.777778
+2024-04-04 19:22:17,395 [INFO]  Epoch[4] Train-cross-entropy=0.094109
+2024-04-04 19:22:17,395 [INFO]  Epoch[4] Train-selector-accuracy=4.142857
+2024-04-04 19:22:17,395 [INFO]  Epoch[4] Time cost=0.644
+2024-04-04 19:22:17,397 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:22:17,700 [INFO]  Epoch[4] Validation-cross-entropy=0.170794
+2024-04-04 19:22:17,701 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:22:17,701 [INFO]  
+========== done (5.302994012832642 s) fit model
+2024-04-04 19:22:46,531 [INFO]  
+========== start: fit model
+2024-04-04 19:22:46,531 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:22:47,010 [INFO]  Epoch[0] Batch [0-8]	Speed: 356.80 samples/sec	cross-entropy=14.371635	selector-accuracy=0.000000
+2024-04-04 19:22:47,931 [INFO]  Epoch[0] Train-cross-entropy=5.028875
+2024-04-04 19:22:47,931 [INFO]  Epoch[0] Train-selector-accuracy=0.000000
+2024-04-04 19:22:47,931 [INFO]  Epoch[0] Time cost=1.398
+2024-04-04 19:22:47,933 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:22:48,190 [INFO]  Epoch[0] Validation-cross-entropy=0.610366
+2024-04-04 19:22:48,190 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:22:48,488 [INFO]  Epoch[1] Batch [0-8]	Speed: 868.96 samples/sec	cross-entropy=0.987650	selector-accuracy=0.000000
+2024-04-04 19:22:48,517 [INFO]  Epoch[1] Train-cross-entropy=1.043902
+2024-04-04 19:22:48,517 [INFO]  Epoch[1] Train-selector-accuracy=0.000000
+2024-04-04 19:22:48,517 [INFO]  Epoch[1] Time cost=0.327
+2024-04-04 19:22:48,520 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:22:48,533 [INFO]  Epoch[1] Validation-cross-entropy=1.021789
+2024-04-04 19:22:48,533 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:22:49,541 [INFO]  Epoch[2] Batch [0-8]	Speed: 127.23 samples/sec	cross-entropy=0.580194	selector-accuracy=0.000000
+2024-04-04 19:22:49,709 [INFO]  Epoch[2] Train-cross-entropy=0.636811
+2024-04-04 19:22:49,709 [INFO]  Epoch[2] Train-selector-accuracy=0.000000
+2024-04-04 19:22:49,709 [INFO]  Epoch[2] Time cost=1.176
+2024-04-04 19:22:49,711 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:22:49,895 [INFO]  Epoch[2] Validation-cross-entropy=0.334072
+2024-04-04 19:22:49,896 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:22:50,438 [INFO]  Epoch[3] Batch [0-8]	Speed: 366.73 samples/sec	cross-entropy=0.181101	selector-accuracy=0.000000
+2024-04-04 19:22:50,503 [INFO]  Epoch[3] Train-cross-entropy=0.350664
+2024-04-04 19:22:50,503 [INFO]  Epoch[3] Train-selector-accuracy=0.000000
+2024-04-04 19:22:50,503 [INFO]  Epoch[3] Time cost=0.608
+2024-04-04 19:22:50,505 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:22:50,642 [INFO]  Epoch[3] Validation-cross-entropy=0.123986
+2024-04-04 19:22:50,642 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:22:50,926 [INFO]  Epoch[4] Batch [0-8]	Speed: 456.75 samples/sec	cross-entropy=0.137185	selector-accuracy=0.000000
+2024-04-04 19:22:51,617 [INFO]  Epoch[4] Train-cross-entropy=0.174894
+2024-04-04 19:22:51,617 [INFO]  Epoch[4] Train-selector-accuracy=0.000000
+2024-04-04 19:22:51,617 [INFO]  Epoch[4] Time cost=0.975
+2024-04-04 19:22:51,619 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:22:51,619 [INFO]  Epoch[4] Validation-cross-entropy=0.114596
+2024-04-04 19:22:51,619 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:22:51,620 [INFO]  
+========== done (5.08857798576355 s) fit model
+2024-04-04 19:23:20,506 [INFO]  
+========== start: fit model
+2024-04-04 19:23:20,507 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:23:21,216 [INFO]  Epoch[0] Batch [0-8]	Speed: 670.41 samples/sec	cross-entropy=10.842496	selector-accuracy=2.333333
+2024-04-04 19:23:21,411 [INFO]  Epoch[0] Train-cross-entropy=3.292843
+2024-04-04 19:23:21,411 [INFO]  Epoch[0] Train-selector-accuracy=2.857143
+2024-04-04 19:23:21,411 [INFO]  Epoch[0] Time cost=0.903
+2024-04-04 19:23:21,415 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:23:21,486 [INFO]  Epoch[0] Validation-cross-entropy=0.529597
+2024-04-04 19:23:21,486 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:23:22,586 [INFO]  Epoch[1] Batch [0-8]	Speed: 116.54 samples/sec	cross-entropy=0.990669	selector-accuracy=2.333333
+2024-04-04 19:23:23,314 [INFO]  Epoch[1] Train-cross-entropy=2.360894
+2024-04-04 19:23:23,314 [INFO]  Epoch[1] Train-selector-accuracy=2.857143
+2024-04-04 19:23:23,314 [INFO]  Epoch[1] Time cost=1.828
+2024-04-04 19:23:23,323 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:23:23,592 [INFO]  Epoch[1] Validation-cross-entropy=0.426331
+2024-04-04 19:23:23,592 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:23:24,292 [INFO]  Epoch[2] Batch [0-8]	Speed: 322.66 samples/sec	cross-entropy=1.037982	selector-accuracy=2.333333
+2024-04-04 19:23:24,998 [INFO]  Epoch[2] Train-cross-entropy=0.812780
+2024-04-04 19:23:24,998 [INFO]  Epoch[2] Train-selector-accuracy=2.857143
+2024-04-04 19:23:24,998 [INFO]  Epoch[2] Time cost=1.406
+2024-04-04 19:23:25,000 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:23:25,213 [INFO]  Epoch[2] Validation-cross-entropy=0.917316
+2024-04-04 19:23:25,214 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:23:25,431 [INFO]  Epoch[3] Batch [0-8]	Speed: 594.39 samples/sec	cross-entropy=0.627685	selector-accuracy=2.333333
+2024-04-04 19:23:25,975 [INFO]  Epoch[3] Train-cross-entropy=0.298041
+2024-04-04 19:23:25,975 [INFO]  Epoch[3] Train-selector-accuracy=2.857143
+2024-04-04 19:23:25,975 [INFO]  Epoch[3] Time cost=0.761
+2024-04-04 19:23:25,977 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:23:26,015 [INFO]  Epoch[3] Validation-cross-entropy=0.133263
+2024-04-04 19:23:26,015 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:23:26,673 [INFO]  Epoch[4] Batch [0-8]	Speed: 243.41 samples/sec	cross-entropy=0.242289	selector-accuracy=2.333333
+2024-04-04 19:23:27,026 [INFO]  Epoch[4] Train-cross-entropy=0.112691
+2024-04-04 19:23:27,026 [INFO]  Epoch[4] Train-selector-accuracy=2.857143
+2024-04-04 19:23:27,026 [INFO]  Epoch[4] Time cost=1.011
+2024-04-04 19:23:27,028 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:23:27,029 [INFO]  Epoch[4] Validation-cross-entropy=0.148150
+2024-04-04 19:23:27,029 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:23:27,029 [INFO]  
+========== done (6.5231032371521 s) fit model
+2024-04-04 19:23:54,077 [INFO]  
+========== start: fit model
+2024-04-04 19:23:54,077 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:23:54,597 [INFO]  Epoch[0] Batch [0-8]	Speed: 6257.02 samples/sec	cross-entropy=16.591175	selector-accuracy=2.333333
+2024-04-04 19:23:54,624 [INFO]  Epoch[0] Train-cross-entropy=4.711351
+2024-04-04 19:23:54,624 [INFO]  Epoch[0] Train-selector-accuracy=2.285714
+2024-04-04 19:23:54,624 [INFO]  Epoch[0] Time cost=0.546
+2024-04-04 19:23:54,627 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:23:54,682 [INFO]  Epoch[0] Validation-cross-entropy=2.269684
+2024-04-04 19:23:54,682 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:23:55,866 [INFO]  Epoch[1] Batch [0-8]	Speed: 120.54 samples/sec	cross-entropy=2.563961	selector-accuracy=2.333333
+2024-04-04 19:23:56,130 [INFO]  Epoch[1] Train-cross-entropy=1.337489
+2024-04-04 19:23:56,130 [INFO]  Epoch[1] Train-selector-accuracy=2.285714
+2024-04-04 19:23:56,130 [INFO]  Epoch[1] Time cost=1.448
+2024-04-04 19:23:56,132 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:23:56,151 [INFO]  Epoch[1] Validation-cross-entropy=0.705568
+2024-04-04 19:23:56,151 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:23:56,352 [INFO]  Epoch[2] Batch [0-8]	Speed: 642.05 samples/sec	cross-entropy=0.892862	selector-accuracy=2.333333
+2024-04-04 19:23:56,489 [INFO]  Epoch[2] Train-cross-entropy=0.580119
+2024-04-04 19:23:56,490 [INFO]  Epoch[2] Train-selector-accuracy=2.285714
+2024-04-04 19:23:56,490 [INFO]  Epoch[2] Time cost=0.339
+2024-04-04 19:23:56,493 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:23:56,745 [INFO]  Epoch[2] Validation-cross-entropy=0.428590
+2024-04-04 19:23:56,746 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:23:58,151 [INFO]  Epoch[3] Batch [0-8]	Speed: 95.33 samples/sec	cross-entropy=0.356437	selector-accuracy=2.333333
+2024-04-04 19:23:58,163 [INFO]  Epoch[3] Train-cross-entropy=0.345828
+2024-04-04 19:23:58,163 [INFO]  Epoch[3] Train-selector-accuracy=2.285714
+2024-04-04 19:23:58,163 [INFO]  Epoch[3] Time cost=1.417
+2024-04-04 19:23:58,168 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:23:58,367 [INFO]  Epoch[3] Validation-cross-entropy=0.192412
+2024-04-04 19:23:58,367 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:23:59,256 [INFO]  Epoch[4] Batch [0-8]	Speed: 228.80 samples/sec	cross-entropy=0.182554	selector-accuracy=2.333333
+2024-04-04 19:23:59,607 [INFO]  Epoch[4] Train-cross-entropy=0.228271
+2024-04-04 19:23:59,608 [INFO]  Epoch[4] Train-selector-accuracy=2.285714
+2024-04-04 19:23:59,608 [INFO]  Epoch[4] Time cost=1.240
+2024-04-04 19:23:59,610 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:23:59,611 [INFO]  Epoch[4] Validation-cross-entropy=0.075757
+2024-04-04 19:23:59,612 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:23:59,612 [INFO]  
+========== done (5.53462815284729 s) fit model
+2024-04-04 19:24:29,424 [INFO]  
+========== start: fit model
+2024-04-04 19:24:29,425 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:24:30,597 [INFO]  Epoch[0] Batch [0-8]	Speed: 138.74 samples/sec	cross-entropy=9.041469	selector-accuracy=2.777778
+2024-04-04 19:24:31,086 [INFO]  Epoch[0] Train-cross-entropy=2.782037
+2024-04-04 19:24:31,086 [INFO]  Epoch[0] Train-selector-accuracy=2.285714
+2024-04-04 19:24:31,086 [INFO]  Epoch[0] Time cost=1.661
+2024-04-04 19:24:31,089 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:24:31,233 [INFO]  Epoch[0] Validation-cross-entropy=1.631507
+2024-04-04 19:24:31,233 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:24:31,261 [INFO]  Epoch[1] Batch [0-8]	Speed: 4736.94 samples/sec	cross-entropy=1.223606	selector-accuracy=2.777778
+2024-04-04 19:24:31,775 [INFO]  Epoch[1] Train-cross-entropy=1.046778
+2024-04-04 19:24:31,775 [INFO]  Epoch[1] Train-selector-accuracy=2.285714
+2024-04-04 19:24:31,775 [INFO]  Epoch[1] Time cost=0.542
+2024-04-04 19:24:31,777 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:24:31,778 [INFO]  Epoch[1] Validation-cross-entropy=0.500983
+2024-04-04 19:24:31,778 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:24:31,865 [INFO]  Epoch[2] Batch [0-8]	Speed: 1494.10 samples/sec	cross-entropy=0.498168	selector-accuracy=2.777778
+2024-04-04 19:24:32,169 [INFO]  Epoch[2] Train-cross-entropy=0.548405
+2024-04-04 19:24:32,170 [INFO]  Epoch[2] Train-selector-accuracy=2.285714
+2024-04-04 19:24:32,170 [INFO]  Epoch[2] Time cost=0.391
+2024-04-04 19:24:32,172 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:24:32,175 [INFO]  Epoch[2] Validation-cross-entropy=0.208050
+2024-04-04 19:24:32,175 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:24:32,427 [INFO]  Epoch[3] Batch [0-8]	Speed: 2538.96 samples/sec	cross-entropy=0.243639	selector-accuracy=2.777778
+2024-04-04 19:24:32,967 [INFO]  Epoch[3] Train-cross-entropy=0.210627
+2024-04-04 19:24:32,967 [INFO]  Epoch[3] Train-selector-accuracy=2.285714
+2024-04-04 19:24:32,968 [INFO]  Epoch[3] Time cost=0.793
+2024-04-04 19:24:32,970 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:24:32,979 [INFO]  Epoch[3] Validation-cross-entropy=0.075965
+2024-04-04 19:24:32,979 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:24:33,684 [INFO]  Epoch[4] Batch [0-8]	Speed: 246.73 samples/sec	cross-entropy=0.114624	selector-accuracy=2.777778
+2024-04-04 19:24:34,187 [INFO]  Epoch[4] Train-cross-entropy=0.133336
+2024-04-04 19:24:34,187 [INFO]  Epoch[4] Train-selector-accuracy=2.285714
+2024-04-04 19:24:34,188 [INFO]  Epoch[4] Time cost=1.209
+2024-04-04 19:24:34,190 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:24:34,191 [INFO]  Epoch[4] Validation-cross-entropy=0.083141
+2024-04-04 19:24:34,191 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:24:34,191 [INFO]  
+========== done (4.767017126083374 s) fit model
+2024-04-04 19:24:57,094 [INFO]  
+========== start: fit model
+2024-04-04 19:24:57,094 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:24:58,183 [INFO]  Epoch[0] Batch [0-8]	Speed: 163.58 samples/sec	cross-entropy=12.929167	selector-accuracy=0.000000
+2024-04-04 19:24:58,433 [INFO]  Epoch[0] Train-cross-entropy=2.481975
+2024-04-04 19:24:58,433 [INFO]  Epoch[0] Train-selector-accuracy=0.000000
+2024-04-04 19:24:58,433 [INFO]  Epoch[0] Time cost=1.337
+2024-04-04 19:24:58,435 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:24:58,438 [INFO]  Epoch[0] Validation-cross-entropy=1.082187
+2024-04-04 19:24:58,438 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:24:59,516 [INFO]  Epoch[1] Batch [0-8]	Speed: 125.60 samples/sec	cross-entropy=0.951182	selector-accuracy=0.000000
+2024-04-04 19:25:00,473 [INFO]  Epoch[1] Train-cross-entropy=0.834103
+2024-04-04 19:25:00,473 [INFO]  Epoch[1] Train-selector-accuracy=0.000000
+2024-04-04 19:25:00,473 [INFO]  Epoch[1] Time cost=2.035
+2024-04-04 19:25:00,477 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:25:00,728 [INFO]  Epoch[1] Validation-cross-entropy=0.734842
+2024-04-04 19:25:00,728 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:25:00,754 [INFO]  Epoch[2] Batch [0-8]	Speed: 5201.78 samples/sec	cross-entropy=0.712445	selector-accuracy=0.000000
+2024-04-04 19:25:00,780 [INFO]  Epoch[2] Train-cross-entropy=0.326985
+2024-04-04 19:25:00,780 [INFO]  Epoch[2] Train-selector-accuracy=0.000000
+2024-04-04 19:25:00,780 [INFO]  Epoch[2] Time cost=0.052
+2024-04-04 19:25:00,781 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:25:00,782 [INFO]  Epoch[2] Validation-cross-entropy=0.228607
+2024-04-04 19:25:00,782 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:25:01,193 [INFO]  Epoch[3] Batch [0-8]	Speed: 312.60 samples/sec	cross-entropy=0.259290	selector-accuracy=0.000000
+2024-04-04 19:25:02,147 [INFO]  Epoch[3] Train-cross-entropy=0.221771
+2024-04-04 19:25:02,148 [INFO]  Epoch[3] Train-selector-accuracy=0.000000
+2024-04-04 19:25:02,148 [INFO]  Epoch[3] Time cost=1.366
+2024-04-04 19:25:02,150 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:25:02,157 [INFO]  Epoch[3] Validation-cross-entropy=0.135942
+2024-04-04 19:25:02,157 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:25:03,563 [INFO]  Epoch[4] Batch [0-8]	Speed: 91.08 samples/sec	cross-entropy=0.135517	selector-accuracy=0.000000
+2024-04-04 19:25:03,770 [INFO]  Epoch[4] Train-cross-entropy=0.099307
+2024-04-04 19:25:03,770 [INFO]  Epoch[4] Train-selector-accuracy=0.000000
+2024-04-04 19:25:03,770 [INFO]  Epoch[4] Time cost=1.614
+2024-04-04 19:25:03,772 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:25:03,796 [INFO]  Epoch[4] Validation-cross-entropy=0.084125
+2024-04-04 19:25:03,796 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:25:03,796 [INFO]  
+========== done (6.702860116958618 s) fit model
+2024-04-04 19:25:34,102 [INFO]  
+========== start: fit model
+2024-04-04 19:25:34,103 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:25:34,797 [INFO]  Epoch[0] Batch [0-8]	Speed: 253.36 samples/sec	cross-entropy=9.578997	selector-accuracy=0.000000
+2024-04-04 19:25:35,300 [INFO]  Epoch[0] Train-cross-entropy=1.802479
+2024-04-04 19:25:35,301 [INFO]  Epoch[0] Train-selector-accuracy=0.000000
+2024-04-04 19:25:35,301 [INFO]  Epoch[0] Time cost=1.197
+2024-04-04 19:25:35,302 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:25:35,503 [INFO]  Epoch[0] Validation-cross-entropy=0.559978
+2024-04-04 19:25:35,503 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:25:35,763 [INFO]  Epoch[1] Batch [0-8]	Speed: 495.55 samples/sec	cross-entropy=0.831497	selector-accuracy=0.000000
+2024-04-04 19:25:35,941 [INFO]  Epoch[1] Train-cross-entropy=0.859487
+2024-04-04 19:25:35,941 [INFO]  Epoch[1] Train-selector-accuracy=0.000000
+2024-04-04 19:25:35,941 [INFO]  Epoch[1] Time cost=0.438
+2024-04-04 19:25:35,943 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:25:36,066 [INFO]  Epoch[1] Validation-cross-entropy=0.866844
+2024-04-04 19:25:36,066 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:25:36,676 [INFO]  Epoch[2] Batch [0-8]	Speed: 210.39 samples/sec	cross-entropy=0.432222	selector-accuracy=0.000000
+2024-04-04 19:25:36,683 [INFO]  Epoch[2] Train-cross-entropy=0.230480
+2024-04-04 19:25:36,683 [INFO]  Epoch[2] Train-selector-accuracy=0.000000
+2024-04-04 19:25:36,683 [INFO]  Epoch[2] Time cost=0.617
+2024-04-04 19:25:36,687 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:25:36,920 [INFO]  Epoch[2] Validation-cross-entropy=0.102469
+2024-04-04 19:25:36,920 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:25:37,280 [INFO]  Epoch[3] Batch [0-8]	Speed: 457.42 samples/sec	cross-entropy=0.202027	selector-accuracy=0.000000
+2024-04-04 19:25:38,038 [INFO]  Epoch[3] Train-cross-entropy=0.151359
+2024-04-04 19:25:38,038 [INFO]  Epoch[3] Train-selector-accuracy=0.000000
+2024-04-04 19:25:38,038 [INFO]  Epoch[3] Time cost=1.118
+2024-04-04 19:25:38,042 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:25:38,316 [INFO]  Epoch[3] Validation-cross-entropy=0.090167
+2024-04-04 19:25:38,316 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:25:38,980 [INFO]  Epoch[4] Batch [0-8]	Speed: 216.22 samples/sec	cross-entropy=0.123750	selector-accuracy=0.000000
+2024-04-04 19:25:39,928 [INFO]  Epoch[4] Train-cross-entropy=0.117074
+2024-04-04 19:25:39,928 [INFO]  Epoch[4] Train-selector-accuracy=0.000000
+2024-04-04 19:25:39,928 [INFO]  Epoch[4] Time cost=1.612
+2024-04-04 19:25:39,930 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:25:40,029 [INFO]  Epoch[4] Validation-cross-entropy=0.054666
+2024-04-04 19:25:40,029 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:25:40,029 [INFO]  
+========== done (5.926582098007202 s) fit model
+2024-04-04 19:26:07,754 [INFO]  
+========== start: fit model
+2024-04-04 19:26:07,754 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:26:07,789 [INFO]  Epoch[0] Batch [0-8]	Speed: 13941.08 samples/sec	cross-entropy=11.277292	selector-accuracy=2.888889
+2024-04-04 19:26:07,912 [INFO]  Epoch[0] Train-cross-entropy=4.476307
+2024-04-04 19:26:07,912 [INFO]  Epoch[0] Train-selector-accuracy=3.000000
+2024-04-04 19:26:07,912 [INFO]  Epoch[0] Time cost=0.157
+2024-04-04 19:26:07,913 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:26:07,914 [INFO]  Epoch[0] Validation-cross-entropy=3.300433
+2024-04-04 19:26:07,914 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:26:08,465 [INFO]  Epoch[1] Batch [0-8]	Speed: 255.99 samples/sec	cross-entropy=2.118818	selector-accuracy=2.888889
+2024-04-04 19:26:09,808 [INFO]  Epoch[1] Train-cross-entropy=1.301192
+2024-04-04 19:26:09,808 [INFO]  Epoch[1] Train-selector-accuracy=3.000000
+2024-04-04 19:26:09,808 [INFO]  Epoch[1] Time cost=1.894
+2024-04-04 19:26:09,812 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:26:09,880 [INFO]  Epoch[1] Validation-cross-entropy=1.370566
+2024-04-04 19:26:09,881 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:26:10,348 [INFO]  Epoch[2] Batch [0-8]	Speed: 296.09 samples/sec	cross-entropy=0.648516	selector-accuracy=2.888889
+2024-04-04 19:26:11,121 [INFO]  Epoch[2] Train-cross-entropy=0.607764
+2024-04-04 19:26:11,121 [INFO]  Epoch[2] Train-selector-accuracy=3.000000
+2024-04-04 19:26:11,121 [INFO]  Epoch[2] Time cost=1.241
+2024-04-04 19:26:11,123 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:26:11,236 [INFO]  Epoch[2] Validation-cross-entropy=0.673632
+2024-04-04 19:26:11,236 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:26:11,659 [INFO]  Epoch[3] Batch [0-8]	Speed: 358.97 samples/sec	cross-entropy=0.321919	selector-accuracy=2.888889
+2024-04-04 19:26:11,987 [INFO]  Epoch[3] Train-cross-entropy=0.331935
+2024-04-04 19:26:11,987 [INFO]  Epoch[3] Train-selector-accuracy=3.000000
+2024-04-04 19:26:11,987 [INFO]  Epoch[3] Time cost=0.751
+2024-04-04 19:26:11,990 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:26:11,996 [INFO]  Epoch[3] Validation-cross-entropy=0.327220
+2024-04-04 19:26:11,996 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:26:12,059 [INFO]  Epoch[4] Batch [0-8]	Speed: 2072.53 samples/sec	cross-entropy=0.165781	selector-accuracy=2.888889
+2024-04-04 19:26:12,285 [INFO]  Epoch[4] Train-cross-entropy=0.216802
+2024-04-04 19:26:12,285 [INFO]  Epoch[4] Train-selector-accuracy=3.000000
+2024-04-04 19:26:12,285 [INFO]  Epoch[4] Time cost=0.289
+2024-04-04 19:26:12,288 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:26:12,436 [INFO]  Epoch[4] Validation-cross-entropy=0.215416
+2024-04-04 19:26:12,436 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:26:12,436 [INFO]  
+========== done (4.6828813552856445 s) fit model
+2024-04-04 19:26:44,373 [INFO]  
+========== start: fit model
+2024-04-04 19:26:44,373 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:26:44,784 [INFO]  Epoch[0] Batch [0-8]	Speed: 411.88 samples/sec	cross-entropy=6.790012	selector-accuracy=3.000000
+2024-04-04 19:26:45,105 [INFO]  Epoch[0] Train-cross-entropy=2.074368
+2024-04-04 19:26:45,106 [INFO]  Epoch[0] Train-selector-accuracy=1.714286
+2024-04-04 19:26:45,106 [INFO]  Epoch[0] Time cost=0.731
+2024-04-04 19:26:45,108 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:26:45,113 [INFO]  Epoch[0] Validation-cross-entropy=1.515662
+2024-04-04 19:26:45,113 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:26:45,310 [INFO]  Epoch[1] Batch [0-8]	Speed: 655.09 samples/sec	cross-entropy=0.669423	selector-accuracy=3.000000
+2024-04-04 19:26:45,315 [INFO]  Epoch[1] Train-cross-entropy=0.644357
+2024-04-04 19:26:45,315 [INFO]  Epoch[1] Train-selector-accuracy=1.714286
+2024-04-04 19:26:45,315 [INFO]  Epoch[1] Time cost=0.202
+2024-04-04 19:26:45,319 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:26:45,581 [INFO]  Epoch[1] Validation-cross-entropy=0.358367
+2024-04-04 19:26:45,581 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:26:45,765 [INFO]  Epoch[2] Batch [0-8]	Speed: 1871.30 samples/sec	cross-entropy=0.304795	selector-accuracy=3.000000
+2024-04-04 19:26:45,773 [INFO]  Epoch[2] Train-cross-entropy=0.139914
+2024-04-04 19:26:45,773 [INFO]  Epoch[2] Train-selector-accuracy=1.714286
+2024-04-04 19:26:45,773 [INFO]  Epoch[2] Time cost=0.192
+2024-04-04 19:26:45,774 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:26:45,775 [INFO]  Epoch[2] Validation-cross-entropy=0.196567
+2024-04-04 19:26:45,776 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:26:46,114 [INFO]  Epoch[3] Batch [0-8]	Speed: 518.84 samples/sec	cross-entropy=0.134917	selector-accuracy=3.000000
+2024-04-04 19:26:46,350 [INFO]  Epoch[3] Train-cross-entropy=0.117862
+2024-04-04 19:26:46,350 [INFO]  Epoch[3] Train-selector-accuracy=1.714286
+2024-04-04 19:26:46,350 [INFO]  Epoch[3] Time cost=0.574
+2024-04-04 19:26:46,352 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:26:46,353 [INFO]  Epoch[3] Validation-cross-entropy=0.183228
+2024-04-04 19:26:46,353 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:26:46,528 [INFO]  Epoch[4] Batch [0-8]	Speed: 739.12 samples/sec	cross-entropy=0.070251	selector-accuracy=3.000000
+2024-04-04 19:26:46,670 [INFO]  Epoch[4] Train-cross-entropy=0.074573
+2024-04-04 19:26:46,670 [INFO]  Epoch[4] Train-selector-accuracy=1.714286
+2024-04-04 19:26:46,670 [INFO]  Epoch[4] Time cost=0.317
+2024-04-04 19:26:46,671 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:26:46,672 [INFO]  Epoch[4] Validation-cross-entropy=0.104163
+2024-04-04 19:26:46,672 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:26:46,672 [INFO]  
+========== done (2.2994515895843506 s) fit model
+2024-04-04 19:27:13,815 [INFO]  
+========== start: fit model
+2024-04-04 19:27:13,815 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:27:14,834 [INFO]  Epoch[0] Batch [0-8]	Speed: 252.98 samples/sec	cross-entropy=7.564047	selector-accuracy=2.666667
+2024-04-04 19:27:15,267 [INFO]  Epoch[0] Train-cross-entropy=0.861018
+2024-04-04 19:27:15,267 [INFO]  Epoch[0] Train-selector-accuracy=2.285714
+2024-04-04 19:27:15,267 [INFO]  Epoch[0] Time cost=1.451
+2024-04-04 19:27:15,269 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:27:15,276 [INFO]  Epoch[0] Validation-cross-entropy=1.218751
+2024-04-04 19:27:15,276 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:27:15,302 [INFO]  Epoch[1] Batch [0-8]	Speed: 5219.74 samples/sec	cross-entropy=0.971299	selector-accuracy=2.666667
+2024-04-04 19:27:15,597 [INFO]  Epoch[1] Train-cross-entropy=0.697508
+2024-04-04 19:27:15,597 [INFO]  Epoch[1] Train-selector-accuracy=2.285714
+2024-04-04 19:27:15,597 [INFO]  Epoch[1] Time cost=0.321
+2024-04-04 19:27:15,598 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:27:15,599 [INFO]  Epoch[1] Validation-cross-entropy=0.623739
+2024-04-04 19:27:15,600 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:27:16,524 [INFO]  Epoch[2] Batch [0-8]	Speed: 224.41 samples/sec	cross-entropy=0.244495	selector-accuracy=2.666667
+2024-04-04 19:27:17,166 [INFO]  Epoch[2] Train-cross-entropy=0.159438
+2024-04-04 19:27:17,166 [INFO]  Epoch[2] Train-selector-accuracy=2.285714
+2024-04-04 19:27:17,166 [INFO]  Epoch[2] Time cost=1.566
+2024-04-04 19:27:17,168 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:27:17,237 [INFO]  Epoch[2] Validation-cross-entropy=0.096542
+2024-04-04 19:27:17,237 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:27:17,248 [INFO]  Epoch[3] Batch [0-8]	Speed: 13964.65 samples/sec	cross-entropy=0.113886	selector-accuracy=2.666667
+2024-04-04 19:27:17,262 [INFO]  Epoch[3] Train-cross-entropy=0.086013
+2024-04-04 19:27:17,262 [INFO]  Epoch[3] Train-selector-accuracy=2.285714
+2024-04-04 19:27:17,263 [INFO]  Epoch[3] Time cost=0.026
+2024-04-04 19:27:17,265 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:27:17,270 [INFO]  Epoch[3] Validation-cross-entropy=0.071364
+2024-04-04 19:27:17,270 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:27:17,546 [INFO]  Epoch[4] Batch [0-8]	Speed: 469.95 samples/sec	cross-entropy=0.063988	selector-accuracy=2.666667
+2024-04-04 19:27:18,327 [INFO]  Epoch[4] Train-cross-entropy=0.050807
+2024-04-04 19:27:18,327 [INFO]  Epoch[4] Train-selector-accuracy=2.285714
+2024-04-04 19:27:18,327 [INFO]  Epoch[4] Time cost=1.057
+2024-04-04 19:27:18,329 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:27:18,579 [INFO]  Epoch[4] Validation-cross-entropy=0.050844
+2024-04-04 19:27:18,579 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:27:18,579 [INFO]  
+========== done (4.764440298080444 s) fit model
+2024-04-04 19:27:46,185 [INFO]  
+========== start: fit model
+2024-04-04 19:27:46,185 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:27:47,008 [INFO]  Epoch[0] Batch [0-8]	Speed: 156.49 samples/sec	cross-entropy=16.895780	selector-accuracy=2.666667
+2024-04-04 19:27:47,214 [INFO]  Epoch[0] Train-cross-entropy=4.786871
+2024-04-04 19:27:47,214 [INFO]  Epoch[0] Train-selector-accuracy=3.142857
+2024-04-04 19:27:47,215 [INFO]  Epoch[0] Time cost=1.029
+2024-04-04 19:27:47,217 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:27:47,222 [INFO]  Epoch[0] Validation-cross-entropy=3.273804
+2024-04-04 19:27:47,222 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:27:47,248 [INFO]  Epoch[1] Batch [0-8]	Speed: 5161.77 samples/sec	cross-entropy=1.448425	selector-accuracy=2.666667
+2024-04-04 19:27:47,485 [INFO]  Epoch[1] Train-cross-entropy=0.654368
+2024-04-04 19:27:47,485 [INFO]  Epoch[1] Train-selector-accuracy=3.142857
+2024-04-04 19:27:47,485 [INFO]  Epoch[1] Time cost=0.263
+2024-04-04 19:27:47,487 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:27:47,681 [INFO]  Epoch[1] Validation-cross-entropy=1.115504
+2024-04-04 19:27:47,681 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:27:48,024 [INFO]  Epoch[2] Batch [0-8]	Speed: 379.88 samples/sec	cross-entropy=0.642316	selector-accuracy=2.666667
+2024-04-04 19:27:48,157 [INFO]  Epoch[2] Train-cross-entropy=0.325911
+2024-04-04 19:27:48,157 [INFO]  Epoch[2] Train-selector-accuracy=3.142857
+2024-04-04 19:27:48,157 [INFO]  Epoch[2] Time cost=0.476
+2024-04-04 19:27:48,159 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:27:48,227 [INFO]  Epoch[2] Validation-cross-entropy=0.152809
+2024-04-04 19:27:48,227 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:27:48,710 [INFO]  Epoch[3] Batch [0-8]	Speed: 274.22 samples/sec	cross-entropy=0.163729	selector-accuracy=2.666667
+2024-04-04 19:27:48,859 [INFO]  Epoch[3] Train-cross-entropy=0.200557
+2024-04-04 19:27:48,859 [INFO]  Epoch[3] Train-selector-accuracy=3.142857
+2024-04-04 19:27:48,859 [INFO]  Epoch[3] Time cost=0.632
+2024-04-04 19:27:48,861 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:27:48,863 [INFO]  Epoch[3] Validation-cross-entropy=0.076688
+2024-04-04 19:27:48,863 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:27:48,958 [INFO]  Epoch[4] Batch [0-8]	Speed: 3269.10 samples/sec	cross-entropy=0.119772	selector-accuracy=2.666667
+2024-04-04 19:27:49,112 [INFO]  Epoch[4] Train-cross-entropy=0.111594
+2024-04-04 19:27:49,112 [INFO]  Epoch[4] Train-selector-accuracy=3.142857
+2024-04-04 19:27:49,112 [INFO]  Epoch[4] Time cost=0.249
+2024-04-04 19:27:49,114 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:27:49,119 [INFO]  Epoch[4] Validation-cross-entropy=0.119998
+2024-04-04 19:27:49,119 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:27:49,119 [INFO]  
+========== done (2.934478998184204 s) fit model
+2024-04-04 19:28:14,143 [INFO]  
+========== start: fit model
+2024-04-04 19:28:14,143 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:28:15,016 [INFO]  Epoch[0] Batch [0-8]	Speed: 213.05 samples/sec	cross-entropy=15.293789	selector-accuracy=0.000000
+2024-04-04 19:28:15,021 [INFO]  Epoch[0] Train-cross-entropy=2.871111
+2024-04-04 19:28:15,021 [INFO]  Epoch[0] Train-selector-accuracy=0.000000
+2024-04-04 19:28:15,021 [INFO]  Epoch[0] Time cost=0.877
+2024-04-04 19:28:15,023 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:28:15,053 [INFO]  Epoch[0] Validation-cross-entropy=1.271882
+2024-04-04 19:28:15,053 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:28:15,086 [INFO]  Epoch[1] Batch [0-8]	Speed: 4077.09 samples/sec	cross-entropy=1.125701	selector-accuracy=0.000000
+2024-04-04 19:28:15,185 [INFO]  Epoch[1] Train-cross-entropy=1.010367
+2024-04-04 19:28:15,185 [INFO]  Epoch[1] Train-selector-accuracy=0.000000
+2024-04-04 19:28:15,185 [INFO]  Epoch[1] Time cost=0.132
+2024-04-04 19:28:15,187 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:28:15,188 [INFO]  Epoch[1] Validation-cross-entropy=1.197427
+2024-04-04 19:28:15,188 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:28:15,414 [INFO]  Epoch[2] Batch [0-8]	Speed: 578.14 samples/sec	cross-entropy=0.661436	selector-accuracy=0.000000
+2024-04-04 19:28:15,577 [INFO]  Epoch[2] Train-cross-entropy=0.236958
+2024-04-04 19:28:15,578 [INFO]  Epoch[2] Train-selector-accuracy=0.000000
+2024-04-04 19:28:15,578 [INFO]  Epoch[2] Time cost=0.389
+2024-04-04 19:28:15,582 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:28:15,808 [INFO]  Epoch[2] Validation-cross-entropy=0.093469
+2024-04-04 19:28:15,808 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:28:16,789 [INFO]  Epoch[3] Batch [0-8]	Speed: 172.21 samples/sec	cross-entropy=0.252032	selector-accuracy=0.000000
+2024-04-04 19:28:16,828 [INFO]  Epoch[3] Train-cross-entropy=0.171736
+2024-04-04 19:28:16,828 [INFO]  Epoch[3] Train-selector-accuracy=0.000000
+2024-04-04 19:28:16,828 [INFO]  Epoch[3] Time cost=1.021
+2024-04-04 19:28:16,830 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:28:16,831 [INFO]  Epoch[3] Validation-cross-entropy=0.062407
+2024-04-04 19:28:16,831 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:28:17,000 [INFO]  Epoch[4] Batch [0-8]	Speed: 845.82 samples/sec	cross-entropy=0.165128	selector-accuracy=0.000000
+2024-04-04 19:28:18,040 [INFO]  Epoch[4] Train-cross-entropy=0.117373
+2024-04-04 19:28:18,040 [INFO]  Epoch[4] Train-selector-accuracy=0.000000
+2024-04-04 19:28:18,040 [INFO]  Epoch[4] Time cost=1.209
+2024-04-04 19:28:18,042 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:28:18,188 [INFO]  Epoch[4] Validation-cross-entropy=0.036957
+2024-04-04 19:28:18,188 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:28:18,188 [INFO]  
+========== done (4.045858860015869 s) fit model
+2024-04-04 19:28:42,491 [INFO]  
+========== start: fit model
+2024-04-04 19:28:42,491 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:28:42,506 [INFO]  Epoch[0] Batch [0-8]	Speed: 11328.30 samples/sec	cross-entropy=14.717711	selector-accuracy=0.000000
+2024-04-04 19:28:42,842 [INFO]  Epoch[0] Train-cross-entropy=6.407701
+2024-04-04 19:28:42,842 [INFO]  Epoch[0] Train-selector-accuracy=0.000000
+2024-04-04 19:28:42,842 [INFO]  Epoch[0] Time cost=0.349
+2024-04-04 19:28:42,844 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:28:42,845 [INFO]  Epoch[0] Validation-cross-entropy=1.442568
+2024-04-04 19:28:42,845 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:28:42,980 [INFO]  Epoch[1] Batch [0-8]	Speed: 962.85 samples/sec	cross-entropy=1.077143	selector-accuracy=0.000000
+2024-04-04 19:28:43,593 [INFO]  Epoch[1] Train-cross-entropy=1.609527
+2024-04-04 19:28:43,593 [INFO]  Epoch[1] Train-selector-accuracy=0.000000
+2024-04-04 19:28:43,593 [INFO]  Epoch[1] Time cost=0.748
+2024-04-04 19:28:43,595 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:28:43,625 [INFO]  Epoch[1] Validation-cross-entropy=0.577531
+2024-04-04 19:28:43,625 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:28:43,787 [INFO]  Epoch[2] Batch [0-8]	Speed: 916.10 samples/sec	cross-entropy=0.634608	selector-accuracy=0.000000
+2024-04-04 19:28:43,828 [INFO]  Epoch[2] Train-cross-entropy=0.323170
+2024-04-04 19:28:43,829 [INFO]  Epoch[2] Train-selector-accuracy=0.000000
+2024-04-04 19:28:43,829 [INFO]  Epoch[2] Time cost=0.203
+2024-04-04 19:28:43,830 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:28:43,831 [INFO]  Epoch[2] Validation-cross-entropy=0.342323
+2024-04-04 19:28:43,831 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:28:44,293 [INFO]  Epoch[3] Batch [0-8]	Speed: 279.73 samples/sec	cross-entropy=0.317845	selector-accuracy=0.000000
+2024-04-04 19:28:44,309 [INFO]  Epoch[3] Train-cross-entropy=0.197492
+2024-04-04 19:28:44,309 [INFO]  Epoch[3] Train-selector-accuracy=0.000000
+2024-04-04 19:28:44,309 [INFO]  Epoch[3] Time cost=0.478
+2024-04-04 19:28:44,311 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:28:44,312 [INFO]  Epoch[3] Validation-cross-entropy=0.169918
+2024-04-04 19:28:44,312 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:28:44,322 [INFO]  Epoch[4] Batch [0-8]	Speed: 14683.85 samples/sec	cross-entropy=0.140029	selector-accuracy=0.000000
+2024-04-04 19:28:44,820 [INFO]  Epoch[4] Train-cross-entropy=0.128553
+2024-04-04 19:28:44,821 [INFO]  Epoch[4] Train-selector-accuracy=0.000000
+2024-04-04 19:28:44,821 [INFO]  Epoch[4] Time cost=0.508
+2024-04-04 19:28:44,824 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:28:44,870 [INFO]  Epoch[4] Validation-cross-entropy=0.104491
+2024-04-04 19:28:44,870 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:28:44,870 [INFO]  
+========== done (2.3796274662017822 s) fit model
+2024-04-04 19:29:15,479 [INFO]  
+========== start: fit model
+2024-04-04 19:29:15,479 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:29:16,856 [INFO]  Epoch[0] Batch [0-8]	Speed: 121.21 samples/sec	cross-entropy=14.731662	selector-accuracy=0.000000
+2024-04-04 19:29:17,618 [INFO]  Epoch[0] Train-cross-entropy=3.079472
+2024-04-04 19:29:17,618 [INFO]  Epoch[0] Train-selector-accuracy=0.000000
+2024-04-04 19:29:17,618 [INFO]  Epoch[0] Time cost=2.138
+2024-04-04 19:29:17,620 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:29:17,702 [INFO]  Epoch[0] Validation-cross-entropy=0.860007
+2024-04-04 19:29:17,702 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:29:18,019 [INFO]  Epoch[1] Batch [0-8]	Speed: 1313.63 samples/sec	cross-entropy=1.172409	selector-accuracy=0.000000
+2024-04-04 19:29:19,200 [INFO]  Epoch[1] Train-cross-entropy=1.127247
+2024-04-04 19:29:19,200 [INFO]  Epoch[1] Train-selector-accuracy=0.000000
+2024-04-04 19:29:19,200 [INFO]  Epoch[1] Time cost=1.497
+2024-04-04 19:29:19,204 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:29:19,232 [INFO]  Epoch[1] Validation-cross-entropy=0.566865
+2024-04-04 19:29:19,232 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:29:20,212 [INFO]  Epoch[2] Batch [0-8]	Speed: 143.63 samples/sec	cross-entropy=0.739840	selector-accuracy=0.000000
+2024-04-04 19:29:20,395 [INFO]  Epoch[2] Train-cross-entropy=0.223944
+2024-04-04 19:29:20,395 [INFO]  Epoch[2] Train-selector-accuracy=0.000000
+2024-04-04 19:29:20,395 [INFO]  Epoch[2] Time cost=1.163
+2024-04-04 19:29:20,397 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:29:20,460 [INFO]  Epoch[2] Validation-cross-entropy=0.425451
+2024-04-04 19:29:20,460 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:29:20,760 [INFO]  Epoch[3] Batch [0-8]	Speed: 428.44 samples/sec	cross-entropy=0.310643	selector-accuracy=0.000000
+2024-04-04 19:29:20,898 [INFO]  Epoch[3] Train-cross-entropy=0.136102
+2024-04-04 19:29:20,898 [INFO]  Epoch[3] Train-selector-accuracy=0.000000
+2024-04-04 19:29:20,898 [INFO]  Epoch[3] Time cost=0.438
+2024-04-04 19:29:20,900 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:29:21,177 [INFO]  Epoch[3] Validation-cross-entropy=0.167142
+2024-04-04 19:29:21,178 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:29:22,047 [INFO]  Epoch[4] Batch [0-8]	Speed: 161.67 samples/sec	cross-entropy=0.171290	selector-accuracy=0.000000
+2024-04-04 19:29:22,871 [INFO]  Epoch[4] Train-cross-entropy=0.095798
+2024-04-04 19:29:22,871 [INFO]  Epoch[4] Train-selector-accuracy=0.000000
+2024-04-04 19:29:22,871 [INFO]  Epoch[4] Time cost=1.693
+2024-04-04 19:29:22,873 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:29:23,090 [INFO]  Epoch[4] Validation-cross-entropy=0.168447
+2024-04-04 19:29:23,090 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:29:23,090 [INFO]  
+========== done (7.611229419708252 s) fit model
+2024-04-04 19:29:51,761 [INFO]  
+========== start: fit model
+2024-04-04 19:29:51,761 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:29:52,674 [INFO]  Epoch[0] Batch [0-8]	Speed: 302.07 samples/sec	cross-entropy=8.217580	selector-accuracy=0.000000
+2024-04-04 19:29:52,757 [INFO]  Epoch[0] Train-cross-entropy=1.764489
+2024-04-04 19:29:52,757 [INFO]  Epoch[0] Train-selector-accuracy=0.000000
+2024-04-04 19:29:52,757 [INFO]  Epoch[0] Time cost=0.995
+2024-04-04 19:29:52,759 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:29:52,762 [INFO]  Epoch[0] Validation-cross-entropy=0.599562
+2024-04-04 19:29:52,762 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:29:53,471 [INFO]  Epoch[1] Batch [0-8]	Speed: 181.44 samples/sec	cross-entropy=0.993112	selector-accuracy=0.000000
+2024-04-04 19:29:53,576 [INFO]  Epoch[1] Train-cross-entropy=0.757897
+2024-04-04 19:29:53,577 [INFO]  Epoch[1] Train-selector-accuracy=0.000000
+2024-04-04 19:29:53,577 [INFO]  Epoch[1] Time cost=0.814
+2024-04-04 19:29:53,579 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:29:53,745 [INFO]  Epoch[1] Validation-cross-entropy=0.408466
+2024-04-04 19:29:53,746 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:29:54,409 [INFO]  Epoch[2] Batch [0-8]	Speed: 374.71 samples/sec	cross-entropy=0.269007	selector-accuracy=0.000000
+2024-04-04 19:29:55,233 [INFO]  Epoch[2] Train-cross-entropy=0.262087
+2024-04-04 19:29:55,233 [INFO]  Epoch[2] Train-selector-accuracy=0.000000
+2024-04-04 19:29:55,233 [INFO]  Epoch[2] Time cost=1.487
+2024-04-04 19:29:55,242 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:29:55,257 [INFO]  Epoch[2] Validation-cross-entropy=0.178609
+2024-04-04 19:29:55,257 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:29:55,544 [INFO]  Epoch[3] Batch [0-8]	Speed: 448.62 samples/sec	cross-entropy=0.104409	selector-accuracy=0.000000
+2024-04-04 19:29:56,083 [INFO]  Epoch[3] Train-cross-entropy=0.124005
+2024-04-04 19:29:56,083 [INFO]  Epoch[3] Train-selector-accuracy=0.000000
+2024-04-04 19:29:56,083 [INFO]  Epoch[3] Time cost=0.826
+2024-04-04 19:29:56,085 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:29:56,091 [INFO]  Epoch[3] Validation-cross-entropy=0.187132
+2024-04-04 19:29:56,091 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:29:57,163 [INFO]  Epoch[4] Batch [0-8]	Speed: 123.37 samples/sec	cross-entropy=0.090744	selector-accuracy=0.000000
+2024-04-04 19:29:57,288 [INFO]  Epoch[4] Train-cross-entropy=0.105214
+2024-04-04 19:29:57,288 [INFO]  Epoch[4] Train-selector-accuracy=0.000000
+2024-04-04 19:29:57,288 [INFO]  Epoch[4] Time cost=1.197
+2024-04-04 19:29:57,290 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:29:57,297 [INFO]  Epoch[4] Validation-cross-entropy=0.123858
+2024-04-04 19:29:57,297 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:29:57,297 [INFO]  
+========== done (5.536322355270386 s) fit model
+2024-04-04 19:30:24,502 [INFO]  
+========== start: fit model
+2024-04-04 19:30:24,502 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:30:24,692 [INFO]  Epoch[0] Batch [0-8]	Speed: 8558.99 samples/sec	cross-entropy=14.740721	selector-accuracy=2.444444
+2024-04-04 19:30:25,686 [INFO]  Epoch[0] Train-cross-entropy=4.769540
+2024-04-04 19:30:25,687 [INFO]  Epoch[0] Train-selector-accuracy=3.142857
+2024-04-04 19:30:25,687 [INFO]  Epoch[0] Time cost=1.183
+2024-04-04 19:30:25,688 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:30:26,015 [INFO]  Epoch[0] Validation-cross-entropy=6.364640
+2024-04-04 19:30:26,015 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:30:26,534 [INFO]  Epoch[1] Batch [0-8]	Speed: 531.00 samples/sec	cross-entropy=1.266373	selector-accuracy=2.444444
+2024-04-04 19:30:26,670 [INFO]  Epoch[1] Train-cross-entropy=0.632805
+2024-04-04 19:30:26,670 [INFO]  Epoch[1] Train-selector-accuracy=3.142857
+2024-04-04 19:30:26,670 [INFO]  Epoch[1] Time cost=0.655
+2024-04-04 19:30:26,672 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:30:26,874 [INFO]  Epoch[1] Validation-cross-entropy=0.471741
+2024-04-04 19:30:26,882 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:30:27,504 [INFO]  Epoch[2] Batch [0-8]	Speed: 207.69 samples/sec	cross-entropy=0.488821	selector-accuracy=2.444444
+2024-04-04 19:30:27,558 [INFO]  Epoch[2] Train-cross-entropy=0.431050
+2024-04-04 19:30:27,558 [INFO]  Epoch[2] Train-selector-accuracy=3.142857
+2024-04-04 19:30:27,558 [INFO]  Epoch[2] Time cost=0.676
+2024-04-04 19:30:27,559 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:30:27,561 [INFO]  Epoch[2] Validation-cross-entropy=0.172417
+2024-04-04 19:30:27,561 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:30:27,577 [INFO]  Epoch[3] Batch [0-8]	Speed: 8229.04 samples/sec	cross-entropy=0.192830	selector-accuracy=2.444444
+2024-04-04 19:30:27,585 [INFO]  Epoch[3] Train-cross-entropy=0.184783
+2024-04-04 19:30:27,585 [INFO]  Epoch[3] Train-selector-accuracy=3.142857
+2024-04-04 19:30:27,585 [INFO]  Epoch[3] Time cost=0.024
+2024-04-04 19:30:27,587 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:30:27,589 [INFO]  Epoch[3] Validation-cross-entropy=0.165374
+2024-04-04 19:30:27,589 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:30:27,599 [INFO]  Epoch[4] Batch [0-8]	Speed: 15043.46 samples/sec	cross-entropy=0.110518	selector-accuracy=2.444444
+2024-04-04 19:30:27,606 [INFO]  Epoch[4] Train-cross-entropy=0.123164
+2024-04-04 19:30:27,606 [INFO]  Epoch[4] Train-selector-accuracy=3.142857
+2024-04-04 19:30:27,606 [INFO]  Epoch[4] Time cost=0.018
+2024-04-04 19:30:27,608 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:30:27,610 [INFO]  Epoch[4] Validation-cross-entropy=0.088673
+2024-04-04 19:30:27,610 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:30:27,610 [INFO]  
+========== done (3.1086549758911133 s) fit model
+2024-04-04 19:30:53,650 [INFO]  
+========== start: fit model
+2024-04-04 19:30:53,651 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:30:54,662 [INFO]  Epoch[0] Batch [0-8]	Speed: 192.70 samples/sec	cross-entropy=18.879536	selector-accuracy=3.333333
+2024-04-04 19:30:54,761 [INFO]  Epoch[0] Train-cross-entropy=7.119045
+2024-04-04 19:30:54,761 [INFO]  Epoch[0] Train-selector-accuracy=2.428571
+2024-04-04 19:30:54,761 [INFO]  Epoch[0] Time cost=1.109
+2024-04-04 19:30:54,763 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:30:54,765 [INFO]  Epoch[0] Validation-cross-entropy=4.346441
+2024-04-04 19:30:54,765 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:30:54,968 [INFO]  Epoch[1] Batch [0-8]	Speed: 636.53 samples/sec	cross-entropy=1.234603	selector-accuracy=3.333333
+2024-04-04 19:30:55,132 [INFO]  Epoch[1] Train-cross-entropy=1.024124
+2024-04-04 19:30:55,132 [INFO]  Epoch[1] Train-selector-accuracy=2.428571
+2024-04-04 19:30:55,132 [INFO]  Epoch[1] Time cost=0.367
+2024-04-04 19:30:55,134 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:30:55,292 [INFO]  Epoch[1] Validation-cross-entropy=1.106301
+2024-04-04 19:30:55,292 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:30:55,611 [INFO]  Epoch[2] Batch [0-8]	Speed: 783.43 samples/sec	cross-entropy=0.879053	selector-accuracy=3.333333
+2024-04-04 19:30:56,037 [INFO]  Epoch[2] Train-cross-entropy=0.390816
+2024-04-04 19:30:56,037 [INFO]  Epoch[2] Train-selector-accuracy=2.428571
+2024-04-04 19:30:56,037 [INFO]  Epoch[2] Time cost=0.745
+2024-04-04 19:30:56,041 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:30:56,191 [INFO]  Epoch[2] Validation-cross-entropy=0.389955
+2024-04-04 19:30:56,191 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:30:57,093 [INFO]  Epoch[3] Batch [0-8]	Speed: 197.45 samples/sec	cross-entropy=0.236187	selector-accuracy=3.333333
+2024-04-04 19:30:57,512 [INFO]  Epoch[3] Train-cross-entropy=0.237143
+2024-04-04 19:30:57,512 [INFO]  Epoch[3] Train-selector-accuracy=2.428571
+2024-04-04 19:30:57,512 [INFO]  Epoch[3] Time cost=1.321
+2024-04-04 19:30:57,514 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:30:57,515 [INFO]  Epoch[3] Validation-cross-entropy=0.320363
+2024-04-04 19:30:57,515 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:30:58,275 [INFO]  Epoch[4] Batch [0-8]	Speed: 232.68 samples/sec	cross-entropy=0.141064	selector-accuracy=3.333333
+2024-04-04 19:30:58,336 [INFO]  Epoch[4] Train-cross-entropy=0.136768
+2024-04-04 19:30:58,336 [INFO]  Epoch[4] Train-selector-accuracy=2.428571
+2024-04-04 19:30:58,336 [INFO]  Epoch[4] Time cost=0.821
+2024-04-04 19:30:58,338 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:30:58,341 [INFO]  Epoch[4] Validation-cross-entropy=0.189775
+2024-04-04 19:30:58,341 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:30:58,341 [INFO]  
+========== done (4.691555976867676 s) fit model
+2024-04-04 19:31:16,732 [INFO]  
+========== start: fit model
+2024-04-04 19:31:16,732 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:31:17,281 [INFO]  Epoch[0] Batch [0-8]	Speed: 322.26 samples/sec	cross-entropy=7.852522	selector-accuracy=3.222222
+2024-04-04 19:31:17,648 [INFO]  Epoch[0] Train-cross-entropy=1.548178
+2024-04-04 19:31:17,649 [INFO]  Epoch[0] Train-selector-accuracy=2.428571
+2024-04-04 19:31:17,649 [INFO]  Epoch[0] Time cost=0.916
+2024-04-04 19:31:17,651 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:31:17,653 [INFO]  Epoch[0] Validation-cross-entropy=1.186152
+2024-04-04 19:31:17,653 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:31:17,701 [INFO]  Epoch[1] Batch [0-8]	Speed: 2791.04 samples/sec	cross-entropy=1.249635	selector-accuracy=3.222222
+2024-04-04 19:31:18,001 [INFO]  Epoch[1] Train-cross-entropy=0.653971
+2024-04-04 19:31:18,001 [INFO]  Epoch[1] Train-selector-accuracy=2.428571
+2024-04-04 19:31:18,001 [INFO]  Epoch[1] Time cost=0.348
+2024-04-04 19:31:18,003 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:31:18,254 [INFO]  Epoch[1] Validation-cross-entropy=0.632947
+2024-04-04 19:31:18,254 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:31:18,779 [INFO]  Epoch[2] Batch [0-8]	Speed: 396.55 samples/sec	cross-entropy=0.578973	selector-accuracy=3.222222
+2024-04-04 19:31:18,902 [INFO]  Epoch[2] Train-cross-entropy=0.292477
+2024-04-04 19:31:18,902 [INFO]  Epoch[2] Train-selector-accuracy=2.428571
+2024-04-04 19:31:18,902 [INFO]  Epoch[2] Time cost=0.648
+2024-04-04 19:31:18,904 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:31:18,906 [INFO]  Epoch[2] Validation-cross-entropy=0.292359
+2024-04-04 19:31:18,906 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:31:19,043 [INFO]  Epoch[3] Batch [0-8]	Speed: 940.32 samples/sec	cross-entropy=0.196917	selector-accuracy=3.222222
+2024-04-04 19:31:19,364 [INFO]  Epoch[3] Train-cross-entropy=0.104518
+2024-04-04 19:31:19,364 [INFO]  Epoch[3] Train-selector-accuracy=2.428571
+2024-04-04 19:31:19,364 [INFO]  Epoch[3] Time cost=0.458
+2024-04-04 19:31:19,366 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:31:19,380 [INFO]  Epoch[3] Validation-cross-entropy=0.165134
+2024-04-04 19:31:19,380 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:31:19,793 [INFO]  Epoch[4] Batch [0-8]	Speed: 311.39 samples/sec	cross-entropy=0.118185	selector-accuracy=3.222222
+2024-04-04 19:31:20,146 [INFO]  Epoch[4] Train-cross-entropy=0.075886
+2024-04-04 19:31:20,146 [INFO]  Epoch[4] Train-selector-accuracy=2.428571
+2024-04-04 19:31:20,146 [INFO]  Epoch[4] Time cost=0.766
+2024-04-04 19:31:20,148 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:31:20,150 [INFO]  Epoch[4] Validation-cross-entropy=0.119066
+2024-04-04 19:31:20,150 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:31:20,150 [INFO]  
+========== done (3.417948007583618 s) fit model
+2024-04-04 19:31:49,730 [INFO]  
+========== start: fit model
+2024-04-04 19:31:49,730 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:31:49,897 [INFO]  Epoch[0] Batch [0-8]	Speed: 812.97 samples/sec	cross-entropy=4.528525	selector-accuracy=2.111111
+2024-04-04 19:31:50,960 [INFO]  Epoch[0] Train-cross-entropy=1.086114
+2024-04-04 19:31:50,960 [INFO]  Epoch[0] Train-selector-accuracy=2.857143
+2024-04-04 19:31:50,960 [INFO]  Epoch[0] Time cost=1.229
+2024-04-04 19:31:50,962 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:31:51,164 [INFO]  Epoch[0] Validation-cross-entropy=1.080096
+2024-04-04 19:31:51,164 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:31:51,809 [INFO]  Epoch[1] Batch [0-8]	Speed: 212.07 samples/sec	cross-entropy=0.698047	selector-accuracy=2.111111
+2024-04-04 19:31:52,116 [INFO]  Epoch[1] Train-cross-entropy=0.614927
+2024-04-04 19:31:52,116 [INFO]  Epoch[1] Train-selector-accuracy=2.857143
+2024-04-04 19:31:52,116 [INFO]  Epoch[1] Time cost=0.952
+2024-04-04 19:31:52,119 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:31:52,120 [INFO]  Epoch[1] Validation-cross-entropy=0.160462
+2024-04-04 19:31:52,120 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:31:52,375 [INFO]  Epoch[2] Batch [0-8]	Speed: 505.49 samples/sec	cross-entropy=0.142851	selector-accuracy=2.111111
+2024-04-04 19:31:52,407 [INFO]  Epoch[2] Train-cross-entropy=0.200915
+2024-04-04 19:31:52,408 [INFO]  Epoch[2] Train-selector-accuracy=2.857143
+2024-04-04 19:31:52,408 [INFO]  Epoch[2] Time cost=0.287
+2024-04-04 19:31:52,416 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:31:52,430 [INFO]  Epoch[2] Validation-cross-entropy=0.118408
+2024-04-04 19:31:52,431 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:31:52,459 [INFO]  Epoch[3] Batch [0-8]	Speed: 4814.34 samples/sec	cross-entropy=0.092322	selector-accuracy=2.111111
+2024-04-04 19:31:53,437 [INFO]  Epoch[3] Train-cross-entropy=0.074443
+2024-04-04 19:31:53,438 [INFO]  Epoch[3] Train-selector-accuracy=2.857143
+2024-04-04 19:31:53,438 [INFO]  Epoch[3] Time cost=1.007
+2024-04-04 19:31:53,439 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:31:53,441 [INFO]  Epoch[3] Validation-cross-entropy=0.051952
+2024-04-04 19:31:53,441 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:31:53,801 [INFO]  Epoch[4] Batch [0-8]	Speed: 1180.22 samples/sec	cross-entropy=0.050875	selector-accuracy=2.111111
+2024-04-04 19:31:54,106 [INFO]  Epoch[4] Train-cross-entropy=0.065805
+2024-04-04 19:31:54,106 [INFO]  Epoch[4] Train-selector-accuracy=2.857143
+2024-04-04 19:31:54,106 [INFO]  Epoch[4] Time cost=0.665
+2024-04-04 19:31:54,108 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:31:54,269 [INFO]  Epoch[4] Validation-cross-entropy=0.037870
+2024-04-04 19:31:54,269 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:31:54,269 [INFO]  
+========== done (4.539254188537598 s) fit model
+2024-04-04 19:32:22,565 [INFO]  
+========== start: fit model
+2024-04-04 19:32:22,566 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:32:23,142 [INFO]  Epoch[0] Batch [0-8]	Speed: 223.33 samples/sec	cross-entropy=6.698638	selector-accuracy=2.555556
+2024-04-04 19:32:23,377 [INFO]  Epoch[0] Train-cross-entropy=3.536352
+2024-04-04 19:32:23,377 [INFO]  Epoch[0] Train-selector-accuracy=2.285714
+2024-04-04 19:32:23,377 [INFO]  Epoch[0] Time cost=0.810
+2024-04-04 19:32:23,380 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:32:23,580 [INFO]  Epoch[0] Validation-cross-entropy=3.702627
+2024-04-04 19:32:23,580 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:32:24,061 [INFO]  Epoch[1] Batch [0-8]	Speed: 427.18 samples/sec	cross-entropy=1.584784	selector-accuracy=2.555556
+2024-04-04 19:32:24,139 [INFO]  Epoch[1] Train-cross-entropy=1.156403
+2024-04-04 19:32:24,139 [INFO]  Epoch[1] Train-selector-accuracy=2.285714
+2024-04-04 19:32:24,139 [INFO]  Epoch[1] Time cost=0.560
+2024-04-04 19:32:24,142 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:32:24,163 [INFO]  Epoch[1] Validation-cross-entropy=1.841811
+2024-04-04 19:32:24,163 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:32:25,094 [INFO]  Epoch[2] Batch [0-8]	Speed: 172.84 samples/sec	cross-entropy=0.592652	selector-accuracy=2.555556
+2024-04-04 19:32:25,439 [INFO]  Epoch[2] Train-cross-entropy=0.534178
+2024-04-04 19:32:25,440 [INFO]  Epoch[2] Train-selector-accuracy=2.285714
+2024-04-04 19:32:25,440 [INFO]  Epoch[2] Time cost=1.276
+2024-04-04 19:32:25,442 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:32:25,489 [INFO]  Epoch[2] Validation-cross-entropy=0.905379
+2024-04-04 19:32:25,489 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:32:26,165 [INFO]  Epoch[3] Batch [0-8]	Speed: 215.70 samples/sec	cross-entropy=0.245782	selector-accuracy=2.555556
+2024-04-04 19:32:26,273 [INFO]  Epoch[3] Train-cross-entropy=0.205169
+2024-04-04 19:32:26,273 [INFO]  Epoch[3] Train-selector-accuracy=2.285714
+2024-04-04 19:32:26,273 [INFO]  Epoch[3] Time cost=0.784
+2024-04-04 19:32:26,275 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:32:26,365 [INFO]  Epoch[3] Validation-cross-entropy=0.474316
+2024-04-04 19:32:26,365 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:32:27,709 [INFO]  Epoch[4] Batch [0-8]	Speed: 97.94 samples/sec	cross-entropy=0.114139	selector-accuracy=2.555556
+2024-04-04 19:32:27,785 [INFO]  Epoch[4] Train-cross-entropy=0.126996
+2024-04-04 19:32:27,785 [INFO]  Epoch[4] Train-selector-accuracy=2.285714
+2024-04-04 19:32:27,785 [INFO]  Epoch[4] Time cost=1.420
+2024-04-04 19:32:27,787 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:32:27,788 [INFO]  Epoch[4] Validation-cross-entropy=0.283361
+2024-04-04 19:32:27,788 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:32:27,788 [INFO]  
+========== done (5.222935438156128 s) fit model
+2024-04-04 19:32:51,178 [INFO]  
+========== start: fit model
+2024-04-04 19:32:51,178 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:32:51,837 [INFO]  Epoch[0] Batch [0-8]	Speed: 354.63 samples/sec	cross-entropy=15.660281	selector-accuracy=0.000000
+2024-04-04 19:32:51,845 [INFO]  Epoch[0] Train-cross-entropy=5.544288
+2024-04-04 19:32:51,846 [INFO]  Epoch[0] Train-selector-accuracy=0.000000
+2024-04-04 19:32:51,846 [INFO]  Epoch[0] Time cost=0.666
+2024-04-04 19:32:51,847 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:32:51,905 [INFO]  Epoch[0] Validation-cross-entropy=1.627523
+2024-04-04 19:32:51,905 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:32:51,984 [INFO]  Epoch[1] Batch [0-8]	Speed: 1630.58 samples/sec	cross-entropy=1.305527	selector-accuracy=0.000000
+2024-04-04 19:32:52,665 [INFO]  Epoch[1] Train-cross-entropy=1.102771
+2024-04-04 19:32:52,665 [INFO]  Epoch[1] Train-selector-accuracy=0.000000
+2024-04-04 19:32:52,666 [INFO]  Epoch[1] Time cost=0.761
+2024-04-04 19:32:52,667 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:32:52,968 [INFO]  Epoch[1] Validation-cross-entropy=1.217180
+2024-04-04 19:32:52,968 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:32:54,808 [INFO]  Epoch[2] Batch [0-8]	Speed: 72.43 samples/sec	cross-entropy=0.709878	selector-accuracy=0.000000
+2024-04-04 19:32:55,093 [INFO]  Epoch[2] Train-cross-entropy=0.304091
+2024-04-04 19:32:55,093 [INFO]  Epoch[2] Train-selector-accuracy=0.000000
+2024-04-04 19:32:55,093 [INFO]  Epoch[2] Time cost=2.125
+2024-04-04 19:32:55,095 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:32:55,097 [INFO]  Epoch[2] Validation-cross-entropy=0.266740
+2024-04-04 19:32:55,097 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:32:55,310 [INFO]  Epoch[3] Batch [0-8]	Speed: 604.67 samples/sec	cross-entropy=0.327014	selector-accuracy=0.000000
+2024-04-04 19:32:55,743 [INFO]  Epoch[3] Train-cross-entropy=0.166306
+2024-04-04 19:32:55,743 [INFO]  Epoch[3] Train-selector-accuracy=0.000000
+2024-04-04 19:32:55,743 [INFO]  Epoch[3] Time cost=0.646
+2024-04-04 19:32:55,748 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:32:55,888 [INFO]  Epoch[3] Validation-cross-entropy=0.109842
+2024-04-04 19:32:55,888 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:32:57,049 [INFO]  Epoch[4] Batch [0-8]	Speed: 110.39 samples/sec	cross-entropy=0.183499	selector-accuracy=0.000000
+2024-04-04 19:32:57,079 [INFO]  Epoch[4] Train-cross-entropy=0.087706
+2024-04-04 19:32:57,079 [INFO]  Epoch[4] Train-selector-accuracy=0.000000
+2024-04-04 19:32:57,079 [INFO]  Epoch[4] Time cost=1.191
+2024-04-04 19:32:57,081 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:32:57,082 [INFO]  Epoch[4] Validation-cross-entropy=0.132519
+2024-04-04 19:32:57,082 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:32:57,083 [INFO]  
+========== done (5.9046125411987305 s) fit model
+2024-04-04 19:33:23,500 [INFO]  
+========== start: fit model
+2024-04-04 19:33:23,501 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:33:24,487 [INFO]  Epoch[0] Batch [0-8]	Speed: 134.10 samples/sec	cross-entropy=12.012470	selector-accuracy=0.000000
+2024-04-04 19:33:24,885 [INFO]  Epoch[0] Train-cross-entropy=3.394774
+2024-04-04 19:33:24,886 [INFO]  Epoch[0] Train-selector-accuracy=0.000000
+2024-04-04 19:33:24,886 [INFO]  Epoch[0] Time cost=1.384
+2024-04-04 19:33:24,887 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:33:24,916 [INFO]  Epoch[0] Validation-cross-entropy=4.025319
+2024-04-04 19:33:24,916 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:33:25,386 [INFO]  Epoch[1] Batch [0-8]	Speed: 273.21 samples/sec	cross-entropy=1.588416	selector-accuracy=0.000000
+2024-04-04 19:33:25,521 [INFO]  Epoch[1] Train-cross-entropy=0.972607
+2024-04-04 19:33:25,521 [INFO]  Epoch[1] Train-selector-accuracy=0.000000
+2024-04-04 19:33:25,521 [INFO]  Epoch[1] Time cost=0.606
+2024-04-04 19:33:25,524 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:33:25,546 [INFO]  Epoch[1] Validation-cross-entropy=1.385573
+2024-04-04 19:33:25,546 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:33:25,676 [INFO]  Epoch[2] Batch [0-8]	Speed: 1287.36 samples/sec	cross-entropy=0.769399	selector-accuracy=0.000000
+2024-04-04 19:33:25,948 [INFO]  Epoch[2] Train-cross-entropy=0.384629
+2024-04-04 19:33:25,949 [INFO]  Epoch[2] Train-selector-accuracy=0.000000
+2024-04-04 19:33:25,949 [INFO]  Epoch[2] Time cost=0.403
+2024-04-04 19:33:25,951 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:33:25,994 [INFO]  Epoch[2] Validation-cross-entropy=1.173085
+2024-04-04 19:33:25,995 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:33:26,064 [INFO]  Epoch[3] Batch [0-8]	Speed: 1903.30 samples/sec	cross-entropy=0.347751	selector-accuracy=0.000000
+2024-04-04 19:33:26,364 [INFO]  Epoch[3] Train-cross-entropy=0.231594
+2024-04-04 19:33:26,364 [INFO]  Epoch[3] Train-selector-accuracy=0.000000
+2024-04-04 19:33:26,364 [INFO]  Epoch[3] Time cost=0.370
+2024-04-04 19:33:26,366 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:33:26,436 [INFO]  Epoch[3] Validation-cross-entropy=0.505328
+2024-04-04 19:33:26,436 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:33:26,577 [INFO]  Epoch[4] Batch [0-8]	Speed: 2400.76 samples/sec	cross-entropy=0.199353	selector-accuracy=0.000000
+2024-04-04 19:33:27,063 [INFO]  Epoch[4] Train-cross-entropy=0.141282
+2024-04-04 19:33:27,063 [INFO]  Epoch[4] Train-selector-accuracy=0.000000
+2024-04-04 19:33:27,063 [INFO]  Epoch[4] Time cost=0.627
+2024-04-04 19:33:27,065 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:33:27,067 [INFO]  Epoch[4] Validation-cross-entropy=0.611989
+2024-04-04 19:33:27,067 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:33:27,067 [INFO]  
+========== done (3.566453695297241 s) fit model
+2024-04-04 19:33:57,146 [INFO]  
+========== start: fit model
+2024-04-04 19:33:57,147 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:33:58,098 [INFO]  Epoch[0] Batch [0-8]	Speed: 191.64 samples/sec	cross-entropy=10.920918	selector-accuracy=0.000000
+2024-04-04 19:33:58,114 [INFO]  Epoch[0] Train-cross-entropy=2.698460
+2024-04-04 19:33:58,114 [INFO]  Epoch[0] Train-selector-accuracy=0.000000
+2024-04-04 19:33:58,114 [INFO]  Epoch[0] Time cost=0.966
+2024-04-04 19:33:58,128 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:33:58,469 [INFO]  Epoch[0] Validation-cross-entropy=1.417366
+2024-04-04 19:33:58,470 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:33:58,796 [INFO]  Epoch[1] Batch [0-8]	Speed: 422.04 samples/sec	cross-entropy=1.231261	selector-accuracy=0.000000
+2024-04-04 19:33:58,852 [INFO]  Epoch[1] Train-cross-entropy=1.029424
+2024-04-04 19:33:58,852 [INFO]  Epoch[1] Train-selector-accuracy=0.000000
+2024-04-04 19:33:58,852 [INFO]  Epoch[1] Time cost=0.382
+2024-04-04 19:33:58,854 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:33:58,857 [INFO]  Epoch[1] Validation-cross-entropy=0.523095
+2024-04-04 19:33:58,857 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:33:58,917 [INFO]  Epoch[2] Batch [0-8]	Speed: 2184.16 samples/sec	cross-entropy=0.493502	selector-accuracy=0.000000
+2024-04-04 19:33:59,110 [INFO]  Epoch[2] Train-cross-entropy=0.390667
+2024-04-04 19:33:59,110 [INFO]  Epoch[2] Train-selector-accuracy=0.000000
+2024-04-04 19:33:59,110 [INFO]  Epoch[2] Time cost=0.252
+2024-04-04 19:33:59,112 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:33:59,428 [INFO]  Epoch[2] Validation-cross-entropy=0.216086
+2024-04-04 19:33:59,429 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:33:59,942 [INFO]  Epoch[3] Batch [0-8]	Speed: 440.50 samples/sec	cross-entropy=0.276084	selector-accuracy=0.000000
+2024-04-04 19:34:00,090 [INFO]  Epoch[3] Train-cross-entropy=0.135163
+2024-04-04 19:34:00,090 [INFO]  Epoch[3] Train-selector-accuracy=0.000000
+2024-04-04 19:34:00,090 [INFO]  Epoch[3] Time cost=0.662
+2024-04-04 19:34:00,092 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:34:00,241 [INFO]  Epoch[3] Validation-cross-entropy=0.121512
+2024-04-04 19:34:00,241 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:34:01,388 [INFO]  Epoch[4] Batch [0-8]	Speed: 159.01 samples/sec	cross-entropy=0.194394	selector-accuracy=0.000000
+2024-04-04 19:34:01,441 [INFO]  Epoch[4] Train-cross-entropy=0.110716
+2024-04-04 19:34:01,441 [INFO]  Epoch[4] Train-selector-accuracy=0.000000
+2024-04-04 19:34:01,441 [INFO]  Epoch[4] Time cost=1.200
+2024-04-04 19:34:01,443 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:34:01,525 [INFO]  Epoch[4] Validation-cross-entropy=0.065541
+2024-04-04 19:34:01,525 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:34:01,525 [INFO]  
+========== done (4.378535032272339 s) fit model
+2024-04-04 19:34:27,997 [INFO]  
+========== start: fit model
+2024-04-04 19:34:27,998 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:34:28,683 [INFO]  Epoch[0] Batch [0-8]	Speed: 189.04 samples/sec	cross-entropy=11.829223	selector-accuracy=2.777778
+2024-04-04 19:34:29,305 [INFO]  Epoch[0] Train-cross-entropy=3.743225
+2024-04-04 19:34:29,305 [INFO]  Epoch[0] Train-selector-accuracy=2.857143
+2024-04-04 19:34:29,305 [INFO]  Epoch[0] Time cost=1.307
+2024-04-04 19:34:29,307 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:34:29,327 [INFO]  Epoch[0] Validation-cross-entropy=0.747811
+2024-04-04 19:34:29,327 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:34:30,171 [INFO]  Epoch[1] Batch [0-8]	Speed: 169.17 samples/sec	cross-entropy=1.233903	selector-accuracy=2.777778
+2024-04-04 19:34:30,388 [INFO]  Epoch[1] Train-cross-entropy=1.193969
+2024-04-04 19:34:30,388 [INFO]  Epoch[1] Train-selector-accuracy=2.857143
+2024-04-04 19:34:30,388 [INFO]  Epoch[1] Time cost=1.061
+2024-04-04 19:34:30,390 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:34:30,564 [INFO]  Epoch[1] Validation-cross-entropy=1.167071
+2024-04-04 19:34:30,564 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:34:31,416 [INFO]  Epoch[2] Batch [0-8]	Speed: 193.25 samples/sec	cross-entropy=0.774711	selector-accuracy=2.777778
+2024-04-04 19:34:31,798 [INFO]  Epoch[2] Train-cross-entropy=0.349623
+2024-04-04 19:34:31,798 [INFO]  Epoch[2] Train-selector-accuracy=2.857143
+2024-04-04 19:34:31,798 [INFO]  Epoch[2] Time cost=1.234
+2024-04-04 19:34:31,800 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:34:31,804 [INFO]  Epoch[2] Validation-cross-entropy=0.172025
+2024-04-04 19:34:31,804 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:34:32,166 [INFO]  Epoch[3] Batch [0-8]	Speed: 375.99 samples/sec	cross-entropy=0.265542	selector-accuracy=2.777778
+2024-04-04 19:34:32,944 [INFO]  Epoch[3] Train-cross-entropy=0.184485
+2024-04-04 19:34:32,944 [INFO]  Epoch[3] Train-selector-accuracy=2.857143
+2024-04-04 19:34:32,944 [INFO]  Epoch[3] Time cost=1.139
+2024-04-04 19:34:32,946 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:34:32,947 [INFO]  Epoch[3] Validation-cross-entropy=0.109183
+2024-04-04 19:34:32,947 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:34:33,922 [INFO]  Epoch[4] Batch [0-8]	Speed: 204.26 samples/sec	cross-entropy=0.169849	selector-accuracy=2.777778
+2024-04-04 19:34:33,934 [INFO]  Epoch[4] Train-cross-entropy=0.107039
+2024-04-04 19:34:33,934 [INFO]  Epoch[4] Train-selector-accuracy=2.857143
+2024-04-04 19:34:33,934 [INFO]  Epoch[4] Time cost=0.987
+2024-04-04 19:34:33,937 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:34:33,941 [INFO]  Epoch[4] Validation-cross-entropy=0.100469
+2024-04-04 19:34:33,941 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:34:33,941 [INFO]  
+========== done (5.943927049636841 s) fit model
+2024-04-04 19:35:00,061 [INFO]  
+========== start: fit model
+2024-04-04 19:35:00,061 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:35:00,205 [INFO]  Epoch[0] Batch [0-8]	Speed: 26619.94 samples/sec	cross-entropy=12.961475	selector-accuracy=2.555556
+2024-04-04 19:35:00,850 [INFO]  Epoch[0] Train-cross-entropy=3.108222
+2024-04-04 19:35:00,850 [INFO]  Epoch[0] Train-selector-accuracy=2.428571
+2024-04-04 19:35:00,850 [INFO]  Epoch[0] Time cost=0.788
+2024-04-04 19:35:00,852 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:35:00,853 [INFO]  Epoch[0] Validation-cross-entropy=1.719682
+2024-04-04 19:35:00,853 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:00,863 [INFO]  Epoch[1] Batch [0-8]	Speed: 14923.86 samples/sec	cross-entropy=0.923793	selector-accuracy=2.555556
+2024-04-04 19:35:00,869 [INFO]  Epoch[1] Train-cross-entropy=0.857278
+2024-04-04 19:35:00,870 [INFO]  Epoch[1] Train-selector-accuracy=2.428571
+2024-04-04 19:35:00,870 [INFO]  Epoch[1] Time cost=0.016
+2024-04-04 19:35:00,871 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:35:00,873 [INFO]  Epoch[1] Validation-cross-entropy=0.820147
+2024-04-04 19:35:00,873 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:00,882 [INFO]  Epoch[2] Batch [0-8]	Speed: 18584.56 samples/sec	cross-entropy=0.373985	selector-accuracy=2.555556
+2024-04-04 19:35:00,917 [INFO]  Epoch[2] Train-cross-entropy=0.362517
+2024-04-04 19:35:00,917 [INFO]  Epoch[2] Train-selector-accuracy=2.428571
+2024-04-04 19:35:00,917 [INFO]  Epoch[2] Time cost=0.044
+2024-04-04 19:35:00,921 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:35:00,926 [INFO]  Epoch[2] Validation-cross-entropy=0.187009
+2024-04-04 19:35:00,926 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:00,938 [INFO]  Epoch[3] Batch [0-8]	Speed: 12304.52 samples/sec	cross-entropy=0.145005	selector-accuracy=2.555556
+2024-04-04 19:35:00,947 [INFO]  Epoch[3] Train-cross-entropy=0.154739
+2024-04-04 19:35:00,947 [INFO]  Epoch[3] Train-selector-accuracy=2.428571
+2024-04-04 19:35:00,947 [INFO]  Epoch[3] Time cost=0.021
+2024-04-04 19:35:00,949 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:35:00,956 [INFO]  Epoch[3] Validation-cross-entropy=0.199485
+2024-04-04 19:35:00,956 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:01,288 [INFO]  Epoch[4] Batch [0-8]	Speed: 387.73 samples/sec	cross-entropy=0.068022	selector-accuracy=2.555556
+2024-04-04 19:35:01,813 [INFO]  Epoch[4] Train-cross-entropy=0.106972
+2024-04-04 19:35:01,813 [INFO]  Epoch[4] Train-selector-accuracy=2.428571
+2024-04-04 19:35:01,813 [INFO]  Epoch[4] Time cost=0.856
+2024-04-04 19:35:01,814 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:35:01,854 [INFO]  Epoch[4] Validation-cross-entropy=0.154472
+2024-04-04 19:35:01,854 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:01,854 [INFO]  
+========== done (1.7938048839569092 s) fit model
+2024-04-04 19:35:27,206 [INFO]  
+========== start: fit model
+2024-04-04 19:35:27,206 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:35:27,217 [INFO]  Epoch[0] Batch [0-8]	Speed: 14647.79 samples/sec	cross-entropy=15.873102	selector-accuracy=0.000000
+2024-04-04 19:35:27,247 [INFO]  Epoch[0] Train-cross-entropy=4.943260
+2024-04-04 19:35:27,247 [INFO]  Epoch[0] Train-selector-accuracy=0.000000
+2024-04-04 19:35:27,247 [INFO]  Epoch[0] Time cost=0.040
+2024-04-04 19:35:27,249 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:35:27,250 [INFO]  Epoch[0] Validation-cross-entropy=2.474428
+2024-04-04 19:35:27,250 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:27,808 [INFO]  Epoch[1] Batch [0-8]	Speed: 266.66 samples/sec	cross-entropy=0.850697	selector-accuracy=0.000000
+2024-04-04 19:35:28,417 [INFO]  Epoch[1] Train-cross-entropy=0.852517
+2024-04-04 19:35:28,417 [INFO]  Epoch[1] Train-selector-accuracy=0.000000
+2024-04-04 19:35:28,417 [INFO]  Epoch[1] Time cost=1.167
+2024-04-04 19:35:28,419 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:35:28,574 [INFO]  Epoch[1] Validation-cross-entropy=1.109913
+2024-04-04 19:35:28,574 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:28,762 [INFO]  Epoch[2] Batch [0-8]	Speed: 18169.45 samples/sec	cross-entropy=0.679606	selector-accuracy=0.000000
+2024-04-04 19:35:28,893 [INFO]  Epoch[2] Train-cross-entropy=0.411640
+2024-04-04 19:35:28,893 [INFO]  Epoch[2] Train-selector-accuracy=0.000000
+2024-04-04 19:35:28,893 [INFO]  Epoch[2] Time cost=0.319
+2024-04-04 19:35:28,896 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:35:28,909 [INFO]  Epoch[2] Validation-cross-entropy=0.204066
+2024-04-04 19:35:28,909 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:29,523 [INFO]  Epoch[3] Batch [0-8]	Speed: 209.16 samples/sec	cross-entropy=0.249973	selector-accuracy=0.000000
+2024-04-04 19:35:30,026 [INFO]  Epoch[3] Train-cross-entropy=0.330107
+2024-04-04 19:35:30,027 [INFO]  Epoch[3] Train-selector-accuracy=0.000000
+2024-04-04 19:35:30,027 [INFO]  Epoch[3] Time cost=1.118
+2024-04-04 19:35:30,029 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:35:30,031 [INFO]  Epoch[3] Validation-cross-entropy=0.110503
+2024-04-04 19:35:30,031 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:30,536 [INFO]  Epoch[4] Batch [0-8]	Speed: 259.20 samples/sec	cross-entropy=0.146634	selector-accuracy=0.000000
+2024-04-04 19:35:30,602 [INFO]  Epoch[4] Train-cross-entropy=0.149703
+2024-04-04 19:35:30,603 [INFO]  Epoch[4] Train-selector-accuracy=0.000000
+2024-04-04 19:35:30,603 [INFO]  Epoch[4] Time cost=0.571
+2024-04-04 19:35:30,605 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:35:30,608 [INFO]  Epoch[4] Validation-cross-entropy=0.101617
+2024-04-04 19:35:30,608 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:30,608 [INFO]  
+========== done (3.4023969173431396 s) fit model
+2024-04-04 19:35:56,101 [INFO]  
+========== start: fit model
+2024-04-04 19:35:56,102 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:35:56,176 [INFO]  Epoch[0] Batch [0-8]	Speed: 1825.52 samples/sec	cross-entropy=10.841869	selector-accuracy=0.000000
+2024-04-04 19:35:56,656 [INFO]  Epoch[0] Train-cross-entropy=2.662949
+2024-04-04 19:35:56,656 [INFO]  Epoch[0] Train-selector-accuracy=0.000000
+2024-04-04 19:35:56,656 [INFO]  Epoch[0] Time cost=0.554
+2024-04-04 19:35:56,658 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:35:56,977 [INFO]  Epoch[0] Validation-cross-entropy=1.014923
+2024-04-04 19:35:56,978 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:57,578 [INFO]  Epoch[1] Batch [0-8]	Speed: 612.44 samples/sec	cross-entropy=1.318321	selector-accuracy=0.000000
+2024-04-04 19:35:58,252 [INFO]  Epoch[1] Train-cross-entropy=1.030820
+2024-04-04 19:35:58,252 [INFO]  Epoch[1] Train-selector-accuracy=0.000000
+2024-04-04 19:35:58,252 [INFO]  Epoch[1] Time cost=1.275
+2024-04-04 19:35:58,254 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:35:58,540 [INFO]  Epoch[1] Validation-cross-entropy=0.395399
+2024-04-04 19:35:58,541 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:58,794 [INFO]  Epoch[2] Batch [0-8]	Speed: 1457.57 samples/sec	cross-entropy=0.550943	selector-accuracy=0.000000
+2024-04-04 19:35:58,818 [INFO]  Epoch[2] Train-cross-entropy=0.282478
+2024-04-04 19:35:58,818 [INFO]  Epoch[2] Train-selector-accuracy=0.000000
+2024-04-04 19:35:58,818 [INFO]  Epoch[2] Time cost=0.277
+2024-04-04 19:35:58,819 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:35:58,823 [INFO]  Epoch[2] Validation-cross-entropy=0.158121
+2024-04-04 19:35:58,824 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:58,939 [INFO]  Epoch[3] Batch [0-8]	Speed: 1512.07 samples/sec	cross-entropy=0.283724	selector-accuracy=0.000000
+2024-04-04 19:35:58,983 [INFO]  Epoch[3] Train-cross-entropy=0.158493
+2024-04-04 19:35:58,983 [INFO]  Epoch[3] Train-selector-accuracy=0.000000
+2024-04-04 19:35:58,983 [INFO]  Epoch[3] Time cost=0.159
+2024-04-04 19:35:58,985 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:35:58,992 [INFO]  Epoch[3] Validation-cross-entropy=0.067231
+2024-04-04 19:35:58,992 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:59,001 [INFO]  Epoch[4] Batch [0-8]	Speed: 15426.88 samples/sec	cross-entropy=0.106383	selector-accuracy=0.000000
+2024-04-04 19:35:59,162 [INFO]  Epoch[4] Train-cross-entropy=0.095528
+2024-04-04 19:35:59,162 [INFO]  Epoch[4] Train-selector-accuracy=0.000000
+2024-04-04 19:35:59,162 [INFO]  Epoch[4] Time cost=0.171
+2024-04-04 19:35:59,165 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:35:59,166 [INFO]  Epoch[4] Validation-cross-entropy=0.056173
+2024-04-04 19:35:59,166 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:35:59,166 [INFO]  
+========== done (3.064959764480591 s) fit model
+2024-04-04 19:36:29,405 [INFO]  
+========== start: fit model
+2024-04-04 19:36:29,405 [WARNING]  Already bound, ignoring bind()
+2024-04-04 19:36:30,770 [INFO]  Epoch[0] Batch [0-8]	Speed: 112.42 samples/sec	cross-entropy=5.859390	selector-accuracy=0.000000
+2024-04-04 19:36:30,786 [INFO]  Epoch[0] Train-cross-entropy=1.263401
+2024-04-04 19:36:30,786 [INFO]  Epoch[0] Train-selector-accuracy=0.000000
+2024-04-04 19:36:30,786 [INFO]  Epoch[0] Time cost=1.380
+2024-04-04 19:36:30,788 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0000.params"
+2024-04-04 19:36:30,950 [INFO]  Epoch[0] Validation-cross-entropy=0.800529
+2024-04-04 19:36:30,950 [INFO]  Epoch[0] Validation-selector-accuracy=0.000000
+2024-04-04 19:36:31,031 [INFO]  Epoch[1] Batch [0-8]	Speed: 1622.14 samples/sec	cross-entropy=0.910421	selector-accuracy=0.000000
+2024-04-04 19:36:31,833 [INFO]  Epoch[1] Train-cross-entropy=0.756495
+2024-04-04 19:36:31,833 [INFO]  Epoch[1] Train-selector-accuracy=0.000000
+2024-04-04 19:36:31,833 [INFO]  Epoch[1] Time cost=0.883
+2024-04-04 19:36:31,836 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0001.params"
+2024-04-04 19:36:31,927 [INFO]  Epoch[1] Validation-cross-entropy=0.342293
+2024-04-04 19:36:31,927 [INFO]  Epoch[1] Validation-selector-accuracy=0.000000
+2024-04-04 19:36:32,460 [INFO]  Epoch[2] Batch [0-8]	Speed: 246.31 samples/sec	cross-entropy=0.388432	selector-accuracy=0.000000
+2024-04-04 19:36:32,820 [INFO]  Epoch[2] Train-cross-entropy=0.241717
+2024-04-04 19:36:32,821 [INFO]  Epoch[2] Train-selector-accuracy=0.000000
+2024-04-04 19:36:32,821 [INFO]  Epoch[2] Time cost=0.893
+2024-04-04 19:36:32,822 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0002.params"
+2024-04-04 19:36:32,833 [INFO]  Epoch[2] Validation-cross-entropy=0.247009
+2024-04-04 19:36:32,833 [INFO]  Epoch[2] Validation-selector-accuracy=0.000000
+2024-04-04 19:36:33,179 [INFO]  Epoch[3] Batch [0-8]	Speed: 4647.79 samples/sec	cross-entropy=0.142562	selector-accuracy=0.000000
+2024-04-04 19:36:33,538 [INFO]  Epoch[3] Train-cross-entropy=0.113764
+2024-04-04 19:36:33,538 [INFO]  Epoch[3] Train-selector-accuracy=0.000000
+2024-04-04 19:36:33,539 [INFO]  Epoch[3] Time cost=0.706
+2024-04-04 19:36:33,540 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0003.params"
+2024-04-04 19:36:33,545 [INFO]  Epoch[3] Validation-cross-entropy=0.078460
+2024-04-04 19:36:33,545 [INFO]  Epoch[3] Validation-selector-accuracy=0.000000
+2024-04-04 19:36:33,775 [INFO]  Epoch[4] Batch [0-8]	Speed: 559.94 samples/sec	cross-entropy=0.077930	selector-accuracy=0.000000
+2024-04-04 19:36:34,381 [INFO]  Epoch[4] Train-cross-entropy=0.078809
+2024-04-04 19:36:34,382 [INFO]  Epoch[4] Train-selector-accuracy=0.000000
+2024-04-04 19:36:34,382 [INFO]  Epoch[4] Time cost=0.837
+2024-04-04 19:36:34,383 [INFO]  Saved checkpoint to "./imputer_model/8_liver/imputer_model_selector/model-0004.params"
+2024-04-04 19:36:34,452 [INFO]  Epoch[4] Validation-cross-entropy=0.076646
+2024-04-04 19:36:34,452 [INFO]  Epoch[4] Validation-selector-accuracy=0.000000
+2024-04-04 19:36:34,453 [INFO]  
+========== done (5.047475576400757 s) fit model
