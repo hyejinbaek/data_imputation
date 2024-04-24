@@ -46,6 +46,7 @@ from logging import FileHandler
 
 
 class Imputer:
+    
     """
 
     Imputer model based on deep learning trained with MxNet
@@ -68,7 +69,7 @@ class Imputer:
                  data_featurizers: List[Featurizer],
                  label_encoders: List[ColumnEncoder],
                  output_path="") -> None:
-
+        
         self.ctx = None
         self.module = None
         self.data_encoders = data_encoders
@@ -160,6 +161,7 @@ class Imputer:
         self.metrics_path = os.path.join(self.output_path, "fit-test-metrics.json")
 
     def __attach_log_filehandler(self, filename: str, level: str = "INFO") -> None:
+
         """
         Modifies global logger object and attaches filehandler
 
@@ -296,178 +298,6 @@ class Imputer:
 
         return self
 
-    def __persist_class_prototypes(self, iter_train, train_df):
-        """
-        Save mean feature pattern as self.__class_patterns for each label_encoder, for each label, for each data encoder,
-        given by the projection of the feature matrix (items by ngrams/categories)
-        onto the softmax outputs (items by labels).
-        self.__class_patterns is a list of tuples of the form (column_encoder, feature-label-correlation-matrix).
-        """
-
-        if len(self.label_encoders) > 1:
-            logger.warning('Persisting class prototypes works only for a single output column. '
-                        'Choosing ' + str(self.label_encoders[0].output_column) + '.')
-        label_name = self.label_encoders[0].output_column
-
-        iter_train.reset()
-        p = self.__predict_mxnet_iter(iter_train)[label_name]  # class probabilities for every item (items x labels)
-
-        # center and whiten the class probabilities
-        p_normalized = StandardScaler().fit_transform(p)
-
-        # Generate list of data encoders, with features suitable for explanation. Only TfIDf and Categorical supported.
-        explainable_data_encoders = []
-        explainable_data_encoders_idx = []
-        for encoder_idx, encoder in enumerate(self.data_encoders):
-            if not (isinstance(encoder, TfIdfEncoder) or isinstance(encoder, CategoricalEncoder)):
-                logger.warning("Data encoder type {} incompatible for explaining classes".format(type(encoder)))
-            else:
-                explainable_data_encoders.append(encoder)
-                explainable_data_encoders_idx.append(encoder_idx)
-
-        # encoded representations of training data ([items x features] for every encoded column.)
-        X = [enc.transform(train_df).transpose() for enc in explainable_data_encoders]
-
-        # whiten the feature matrix. Centering is not supported for sparse matrices.
-        # Doesn't do anything for categorical data where the shape is (1, num_items)
-        X_scaled = [StandardScaler(with_mean=False).fit_transform(feature_matrix) for feature_matrix in X]
-
-        # compute correlation between features and labels
-        class_patterns = []
-        for feature_matrix_scaled, encoder in zip(X_scaled, explainable_data_encoders):
-            if isinstance(encoder, TfIdfEncoder):
-                # project features onto labels and sum across items
-                # We need to limit the columns of feature matrix scaled, such that its number modulo batch size is zero.
-                # See also .start_padding in iterators.py.
-                class_patterns.append((encoder, feature_matrix_scaled[:, :p_normalized.shape[0]].dot(p_normalized)))
-            elif isinstance(encoder, CategoricalEncoder):
-                # compute mean class output for all input labels
-                class_patterns.append((encoder, np.array(
-                        [np.sum(p_normalized[np.where(feature_matrix_scaled[0, :] == category)[0], :], axis=0)
-                         for category in encoder.idx_to_token.keys()])))
-            else:
-                logger.warning("column encoder not supported for explain.")
-
-        self.__class_patterns = class_patterns
-
-    def __get_label_encoder(self, label_column: str = None):
-        """
-        Given the name of an output column return the corresponding column encoder. Default to first available
-
-        :param label_column: column name for which to return encoder.
-        :return: column_encoder
-        """
-
-        if label_column is not None:
-            label_encoders = [enc for enc in self.label_encoders if enc.output_column == label_column]
-            if len(label_encoders) == 0:
-                raise ValueError("Could not find label column")
-            else:
-                label_encoder = label_encoders[0]
-        else:
-            label_encoder = self.label_encoders[0]
-
-        return label_encoder
-
-    def explain(self, label: str, k: int = 10, label_column: str = None) -> dict:
-        """
-        Return dictionary with a list of tuples for each explainable input column.
-        Each tuple denotes one of the top k features with highest correlation to the label.
-
-        :param label: label value to explain
-        :param k: number of explanations for each input encoder to return. If not given, return top 10 explanations.
-        :param label_column: name of label column to be explained (optional, defaults to the first available column.)
-        """
-
-        if not self.is_explainable:
-            raise ValueError("No explainable data encoders available.")
-
-        label_encoder = self.__get_label_encoder(label_column)
-
-        # Check whether to-be-explained label value exists.
-        if label not in label_encoder.token_to_idx.keys():
-            raise ValueError("Specified label {} not observed in label encoder".format(label))
-
-        # assign index of label value (there can be an additional label column for "unobserved" label.
-        label_idx = label_encoder.token_to_idx[label]
-
-        # for each data encoder extract (token_idx, token_idx_correlation_with_label), extract and apply idx2token map.
-        feature_dict = dict(explained_label = label)
-        for encoder, pattern in self.__class_patterns:
-            # extract idx2token mappings
-            if isinstance(encoder, CategoricalEncoder):
-                idx_tuples = zip(pattern[:, label_idx].argsort()[::-1][:k], sorted(pattern[:, label_idx])[::-1][:k])
-                keymap = {i+1: i for i in range(len(encoder.idx_to_token))}
-                idx2token_temp = dict((keymap[key], val) for key, val in encoder.idx_to_token.items())
-            if isinstance(encoder, TfIdfEncoder):
-                idx_tuples = zip(pattern[:, label_idx].argsort()[::-1][:k], sorted(pattern[:, label_idx])[::-1][:k])
-                idx2token_temp = encoder.idx_to_token
-            feature_dict[encoder.output_column] = [(idx2token_temp[token], weight) for token, weight in idx_tuples]
-
-        return feature_dict
-
-    def explain_instance(self,
-                         instance: pd.core.series.Series,
-                         k: int = 10,
-                         label_column: str = None,
-                         label: str = None) -> dict:
-        """
-        Return dictionary with list of tuples for each explainable input column of the given instance.
-        Each entry shows the most highly correlated features to the given label
-        (or the top predicted label of not provided).
-
-        :param instance: row of data frame (or dictionary)
-        :param k: number of explanations (ngrams) for text inputs
-        :param label_column: name of label column to be explained (optional)
-        :param label: explain why instance is classified as label, otherwise explain top-label per input
-        """
-
-        if not self.is_explainable:
-            raise ValueError("No explainable data encoders available.")
-
-        label_encoder = self.__get_label_encoder(label_column)
-
-        # determine label wrt which to compute correlations, default is global top prediction
-        if label is None:
-            df_temp = pd.DataFrame([list(instance.values)], columns=list(instance.index))
-            label = self.predict(df_temp)[label_encoder.output_column + '_imputed'].values[0]
-        else:
-            assert label in label_encoder.token_to_idx.keys()
-
-        top_label_idx = label_encoder.token_to_idx[label]
-
-        # encode instance columns
-        feature_dict = dict(explained_label = label)
-        for encoder, pattern in self.__class_patterns:
-
-            output_col = encoder.output_column
-            feature_dict[output_col] = {}
-
-            for input_col in encoder.input_columns:
-
-                token = instance[input_col]
-                # token = instance[encoder.input_columns]  # original input
-
-                if isinstance(encoder, TfIdfEncoder):
-                    input_encoded = encoder.vectorizer.transform([token]).todense()  # encode
-                    projection = input_encoded.dot(pattern)  # project input onto prototypes
-                    feature_weights = np.multiply(pattern[:, top_label_idx], input_encoded) # correlation of label/feature
-                    ordered_feature_idx = np.argsort(np.multiply(pattern[:, top_label_idx], input_encoded))
-                    ordered_feature_idx = ordered_feature_idx.tolist()[0][::-1]
-
-                    feature_dict[output_col] = \
-                        [(encoder.idx_to_token[idx], feature_weights[0, idx]) for idx in ordered_feature_idx[:k]]
-
-                elif isinstance(encoder, CategoricalEncoder):
-                    input_encoded = encoder.token_to_idx[token] - 1  # starts counting at 1
-                    class_weights = pattern[input_encoded]  # correlation of input class with output classes
-                    # top_class_idx = np.argmax(class_weights)
-                    top_class = label_encoder.idx_to_token[top_label_idx]
-                    top_class_weight = pattern[input_encoded, top_label_idx]
-
-                    feature_dict[output_col] = [(token, top_class_weight)]
-
-        return feature_dict
 
     def __fit_module(self,
                      iter_train: ImputerIterDf,
@@ -627,25 +457,7 @@ class Imputer:
                 predictions[label] = model_output
         return predictions
 
-    @staticmethod
-    def __filter_predictions(predictions: list,
-                             precision_threshold: float) -> dict:
-        """
-        Filter predictions such that all items with precision below threshold are disregarded.
 
-        :param predictions: list of lists with a single tuple with predictions and their softmax score
-        :param precision_threshold: threshold below which predictions are disregarded.
-        :return: filtered predictions: list of predictions that above the threshold.
-        """
-
-        filtered_predictions = []
-        for prediction in predictions:
-            if prediction[0][1] > precision_threshold:
-                filtered_predictions.append(prediction[0])
-            else:
-                filtered_predictions.append(())
-
-        return filtered_predictions
 
     def __predict_above_precision_mxnet_iter(self,
                                              mxnet_iter: ImputerIterDf,
@@ -793,14 +605,6 @@ class Imputer:
 
         return merge_dicts(predictions_categorical, predictions_numerical), metrics
 
-    def transform(self, data_frame: pd.DataFrame) -> dict:
-        """
-        Imputes values given an mxnet iterator (see iterators)
-        :param data_frame:  pandas data frame (pandas)
-        :return: dict of {'column_name': list} where list contains the string predictions
-        """
-        mxnet_iter = self.__mxnet_iter_from_df(data_frame)
-        return self.__transform_mxnet_iter(mxnet_iter)
 
     def predict(self,
                 data_frame: pd.DataFrame,
@@ -877,18 +681,6 @@ class Imputer:
 
         return data_frame
 
-    def predict_proba(self, data_frame: pd.DataFrame) -> dict:
-        """
-        Returns the probabilities for each class
-        :param data_frame:  data frame
-        :return: dict of {'column_name': array}, array is a numpy array of shape samples-by-labels
-        """
-        mxnet_iter = self.__mxnet_iter_from_df(data_frame)
-        # print(" ==================================================== ")
-        # print(" === predict_proba mxnet_iter == ", mxnet_iter)
-        # print(" ==================================================== ")
-        return self.__predict_mxnet_iter(mxnet_iter)
-
     def predict_above_precision(self, data_frame: pd.DataFrame, precision_threshold=0.95) -> dict:
         """
         Returns the probabilities for each class, filtering out predictions below the precision threshold.
@@ -906,40 +698,6 @@ class Imputer:
         return self.__predict_above_precision_mxnet_iter(mxnet_iter,
                                                          precision_threshold=precision_threshold)
 
-    def predict_proba_top_k(self, data_frame: pd.DataFrame, top_k: int = 5) -> dict:
-        """
-
-        Returns tuples of (label, probability) for the top_k most likely predicted classes
-
-        :param data_frame:  pandas data frame
-        :param top_k: number of most likely predictions to return
-        :return: dict of {'column_name': list} where list is a list of (label, probability) tuples
-
-        """
-        mxnet_iter = self.__mxnet_iter_from_df(data_frame)
-        # print(" ==================================================== ")
-        # print(" === predict_proba_top_k mxnet_iter == ", mxnet_iter)
-        # print(" ==================================================== ")
-        return self.__predict_top_k_mxnet_iter(mxnet_iter, top_k)
-
-    def transform_and_compute_metrics(self, data_frame: pd.DataFrame, metrics_path=None) -> dict:
-        """
-
-        Returns predictions and metrics (average and per class)
-
-        :param data_frame:  data frame
-        :param metrics_path: if not None and exists, metrics are serialized as json to this path.
-        :return:
-        """
-        for col_enc in self.label_encoders:
-            if col_enc.input_columns[0] not in data_frame.columns:
-                raise ValueError(
-                    "Cannot compute metrics: Label Column {} not found in \
-                    input DataFrame with columns {}".format(col_enc.output_column, ", ".join(data_frame.columns)))
-
-        mxnet_iter = self.__mxnet_iter_from_df(data_frame)
-        return self.__transform_and_compute_metrics_mxnet_iter(mxnet_iter,
-                                                               metrics_path=metrics_path)
 
     def __drop_missing_labels(self, data_frame: pd.DataFrame, how='all') -> pd.DataFrame:
         """
@@ -1012,54 +770,6 @@ class Imputer:
         params = {k: v for k, v in self.__dict__.items() if k != 'module'}
         pickle.dump(params, open(os.path.join(self.output_path, "imputer.pickle"), "wb"))
 
-    @staticmethod
-    def load(output_path: str) -> Any:
-        """
-
-        Loads model from output path
-
-        :param output_path: output_path field of trained Imputer model
-        :return: imputer model
-
-        """
-
-        logger.debug("Output path for loading Imputer {}".format(output_path))
-        params = pickle.load(open(os.path.join(output_path, "imputer.pickle"), "rb"))
-        imputer_signature = inspect.getfullargspec(Imputer.__init__)[0]
-        # get constructor args
-        constructor_args = {p: params[p] for p in imputer_signature if p != 'self'}
-        non_constructor_args = {p: params[p] for p in params.keys() if
-                                p not in ['self'] + list(constructor_args.keys())}
-
-        # use all relevant fields to instantiate Imputer
-        imputer = Imputer(**constructor_args)
-        # then set all other args
-        for arg, value in non_constructor_args.items():
-            setattr(imputer, arg, value)
-
-        # the module path must be updated when loading the Imputer, too
-        imputer.module_path = os.path.join(output_path, 'model')
-        imputer.output_path = output_path
-        # make sure that the context for this deserialized model is available
-        ctx = get_context()
-
-        logger.debug("Loading mxnet model from {}".format(imputer.module_path))
-
-        # for categorical outputs, instance weight is added
-        if isinstance(imputer.label_encoders[0], NumericalEncoder):
-            data_names = [s.field_name for s in imputer.data_featurizers]
-        else:
-            data_names = [s.field_name for s in imputer.data_featurizers] + [INSTANCE_WEIGHT_COLUMN]
-
-        # deserialize mxnet module
-        imputer.module = mx.module.Module.load(
-            imputer.module_path,
-            imputer.__get_best_epoch(),
-            context=ctx,
-            data_names=data_names,
-            label_names=[s.output_column for s in imputer.label_encoders]
-        )
-        return imputer
 
     def __mxnet_iter_from_df(self, data_frame: pd.DataFrame) -> ImputerIterDf:
         """
