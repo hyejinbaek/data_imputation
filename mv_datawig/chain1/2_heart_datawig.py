@@ -10,6 +10,7 @@ import numpy as np
 import sys
 sys.path.append('/userHome/userhome2/hyejin/test/mv_datawig')
 from simple_imputer import SimpleImputer
+from sklearn.metrics import mean_squared_error, accuracy_score
 
 # CSV 파일 경로 설정
 result_csv_path = '/userHome/userhome2/hyejin/test/res/chain1/2_heart_datawig_method_res.csv'
@@ -21,10 +22,10 @@ results = []
 
 def main():
 
-    prepro_data = '/userHome/userhome2/hyejin/paper_implementation/00_dataset/preprocessing/2_heart.csv'
+    prepro_data = '/userHome/userhome2/hyejin/test/00_dataset/preprocessing/2_heart.csv'
     prepro_data = pd.read_csv(prepro_data)
 
-    data_pth = '/userHome/userhome2/hyejin/paper_implementation/00_dataset/missing/2_heart.csv'
+    data_pth = '/userHome/userhome2/hyejin/test/00_dataset/missing/2_heart.csv'
     df_data = pd.read_csv(data_pth)
     train_col = ["age", "sex", "cp", "trestbps", "chol", "fbs", "restecg", "thalach", "exang", "oldpeak", "slope", "ca", "thal"]
 
@@ -38,6 +39,7 @@ def main():
 
         prev_imputed = None
         iteration_rmse_list = []
+        iteration_accuracy_list = []
         for col in train_col:
             input_columns = train_col[:train_col.index(col)+1]
             print("==== input_columns ===", input_columns)
@@ -90,6 +92,11 @@ def main():
             rmse = sqrt(mean_squared_error(original_x_test_scaled, test_X_scaled))
             print(":::::::::: ",col + " Column Imputation rmse: ", rmse, ":::::::::: ")
 
+            # Accuracy 계산 (이진 분류의 경우)
+            accuracy = accuracy_score(np.round(original_x_test_scaled), np.round(test_X_scaled))
+            print(":::::::::: ", col + " Column Imputation accuracy: ", accuracy, ":::::::::: ")
+            iteration_accuracy_list.append(accuracy)  # 정확도를 저장
+
             # 각 반복에서의 컬럼별 RMSE 값을 저장
             iteration_rmse_list.append(rmse)
 
@@ -105,16 +112,17 @@ def main():
 
     print("==========================================")
     print("=== RMSE result : {:.4f} ± {:.4f}".format(np.mean(iteration_rmse_list), np.std(iteration_rmse_list)))
+    print("=== Accuracy result : {:.4f} ± {:.4f}".format(np.mean(iteration_accuracy_list), np.std(iteration_accuracy_list)))
     print("==========================================")
 
-    # 결과를 DataFrame으로 변환하여 CSV 파일에 추가로 저장
-    results_df = pd.DataFrame(results)
-    if os.path.exists(result_csv_path):
-        results_df.to_csv(result_csv_path, mode='a', header=False, index=False)
-    else:
-        results_df.to_csv(result_csv_path, index=False)
+    # # 결과를 DataFrame으로 변환하여 CSV 파일에 추가로 저장
+    # results_df = pd.DataFrame(results)
+    # if os.path.exists(result_csv_path):
+    #     results_df.to_csv(result_csv_path, mode='a', header=False, index=False)
+    # else:
+    #     results_df.to_csv(result_csv_path, index=False)
 
-    print("Results saved to:", result_csv_path)
+    # print("Results saved to:", result_csv_path)
 
 if __name__ == "__main__":
     main()
